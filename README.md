@@ -1,14 +1,21 @@
 # Star
 ## Android
 ### APP
+#### Entertainment
+* [Arachnid-27/Cimoc](https://github.com/Arachnid-27/Cimoc): Android 平台在线漫画阅读器
 #### Utility
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
+### Magick
+* [Jman420/magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script): Installs a simple script to enable Permissive Mode during Magisk Startup
+* [D4rCM4rC/MagiskSSH](https://github.com/D4rCM4rC/MagiskSSH): None
 ## Arduino
 * [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
 ## C
+* [GNOME/glib](https://github.com/GNOME/glib): GLib
 ### JSON
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 ## Game
+* [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
 ### KSP
 * [CYBUTEK/KerbalEngineer](https://github.com/CYBUTEK/KerbalEngineer): Kerbal Engineer v1.0 (current in-development build).
 ## Gnome Shell Extensions
@@ -293,6 +300,7 @@
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 ## WeChat Mini Program
 ### Utility
+* [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
 * [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店
 ## Windows
 ### Utility
