@@ -12,7 +12,10 @@ class Tree(dict):
     def __missing__(self, key):
         keys = key.split('/')
         key = keys[0]
-        self[key] = value = Tree()
+        if key not in self.keys():
+            self[key] = value = Tree()
+        else:
+            value = self[key]
 
         if len(keys) > 1:
             return value['/'.join(keys[1:])]
@@ -70,7 +73,6 @@ class RepoTagDict(dict):
     def __missing__(self, key):
         self[key] = value = []
         return value
-
 
 def gen(token):
     gh = GitHub(token=token)
