@@ -1,4 +1,24 @@
 # Star
+## Android
+### APP
+#### Utility
+* [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
+## Arduino
+* [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
+## C
+### JSON
+* [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
+## Game
+### KSP
+* [CYBUTEK/KerbalEngineer](https://github.com/CYBUTEK/KerbalEngineer): Kerbal Engineer v1.0 (current in-development build).
+## Gnome Shell Extensions
+* [Edenhofer/Minimalism-Gnome-Shell](https://github.com/Edenhofer/Minimalism-Gnome-Shell): Minimalism Gnome Shell  Extensions
+## JSON
+* [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
+* [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
+## Java
+### JSON
+* [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
 ## Language
 ### Arduino
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
@@ -264,3 +284,16 @@
 * [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
+## Linux
+### Utility
+* [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
+## Spider
+* [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
+## Utility
+* [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
+## WeChat Mini Program
+### Utility
+* [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店
+## Windows
+### Utility
+* [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
