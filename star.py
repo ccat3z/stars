@@ -83,7 +83,7 @@ def gen(token):
     try:
         with open('tag.json', 'r') as tag_file:
             repo_tag_dict = json.load(tag_file, object_hook=RepoTagDict)
-    except (json.decoder.JSONDecodeError, FileNotFoundError):
+    except FileNotFoundError:
         print("invalid tag", file=sys.stderr)
         repo_tag_dict = RepoTagDict()
 
