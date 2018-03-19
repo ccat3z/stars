@@ -52,8 +52,12 @@
     "Jonno12345/TileIconifier": [
         "Windows/Utility"
     ],
-    "JulianChow94/Windows-screenFetch": [ "Windows/Terminal/Utility" ],
-    "KSP-CKAN/CKAN": [ "Game/KSP" ],
+    "JulianChow94/Windows-screenFetch": [
+        "Windows/Terminal/Utility"
+    ],
+    "KSP-CKAN/CKAN": [
+        "Game/KSP"
+    ],
     "KaitoHH/AnyCodeToBmp": [],
     "Kozea/wdb": [],
     "LiuLang/bcloud": [],
@@ -63,41 +67,85 @@
     "Microsoft/WSL": [],
     "MrKiven/PyZh": [],
     "NanoHttpd/nanohttpd": [],
-    "Neilpang/acme.sh": [ "Web/SSL" ],
-    "OneDrive/onedrive-sdk-python": [ "Python/API" ],
-    "PyCQA/pep8-naming": [ "Python" ],
-    "Shougo/deoplete.nvim": [ "Vim" ],
-    "Shougo/vimshell.vim": [ "Vim" ],
-    "SirVer/ultisnips": [ "Vim" ],
-    "Supervisor/supervisor": [ "Linux/Utility" ],
-    "TaylanTatli/Halve": [ "Jekyll/Theme" ],
-    "TaylanTatli/Moon": [ "Jekyll/Theme" ],
-    "ThirtyDegreesRay/OpenHub": [ "Android/APP/Utility" ],
+    "Neilpang/acme.sh": [
+        "Web/SSL"
+    ],
+    "OneDrive/onedrive-sdk-python": [
+        "Python/API"
+    ],
+    "PyCQA/pep8-naming": [
+        "Python"
+    ],
+    "Shougo/deoplete.nvim": [
+        "Vim"
+    ],
+    "Shougo/vimshell.vim": [
+        "Vim"
+    ],
+    "SirVer/ultisnips": [
+        "Vim"
+    ],
+    "Supervisor/supervisor": [
+        "Linux/Utility"
+    ],
+    "TaylanTatli/Halve": [
+        "Jekyll/Theme"
+    ],
+    "TaylanTatli/Moon": [
+        "Jekyll/Theme"
+    ],
+    "ThirtyDegreesRay/OpenHub": [
+        "Android/APP/Utility"
+    ],
     "TieBaMma/InstallTutorial": [],
-    "TonnyL/Awesome_APIs": [ "Awesome" ],
-    "TriggerAu/KerbalAlarmClock": [ "Game/KSP" ],
-    "Valloric/YouCompleteMe": [ "Vim" ],
-    "WickyNilliams/headroom.js": [ "Web/JavaScript" ],
+    "TonnyL/Awesome_APIs": [
+        "Awesome"
+    ],
+    "TriggerAu/KerbalAlarmClock": [
+        "Game/KSP"
+    ],
+    "Valloric/YouCompleteMe": [
+        "Vim"
+    ],
+    "WickyNilliams/headroom.js": [
+        "Web/JavaScript"
+    ],
     "Windos/BurntToast": [],
     "Xfennec/progress": [],
-    "Yggdroot/indentLine": [ "Vim" ],
+    "Yggdroot/indentLine": [
+        "Vim"
+    ],
     "Yinzo/SmartQQBot": [],
-    "abforce/xposed_art_n": [ "Android/Xposed" ],
+    "abforce/xposed_art_n": [
+        "Android/Xposed"
+    ],
     "acgotaku/BaiduExporter": [],
     "adafruit/Adafruit_NeoPixel": [],
-    "adobe-fonts/source-code-pro": [ "Font" ],
-    "adobe-fonts/source-han-sans": [ "Font" ],
+    "adobe-fonts/source-code-pro": [
+        "Font"
+    ],
+    "adobe-fonts/source-han-sans": [
+        "Font"
+    ],
     "aemkei/jsfuck": [],
     "almende/vis": [],
     "alwsl/alwsl": [],
-    "android-hacker/VirtualXposed": [ "Android/Xposed" ],
+    "android-hacker/VirtualXposed": [
+        "Android/Xposed"
+    ],
     "archlinuxcn/repo": [],
-    "artisologic/github-stars-tagger": [ "GitHub" ],
-    "asLody/VirtualApp": [ "Android" ],
+    "artisologic/github-stars-tagger": [
+        "GitHub"
+    ],
+    "asLody/VirtualApp": [
+        "Android"
+    ],
     "asins/vimcdoc": [],
     "astralapp/astral": [],
     "attractivechaos/klib": [],
-    "be5invis/Iosevka": [ "Font" ],
+    "be5invis/Iosevka": [
+        "Font"
+    ],
     "billziss-gh/winfsp": [],
     "binux/ThunderLixianExporter": [],
     "blanboom/Arduino-Task-Scheduler": [],
