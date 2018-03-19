@@ -89,10 +89,11 @@ def gen(token):
 
     for star in stars:
         repo = Repo(star)
-        taged_star_tree['Language'][star.language or 'Null'].nodes.append(repo)
-
-        for tag in repo_tag_dict[repo.full_name]:
-            taged_star_tree[tag].nodes.append(repo)
+        if len(repo_tag_dict[repo.full_name]) == 0:
+            taged_star_tree['Other'].nodes.append(repo)
+        else:
+            for tag in repo_tag_dict[repo.full_name]:
+                taged_star_tree[tag].nodes.append(repo)
 
     with open('tag.json', 'w+') as tag_file:
         json.dump(repo_tag_dict, tag_file, indent='    ', sort_keys=True)
