@@ -149,6 +149,7 @@
 * [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
 * [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos
+* [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [louisstuart96/lshort-new-zh-cn](https://github.com/louisstuart96/lshort-new-zh-cn): New and frequently-updated version of `lshort' document
 * [Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode](https://github.com/Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode): mm
 * [goessner/mdmath](https://github.com/goessner/mdmath): LaTeX Math for Markdown inside of Visual Studio Code.
@@ -221,6 +222,7 @@
 * [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome): Awesome Vim plugins from across the universe
 * [fisadev/vim-ctrlp-cmdpalette](https://github.com/fisadev/vim-ctrlp-cmdpalette): Extension for ctrlp.vim, to have a command palette like sublime text 2
 * [roxma/vim-hug-neovim-rpc](https://github.com/roxma/vim-hug-neovim-rpc): EXPERIMENTAL
+* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview): A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
 * [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation

@@ -5,6 +5,7 @@
     "AykoPoel/surface3-scripts": [
         "Linux/Utility"
     ],
+    "CTeX-org/lshort-cn": [],
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
@@ -311,6 +312,7 @@
     "wangxian/alpine-mysql": [],
     "wengxt/kimpanel-for-gnome-shell": [],
     "xiehuc/pidgin-lwqq": [],
+    "xuhdev/vim-latex-live-preview": [],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [],
     "yangyangwithgnu/use_vim_as_ide": [],
     "yidao620c/python3-cookbook": [],
