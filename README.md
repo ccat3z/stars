@@ -10,7 +10,7 @@
 ### Magick
 * [Jman420/magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script): Installs a simple script to enable Permissive Mode during Magisk Startup
 * [D4rCM4rC/MagiskSSH](https://github.com/D4rCM4rC/MagiskSSH): None
-### Utilities
+### Utility
 #### XiaoMi
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
 ### Xposed
@@ -28,7 +28,7 @@
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
 ### JSON
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
-### Utilities
+### Utility
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 ## Docker
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
@@ -72,13 +72,11 @@
 * [TaylanTatli/Halve](https://github.com/TaylanTatli/Halve): Stylish Two-Column Jekyll Theme
 * [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon): Moon is a minimal, one column jekyll theme.
 ## Linux
-### Utilities
+### Utility
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
-### Utility
 * [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for UNIX
 * [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
-### Utitities
 #### Surface
 * [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
 ## OpenShift
@@ -261,11 +259,10 @@
 * [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
 ## Spider
 * [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
-## Utilities
-* [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
-* [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
 ## Utility
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
+* [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
+* [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
 ## Vim
 * [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim): :stars: Dark powered asynchronous completion framework for neovim/Vim8
 * [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine): A vim plugin to display the indention levels with thin vertical lines
