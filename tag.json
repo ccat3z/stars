@@ -128,9 +128,15 @@
     "adobe-fonts/source-han-sans": [
         "Font"
     ],
-    "aemkei/jsfuck": [ "JavaScript" ],
-    "almende/vis": [ "JavaScript" ],
-    "alwsl/alwsl": [ "Windows/WSL" ],
+    "aemkei/jsfuck": [
+        "JavaScript"
+    ],
+    "almende/vis": [
+        "JavaScript"
+    ],
+    "alwsl/alwsl": [
+        "Windows/WSL"
+    ],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
@@ -141,35 +147,88 @@
     "asLody/VirtualApp": [
         "Android"
     ],
-    "asins/vimcdoc": [ "Vim" ],
-    "astralapp/astral": [ "GitHub" ],
-    "attractivechaos/klib": [ "C" ],
+    "asins/vimcdoc": [
+        "Vim"
+    ],
+    "astralapp/astral": [
+        "GitHub"
+    ],
+    "attractivechaos/klib": [
+        "C"
+    ],
     "be5invis/Iosevka": [
         "Font"
     ],
-    "billziss-gh/winfsp": [ "Windows" ],
-    "binux/ThunderLixianExporter": [ "Utilities" ],
-    "blanboom/Arduino-Task-Scheduler": [ "Arduino" ],
-    "blueimp/jQuery-File-Upload": [ "JavaScript/jQuery" ],
-    "boekkooi/openshift-cartridge-nginx": [ "OpenShift" ],
-    "breakwa11/gfw_whitelist": [ "GFW" ],
-    "bytegust/spm": [ "Linux/Utilities" ],
-    "c0ldcat/hackwlb-server": [ "Blog" ],
-    "caldwell/daemon-manager": [ "Linux/Utilities" ],
-    "captnbp/docker-owncloud": [ "Docker" ],
-    "chemzqm/wept": [ "WeChat Mini Program/Develop" ],
-    "coderstory/Mi-Purify": [ "Android/Utilities/XiaoMi" ],
-    "cs01/gdbgui": [ "C/Utilities" ],
-    "ctrlpnn/ctrlp.vim": [ "Vim" ],
-    "daattali/beautiful-jekyll": [ "Jekyll" ],
-    "dahlbyk/posh-git": [ "PowerShell" ],
-    "danielquinn/Gentoo-Surface-Pro-3": [ "Linux/Utitities/Surface" ],
-    "darknessomi/musicbox": [ "Utilities" ],
-    "davidhalter/jedi-vim": [ "vim" ],
-    "docker-library/haproxy": [ "Docker" ],
-    "docker-library/openjdk": [ "Docker" ],
-    "dropwizard/dropwizard": [ "Jave/Web/RESTful" ],
-    "duxingkei33/orangepi_PC_gpio_pyH3": [ "SBC" ],
+    "billziss-gh/winfsp": [
+        "Windows"
+    ],
+    "binux/ThunderLixianExporter": [
+        "Utilities"
+    ],
+    "blanboom/Arduino-Task-Scheduler": [
+        "Arduino"
+    ],
+    "blueimp/jQuery-File-Upload": [
+        "JavaScript/jQuery"
+    ],
+    "boekkooi/openshift-cartridge-nginx": [
+        "OpenShift"
+    ],
+    "breakwa11/gfw_whitelist": [
+        "GFW"
+    ],
+    "bytegust/spm": [
+        "Linux/Utilities"
+    ],
+    "c0ldcat/hackwlb-server": [
+        "Blog"
+    ],
+    "caldwell/daemon-manager": [
+        "Linux/Utilities"
+    ],
+    "captnbp/docker-owncloud": [
+        "Docker"
+    ],
+    "chemzqm/wept": [
+        "WeChat Mini Program/Develop"
+    ],
+    "coderstory/Mi-Purify": [
+        "Android/Utilities/XiaoMi"
+    ],
+    "cs01/gdbgui": [
+        "C/Utilities"
+    ],
+    "ctrlpnn/ctrlp.vim": [
+        "Vim"
+    ],
+    "ctrlpvim/ctrlp.vim": [],
+    "daattali/beautiful-jekyll": [
+        "Jekyll"
+    ],
+    "dahlbyk/posh-git": [
+        "PowerShell"
+    ],
+    "danielquinn/Gentoo-Surface-Pro-3": [
+        "Linux/Utitities/Surface"
+    ],
+    "darknessomi/musicbox": [
+        "Utilities"
+    ],
+    "davidhalter/jedi-vim": [
+        "vim"
+    ],
+    "docker-library/haproxy": [
+        "Docker"
+    ],
+    "docker-library/openjdk": [
+        "Docker"
+    ],
+    "dropwizard/dropwizard": [
+        "Jave/Web/RESTful"
+    ],
+    "duxingkei33/orangepi_PC_gpio_pyH3": [
+        "SBC"
+    ],
     "easychen/howto-make-more-money": [],
     "eduardoboucas/staticman": [],
     "egoist/hack": [],
