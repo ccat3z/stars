@@ -163,7 +163,7 @@
         "Windows"
     ],
     "binux/ThunderLixianExporter": [
-        "Utilities"
+        "Utility"
     ],
     "blanboom/Arduino-Task-Scheduler": [
         "Arduino"
@@ -178,13 +178,13 @@
         "GFW"
     ],
     "bytegust/spm": [
-        "Linux/Utilities"
+        "Linux/Utility"
     ],
     "c0ldcat/hackwlb-server": [
         "Blog"
     ],
     "caldwell/daemon-manager": [
-        "Linux/Utilities"
+        "Linux/Utility"
     ],
     "captnbp/docker-owncloud": [
         "Docker"
@@ -193,10 +193,10 @@
         "WeChat Mini Program/Develop"
     ],
     "coderstory/Mi-Purify": [
-        "Android/Utilities/XiaoMi"
+        "Android/Utility/XiaoMi"
     ],
     "cs01/gdbgui": [
-        "C/Utilities"
+        "C/Utility"
     ],
     "ctrlpnn/ctrlp.vim": [
         "Vim"
@@ -209,10 +209,10 @@
         "PowerShell"
     ],
     "danielquinn/Gentoo-Surface-Pro-3": [
-        "Linux/Utitities/Surface"
+        "Linux/Utility/Surface"
     ],
     "darknessomi/musicbox": [
-        "Utilities"
+        "Utility"
     ],
     "davidhalter/jedi-vim": [
         "vim"
