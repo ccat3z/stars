@@ -121,7 +121,7 @@
         "Android/Xposed"
     ],
     "acgotaku/BaiduExporter": [],
-    "adafruit/Adafruit_NeoPixel": [],
+    "adafruit/Adafruit_NeoPixel": [ "Arduino" ],
     "adobe-fonts/source-code-pro": [
         "Font"
     ],
@@ -253,13 +253,13 @@
     "gilbarbara/logos": [],
     "github-tools/github": [],
     "gliffy/canvas2svg": [],
-    "gnurag/openshift-origin-cartridge-httpd-proxy": [],
+    "gnurag/openshift-origin-cartridge-httpd-proxy": [ "OpenShift" ],
     "goessner/mdmath": [],
     "gogits/gogs": [],
     "google/yapf": [],
     "goreliu/wsl-terminal": [],
     "greenrobot/greenDAO": [],
-    "gsterjov/openshift-nginx-cartridge": [],
+    "gsterjov/openshift-nginx-cartridge": [ "OpenShift" ],
     "halfkiss/ZjDroid": [],
     "hanwen/go-fuse": [],
     "hmrc/service-manager": [],
@@ -270,8 +270,8 @@
     "imsun/gitment": [],
     "it-ebooks/w3school": [],
     "janeczku/calibre-web": [],
-    "jekyll/jekyll": [],
-    "jekyll/jekyll-paginate": [],
+    "jekyll/jekyll": [ "Jekyll" ],
+    "jekyll/jekyll-paginate": [ "Jekyll" ],
     "jgraph/drawio": [],
     "jiangmiao/auto-pairs": [
         "Vim"
@@ -281,7 +281,7 @@
     "joonro/ConEmu-Color-Themes": [],
     "jsnjycwyz/QQUnrecalled": [],
     "justind000/nRF-IoT": [],
-    "jwilder/nginx-proxy": [],
+    "jwilder/nginx-proxy": [ "Docker" ],
     "k0shk0sh/FastHub": [],
     "karabaja4/vscode-explorer-git-status": [],
     "karlin/mintty-colors-solarized": [],
@@ -323,14 +323,14 @@
     "neilpa/cmd-colors-solarized": [],
     "nok/leap-motion-processing": [],
     "opengapps/all": [],
-    "openshift-quickstart/owncloud-openshift-quickstart": [],
+    "openshift-quickstart/owncloud-openshift-quickstart": [ "OpenShift" ],
     "pallets/click": [],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [],
-    "pattex/jekyll-tagging": [],
+    "pattex/jekyll-tagging": [ "Jekyll" ],
     "pdudits/soundlibs": [],
     "phocean/TopIcons-plus": [],
     "pnigos/hookjs": [],
-    "portainer/portainer": [],
+    "portainer/portainer": [ "Docker" ],
     "pypa/pipenv": [],
     "python-mode/python-mode": [
         "Vim"
@@ -354,7 +354,7 @@
     "shadowsocksrr/shadowsocksr-csharp": [],
     "shenfeng/tiny-web-server": [],
     "shengxinjing/programmer-job-blacklist": [],
-    "sickp/docker-alpine-sshd": [],
+    "sickp/docker-alpine-sshd": [ "Docker" ],
     "siger-young/ropez": [],
     "sigmavirus24/github3.py": [],
     "simonmichael/hledger": [],
@@ -365,22 +365,25 @@
         "Vim"
     ],
     "snachx/gfwlist2privoxy": [],
-    "snaptortoise/jekyll-rss-feeds": [],
+    "snaptortoise/jekyll-rss-feeds": [ "Jekyll" ],
     "snwh/paper-gtk-theme": [],
     "sparksuite/simplemde-markdown-editor": [],
     "studyzy/imewlconverter": [],
     "sudar/vim-arduino-snippets": [
-        "Vim"
+        "Vim",
+        "Arduino"
     ],
     "sudar/vim-arduino-syntax": [
-        "Vim"
+        "Vim",
+        "Arduino"
     ],
     "syntaxhighlighter/syntaxhighlighter": [],
     "tclem/vim-arduino": [
-        "Vim"
+        "Vim",
+        "Arduino"
     ],
-    "teddysun/across": [],
-    "termux/termux-app": [],
+    "teddysun/across": [ "GFW" ],
+    "termux/termux-app": [ "Android/APP/Utility" ],
     "tipsy/j2html": [],
     "tkem/cachetools": [],
     "tolerious/Programming_learning_resource": [],
@@ -394,9 +397,9 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
-    "w0rp/ale": [],
-    "wangshub/wechat_jump_game": [],
-    "wangxian/alpine-mysql": [],
+    "w0rp/ale": [ "Vim" ],
+    "wangshub/wechat_jump_game": [ "WeChat Mini Program" ],
+    "wangxian/alpine-mysql": [ "Docker" ],
     "wengxt/kimpanel-for-gnome-shell": [],
     "xiehuc/pidgin-lwqq": [],
     "xuhdev/vim-latex-live-preview": [
@@ -408,6 +411,6 @@
     ],
     "yidao620c/python3-cookbook": [],
     "yudai/gotty": [],
-    "z3t0/Arduino-IRremote": [],
+    "z3t0/Arduino-IRremote": [ "Arduino" ],
     "ziahamza/webui-aria2": []
 }
