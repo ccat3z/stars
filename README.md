@@ -24,11 +24,10 @@
   * [JSON](#json-1)
   * [Java](#java)
     * [JSON](#json-2)
-  * [JavaScript](#javascript)
-    * [jQuery](#jquery)
-  * [Jave](#jave)
     * [Web](#web)
       * [RESTful](#restful)
+  * [JavaScript](#javascript)
+    * [jQuery](#jquery)
   * [Jekyll](#jekyll)
     * [Theme](#theme)
   * [Linux](#linux)
@@ -125,15 +124,14 @@
 ## Java
 ### JSON
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
+### Web
+#### RESTful
+* [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## JavaScript
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
 * [almende/vis](https://github.com/almende/vis): vis.js is a dynamic, browser-based visualization library
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-## Jave
-### Web
-#### RESTful
-* [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## Jekyll
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll
 * [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
