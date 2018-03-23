@@ -201,7 +201,9 @@
     "ctrlpnn/ctrlp.vim": [
         "Vim"
     ],
-    "ctrlpvim/ctrlp.vim": [ "Vim" ],
+    "ctrlpvim/ctrlp.vim": [
+        "Vim"
+    ],
     "daattali/beautiful-jekyll": [
         "Jekyll"
     ],
@@ -271,7 +273,9 @@
     "jekyll/jekyll": [],
     "jekyll/jekyll-paginate": [],
     "jgraph/drawio": [],
-    "jiangmiao/auto-pairs": [ "Vim" ],
+    "jiangmiao/auto-pairs": [
+        "Vim"
+    ],
     "jimdigriz/debian-mssp4": [],
     "jobbole/awesome-c-cn": [],
     "joonro/ConEmu-Color-Themes": [],
@@ -301,8 +305,12 @@
     "lzybkr/PSReadLine": [],
     "m13253/BiliDan": [],
     "maguowei/starred": [],
-    "majutsushi/tagbar": [ "Vim" ],
-    "maralla/completor.vim": [ "Vim" ],
+    "majutsushi/tagbar": [
+        "Vim"
+    ],
+    "maralla/completor.vim": [
+        "Vim"
+    ],
     "matthewwardrop/linux-surfacepro3": [],
     "mavnn/mintty-colors-solarized": [],
     "meefik/linuxdeploy": [],
@@ -324,15 +332,23 @@
     "pnigos/hookjs": [],
     "portainer/portainer": [],
     "pypa/pipenv": [],
-    "python-mode/python-mode": [ "Vim" ],
+    "python-mode/python-mode": [
+        "Vim"
+    ],
     "replit/repl.it": [],
     "rkalla/imgscalr": [],
     "robbyrussell/oh-my-zsh": [],
-    "roxma/vim-hug-neovim-rpc": [ "Vim" ],
+    "roxma/vim-hug-neovim-rpc": [
+        "Vim"
+    ],
     "rprichard/wslbridge": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [],
-    "scrooloose/nerdcommenter": [ "Vim" ],
-    "severin-lemaignan/vim-minimap": [ "Vim" ],
+    "scrooloose/nerdcommenter": [
+        "Vim"
+    ],
+    "severin-lemaignan/vim-minimap": [
+        "Vim"
+    ],
     "shadowsocks/shadowsocks-windows": [],
     "shadowsocksr-backup/shadowsocksr": [],
     "shadowsocksrr/shadowsocksr-csharp": [],
@@ -345,16 +361,24 @@
     "sjdy521/Mojo-Webqq": [],
     "sjdy521/Mojo-Weixin": [],
     "skylot/jadx": [],
-    "skywind3000/vim": [ "Vim" ],
+    "skywind3000/vim": [
+        "Vim"
+    ],
     "snachx/gfwlist2privoxy": [],
     "snaptortoise/jekyll-rss-feeds": [],
     "snwh/paper-gtk-theme": [],
     "sparksuite/simplemde-markdown-editor": [],
     "studyzy/imewlconverter": [],
-    "sudar/vim-arduino-snippets": [ "Vim" ],
-    "sudar/vim-arduino-syntax": [ "Vim" ],
+    "sudar/vim-arduino-snippets": [
+        "Vim"
+    ],
+    "sudar/vim-arduino-syntax": [
+        "Vim"
+    ],
     "syntaxhighlighter/syntaxhighlighter": [],
-    "tclem/vim-arduino": [ "Vim" ],
+    "tclem/vim-arduino": [
+        "Vim"
+    ],
     "teddysun/across": [],
     "termux/termux-app": [],
     "tipsy/j2html": [],
@@ -364,16 +388,24 @@
     "txyyss/Lambda-Calculus": [],
     "v2ray/v2ray-core": [],
     "veryyoung/QQLuckyMoney": [],
-    "vim-awesome/vim-awesome": [ "Vim" ],
-    "vim-python/python-syntax": [ "Vim" ],
+    "vim-awesome/vim-awesome": [
+        "Vim"
+    ],
+    "vim-python/python-syntax": [
+        "Vim"
+    ],
     "w0rp/ale": [],
     "wangshub/wechat_jump_game": [],
     "wangxian/alpine-mysql": [],
     "wengxt/kimpanel-for-gnome-shell": [],
     "xiehuc/pidgin-lwqq": [],
-    "xuhdev/vim-latex-live-preview": [ "Vim" ],
+    "xuhdev/vim-latex-live-preview": [
+        "Vim"
+    ],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [],
-    "yangyangwithgnu/use_vim_as_ide": [ "Vim" ],
+    "yangyangwithgnu/use_vim_as_ide": [
+        "Vim"
+    ],
     "yidao620c/python3-cookbook": [],
     "yudai/gotty": [],
     "z3t0/Arduino-IRremote": [],

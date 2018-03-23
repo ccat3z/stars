@@ -92,7 +92,6 @@
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
 * [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
-* [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
@@ -107,10 +106,8 @@
 * [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
 * [mlouielu/cn_constitution_2018](https://github.com/mlouielu/cn_constitution_2018): 2018-02-25 中国共产党中央委员会关于修改宪法部分内容的建议
 * [loopeer/code-reader](https://github.com/loopeer/code-reader): One Multi program language code reader
-* [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Color themes for ConEmu
-* [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 * [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
 * [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
 * [lodevil/daemon-manager](https://github.com/lodevil/daemon-manager): user tool for creating and managing daemons
@@ -177,7 +174,6 @@
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
 * [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): :speak_no_evil: My Blog / Jekyll Themes
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
-* [scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter): Vim plugin for intensely orgasmic commenting
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
@@ -196,8 +192,6 @@
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 * [lzybkr/PSReadLine](https://github.com/lzybkr/PSReadLine): A bash inspired readline implementation for PowerShell
 * [libfuse/python-fuse](https://github.com/libfuse/python-fuse): None
-* [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
-* [vim-python/python-syntax](https://github.com/vim-python/python-syntax): Python syntax highlighting for Vim
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
@@ -216,23 +210,13 @@
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List used GitHub stars!
 * [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  Static sites with superpowers
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-* [majutsushi/tagbar](https://github.com/majutsushi/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-* [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide): use vim as IDE
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
-* [skywind3000/vim](https://github.com/skywind3000/vim): Personal Vim Profile
-* [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
-* [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
-* [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
-* [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome): Awesome Vim plugins from across the universe
 * [fisadev/vim-ctrlp-cmdpalette](https://github.com/fisadev/vim-ctrlp-cmdpalette): Extension for ctrlp.vim, to have a command palette like sublime text 2
-* [roxma/vim-hug-neovim-rpc](https://github.com/roxma/vim-hug-neovim-rpc): EXPERIMENTAL
-* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview): A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
-* [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 * [karabaja4/vscode-explorer-git-status](https://github.com/karabaja4/vscode-explorer-git-status): Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
 * [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave): Visual Studio Code extension to run commands whenever a file is saved.
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
@@ -264,9 +248,26 @@
 * [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
 * [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
 ## Vim
+* [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
+* [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
+* [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 * [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim): :stars: Dark powered asynchronous completion framework for neovim/Vim8
 * [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine): A vim plugin to display the indention levels with thin vertical lines
+* [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim): Using the jedi autocompletion library for VIM.
+* [scrooloose/nerdcommenter](https://github.com/scrooloose/nerdcommenter): Vim plugin for intensely orgasmic commenting
+* [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
+* [vim-python/python-syntax](https://github.com/vim-python/python-syntax): Python syntax highlighting for Vim
+* [majutsushi/tagbar](https://github.com/majutsushi/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+* [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide): use vim as IDE
+* [skywind3000/vim](https://github.com/skywind3000/vim): Personal Vim Profile
+* [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
+* [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
+* [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
+* [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome): Awesome Vim plugins from across the universe
+* [roxma/vim-hug-neovim-rpc](https://github.com/roxma/vim-hug-neovim-rpc): EXPERIMENTAL
+* [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview): A Vim Plugin for Lively Previewing LaTeX PDF Output
+* [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
@@ -290,5 +291,3 @@
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
-## vim
-* [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim): Using the jedi autocompletion library for VIM.
