@@ -3,6 +3,7 @@ from functools import total_ordering
 import json
 import sys
 import argparse
+from collections import defaultdict
 
 
 class Tree(dict):
@@ -21,6 +22,24 @@ class Tree(dict):
             return value['/'.join(keys[1:])]
         else:
             return value
+
+    def mdtoc(self, dep=0, name='ROOT', id_counter=None):
+        if id_counter is None:
+            id_counter = defaultdict(lambda: -1)
+
+        name_id = name.lower().replace(' ', '-')
+        id_counter[name_id] += 1
+        name_id = (name_id + ('-' + str(id_counter[name_id])
+                   if id_counter[name_id] != 0
+                   else ""))
+
+        print('{}* [{}](#{})'.format('  ' * dep, name, name_id))
+
+        try:
+            for tree_name, tree in sorted(self.items()):
+                tree.mdtoc(dep + 1, tree_name, id_counter)
+        except IndexError:
+            pass
 
     def mdprint(self, dep=1, name='ROOT', node_md=str):
         print('{} {}'.format('#' * dep, name))
@@ -98,6 +117,9 @@ def gen(token):
     with open('tag.json', 'w+') as tag_file:
         json.dump(repo_tag_dict, tag_file, indent='    ', sort_keys=True)
 
+        print("# TOC")
+        taged_star_tree.mdtoc(name="Star")
+        print()
         taged_star_tree.mdprint(
             name='Star',
             node_md=lambda x: '[{}]({}): {}'.format(
