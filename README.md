@@ -7,6 +7,7 @@
 #### Utility
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
+* [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
 ### Magick
 * [Jman420/magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script): Installs a simple script to enable Permissive Mode during Magisk Startup
 * [D4rCM4rC/MagiskSSH](https://github.com/D4rCM4rC/MagiskSSH): None
@@ -17,8 +18,13 @@
 * [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc).
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 ## Arduino
+* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Neo Pixels!
+* [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
 * [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
+* [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
+* [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
+* [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 ## Awesome
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
 ## Blog
@@ -31,14 +37,19 @@
 ### Utility
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 ## Docker
+* [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
+* [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
+* [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
+* [portainer/portainer](https://github.com/portainer/portainer): Simple management UI for Docker
 ## Font
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 * [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕
 ## GFW
+* [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
 * [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
 ## Game
 * [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
@@ -68,6 +79,10 @@
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## Jekyll
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll
+* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
+* [jekyll/jekyll-paginate](https://github.com/jekyll/jekyll-paginate): NO LONGER UNDER ACTIVE DEVELOPMENT as of Jekyll 3: Pagination Generator for Jekyll
+* [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
+* [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 ### Theme
 * [TaylanTatli/Halve](https://github.com/TaylanTatli/Halve): Stylish Two-Column Jekyll Theme
 * [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon): Moon is a minimal, one column jekyll theme.
@@ -81,17 +96,15 @@
 * [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
 ## OpenShift
 * [boekkooi/openshift-cartridge-nginx](https://github.com/boekkooi/openshift-cartridge-nginx): None
+* [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
+* [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
+* [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
-* [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
-* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Neo Pixels!
-* [w0rp/ale](https://github.com/w0rp/ale): Asynchronous Lint Engine
 * [opengapps/all](https://github.com/opengapps/all): architecture independent sources for opengapps
-* [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
 * [samsheff/Amazon-Kindle-Cross-Toolchain](https://github.com/samsheff/Amazon-Kindle-Cross-Toolchain): A cross-compiling toolchain for the Amazon Kindle
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
-* [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
@@ -114,7 +127,6 @@
 * [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
 * [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
 * [fszymanski/deoplete-emoji](https://github.com/fszymanski/deoplete-emoji): Deoplete source for emoji codes
-* [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [jgraph/drawio](https://github.com/jgraph/drawio): Source to www.draw.io
 * [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
@@ -144,10 +156,6 @@
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 * [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
-* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
-* [jekyll/jekyll-paginate](https://github.com/jekyll/jekyll-paginate): NO LONGER UNDER ACTIVE DEVELOPMENT as of Jekyll 3: Pagination Generator for Jekyll
-* [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
-* [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 * [ferbar/jmagick](https://github.com/ferbar/jmagick): None
 * [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
 * [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
@@ -174,19 +182,14 @@
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
 * [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): :speak_no_evil: My Blog / Jekyll Themes
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
-* [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
-* [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
-* [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
-* [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 * [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
 * [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
-* [portainer/portainer](https://github.com/portainer/portainer): Simple management UI for Docker
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -210,7 +213,6 @@
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List used GitHub stars!
 * [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  Static sites with superpowers
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-* [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
@@ -224,7 +226,6 @@
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
-* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
 * [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
 * [goreliu/wsl-terminal](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
@@ -248,6 +249,7 @@
 * [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
 * [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
 ## Vim
+* [w0rp/ale](https://github.com/w0rp/ale): Asynchronous Lint Engine
 * [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
 * [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
@@ -272,6 +274,7 @@
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
 ## WeChat Mini Program
+* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
 ### Develop
 * [chemzqm/wept](https://github.com/chemzqm/wept): 微信小程序 web 端实时运行工具
 ### Utility
