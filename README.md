@@ -72,7 +72,6 @@
     * [Utility](#utility-7)
       * [ConEmu](#conemu)
       * [Mintty](#mintty)
-    * [Utility ](#utility-)
     * [WSL](#wsl)
   * [Zsh](#zsh)
 
@@ -389,14 +388,13 @@
 * [lzybkr/PSReadLine](https://github.com/lzybkr/PSReadLine): A bash inspired readline implementation for PowerShell
 * [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 * [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): If you want to keep a secret, you must also hide it from yourself.
+* [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 #### ConEmu
 * [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Color themes for ConEmu
 #### Mintty
 * [karlin/mintty-colors-solarized](https://github.com/karlin/mintty-colors-solarized): Solarized theme for mintty
 * [mavnn/mintty-colors-solarized](https://github.com/mavnn/mintty-colors-solarized): None
-### Utility 
-* [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
 * [goreliu/wsl-terminal](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
