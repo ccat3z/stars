@@ -291,6 +291,7 @@
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
+* [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL

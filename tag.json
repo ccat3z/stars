@@ -408,6 +408,7 @@
     "ledger/ledger": [
         "Utility"
     ],
+    "lervag/vimtex": [],
     "libfuse/python-fuse": [
         "Python"
     ],
