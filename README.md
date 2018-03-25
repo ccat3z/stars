@@ -1,9 +1,7 @@
 # TOC
 * [Star](#star)
-  * [Andoird](#andoird)
-    * [APP](#app)
   * [Android](#android)
-    * [APP](#app-1)
+    * [APP](#app)
       * [Entertainment](#entertainment)
       * [Utility](#utility)
     * [Magick](#magick)
@@ -79,9 +77,6 @@
   * [Zsh](#zsh)
 
 # Star
-## Andoird
-### APP
-* [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
 ## Android
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
@@ -94,6 +89,7 @@
 * [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard): Hacker's Keyboard (official)
 * [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
+* [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
 #### Entertainment
 * [Arachnid-27/Cimoc](https://github.com/Arachnid-27/Cimoc): Android 平台在线漫画阅读器
 #### Utility
