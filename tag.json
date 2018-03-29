@@ -75,6 +75,7 @@
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
+    "PegasusWang/python-web-guide": [],
     "PyCQA/pep8-naming": [
         "Python"
     ],

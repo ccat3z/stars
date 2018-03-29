@@ -277,6 +277,7 @@
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python-web入坑指南
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
