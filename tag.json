@@ -67,6 +67,7 @@
     "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [],
     "Maximus5/ConEmu": [],
     "Microsoft/WSL": [],
+    "Microsoft/WSL-DistroLauncher": [],
     "MrKiven/PyZh": [],
     "NanoHttpd/nanohttpd": [],
     "Neilpang/acme.sh": [
@@ -625,6 +626,7 @@
     ],
     "yidao620c/python3-cookbook": [],
     "yudai/gotty": [],
+    "yuk7/ArchWSL": [],
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],

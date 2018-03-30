@@ -244,6 +244,7 @@
 * [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
 * [LiuLang/bcloud-packages](https://github.com/LiuLang/bcloud-packages): bcloud 的安装包
@@ -296,6 +297,7 @@
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
+* [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
 ## PowerShell
 * [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
