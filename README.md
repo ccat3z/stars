@@ -296,6 +296,7 @@
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 * [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
 * [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
