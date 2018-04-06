@@ -306,7 +306,7 @@
 * [pallets/click](https://github.com/pallets/click): Python composable command line utility
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
-* [libfuse/python-fuse](https://github.com/libfuse/python-fuse): None
+* [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python interface to libfuse
 * [google/yapf](https://github.com/google/yapf): A formatter for Python files
 ### API
 * [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python): OneDrive SDK for Python! https://dev.onedrive.com 
