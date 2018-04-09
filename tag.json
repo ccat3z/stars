@@ -1,4 +1,5 @@
 {
+    "Airblader/i3": [],
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
@@ -89,6 +90,7 @@
     "SirVer/ultisnips": [
         "Vim"
     ],
+    "SkiaWorks/Awesome_APIs": [],
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
@@ -202,6 +204,7 @@
     "coderstory/Mi-Purify": [
         "Android/Xposed/Utility/XiaoMi"
     ],
+    "coleifer/peewee": [],
     "cs01/gdbgui": [
         "C/Utility"
     ],

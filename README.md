@@ -118,7 +118,6 @@
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 ## Awesome
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-* [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
 ## Blog
 * [c0ldcat/hackwlb-server](https://github.com/c0ldcat/hackwlb-server): c0ldcat's website ❤
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
@@ -245,6 +244,7 @@
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
+* [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
 * [LiuLang/bcloud-packages](https://github.com/LiuLang/bcloud-packages): bcloud 的安装包
@@ -260,6 +260,7 @@
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
+* [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 * [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): 一款开源免费的输入法词库转换程序
 * [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
@@ -273,6 +274,7 @@
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
 * [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
+* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
 * [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
