@@ -464,6 +464,7 @@
     "maralla/completor.vim": [
         "Vim"
     ],
+    "matteoserva/MegaFuse": [],
     "matthewwardrop/linux-surfacepro3": [
         "Linux/Utility/Surface"
     ],
@@ -562,6 +563,7 @@
     "simonmichael/hledger": [],
     "sjdy521/Mojo-Webqq": [],
     "sjdy521/Mojo-Weixin": [],
+    "skilion/onedrive": [],
     "skylot/jadx": [
         "Java",
         "Android"
@@ -603,6 +605,7 @@
     "tonybeltramelli/pix2code": [],
     "txyyss/Lambda-Calculus": [],
     "v2ray/v2ray-core": [],
+    "v2tec/watchtower": [],
     "veryyoung/QQLuckyMoney": [],
     "vim-awesome/vim-awesome": [
         "Vim"
