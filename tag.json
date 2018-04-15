@@ -525,6 +525,7 @@
     "robbyrussell/oh-my-zsh": [
         "Zsh"
     ],
+    "rosghub/TLP-Switcher": [],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
     ],
