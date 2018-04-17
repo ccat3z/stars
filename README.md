@@ -298,6 +298,7 @@
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
+* [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI): A GTK user interface for TLP written in Python
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.

@@ -215,6 +215,7 @@
     "ctrlpvim/ctrlp.vim": [
         "Vim"
     ],
+    "d4nj1/TLPUI": [],
     "daattali/beautiful-jekyll": [
         "Jekyll"
     ],
