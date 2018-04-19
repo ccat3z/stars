@@ -130,6 +130,7 @@
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
+    "adapta-project/adapta-gtk-theme": [],
     "adobe-fonts/source-code-pro": [
         "Font"
     ],
@@ -641,5 +642,6 @@
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],
+    "zhblue/hustoj": [],
     "ziahamza/webui-aria2": []
 }
