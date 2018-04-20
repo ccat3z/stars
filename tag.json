@@ -165,6 +165,7 @@
     "attractivechaos/klib": [
         "C"
     ],
+    "baskerville/bspwm": [],
     "be5invis/Iosevka": [
         "Font"
     ],
@@ -357,6 +358,7 @@
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
+    "jaagr/polybar": [],
     "janeczku/calibre-web": [
         "Utility"
     ],
@@ -518,6 +520,7 @@
     "portainer/portainer": [
         "Docker"
     ],
+    "prikhi/lightdm-mini-greeter": [],
     "pypa/pipenv": [
         "Python"
     ],

@@ -250,6 +250,7 @@
 * [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 * [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
 * [LiuLang/bcloud-packages](https://github.com/LiuLang/bcloud-packages): bcloud 的安装包
+* [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
@@ -272,6 +273,7 @@
 * [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
+* [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 * [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode](https://github.com/Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode): mm
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
@@ -283,6 +285,7 @@
 * [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
 * [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
+* [jaagr/polybar](https://github.com/jaagr/polybar): A fast and easy-to-use status bar
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
