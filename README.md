@@ -245,6 +245,7 @@
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
+* [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
@@ -256,8 +257,10 @@
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+* [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
 * [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
 * [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
+* [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
@@ -297,6 +300,7 @@
 * [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック
+* [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
 * [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries

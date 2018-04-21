@@ -170,6 +170,7 @@
         "Font"
     ],
     "be5invis/Sarasa-Gothic": [],
+    "bestwu/docker-qq": [],
     "bilelmoussaoui/Hardcode-Tray": [],
     "billziss-gh/winfsp": [
         "Windows"
@@ -256,12 +257,14 @@
     "ekpyron/ktxutils": [
         "Unity"
     ],
+    "emasab/shelltile": [],
     "embear/vim-localvimrc": [
         "Vim"
     ],
     "emeraldwalk/vscode-runonsave": [
         "VS Code"
     ],
+    "emiapwil/glassy-gnome": [],
     "equalsraf/win32yank": [
         "Windows"
     ],
@@ -507,6 +510,7 @@
     "openshift-quickstart/owncloud-openshift-quickstart": [
         "OpenShift"
     ],
+    "p-e-w/argos": [],
     "pallets/click": [
         "Python"
     ],
