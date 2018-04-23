@@ -240,6 +240,7 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "dotnet/dotnet-docker": [],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
@@ -254,6 +255,7 @@
         "Jekyll",
         "CSS"
     ],
+    "ekibun/QQNotfAndShare": [],
     "ekpyron/ktxutils": [
         "Unity"
     ],

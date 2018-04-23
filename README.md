@@ -258,6 +258,7 @@
 * [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
+* [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.
 * [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
 * [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
 * [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
@@ -296,6 +297,7 @@
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
+* [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): QQ通知增强+分享转发
 * [replit/repl.it](https://github.com/replit/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
