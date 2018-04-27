@@ -249,8 +249,8 @@
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
-* [LiuLang/bcloud](https://github.com/LiuLang/bcloud): 百度网盘的linux桌面客户端
-* [LiuLang/bcloud-packages](https://github.com/LiuLang/bcloud-packages): bcloud 的安装包
+* [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
+* [XuShaohua/bcloud-packages](https://github.com/XuShaohua/bcloud-packages): bcloud 的安装包
 * [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
@@ -276,6 +276,7 @@
 * [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
 * [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
+* [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files; as of V3.0, the script can also modify line breaks. The script is customisable through its YAML interface.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 * [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε

@@ -119,6 +119,8 @@
     ],
     "Windos/BurntToast": [],
     "Xfennec/progress": [],
+    "XuShaohua/bcloud": [],
+    "XuShaohua/bcloud-packages": [],
     "Yggdroot/indentLine": [
         "Vim"
     ],
@@ -205,6 +207,7 @@
     "chemzqm/wept": [
         "WeChat Mini Program/Develop"
     ],
+    "cmhughes/latexindent.pl": [],
     "coderstory/Mi-Purify": [
         "Android/Xposed/Utility/XiaoMi"
     ],
