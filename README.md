@@ -246,6 +246,7 @@
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
 * [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
+* [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
 * [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
