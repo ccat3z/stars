@@ -283,6 +283,7 @@
 * [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode](https://github.com/Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode): mm
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
+* [linusyang92/mipay-extract](https://github.com/linusyang92/mipay-extract): Extract Mi Pay from MIUI China Rom
 * [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
