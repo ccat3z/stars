@@ -244,7 +244,7 @@
 ## Other
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance and Launch it (for Windows 10 FCU 64bit or later)
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
 * [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
 * [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
