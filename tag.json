@@ -125,6 +125,7 @@
         "Vim"
     ],
     "Yinzo/SmartQQBot": [],
+    "ZeekoZhu/TextTemplatingCore": [],
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
@@ -525,6 +526,7 @@
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
+    "pawelsalawa/sqlitestudio": [],
     "pdudits/soundlibs": [],
     "phocean/TopIcons-plus": [],
     "pnigos/hookjs": [],
