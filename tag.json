@@ -244,6 +244,8 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "dotnet-architecture/eShopOnContainers": [],
+    "dotnet-architecture/eShopOnWeb": [],
     "dotnet/dotnet-docker": [],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
