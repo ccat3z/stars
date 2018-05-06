@@ -3,6 +3,7 @@
   * [.NET](#.net)
     * [.NET Core](#.net-core)
       * [ASP.NET Core](#asp.net-core)
+      * [EF Core](#ef-core)
   * [Android](#android)
     * [APP](#app)
       * [Entertainment](#entertainment)
@@ -14,6 +15,7 @@
         * [XiaoMi](#xiaomi)
   * [Arduino](#arduino)
   * [Awesome](#awesome)
+  * [BaiduPan](#baidupan)
   * [Blog](#blog)
   * [C](#c)
     * [JSON](#json)
@@ -48,6 +50,7 @@
     * [Gnome](#gnome)
       * [Extension](#extension)
       * [Theme](#theme-1)
+    * [Kernel](#kernel)
     * [Utility](#utility-3)
       * [Surface](#surface)
       * [Windows Manager](#windows-manager)
@@ -77,7 +80,6 @@
   * [Web](#web-1)
     * [API](#api-1)
     * [JavaScript](#javascript-1)
-    * [Javascript](#javascript-2)
     * [SSL](#ssl)
     * [Tutorial](#tutorial-1)
   * [Windows](#windows-1)
@@ -100,6 +102,8 @@
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.0 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 * [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 2.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
+#### EF Core
+* [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
 ## Android
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
@@ -145,6 +149,9 @@
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 ## Awesome
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+## BaiduPan
+* [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
+* [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 ## Blog
 * [c0ldcat/hackwlb-server](https://github.com/c0ldcat/hackwlb-server): c0ldcat's website ❤
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
@@ -169,11 +176,13 @@
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
 * [portainer/portainer](https://github.com/portainer/portainer): Simple management UI for Docker
+* [v2tec/watchtower](https://github.com/v2tec/watchtower): Automatically update running Docker containers
 ## Font
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
 * [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 * [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕
+* [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
 ## GFW
 * [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
 * [getlantern/forum](https://github.com/getlantern/forum): 蓝灯(Lantern)官方论坛
@@ -184,6 +193,7 @@
 * [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): If you want to keep a secret, you must also hide it from yourself.
 * [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
 * [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
+* [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
 ## Game
 * [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
 ### Ingress
@@ -211,6 +221,7 @@
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
 ## Java
+* [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 * [ferbar/jmagick](https://github.com/ferbar/jmagick): None
 ### JSON
@@ -257,11 +268,16 @@
 * [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [gTile/gTile](https://github.com/gTile/gTile): A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
+* [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
 * [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
+* [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 #### Theme
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
+* [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
+### Kernel
+* [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
 ### Utility
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
 * [XuShaohua/bcloud-packages](https://github.com/XuShaohua/bcloud-packages): bcloud 的安装包
@@ -270,6 +286,7 @@
 * [lodevil/daemon-manager](https://github.com/lodevil/daemon-manager): user tool for creating and managing daemons
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
 * [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
+* [jaagr/polybar](https://github.com/jaagr/polybar): A fast and easy-to-use status bar
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 * [hmrc/service-manager](https://github.com/hmrc/service-manager): A python tool to manage developing and testing with lots of microservices
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
@@ -297,38 +314,18 @@
 * [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
-* [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
-* [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
-* [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
-* [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
-* [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
-* [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
-* [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
-* [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
-* [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): 一款开源免费的输入法词库转换程序
 * [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
-* [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
-* [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
-* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
-* [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
-* [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
-* [jaagr/polybar](https://github.com/jaagr/polybar): A fast and easy-to-use status bar
-* [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
-* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python-web入坑指南
-* [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
 * [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): QQ通知增强+分享转发
 * [replit/repl.it](https://github.com/replit/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
@@ -337,18 +334,13 @@
 * [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
 * [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
-* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
-* [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
-* [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
-* [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
-* [v2tec/watchtower](https://github.com/v2tec/watchtower): Automatically update running Docker containers
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-* [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
 ## PowerShell
 * [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
 ## Python
+* [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [pallets/click](https://github.com/pallets/click): Python composable command line utility
 * [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
@@ -358,9 +350,14 @@
 ### API
 * [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python): OneDrive SDK for Python! https://dev.onedrive.com 
 ### Tutorial
+* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python-web入坑指南
+* [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 ## QQ
 * [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
+* [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
+* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
 ## Resource
 * [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos
@@ -378,6 +375,8 @@
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 * [jgraph/drawio](https://github.com/jgraph/drawio): Source to www.draw.io
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
+* [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
+* [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): 一款开源免费的输入法词库转换程序
 * [ledger/ledger](https://github.com/ledger/ledger): Double-entry accounting system with a command-line reporting interface
 * [lingfengsan/MillionHero](https://github.com/lingfengsan/MillionHero): 百万英雄/冲顶大会答题助手 
 * [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本
@@ -415,10 +414,12 @@
 * [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
+* [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
 ## WeChat
 * [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+* [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
 ## WeChat Mini Program
 * [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
@@ -433,9 +434,9 @@
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 ### JavaScript
 * [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js): Give your pages some headroom. Hide your header until you need it
-* [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-### Javascript
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
+* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
+* [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
 ### SSL
 * [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol
 ### Tutorial
@@ -447,6 +448,8 @@
 #### Module
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 ### Terminal
+* [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
+* [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
 #### Utility
 * [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch): Powershell port of bash/unix screenfetch.
 ### Utility
@@ -466,6 +469,7 @@
 * [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
 * [goreliu/wsl-terminal](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
 ## Zsh
