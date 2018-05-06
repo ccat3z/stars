@@ -1,5 +1,5 @@
 {
-    "Airblader/i3": [],
+    "Airblader/i3": [ "Linux/Utility/Windows Manager" ],
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
@@ -7,7 +7,7 @@
         "Linux/Utility"
     ],
     "BUPT-HJM/fun-photo-combine": [],
-    "CTeX-org/lshort-cn": [],
+    "CTeX-org/lshort-cn": [ "LaTeX" ],
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
@@ -62,15 +62,15 @@
         "Game/KSP"
     ],
     "KaitoHH/AnyCodeToBmp": [],
-    "Kozea/wdb": [],
-    "LiuLang/bcloud": [],
-    "LiuLang/bcloud-packages": [],
-    "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [],
-    "Maximus5/ConEmu": [],
-    "Microsoft/WSL": [],
-    "Microsoft/WSL-DistroLauncher": [],
-    "MrKiven/PyZh": [],
-    "NanoHttpd/nanohttpd": [],
+    "Kozea/wdb": [ "Web" ],
+    "LiuLang/bcloud": [ "Linux/Utility" ],
+    "LiuLang/bcloud-packages": [ "Linux/Utility" ],
+    "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [ "Android/Magick" ],
+    "Maximus5/ConEmu": [ "Windows/Utility/ConEmu" ],
+    "Microsoft/WSL": [ "Windows/Utility/WSL" ],
+    "Microsoft/WSL-DistroLauncher": [ "Windows/Utility/WSL" ],
+    "MrKiven/PyZh": [ "Python/Tutorial" ],
+    "NanoHttpd/nanohttpd": [ "Java/Web" ],
     "Neilpang/acme.sh": [
         "Web/SSL"
     ],
@@ -90,7 +90,7 @@
     "SirVer/ultisnips": [
         "Vim"
     ],
-    "SkiaWorks/Awesome_APIs": [],
+    "SkiaWorks/Awesome_APIs": [ "Web/API" ],
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
@@ -117,15 +117,15 @@
     "WickyNilliams/headroom.js": [
         "Web/JavaScript"
     ],
-    "Windos/BurntToast": [],
-    "Xfennec/progress": [],
-    "XuShaohua/bcloud": [],
-    "XuShaohua/bcloud-packages": [],
+    "Windos/BurntToast": [ "Windows/PowerShell/Module" ],
+    "Xfennec/progress": [ "Linux/Utility" ],
+    "XuShaohua/bcloud": [ "Linux/Utility" ],
+    "XuShaohua/bcloud-packages": [ "Linux/Utility" ],
     "Yggdroot/indentLine": [
         "Vim"
     ],
-    "Yinzo/SmartQQBot": [],
-    "ZeekoZhu/TextTemplatingCore": [],
+    "Yinzo/SmartQQBot": [ "QQ" ],
+    "ZeekoZhu/TextTemplatingCore": [ ".NET" ],
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
@@ -133,7 +133,7 @@
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
-    "adapta-project/adapta-gtk-theme": [],
+    "adapta-project/adapta-gtk-theme": [ "Linux/Gnome/Theme" ],
     "adobe-fonts/source-code-pro": [
         "Font"
     ],
@@ -152,7 +152,7 @@
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
-    "archlinuxcn/repo": [],
+    "archlinuxcn/repo": [ "Linux/Arch Linux" ],
     "artisologic/github-stars-tagger": [
         "GitHub"
     ],
@@ -168,13 +168,13 @@
     "attractivechaos/klib": [
         "C"
     ],
-    "baskerville/bspwm": [],
+    "baskerville/bspwm": [ "Linux/Windows Manager" ],
     "be5invis/Iosevka": [
         "Font"
     ],
-    "be5invis/Sarasa-Gothic": [],
-    "bestwu/docker-qq": [],
-    "bilelmoussaoui/Hardcode-Tray": [],
+    "be5invis/Sarasa-Gothic": [ "Font" ],
+    "bestwu/docker-qq": [ "QQ" ],
+    "bilelmoussaoui/Hardcode-Tray": [ "Linux/Utility" ],
     "billziss-gh/winfsp": [
         "Windows"
     ],
@@ -208,11 +208,11 @@
     "chemzqm/wept": [
         "WeChat Mini Program/Develop"
     ],
-    "cmhughes/latexindent.pl": [],
+    "cmhughes/latexindent.pl": [ "LaTeX" ],
     "coderstory/Mi-Purify": [
         "Android/Xposed/Utility/XiaoMi"
     ],
-    "coleifer/peewee": [],
+    "coleifer/peewee": [ "Python" ],
     "cs01/gdbgui": [
         "C/Utility"
     ],
@@ -222,7 +222,7 @@
     "ctrlpvim/ctrlp.vim": [
         "Vim"
     ],
-    "d4nj1/TLPUI": [],
+    "d4nj1/TLPUI": [ "Linux/Utility" ],
     "daattali/beautiful-jekyll": [
         "Jekyll"
     ],
@@ -244,9 +244,9 @@
     "docker-library/openjdk": [
         "Docker"
     ],
-    "dotnet-architecture/eShopOnContainers": [],
-    "dotnet-architecture/eShopOnWeb": [],
-    "dotnet/dotnet-docker": [],
+    "dotnet-architecture/eShopOnContainers": [ ".NET/.NET Core/ASP.NET Core" ],
+    "dotnet-architecture/eShopOnWeb": [ ".NET/.NET Core/ASP.NET Core" ],
+    "dotnet/dotnet-docker": [ ".NET/.NET Core/ASP.NET Core" ],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
@@ -265,14 +265,14 @@
     "ekpyron/ktxutils": [
         "Unity"
     ],
-    "emasab/shelltile": [],
+    "emasab/shelltile": [ "Linux/Gnome/Extension" ],
     "embear/vim-localvimrc": [
         "Vim"
     ],
     "emeraldwalk/vscode-runonsave": [
         "VS Code"
     ],
-    "emiapwil/glassy-gnome": [],
+    "emiapwil/glassy-gnome": [ "Linux/Gnome/Extension" ],
     "equalsraf/win32yank": [
         "Windows"
     ],
@@ -295,7 +295,7 @@
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
-    "gTile/gTile": [],
+    "gTile/gTile": [ "Linux/Gnome/Extension" ],
     "geeeeeeeeek/electronic-wechat": [
         "WeChat"
     ],
@@ -320,7 +320,7 @@
     "github-tools/github": [
         "GitHub"
     ],
-    "gliffy/canvas2svg": [],
+    "gliffy/canvas2svg": [ "Linux/Utility" ],
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
@@ -440,7 +440,7 @@
     "lingfengsan/MillionHero": [
         "Utility"
     ],
-    "linusyang92/mipay-extract": [],
+    "linusyang92/mipay-extract": [ "Android/MIUI" ],
     "littlecodersh/ItChat": [
         "WeChat"
     ],
@@ -521,22 +521,22 @@
     "openshift-quickstart/owncloud-openshift-quickstart": [
         "OpenShift"
     ],
-    "p-e-w/argos": [],
+    "p-e-w/argos": [ "Linux/Gnome/Extension" ],
     "pallets/click": [
         "Python"
     ],
-    "paradoxxxzero/gnome-shell-system-monitor-applet": [],
+    "paradoxxxzero/gnome-shell-system-monitor-applet": [ "Linux/Gnome/Extension" ],
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
     "pawelsalawa/sqlitestudio": [],
     "pdudits/soundlibs": [],
-    "phocean/TopIcons-plus": [],
-    "pnigos/hookjs": [],
+    "phocean/TopIcons-plus": [ "Linux/Gnome/Extension" ],
+    "pnigos/hookjs": [ "Web/Javascript" ],
     "portainer/portainer": [
         "Docker"
     ],
-    "prikhi/lightdm-mini-greeter": [],
+    "prikhi/lightdm-mini-greeter": [ "Linux/Display Manager" ],
     "pypa/pipenv": [
         "Python"
     ],
