@@ -1,15 +1,15 @@
 {
     "Airblader/i3": [
-        "Linux/Utility/Windows Manager"
+        "Linux/GUI/Windows Manager"
     ],
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
     "AykoPoel/surface3-scripts": [
-        "Linux/Utility"
+        "Linux/Devices/Surface"
     ],
     "BUPT-HJM/fun-photo-combine": [
-        "QQ"
+        "Chinese APP Hack/QQ"
     ],
     "CTeX-org/lshort-cn": [
         "LaTeX"
@@ -62,7 +62,7 @@
         "Windows/Utility"
     ],
     "JulianChow94/Windows-screenFetch": [
-        "Windows/Terminal/Utility"
+        "Windows/PowerShell"
     ],
     "KSP-CKAN/CKAN": [
         "Game/KSP"
@@ -81,13 +81,13 @@
         "Android/Magick"
     ],
     "Maximus5/ConEmu": [
-        "Windows/Utility/ConEmu"
+        "Windows/Terminal/ConEmu"
     ],
     "Microsoft/WSL": [
-        "Windows/Utility/WSL"
+        "Windows/WSL"
     ],
     "Microsoft/WSL-DistroLauncher": [
-        "Windows/Utility/WSL"
+        "Windows/WSL"
     ],
     "MrKiven/PyZh": [
         "Python/Tutorial"
@@ -149,7 +149,7 @@
         "Web/JavaScript"
     ],
     "Windos/BurntToast": [
-        "Windows/PowerShell/Module"
+        "Windows/PowerShell"
     ],
     "Xfennec/progress": [
         "Linux/Utility"
@@ -164,7 +164,7 @@
         "Vim"
     ],
     "Yinzo/SmartQQBot": [
-        "QQ"
+        "Chinese APP Hack/QQ"
     ],
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
@@ -173,13 +173,13 @@
         "Android/Xposed"
     ],
     "acgotaku/BaiduExporter": [
-        "BaiduPan"
+        "Chinese APP Hack/Baidu Pan"
     ],
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
     "adapta-project/adapta-gtk-theme": [
-        "Linux/Gnome/Theme"
+        "Linux/GUI/Display Manager/Gnome/Theme"
     ],
     "adobe-fonts/source-code-pro": [
         "Font"
@@ -200,7 +200,7 @@
         "Android/Xposed"
     ],
     "archlinuxcn/repo": [
-        "Linux/Arch Linux"
+        "Linux/Distribution/Arch Linux"
     ],
     "artisologic/github-stars-tagger": [
         "GitHub"
@@ -218,7 +218,7 @@
         "C"
     ],
     "baskerville/bspwm": [
-        "Linux/Windows Manager"
+        "Linux/GUI/Windows Manager"
     ],
     "be5invis/Iosevka": [
         "Font"
@@ -227,7 +227,7 @@
         "Font"
     ],
     "bestwu/docker-qq": [
-        "QQ"
+        "Chinese APP Hack/QQ"
     ],
     "bilelmoussaoui/Hardcode-Tray": [
         "Linux/Utility"
@@ -290,10 +290,10 @@
         "Jekyll"
     ],
     "dahlbyk/posh-git": [
-        "PowerShell"
+        "Windows/PowerShell"
     ],
     "danielquinn/Gentoo-Surface-Pro-3": [
-        "Linux/Utility/Surface"
+        "Linux/Device/Surface"
     ],
     "darknessomi/musicbox": [
         "Utility"
@@ -335,7 +335,7 @@
         "Unity"
     ],
     "emasab/shelltile": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "embear/vim-localvimrc": [
         "Vim"
@@ -344,13 +344,13 @@
         "VS Code"
     ],
     "emiapwil/glassy-gnome": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "equalsraf/win32yank": [
         "Windows"
     ],
     "ety001/wx_msg": [
-        "WeChat"
+        "Chinese APP Hack/WeChat"
     ],
     "fcitx/fcitx": [
         "Linux"
@@ -371,10 +371,10 @@
         "Vim"
     ],
     "gTile/gTile": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "geeeeeeeeek/electronic-wechat": [
-        "WeChat"
+        "Chinese APP Hack/WeChat"
     ],
     "gelstudios/gitfiti": [
         "GitHub"
@@ -431,7 +431,7 @@
         "Linux/Utility"
     ],
     "horst3180/arc-theme": [
-        "Linux/Gnome/Theme"
+        "Linux/GUI/Display Manager/Gnome/Theme"
     ],
     "hwhw/kindlevncviewer": [
         "Kindle"
@@ -440,7 +440,7 @@
         "Web/JavaScript"
     ],
     "iikira/BaiduPCS-Go": [
-        "BaiduPan"
+        "Chinese APP Hack/Baidu Pan"
     ],
     "iitc-project/ingress-intel-total-conversion": [
         "Game/Ingress"
@@ -470,13 +470,13 @@
         "Vim"
     ],
     "jimdigriz/debian-mssp4": [
-        "Linux/Utility/Surface"
+        "Linux/Device/Surface"
     ],
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
     "joonro/ConEmu-Color-Themes": [
-        "Windows/Utility/ConEmu"
+        "Windows/Terminal/ConEmu"
     ],
     "jsnjycwyz/QQUnrecalled": [
         "Android/Xposed"
@@ -494,7 +494,7 @@
         "VS Code"
     ],
     "karlin/mintty-colors-solarized": [
-        "Windows/Utility/Mintty"
+        "Windows/Terminal/Mintty"
     ],
     "kesenhoo/android-training-course-in-chinese": [
         "Android"
@@ -531,7 +531,7 @@
         "Android/MIUI"
     ],
     "littlecodersh/ItChat": [
-        "WeChat"
+        "Chinese APP Hack/WeChat"
     ],
     "liubaoyua/CustomText": [
         "Android/Xposed"
@@ -559,7 +559,7 @@
         "Windows/Utility"
     ],
     "lzybkr/PSReadLine": [
-        "Windows/Utility"
+        "Windows/PowerShell"
     ],
     "m13253/BiliDan": [
         "Utility"
@@ -575,10 +575,10 @@
     ],
     "matteoserva/MegaFuse": [],
     "matthewwardrop/linux-surfacepro3": [
-        "Linux/Utility/Surface"
+        "Linux/Device/Surface"
     ],
     "mavnn/mintty-colors-solarized": [
-        "Windows/Utility/Mintty"
+        "Windows/Terminal/Mintty"
     ],
     "meefik/linuxdeploy": [
         "Android/APP"
@@ -613,13 +613,13 @@
         "OpenShift"
     ],
     "p-e-w/argos": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "pallets/click": [
         "Python"
     ],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "pattex/jekyll-tagging": [
         "Jekyll"
@@ -627,7 +627,7 @@
     "pawelsalawa/sqlitestudio": [],
     "pdudits/soundlibs": [],
     "phocean/TopIcons-plus": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "pnigos/hookjs": [
         "Web/JavaScript"
@@ -650,7 +650,7 @@
         "Zsh"
     ],
     "rosghub/TLP-Switcher": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
@@ -668,15 +668,13 @@
         "Vim"
     ],
     "shadowsocks/shadowsocks-windows": [
-        "GFW",
-        "Windows/Utility"
+        "GFW"
     ],
     "shadowsocksr-backup/shadowsocksr": [
         "GFW"
     ],
     "shadowsocksrr/shadowsocksr-csharp": [
-        "GFW",
-        "Windows/Utility"
+        "GFW"
     ],
     "shenfeng/tiny-web-server": [],
     "shengxinjing/programmer-job-blacklist": [],
@@ -689,10 +687,10 @@
     ],
     "simonmichael/hledger": [],
     "sjdy521/Mojo-Webqq": [
-        "QQ"
+        "Chinese APP Hack/QQ"
     ],
     "sjdy521/Mojo-Weixin": [
-        "WeChat"
+        "Chinese APP Hack/WeChat"
     ],
     "skilion/onedrive": [],
     "skylot/jadx": [
@@ -709,7 +707,7 @@
         "Jekyll"
     ],
     "snwh/paper-gtk-theme": [
-        "Linux/Gnome/Theme"
+        "Linux/GUI/Display Manager/Gnome/Theme"
     ],
     "sparksuite/simplemde-markdown-editor": [],
     "sqlitebrowser/sqlitebrowser": [],
@@ -763,16 +761,16 @@
         "Vim"
     ],
     "wangshub/wechat_jump_game": [
-        "WeChat Mini Program"
+        "Chinese APP Hack/WeChat/Mini Program"
     ],
     "wangxian/alpine-mysql": [
         "Docker"
     ],
     "wengxt/kimpanel-for-gnome-shell": [
-        "Linux/Gnome/Extension"
+        "Linux/GUI/Display Manager/Gnome/Extension"
     ],
     "xiehuc/pidgin-lwqq": [
-        "QQ"
+        "Chinese APP Hack/QQ"
     ],
     "xuhdev/vim-latex-live-preview": [
         "Vim"
