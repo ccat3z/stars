@@ -6,7 +6,7 @@
         "Android/APP/Entertainment"
     ],
     "AykoPoel/surface3-scripts": [
-        "Linux/Devices/Surface"
+        "Linux/Device/Surface"
     ],
     "BUPT-HJM/fun-photo-combine": [
         "Chinese APP Hack/QQ"
@@ -31,13 +31,13 @@
         "Game"
     ],
     "Doreamonsky/Course-table": [
-        "WeChat Mini Program/Utility"
+        "WeChat/Mini Program/Utility"
     ],
     "Doreamonsky/Shnu-Cas-Login": [
         "Spider"
     ],
     "EastWorld/wechat-app-mall": [
-        "WeChat Mini Program/Utility"
+        "WeChat/Mini Program/Develop"
     ],
     "Edenhofer/Minimalism-Gnome-Shell": [
         "Gnome Shell Extensions"
@@ -179,7 +179,7 @@
         "Arduino"
     ],
     "adapta-project/adapta-gtk-theme": [
-        "Linux/GUI/Display Manager/Gnome/Theme"
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "adobe-fonts/source-code-pro": [
         "Font"
@@ -233,7 +233,7 @@
         "Linux/Utility"
     ],
     "billziss-gh/winfsp": [
-        "Windows"
+        "Windows/Utility"
     ],
     "binux/ThunderLixianExporter": [
         "Utility"
@@ -263,7 +263,7 @@
         "Docker"
     ],
     "chemzqm/wept": [
-        "WeChat Mini Program/Develop"
+        "WeChat/Mini Program/Develop"
     ],
     "cmhughes/latexindent.pl": [
         "LaTeX"
@@ -328,14 +328,14 @@
     ],
     "egoist/hack": [
         "Jekyll",
-        "CSS"
+        "Web/CSS"
     ],
     "ekibun/QQNotfAndShare": [],
     "ekpyron/ktxutils": [
         "Unity"
     ],
     "emasab/shelltile": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "embear/vim-localvimrc": [
         "Vim"
@@ -344,10 +344,10 @@
         "VS Code"
     ],
     "emiapwil/glassy-gnome": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "equalsraf/win32yank": [
-        "Windows"
+        "Windows/Utitity"
     ],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
@@ -371,7 +371,7 @@
         "Vim"
     ],
     "gTile/gTile": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "geeeeeeeeek/electronic-wechat": [
         "Chinese APP Hack/WeChat"
@@ -431,7 +431,7 @@
         "Linux/Utility"
     ],
     "horst3180/arc-theme": [
-        "Linux/GUI/Display Manager/Gnome/Theme"
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "hwhw/kindlevncviewer": [
         "Kindle"
@@ -613,13 +613,13 @@
         "OpenShift"
     ],
     "p-e-w/argos": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "pallets/click": [
         "Python"
     ],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "pattex/jekyll-tagging": [
         "Jekyll"
@@ -627,7 +627,7 @@
     "pawelsalawa/sqlitestudio": [],
     "pdudits/soundlibs": [],
     "phocean/TopIcons-plus": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "pnigos/hookjs": [
         "Web/JavaScript"
@@ -636,7 +636,7 @@
         "Docker"
     ],
     "prikhi/lightdm-mini-greeter": [
-        "Linux/Display Manager"
+        "Linux/GUI/Display Manager"
     ],
     "pypa/pipenv": [
         "Python"
@@ -650,7 +650,7 @@
         "Zsh"
     ],
     "rosghub/TLP-Switcher": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
@@ -707,7 +707,7 @@
         "Jekyll"
     ],
     "snwh/paper-gtk-theme": [
-        "Linux/GUI/Display Manager/Gnome/Theme"
+        "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "sparksuite/simplemde-markdown-editor": [],
     "sqlitebrowser/sqlitebrowser": [],
@@ -767,7 +767,7 @@
         "Docker"
     ],
     "wengxt/kimpanel-for-gnome-shell": [
-        "Linux/GUI/Display Manager/Gnome/Extension"
+        "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "xiehuc/pidgin-lwqq": [
         "Chinese APP Hack/QQ"
