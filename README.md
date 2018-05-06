@@ -19,7 +19,6 @@
   * [C](#c)
     * [JSON](#json)
     * [Utility](#utility-2)
-  * [CSS](#css)
   * [Chinese APP Hack](#chinese-app-hack)
     * [Baidu Pan](#baidu-pan)
     * [QQ](#qq)
@@ -51,16 +50,14 @@
   * [Linux](#linux)
     * [Device](#device)
       * [Surface](#surface)
-    * [Devices](#devices)
-      * [Surface](#surface-1)
-    * [Display Manager](#display-manager)
     * [Distribution](#distribution)
       * [Arch Linux](#arch-linux)
     * [GUI](#gui)
-      * [Display Manager](#display-manager-1)
+      * [Desktop Environment](#desktop-environment)
         * [Gnome](#gnome)
           * [Extension](#extension)
           * [Theme](#theme-1)
+      * [Display Manager](#display-manager)
       * [Windows Manager](#windows-manager)
     * [Kernel](#kernel)
     * [Utility](#utility-3)
@@ -80,11 +77,13 @@
   * [Utility](#utility-4)
   * [VS Code](#vs-code)
   * [Vim](#vim)
-  * [WeChat Mini Program](#wechat-mini-program)
-    * [Develop](#develop)
-    * [Utility](#utility-5)
+  * [WeChat](#wechat-1)
+    * [Mini Program](#mini-program-1)
+      * [Develop](#develop)
+      * [Utility](#utility-5)
   * [Web](#web-1)
     * [API](#api-1)
+    * [CSS](#css)
     * [JavaScript](#javascript-1)
     * [SSL](#ssl)
     * [Tutorial](#tutorial-1)
@@ -94,6 +93,7 @@
       * [ConEmu](#conemu)
       * [Mintty](#mintty)
     * [Utility](#utility-6)
+    * [Utitity](#utitity)
     * [WSL](#wsl)
   * [Zsh](#zsh)
 
@@ -164,8 +164,6 @@
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 ### Utility
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-## CSS
-* [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
 ## Chinese APP Hack
 ### Baidu Pan
 * [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
@@ -280,16 +278,12 @@
 * [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
 * [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
 * [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
-### Devices
-#### Surface
 * [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
-### Display Manager
-* [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 ### Distribution
 #### Arch Linux
 * [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
 ### GUI
-#### Display Manager
+#### Desktop Environment
 ##### Gnome
 ###### Extension
 * [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
@@ -304,6 +298,8 @@
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
 * [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
+#### Display Manager
+* [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 #### Windows Manager
 * [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
 * [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
@@ -430,16 +426,19 @@
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
-## WeChat Mini Program
-### Develop
-* [chemzqm/wept](https://github.com/chemzqm/wept): 微信小程序 web 端实时运行工具
-### Utility
-* [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
+## WeChat
+### Mini Program
+#### Develop
 * [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店
+* [chemzqm/wept](https://github.com/chemzqm/wept): 微信小程序 web 端实时运行工具
+#### Utility
+* [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
 ## Web
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
 ### API
 * [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
+### CSS
+* [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
 ### JavaScript
 * [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js): Give your pages some headroom. Hide your header until you need it
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
@@ -450,8 +449,6 @@
 ### Tutorial
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
 ## Windows
-* [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
-* [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### PowerShell
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
@@ -469,6 +466,9 @@
 ### Utility
 * [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
+* [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
+### Utitity
+* [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
