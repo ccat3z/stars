@@ -8,10 +8,12 @@
     "AykoPoel/surface3-scripts": [
         "Linux/Utility"
     ],
-    "BUPT-HJM/fun-photo-combine": [],
+    "BUPT-HJM/fun-photo-combine": [ "QQ" ],
     "CTeX-org/lshort-cn": [
         "LaTeX"
     ],
+    "BUPT-HJM/fun-photo-combine": [ "QQ" ],
+    "CTeX-org/lshort-cn": [ "LaTeX" ],
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
@@ -99,8 +101,8 @@
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
-    "PegasusWang/python-web-guide": [],
-    "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [],
+    "PegasusWang/python-web-guide": [ "Python/Tutorial" ],
+    "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [ ".NET/.NET Core/EF Core" ],
     "PyCQA/pep8-naming": [
         "Python"
     ],
@@ -166,7 +168,7 @@
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
-    "acgotaku/BaiduExporter": [],
+    "acgotaku/BaiduExporter": [ "BaiduPan" ],
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
@@ -350,7 +352,7 @@
     "felixrieseberg/npm-windows-upgrade": [
         "Node.js/Windows"
     ],
-    "felixse/FluentTerminal": [],
+    "felixse/FluentTerminal": [ "Windows/Terminal" ],
     "ferbar/jmagick": [
         "Java"
     ],
@@ -429,7 +431,7 @@
     "iamdanfox/typetype": [
         "Web/JavaScript"
     ],
-    "iikira/BaiduPCS-Go": [],
+    "iikira/BaiduPCS-Go": [ "BaiduPan" ],
     "iitc-project/ingress-intel-total-conversion": [
         "Game/Ingress"
     ],
@@ -439,7 +441,7 @@
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
-    "jaagr/polybar": [],
+    "jaagr/polybar": [ "Linux/Utility" ],
     "janeczku/calibre-web": [
         "Utility"
     ],
@@ -498,11 +500,11 @@
     "kronik3r/daktilo": [
         "Jekyll"
     ],
-    "kvalo/ath10k-firmware": [],
+    "kvalo/ath10k-firmware": [ "Linux/Kernel" ],
     "ledger/ledger": [
         "Utility"
     ],
-    "lervag/vimtex": [],
+    "lervag/vimtex": [ "Vim" ],
     "libfuse/python-fuse": [
         "Python"
     ],
@@ -584,7 +586,7 @@
         "Utility",
         "Machine Learning"
     ],
-    "neilpa/cmd-colors-solarized": [],
+    "neilpa/cmd-colors-solarized": [ "Windows/Terminal" ],
     "nok/leap-motion-processing": [],
     "opengapps/all": [
         "Android/APP"
@@ -610,7 +612,7 @@
         "Linux/Gnome/Extension"
     ],
     "pnigos/hookjs": [
-        "Web/Javascript"
+        "Web/JavaScript"
     ],
     "portainer/portainer": [
         "Docker"
@@ -629,7 +631,7 @@
     "robbyrussell/oh-my-zsh": [
         "Zsh"
     ],
-    "rosghub/TLP-Switcher": [],
+    "rosghub/TLP-Switcher": [ "Linux/Gnome/Extension" ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
     ],
@@ -666,8 +668,8 @@
         "GitHub"
     ],
     "simonmichael/hledger": [],
-    "sjdy521/Mojo-Webqq": [],
-    "sjdy521/Mojo-Weixin": [],
+    "sjdy521/Mojo-Webqq": [ "QQ" ],
+    "sjdy521/Mojo-Weixin": [ "WeChat" ],
     "skilion/onedrive": [],
     "skylot/jadx": [
         "Java",
@@ -682,10 +684,10 @@
     "snaptortoise/jekyll-rss-feeds": [
         "Jekyll"
     ],
-    "snwh/paper-gtk-theme": [],
+    "snwh/paper-gtk-theme": [ "Linux/Gnome/Theme" ],
     "sparksuite/simplemde-markdown-editor": [],
     "sqlitebrowser/sqlitebrowser": [],
-    "studyzy/imewlconverter": [],
+    "studyzy/imewlconverter": [ "Utility" ],
     "sudar/vim-arduino-snippets": [
         "Vim",
         "Arduino"
@@ -694,7 +696,7 @@
         "Vim",
         "Arduino"
     ],
-    "syntaxhighlighter/syntaxhighlighter": [],
+    "syntaxhighlighter/syntaxhighlighter": [ "Web/JavaScript" ],
     "tclem/vim-arduino": [
         "Vim",
         "Arduino"
@@ -705,13 +707,13 @@
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
-    "tipsy/j2html": [],
-    "tkem/cachetools": [],
+    "tipsy/j2html": [ "Java" ],
+    "tkem/cachetools": [ "Python" ],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
     "txyyss/Lambda-Calculus": [],
-    "v2ray/v2ray-core": [],
-    "v2tec/watchtower": [],
+    "v2ray/v2ray-core": [ "GFW" ],
+    "v2tec/watchtower": [ "Docker" ],
     "veryyoung/QQLuckyMoney": [],
     "vim-awesome/vim-awesome": [
         "Vim"
@@ -728,18 +730,18 @@
     "wangxian/alpine-mysql": [
         "Docker"
     ],
-    "wengxt/kimpanel-for-gnome-shell": [],
-    "xiehuc/pidgin-lwqq": [],
+    "wengxt/kimpanel-for-gnome-shell": [ "Linux/Gnome/Extension" ],
+    "xiehuc/pidgin-lwqq": [ "QQ" ],
     "xuhdev/vim-latex-live-preview": [
         "Vim"
     ],
-    "yakumioto/YaHei-Consolas-Hybrid-1.12": [],
+    "yakumioto/YaHei-Consolas-Hybrid-1.12": [ "Font" ],
     "yangyangwithgnu/use_vim_as_ide": [
         "Vim"
     ],
-    "yidao620c/python3-cookbook": [],
-    "yudai/gotty": [],
-    "yuk7/ArchWSL": [],
+    "yidao620c/python3-cookbook": [ "Python/Tutorial" ],
+    "yudai/gotty": [ "Utility" ],
+    "yuk7/ArchWSL": [ "Windows/WSL" ],
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],
