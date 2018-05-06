@@ -15,12 +15,16 @@
         * [XiaoMi](#xiaomi)
   * [Arduino](#arduino)
   * [Awesome](#awesome)
-  * [BaiduPan](#baidupan)
   * [Blog](#blog)
   * [C](#c)
     * [JSON](#json)
     * [Utility](#utility-2)
   * [CSS](#css)
+  * [Chinese APP Hack](#chinese-app-hack)
+    * [Baidu Pan](#baidu-pan)
+    * [QQ](#qq)
+    * [WeChat](#wechat)
+      * [Mini Program](#mini-program)
   * [Computer Science](#computer-science)
   * [Docker](#docker)
   * [Font](#font)
@@ -45,26 +49,29 @@
   * [Kindle](#kindle)
   * [LaTeX](#latex)
   * [Linux](#linux)
-    * [Arch Linux](#arch-linux)
+    * [Device](#device)
+      * [Surface](#surface)
+    * [Devices](#devices)
+      * [Surface](#surface-1)
     * [Display Manager](#display-manager)
-    * [Gnome](#gnome)
-      * [Extension](#extension)
-      * [Theme](#theme-1)
+    * [Distribution](#distribution)
+      * [Arch Linux](#arch-linux)
+    * [GUI](#gui)
+      * [Display Manager](#display-manager-1)
+        * [Gnome](#gnome)
+          * [Extension](#extension)
+          * [Theme](#theme-1)
+      * [Windows Manager](#windows-manager)
     * [Kernel](#kernel)
     * [Utility](#utility-3)
-      * [Surface](#surface)
-      * [Windows Manager](#windows-manager)
-    * [Windows Manager](#windows-manager-1)
   * [Machine Learning](#machine-learning)
   * [Node.js](#node.js)
     * [Windows](#windows)
   * [OpenShift](#openshift)
   * [Other](#other)
-  * [PowerShell](#powershell)
   * [Python](#python)
     * [API](#api)
     * [Tutorial](#tutorial)
-  * [QQ](#qq)
   * [Resource](#resource)
   * [SBC](#sbc)
   * [Spider](#spider)
@@ -73,7 +80,6 @@
   * [Utility](#utility-4)
   * [VS Code](#vs-code)
   * [Vim](#vim)
-  * [WeChat](#wechat)
   * [WeChat Mini Program](#wechat-mini-program)
     * [Develop](#develop)
     * [Utility](#utility-5)
@@ -83,15 +89,12 @@
     * [SSL](#ssl)
     * [Tutorial](#tutorial-1)
   * [Windows](#windows-1)
-    * [PowerShell](#powershell-1)
-      * [Module](#module)
+    * [PowerShell](#powershell)
     * [Terminal](#terminal)
-      * [Utility](#utility-6)
-    * [Utility](#utility-7)
       * [ConEmu](#conemu)
       * [Mintty](#mintty)
-      * [WSL](#wsl)
-    * [WSL](#wsl-1)
+    * [Utility](#utility-6)
+    * [WSL](#wsl)
   * [Zsh](#zsh)
 
 # Star
@@ -149,9 +152,6 @@
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 ## Awesome
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-## BaiduPan
-* [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
-* [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 ## Blog
 * [c0ldcat/hackwlb-server](https://github.com/c0ldcat/hackwlb-server): c0ldcat's website ❤
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
@@ -166,6 +166,23 @@
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 ## CSS
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
+## Chinese APP Hack
+### Baidu Pan
+* [acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): Assistant for Baidu to export download links to aria2/aria2-rpc
+* [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
+### QQ
+* [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
+* [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
+* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
+* [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
+### WeChat
+* [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+* [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+* [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
+#### Mini Program
+* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
 ## Computer Science
 * [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial): A Bloom Filter Tutorial
 ## Docker
@@ -258,12 +275,23 @@
 * [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 ## Linux
 * [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
-### Arch Linux
-* [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
+### Device
+#### Surface
+* [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
+* [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
+* [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
+### Devices
+#### Surface
+* [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
 ### Display Manager
 * [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
-### Gnome
-#### Extension
+### Distribution
+#### Arch Linux
+* [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
+### GUI
+#### Display Manager
+##### Gnome
+###### Extension
 * [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
 * [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
@@ -272,10 +300,13 @@
 * [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
 * [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
-#### Theme
+###### Theme
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
 * [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
+#### Windows Manager
+* [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
+* [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 ### Kernel
 * [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
 ### Utility
@@ -291,16 +322,7 @@
 * [hmrc/service-manager](https://github.com/hmrc/service-manager): A python tool to manage developing and testing with lots of microservices
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
 * [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for UNIX
-* [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
 * [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI): A GTK user interface for TLP written in Python
-#### Surface
-* [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
-* [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
-* [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
-#### Windows Manager
-* [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-### Windows Manager
-* [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
 ## Machine Learning
 * [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
@@ -337,8 +359,6 @@
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-## PowerShell
-* [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
 ## Python
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [pallets/click](https://github.com/pallets/click): Python composable command line utility
@@ -353,12 +373,6 @@
 * [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python-web入坑指南
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
-## QQ
-* [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
-* [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
-* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
-* [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
 ## Resource
 * [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos
 ## SBC
@@ -416,13 +430,7 @@
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
 * [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
-## WeChat
-* [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
-* [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
-* [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-* [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
 ## WeChat Mini Program
-* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
 ### Develop
 * [chemzqm/wept](https://github.com/chemzqm/wept): 微信小程序 web 端实时运行工具
 ### Utility
@@ -445,31 +453,27 @@
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### PowerShell
-#### Module
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+* [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
+* [lzybkr/PSReadLine](https://github.com/lzybkr/PSReadLine): A bash inspired readline implementation for PowerShell
+* [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch): Powershell port of bash/unix screenfetch.
 ### Terminal
 * [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
 * [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
-#### Utility
-* [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch): Powershell port of bash/unix screenfetch.
-### Utility
-* [lzybkr/PSReadLine](https://github.com/lzybkr/PSReadLine): A bash inspired readline implementation for PowerShell
-* [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
-* [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): If you want to keep a secret, you must also hide it from yourself.
-* [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
-* [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 #### ConEmu
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Color themes for ConEmu
 #### Mintty
 * [karlin/mintty-colors-solarized](https://github.com/karlin/mintty-colors-solarized): Solarized theme for mintty
 * [mavnn/mintty-colors-solarized](https://github.com/mavnn/mintty-colors-solarized): None
-#### WSL
-* [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
-* [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
+### Utility
+* [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
+* [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)
+* [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
+* [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [goreliu/wsl-terminal](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
 ## Zsh
