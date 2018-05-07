@@ -515,6 +515,7 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "lauritzsh/pandoc-markdown-template": [],
     "ledger/ledger": [
         "Utility"
     ],
