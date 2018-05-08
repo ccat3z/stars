@@ -755,6 +755,8 @@
     "vim-awesome/vim-awesome": [
         "Vim"
     ],
+    "vim-pandoc/vim-pandoc": [],
+    "vim-pandoc/vim-pandoc-syntax": [],
     "vim-python/python-syntax": [
         "Vim"
     ],
