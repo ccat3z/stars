@@ -180,7 +180,7 @@
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
 #### Mini Program
-* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): python 微信《跳一跳》辅助
+* [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): 微信《跳一跳》Python 辅助
 ## Computer Science
 * [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial): A Bloom Filter Tutorial
 ## Docker
@@ -332,6 +332,7 @@
 * [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统

@@ -367,6 +367,7 @@
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
+    "frol/docker-alpine-glibc": [],
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
