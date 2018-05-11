@@ -341,6 +341,8 @@
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
+* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
+* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📔 Android client for Nextcloud Notes app.
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -357,6 +359,8 @@
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
+* [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
+* [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 ## Python

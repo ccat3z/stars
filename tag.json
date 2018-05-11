@@ -27,6 +27,7 @@
     "DeanIsMe/SevSeg": [
         "Arduino"
     ],
+    "DecaTec/Nextcloud-Backup-Restore": [],
     "Doreamonsky/CampusAdventure": [
         "Game"
     ],
@@ -238,6 +239,7 @@
     "binux/ThunderLixianExporter": [
         "Utility"
     ],
+    "blacklabelops/volumerize": [],
     "blanboom/Arduino-Task-Scheduler": [
         "Arduino"
     ],
@@ -551,6 +553,7 @@
     "lodevil/daemon-manager": [
         "Linux/Utility"
     ],
+    "loomchild/volume-backup": [],
     "loopeer/code-reader": [
         "Android/APP"
     ],
@@ -713,6 +716,7 @@
     ],
     "sparksuite/simplemde-markdown-editor": [],
     "sqlitebrowser/sqlitebrowser": [],
+    "stefan-niedermann/nextcloud-notes": [],
     "studyzy/imewlconverter": [
         "Utility"
     ],
