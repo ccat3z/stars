@@ -11,6 +11,7 @@
     "BUPT-HJM/fun-photo-combine": [
         "Chinese APP Hack/QQ"
     ],
+    "BYVoid/OpenCC": [],
     "CTeX-org/lshort-cn": [
         "LaTeX"
     ],
@@ -84,6 +85,7 @@
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
+    "Mayccoll/Gogh": [],
     "Microsoft/WSL": [
         "Windows/WSL"
     ],
@@ -170,6 +172,7 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
+    "aaron-williamson/base16-gnome-terminal": [],
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
@@ -522,6 +525,7 @@
     "ledger/ledger": [
         "Utility"
     ],
+    "lepture/opencc-python": [],
     "lervag/vimtex": [
         "Vim"
     ],

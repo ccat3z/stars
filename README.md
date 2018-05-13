@@ -332,7 +332,9 @@
 * [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
 * [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
+* [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
@@ -344,6 +346,8 @@
 * [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
 * [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📔 Android client for Nextcloud Notes app.
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
+* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
+* [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
