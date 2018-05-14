@@ -469,6 +469,7 @@
     "jekyll/jekyll-paginate": [
         "Jekyll"
     ],
+    "jgm/pandocfilters": [],
     "jgraph/drawio": [
         "Utility"
     ],
@@ -765,6 +766,7 @@
         "Vim"
     ],
     "vim-pandoc/vim-pandoc": [],
+    "vim-pandoc/vim-pandoc-after": [],
     "vim-pandoc/vim-pandoc-syntax": [],
     "vim-python/python-syntax": [
         "Vim"

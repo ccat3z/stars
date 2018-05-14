@@ -349,6 +349,7 @@
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
+* [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
@@ -362,6 +363,7 @@
 * [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 * [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
+* [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
 * [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
