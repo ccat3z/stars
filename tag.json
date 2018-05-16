@@ -763,7 +763,7 @@
     ],
     "veryyoung/QQLuckyMoney": ["Android/Xposed"],
     "vim-awesome/vim-awesome": [
-        "Vim""Android/Xposed"
+        "Vim"
     ],
     "vim-pandoc/vim-pandoc": ["Vim", "Pandoc"],
     "vim-pandoc/vim-pandoc-after": ["Vim", "Pandoc"],
