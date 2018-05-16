@@ -118,6 +118,7 @@
     "PyCQA/pep8-naming": [
         "Python"
     ],
+    "RaphaelRochet/arch-update": [],
     "Shougo/deoplete.nvim": [
         "Vim"
     ],
