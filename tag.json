@@ -28,7 +28,9 @@
     "DeanIsMe/SevSeg": [
         "Arduino"
     ],
-    "DecaTec/Nextcloud-Backup-Restore": ["Nextcloud"],
+    "DecaTec/Nextcloud-Backup-Restore": [
+        "Nextcloud"
+    ],
     "Doreamonsky/CampusAdventure": [
         "Game"
     ],
@@ -60,6 +62,7 @@
     "Jman420/magisk-permissive-script": [
         "Android/Magick"
     ],
+    "Jomik/vscode-search-provider": [],
     "Jonno12345/TileIconifier": [
         "Windows/Utility"
     ],
@@ -85,7 +88,9 @@
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
-    "Mayccoll/Gogh": ["Linux/Utility"],
+    "Mayccoll/Gogh": [
+        "Linux/Utility"
+    ],
     "Microsoft/WSL": [
         "Windows/WSL"
     ],
@@ -172,7 +177,9 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
-    "aaron-williamson/base16-gnome-terminal": ["Linux/Utility"],
+    "aaron-williamson/base16-gnome-terminal": [
+        "Linux/Utility"
+    ],
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
@@ -242,7 +249,9 @@
     "binux/ThunderLixianExporter": [
         "Utility"
     ],
-    "blacklabelops/volumerize": ["Docker"],
+    "blacklabelops/volumerize": [
+        "Docker"
+    ],
     "blanboom/Arduino-Task-Scheduler": [
         "Arduino"
     ],
@@ -335,7 +344,9 @@
         "Jekyll",
         "Web/CSS"
     ],
-    "ekibun/QQNotfAndShare": ["Android/APP/Utility"],
+    "ekibun/QQNotfAndShare": [
+        "Android/APP/Utility"
+    ],
     "ekpyron/ktxutils": [
         "Unity"
     ],
@@ -372,7 +383,9 @@
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
-    "frol/docker-alpine-glibc": ["Docker"],
+    "frol/docker-alpine-glibc": [
+        "Docker"
+    ],
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
@@ -469,7 +482,9 @@
     "jekyll/jekyll-paginate": [
         "Jekyll"
     ],
-    "jgm/pandocfilters": ["Pandoc"],
+    "jgm/pandocfilters": [
+        "Pandoc"
+    ],
     "jgraph/drawio": [
         "Utility"
     ],
@@ -522,11 +537,15 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
-    "lauritzsh/pandoc-markdown-template": ["Pandoc"],
+    "lauritzsh/pandoc-markdown-template": [
+        "Pandoc"
+    ],
     "ledger/ledger": [
         "Utility"
     ],
-    "lepture/opencc-python": ["Python"],
+    "lepture/opencc-python": [
+        "Python"
+    ],
     "lervag/vimtex": [
         "Vim"
     ],
@@ -558,7 +577,9 @@
     "lodevil/daemon-manager": [
         "Linux/Utility"
     ],
-    "loomchild/volume-backup": ["Docker"],
+    "loomchild/volume-backup": [
+        "Docker"
+    ],
     "loopeer/code-reader": [
         "Android/APP"
     ],
@@ -634,8 +655,12 @@
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
-    "pawelsalawa/sqlitestudio": ["SQLite"],
-    "pdudits/soundlibs": ["Java"],
+    "pawelsalawa/sqlitestudio": [
+        "SQLite"
+    ],
+    "pdudits/soundlibs": [
+        "Java"
+    ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -655,7 +680,9 @@
         "Vim"
     ],
     "replit/repl.it": [],
-    "rkalla/imgscalr": ["Java"],
+    "rkalla/imgscalr": [
+        "Java"
+    ],
     "robbyrussell/oh-my-zsh": [
         "Zsh"
     ],
@@ -686,7 +713,9 @@
     "shadowsocksrr/shadowsocksr-csharp": [
         "GFW"
     ],
-    "shenfeng/tiny-web-server": ["C"],
+    "shenfeng/tiny-web-server": [
+        "C"
+    ],
     "shengxinjing/programmer-job-blacklist": [],
     "sickp/docker-alpine-sshd": [
         "Docker"
@@ -702,7 +731,9 @@
     "sjdy521/Mojo-Weixin": [
         "Chinese APP Hack/WeChat"
     ],
-    "skilion/onedrive": ["Linux/Utility"],
+    "skilion/onedrive": [
+        "Linux/Utility"
+    ],
     "skylot/jadx": [
         "Java",
         "Android"
@@ -720,8 +751,12 @@
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "sparksuite/simplemde-markdown-editor": [],
-    "sqlitebrowser/sqlitebrowser": ["SQLite"],
-    "stefan-niedermann/nextcloud-notes": ["Nextcloud"],
+    "sqlitebrowser/sqlitebrowser": [
+        "SQLite"
+    ],
+    "stefan-niedermann/nextcloud-notes": [
+        "Nextcloud"
+    ],
     "studyzy/imewlconverter": [
         "Utility"
     ],
@@ -761,13 +796,24 @@
     "v2tec/watchtower": [
         "Docker"
     ],
-    "veryyoung/QQLuckyMoney": ["Android/Xposed"],
+    "veryyoung/QQLuckyMoney": [
+        "Android/Xposed"
+    ],
     "vim-awesome/vim-awesome": [
         "Vim"
     ],
-    "vim-pandoc/vim-pandoc": ["Vim", "Pandoc"],
-    "vim-pandoc/vim-pandoc-after": ["Vim", "Pandoc"],
-    "vim-pandoc/vim-pandoc-syntax": ["Vim", "Pandoc"],
+    "vim-pandoc/vim-pandoc": [
+        "Vim",
+        "Pandoc"
+    ],
+    "vim-pandoc/vim-pandoc-after": [
+        "Vim",
+        "Pandoc"
+    ],
+    "vim-pandoc/vim-pandoc-syntax": [
+        "Vim",
+        "Pandoc"
+    ],
     "vim-python/python-syntax": [
         "Vim"
     ],
@@ -798,6 +844,7 @@
     "yidao620c/python3-cookbook": [
         "Python/Tutorial"
     ],
+    "yoda-pa/yoda": [],
     "yudai/gotty": [
         "Utility"
     ],

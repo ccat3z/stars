@@ -11,14 +11,12 @@
     * [MIUI](#miui)
     * [Magick](#magick)
     * [Xposed](#xposed)
-      * [Utility](#utility-1)
-        * [XiaoMi](#xiaomi)
   * [Arduino](#arduino)
   * [Awesome](#awesome)
   * [Blog](#blog)
   * [C](#c)
     * [JSON](#json)
-    * [Utility](#utility-2)
+    * [Utility](#utility-1)
   * [Chinese APP Hack](#chinese-app-hack)
     * [Baidu Pan](#baidu-pan)
     * [QQ](#qq)
@@ -60,27 +58,30 @@
       * [Display Manager](#display-manager)
       * [Windows Manager](#windows-manager)
     * [Kernel](#kernel)
-    * [Utility](#utility-3)
+    * [Utility](#utility-2)
   * [Machine Learning](#machine-learning)
+  * [Nextcloud](#nextcloud)
   * [Node.js](#node.js)
     * [Windows](#windows)
   * [OpenShift](#openshift)
   * [Other](#other)
+  * [Pandoc](#pandoc)
   * [Python](#python)
     * [API](#api)
     * [Tutorial](#tutorial)
   * [Resource](#resource)
   * [SBC](#sbc)
+  * [SQLite](#sqlite)
   * [Spider](#spider)
   * [TeX](#tex)
   * [Unity](#unity)
-  * [Utility](#utility-4)
+  * [Utility](#utility-3)
   * [VS Code](#vs-code)
   * [Vim](#vim)
   * [WeChat](#wechat-1)
     * [Mini Program](#mini-program-1)
       * [Develop](#develop)
-      * [Utility](#utility-5)
+      * [Utility](#utility-4)
   * [Web](#web-1)
     * [API](#api-1)
     * [CSS](#css)
@@ -92,7 +93,7 @@
     * [Terminal](#terminal)
       * [ConEmu](#conemu)
       * [Mintty](#mintty)
-    * [Utility](#utility-6)
+    * [Utility](#utility-5)
     * [Utitity](#utitity)
     * [WSL](#wsl)
   * [Zsh](#zsh)
@@ -125,6 +126,7 @@
 #### Utility
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
+* [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): QQ通知增强+分享转发
 * [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
 ### MIUI
 * [linusyang92/mipay-extract](https://github.com/linusyang92/mipay-extract): Extract Mi Pay from MIUI China Rom
@@ -135,13 +137,12 @@
 ### Xposed
 * [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
 * [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
+* [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
+* [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
 * [jsnjycwyz/QQUnrecalled](https://github.com/jsnjycwyz/QQUnrecalled): None
 * [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc).
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
-#### Utility
-##### XiaoMi
-* [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
 ## Arduino
 * [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Neo Pixels!
 * [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
@@ -160,6 +161,7 @@
 * [GNOME/glib](https://github.com/GNOME/glib): GLib
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
 * [keybuk/libnih](https://github.com/keybuk/libnih): NIH Utility Library
+* [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
 ### JSON
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 ### Utility
@@ -185,12 +187,15 @@
 * [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial): A Bloom Filter Tutorial
 ## Docker
 * [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
+* [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
 * [portainer/portainer](https://github.com/portainer/portainer): Simple management UI for Docker
+* [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
+* [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
 * [v2tec/watchtower](https://github.com/v2tec/watchtower): Automatically update running Docker containers
 ## Font
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
@@ -236,9 +241,11 @@
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
 ## Java
+* [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 * [ferbar/jmagick](https://github.com/ferbar/jmagick): None
+* [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries
 ### JSON
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
 ### Web
@@ -306,12 +313,15 @@
 ### Kernel
 * [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
 ### Utility
+* [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
 * [XuShaohua/bcloud-packages](https://github.com/XuShaohua/bcloud-packages): bcloud 的安装包
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
 * [lodevil/daemon-manager](https://github.com/lodevil/daemon-manager): user tool for creating and managing daemons
+* [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
+* [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
 * [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
 * [jaagr/polybar](https://github.com/jaagr/polybar): A fast and easy-to-use status bar
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -322,6 +332,9 @@
 ## Machine Learning
 * [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
+## Nextcloud
+* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
+* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📔 Android client for Nextcloud Notes app.
 ## Node.js
 ### Windows
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
@@ -332,46 +345,34 @@
 * [openshift-quickstart/owncloud-openshift-quickstart](https://github.com/openshift-quickstart/owncloud-openshift-quickstart): OpenShift ownCloud QuickStart
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
-* [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
-* [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
-* [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
-* [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
-* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
-* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📔 Android client for Nextcloud Notes app.
-* [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
-* [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
-* [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
-* [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
-* [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
-* [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): QQ通知增强+分享转发
 * [replit/repl.it](https://github.com/replit/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-* [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries
-* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
-* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
-* [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
+* [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
+* [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+* [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, inside your terminal
+## Pandoc
+* [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
+* [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
 * [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
 * [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
-* [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
-* [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
-* [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
-* [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 ## Python
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [pallets/click](https://github.com/pallets/click): Python composable command line utility
+* [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
 * [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
@@ -388,6 +389,9 @@
 ## SBC
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
 * [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
+## SQLite
+* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
+* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
 ## Spider
 * [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
 ## TeX
@@ -436,6 +440,9 @@
 * [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview): A Vim Plugin for Lively Previewing LaTeX PDF Output
 * [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
 * [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap): A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
+* [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
+* [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
+* [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
