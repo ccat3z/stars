@@ -483,6 +483,7 @@
     "jekyll/jekyll-paginate": [
         "Jekyll"
     ],
+    "jglovier/dotfiles-logo": [],
     "jgm/pandocfilters": [
         "Pandoc"
     ],
