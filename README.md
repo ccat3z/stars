@@ -346,6 +346,7 @@
 ## Other
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
+* [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
