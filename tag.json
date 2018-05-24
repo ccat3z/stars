@@ -74,6 +74,7 @@
         "Game/KSP"
     ],
     "KaitoHH/AnyCodeToBmp": [],
+    "Kozea/Radicale": [],
     "Kozea/wdb": [
         "Web"
     ],
@@ -203,6 +204,7 @@
     "aemkei/jsfuck": [
         "JavaScript"
     ],
+    "agendav/agendav": [],
     "almende/vis": [
         "JavaScript"
     ],
@@ -396,6 +398,7 @@
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "gdiepen/docker-convenience-scripts": [],
     "geeeeeeeeek/electronic-wechat": [
         "Chinese APP Hack/WeChat"
     ],
@@ -450,6 +453,7 @@
     "hanwen/go-fuse": [
         "Go"
     ],
+    "henrysher/duplicity": [],
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
@@ -700,6 +704,7 @@
     "rprichard/wslbridge": [
         "Windows/WSL"
     ],
+    "sabre-io/Baikal": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
     ],
