@@ -426,6 +426,7 @@
     "gliffy/canvas2svg": [
         "Linux/Utility"
     ],
+    "gluster/glusterfs": [],
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
@@ -673,6 +674,7 @@
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "phw/peek": [],
     "pnigos/hookjs": [
         "Web/JavaScript"
     ],

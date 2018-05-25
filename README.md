@@ -354,6 +354,7 @@
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a hackable music player
+* [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
@@ -362,6 +363,7 @@
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
+* [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
