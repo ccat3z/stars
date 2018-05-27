@@ -29,7 +29,6 @@
   * [Game](#game)
     * [Ingress](#ingress)
     * [KSP](#ksp)
-  * [Git](#git)
   * [GitHub](#github)
   * [Gnome Shell Extensions](#gnome-shell-extensions)
   * [Go](#go)
@@ -222,8 +221,6 @@
 * [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN): The Comprehensive Kerbal Archive Network
 * [TriggerAu/KerbalAlarmClock](https://github.com/TriggerAu/KerbalAlarmClock): A time management and utility plugin for Kerbal Space Program
 * [CYBUTEK/KerbalEngineer](https://github.com/CYBUTEK/KerbalEngineer): Kerbal Engineer v1.0 (current in-development build).
-## Git
-* [gogits/gogs](https://github.com/gogits/gogs): Gogs is a painless self-hosted Git service.
 ## GitHub
 * [astralapp/astral](https://github.com/astralapp/astral): Organize Your GitHub Stars With Ease
 * [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti): abusing github commit history for the lulz
@@ -355,6 +352,7 @@
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a hackable music player
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+* [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
@@ -374,6 +372,7 @@
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+* [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, inside your terminal
 ## Pandoc
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc

@@ -436,6 +436,7 @@
     "gogits/gogs": [
         "Git"
     ],
+    "gogs/gogs": [],
     "google/yapf": [
         "Python"
     ],
@@ -753,6 +754,7 @@
     "skywind3000/vim": [
         "Vim"
     ],
+    "slacka/WoeUSB": [],
     "snachx/gfwlist2privoxy": [
         "GFW"
     ],
