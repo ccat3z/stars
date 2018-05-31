@@ -162,6 +162,7 @@
     "Windos/BurntToast": [
         "Windows/PowerShell"
     ],
+    "WrBug/dumpDex": [],
     "Xfennec/progress": [
         "Linux/Utility"
     ],
