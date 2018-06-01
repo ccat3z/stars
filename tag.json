@@ -218,6 +218,7 @@
     "archlinuxcn/repo": [
         "Linux/Distribution/Arch Linux"
     ],
+    "arcmags/ramroot": [],
     "artisologic/github-stars-tagger": [
         "GitHub"
     ],
@@ -693,6 +694,7 @@
         "Vim"
     ],
     "replit/repl.it": [],
+    "rfjakob/earlyoom": [],
     "rkalla/imgscalr": [
         "Java"
     ],

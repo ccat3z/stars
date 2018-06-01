@@ -104,7 +104,7 @@
 #### ASP.NET Core
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.0 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 2.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
+* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 2.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
 #### EF Core
 * [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
 ## Android
@@ -351,6 +351,7 @@
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 一款Android脱壳工具，需要xposed支持
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
+* [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a hackable music player
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
@@ -367,6 +368,7 @@
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
+* [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root filesystem entirely into RAM during boot.
 * [replit/repl.it](https://github.com/replit/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
