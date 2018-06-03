@@ -82,7 +82,6 @@
       * [Develop](#develop)
       * [Utility](#utility-4)
   * [Web](#web-1)
-    * [API](#api-1)
     * [CSS](#css)
     * [JavaScript](#javascript-1)
     * [SSL](#ssl)
@@ -152,6 +151,7 @@
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
 ## Awesome
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
+* [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
 ## Blog
 * [c0ldcat/hackwlb-server](https://github.com/c0ldcat/hackwlb-server): c0ldcat's website ❤
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
@@ -470,8 +470,6 @@
 * [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
 ## Web
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
-### API
-* [SkiaWorks/Awesome_APIs](https://github.com/SkiaWorks/Awesome_APIs): :octocat: A collection of APIs
 ### CSS
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
 ### JavaScript
