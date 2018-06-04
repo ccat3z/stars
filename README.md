@@ -207,7 +207,7 @@
 * [getlantern/forum](https://github.com/getlantern/forum): 蓝灯(Lantern)官方论坛
 * [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
 * [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
-* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
+* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here (Issues CLOSED during 06/04/2018)
 * [snachx/gfwlist2privoxy](https://github.com/snachx/gfwlist2privoxy): Generate action file for privoxy from gfwlist, inspired by clowwindy's gfwlist and modified from it.
 * [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): If you want to keep a secret, you must also hide it from yourself.
 * [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
@@ -362,6 +362,7 @@
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
+* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
