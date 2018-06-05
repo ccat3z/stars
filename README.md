@@ -207,7 +207,7 @@
 * [getlantern/forum](https://github.com/getlantern/forum): 蓝灯(Lantern)官方论坛
 * [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
 * [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
-* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here (Issues CLOSED during 06/04/2018)
+* [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
 * [snachx/gfwlist2privoxy](https://github.com/snachx/gfwlist2privoxy): Generate action file for privoxy from gfwlist, inspired by clowwindy's gfwlist and modified from it.
 * [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): If you want to keep a secret, you must also hide it from yourself.
 * [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
