@@ -102,7 +102,7 @@
 ### .NET Core
 #### ASP.NET Core
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): This repo contains the base Docker images for working with .NET Core and the .NET Core Tools.
-* [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.0 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.1 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 * [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 2.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
 #### EF Core
 * [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
