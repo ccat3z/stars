@@ -216,6 +216,7 @@
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
+    "anntzer/pypi2pkgbuild": [],
     "archlinuxcn/repo": [
         "Linux/Distribution/Arch Linux"
     ],
@@ -398,6 +399,7 @@
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
+    "fusepy/fusepy": [],
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
