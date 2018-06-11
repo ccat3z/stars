@@ -173,6 +173,7 @@
     "XuShaohua/bcloud-packages": [
         "Linux/Utility"
     ],
+    "Xuyuanp/nerdtree-git-plugin": [],
     "Yggdroot/indentLine": [
         "Vim"
     ],
@@ -207,6 +208,7 @@
         "JavaScript"
     ],
     "agendav/agendav": [],
+    "airblade/vim-gitgutter": [],
     "almende/vis": [
         "JavaScript"
     ],
