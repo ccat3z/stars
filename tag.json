@@ -466,6 +466,7 @@
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
+    "horst3180/arc-icon-theme": [],
     "horst3180/arc-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
