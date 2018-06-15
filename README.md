@@ -138,7 +138,7 @@
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
 * [jsnjycwyz/QQUnrecalled](https://github.com/jsnjycwyz/QQUnrecalled): None
-* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc).
+* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root or unlock the bootloader(or modify system image etc).
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
 ## Arduino
