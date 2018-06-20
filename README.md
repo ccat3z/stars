@@ -227,7 +227,7 @@
 * [github-tools/github](https://github.com/github-tools/github): A higher-level wrapper around the Github API. Intended for the browser.
 * [artisologic/github-stars-tagger](https://github.com/artisologic/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, and 3.6
-* [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List used GitHub stars!
+* [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 ## Gnome Shell Extensions
 * [Edenhofer/Minimalism-Gnome-Shell](https://github.com/Edenhofer/Minimalism-Gnome-Shell): Minimalism Gnome Shell  Extensions
 ## Go
