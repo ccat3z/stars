@@ -122,6 +122,7 @@
         "Python"
     ],
     "RaphaelRochet/arch-update": [],
+    "RelaxedJS/ReLaXed": [],
     "Shougo/deoplete.nvim": [
         "Vim"
     ],
@@ -760,6 +761,7 @@
         "Java",
         "Android"
     ],
+    "skywind3000/asyncrun.vim": [],
     "skywind3000/vim": [
         "Vim"
     ],
