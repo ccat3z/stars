@@ -700,6 +700,7 @@
     "python-mode/python-mode": [
         "Vim"
     ],
+    "replit-archive/repl.it": [],
     "replit/repl.it": [],
     "rfjakob/earlyoom": [],
     "rkalla/imgscalr": [
