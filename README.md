@@ -138,7 +138,7 @@
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
 * [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
 * [jsnjycwyz/QQUnrecalled](https://github.com/jsnjycwyz/QQUnrecalled): None
-* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root or unlock the bootloader(or modify system image etc).
+* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
 ## Arduino
@@ -204,7 +204,6 @@
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
 ## GFW
 * [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
-* [getlantern/forum](https://github.com/getlantern/forum): 蓝灯(Lantern)官方论坛
 * [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
 * [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
