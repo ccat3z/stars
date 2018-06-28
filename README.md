@@ -157,7 +157,7 @@
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
 * [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): :speak_no_evil: My Blog / Jekyll Themes
 ## C
-* [GNOME/glib](https://github.com/GNOME/glib): GLib
+* [GNOME/glib](https://github.com/GNOME/glib): Low level core library
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
 * [keybuk/libnih](https://github.com/keybuk/libnih): NIH Utility Library
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
