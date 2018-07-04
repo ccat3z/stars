@@ -697,6 +697,7 @@
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
+    "printempw/blessing-skin-server": [],
     "pypa/pipenv": [
         "Python"
     ],

@@ -347,6 +347,7 @@
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
+* [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): A web application brings your custom skins back in offline Minecraft servers.（第三方 Minecraft 皮肤站）
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
