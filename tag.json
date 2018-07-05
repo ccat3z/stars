@@ -346,6 +346,7 @@
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
+    "dst-academy/docker-dontstarvetogether": [],
     "duxingkei33/orangepi_PC_gpio_pyH3": [
         "SBC"
     ],

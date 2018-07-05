@@ -350,6 +350,7 @@
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): A web application brings your custom skins back in offline Minecraft servers.（第三方 Minecraft 皮肤站）
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
+* [dst-academy/docker-dontstarvetogether](https://github.com/dst-academy/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 一款Android脱壳工具，需要xposed支持
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
