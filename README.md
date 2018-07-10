@@ -364,6 +364,7 @@
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): HUSTOJ open source online judge, an Online Judge System for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
+* [crossoverJie/Java-Interview](https://github.com/crossoverJie/Java-Interview): 👨‍🎓 Java related : basic, concurrent, algorithm 
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
