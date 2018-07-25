@@ -699,6 +699,7 @@
     "portainer/portainer": [
         "Docker"
     ],
+    "posva/vim-vue": [],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
