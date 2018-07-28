@@ -366,6 +366,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
+* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [crossoverJie/Java-Interview](https://github.com/crossoverJie/Java-Interview): 👨‍🎓 Java related : basic, concurrent, algorithm 
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
