@@ -345,6 +345,7 @@
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
+* [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): A web application brings your custom skins back in offline Minecraft servers.（第三方 Minecraft 皮肤站）
@@ -390,6 +391,7 @@
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
+* [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
@@ -448,7 +450,7 @@
 * [karabaja4/vscode-explorer-git-status](https://github.com/karabaja4/vscode-explorer-git-status): Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
 * [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave): Visual Studio Code extension to run commands whenever a file is saved.
 ## Vim
-* [w0rp/ale](https://github.com/w0rp/ale): Asynchronous Lint Engine
+* [w0rp/ale](https://github.com/w0rp/ale): Asynchronous linting/fixing for Vim and language server protocol integration
 * [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
 * [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.

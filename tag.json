@@ -471,6 +471,7 @@
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
+    "hoovercj/vscode-power-mode": [],
     "horst3180/arc-icon-theme": [],
     "horst3180/arc-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
@@ -836,6 +837,7 @@
     "veryyoung/QQLuckyMoney": [
         "Android/Xposed"
     ],
+    "viatsko/awesome-vscode": [],
     "vim-awesome/vim-awesome": [
         "Vim"
     ],
