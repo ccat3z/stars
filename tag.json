@@ -329,6 +329,7 @@
     "davidhalter/jedi-vim": [
         "Vim"
     ],
+    "desandro/masonry": [],
     "discordianfish/docker-backup": [],
     "docker-library/haproxy": [
         "Docker"
@@ -641,6 +642,7 @@
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
+    "mdbootstrap/Vue-Bootstrap-with-Material-Design": [],
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
@@ -857,6 +859,8 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
+    "vuematerial/vue-material": [],
+    "vuetifyjs/vuetify": [],
     "w0rp/ale": [
         "Vim"
     ],
