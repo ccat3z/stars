@@ -272,7 +272,7 @@
 * [hwhw/kindlevncviewer](https://github.com/hwhw/kindlevncviewer): A VNC viewer for ebook readers
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
 ## LaTeX
-* [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files; as of V3.0, the script can also modify line breaks. The script is customisable through its YAML interface.
+* [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. The script is customisable through its YAML interface.
 * [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 ## Linux
 * [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
@@ -381,6 +381,7 @@
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
+* [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
