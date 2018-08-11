@@ -301,6 +301,7 @@
     ],
     "cosven/FeelUOwn": [],
     "crossoverJie/Java-Interview": [],
+    "crsmithdev/arrow": [],
     "cs01/gdbgui": [
         "C/Utility"
     ],
@@ -385,6 +386,7 @@
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
+    "evilsocket/librestd": [],
     "fcitx/fcitx": [
         "Linux"
     ],
@@ -400,6 +402,7 @@
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
+    "frogatto/frogatto": [],
     "frol/docker-alpine-glibc": [
         "Docker"
     ],
@@ -797,6 +800,7 @@
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
+    "staticlibs/ccronexpr": [],
     "stefan-niedermann/nextcloud-notes": [
         "Nextcloud"
     ],
