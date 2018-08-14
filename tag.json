@@ -109,6 +109,7 @@
     "Neilpang/acme.sh": [
         "Web/SSL"
     ],
+    "NixOS/patchelf": [],
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
