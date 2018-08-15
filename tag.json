@@ -331,6 +331,7 @@
     "davidhalter/jedi-vim": [
         "Vim"
     ],
+    "dbader/schedule": [],
     "desandro/masonry": [],
     "discordianfish/docker-backup": [],
     "docker-library/haproxy": [
@@ -867,6 +868,7 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
+    "viniciuschiele/flask-apscheduler": [],
     "vuematerial/vue-material": [],
     "vuetifyjs/vuetify": [],
     "w0rp/ale": [

@@ -360,6 +360,7 @@
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
+* [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
 * [frogatto/frogatto](https://github.com/frogatto/frogatto): Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 
 * [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
@@ -396,6 +397,7 @@
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
+* [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
