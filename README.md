@@ -258,7 +258,7 @@
 * [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
 * [imsun/gitment](https://github.com/imsun/gitment): A comment system based on GitHub Issues.
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
-* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
+* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [jekyll/jekyll-paginate](https://github.com/jekyll/jekyll-paginate): NO LONGER UNDER ACTIVE DEVELOPMENT as of Jekyll 3: Pagination Generator for Jekyll
 * [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
@@ -342,6 +342,7 @@
 ## Other
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
@@ -352,6 +353,7 @@
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): A web application brings your custom skins back in offline Minecraft servers.（第三方 Minecraft 皮肤站）
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
+* [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [dst-academy/docker-dontstarvetogether](https://github.com/dst-academy/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
@@ -373,7 +375,7 @@
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
-* [crossoverJie/Java-Interview](https://github.com/crossoverJie/Java-Interview): 👨‍🎓 Java related : basic, concurrent, algorithm 
+* [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java related : basic, concurrent, algorithm 
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [evilsocket/librestd](https://github.com/evilsocket/librestd): A low dependencies and self contained library to create C++ RESTful API services.
