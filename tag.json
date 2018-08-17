@@ -57,6 +57,7 @@
         "Android/APP/Utility"
     ],
     "HelloCodeMing/baidu-wenku": [],
+    "Jguer/yay": [],
     "JinnLynn/genpac": [
         "Utility"
     ],
@@ -451,6 +452,7 @@
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
+    "go-gitea/gitea": [],
     "goessner/mdmath": [
         "VS Code"
     ],
