@@ -125,6 +125,7 @@
     ],
     "RaphaelRochet/arch-update": [],
     "RelaxedJS/ReLaXed": [],
+    "Shougo/denite.nvim": [],
     "Shougo/deoplete.nvim": [
         "Vim"
     ],
@@ -291,6 +292,7 @@
     "captnbp/docker-owncloud": [
         "Docker"
     ],
+    "ccat3z/hackwlb-server": [],
     "celery/celery": [],
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
@@ -509,6 +511,7 @@
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
+    "itchyny/lightline.vim": [],
     "ivmech/ivPID": [],
     "jaagr/polybar": [
         "Linux/Utility"
@@ -544,6 +547,7 @@
     "jsnjycwyz/QQUnrecalled": [
         "Android/Xposed"
     ],
+    "junegunn/vim-plug": [],
     "justind000/nRF-IoT": [
         "SBC"
     ],
@@ -657,6 +661,7 @@
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
+    "mhinz/vim-signify": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
