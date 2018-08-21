@@ -390,12 +390,14 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "equalsraf/win32yank": [
-        "Windows/Utitity"
+        "Windows/Utility"
     ],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
-    "evilsocket/librestd": [],
+    "evilsocket/librestd": [
+        "Web/Backend/REST"
+    ],
     "fcitx/fcitx": [
         "Linux"
     ],
@@ -411,18 +413,24 @@
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
-    "frogatto/frogatto": [],
+    "frogatto/frogatto": [
+        "Game"
+    ],
     "frol/docker-alpine-glibc": [
         "Docker"
     ],
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
-    "fusepy/fusepy": [],
+    "fusepy/fusepy": [
+        "Python"
+    ],
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
-    "gdiepen/docker-convenience-scripts": [],
+    "gdiepen/docker-convenience-scripts": [
+        "Docker"
+    ],
     "geeeeeeeeek/electronic-wechat": [
         "Chinese APP Hack/WeChat"
     ],
@@ -849,7 +857,9 @@
     ],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
-    "trazyn/weweChat": [],
+    "trazyn/weweChat": [
+        "Chinese APP Hack/WeChat"
+    ],
     "txyyss/Lambda-Calculus": [],
     "v2ray/v2ray-core": [
         "GFW"
@@ -879,9 +889,15 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
-    "viniciuschiele/flask-apscheduler": [],
-    "vuematerial/vue-material": [],
-    "vuetifyjs/vuetify": [],
+    "viniciuschiele/flask-apscheduler": [
+        "Python"
+    ],
+    "vuematerial/vue-material": [
+        "Web/Vue"
+    ],
+    "vuetifyjs/vuetify": [
+        "Web/Vue"
+    ],
     "w0rp/ale": [
         "Vim"
     ],
