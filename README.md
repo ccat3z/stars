@@ -82,17 +82,19 @@
       * [Develop](#develop)
       * [Utility](#utility-4)
   * [Web](#web-1)
+    * [Backend](#backend)
+      * [REST](#rest)
     * [CSS](#css)
     * [JavaScript](#javascript-1)
     * [SSL](#ssl)
     * [Tutorial](#tutorial-1)
+    * [Vue](#vue)
   * [Windows](#windows-1)
     * [PowerShell](#powershell)
     * [Terminal](#terminal)
       * [ConEmu](#conemu)
       * [Mintty](#mintty)
     * [Utility](#utility-5)
-    * [Utitity](#utitity)
     * [WSL](#wsl)
   * [Zsh](#zsh)
 
@@ -178,6 +180,7 @@
 * [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [trazyn/weweChat](https://github.com/trazyn/weweChat): 💬 Unofficial WeChat client built with React, MobX and Electron.
 * [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
 #### Mini Program
 * [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): 微信《跳一跳》Python 辅助
@@ -187,6 +190,7 @@
 * [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
 * [frol/docker-alpine-glibc](https://github.com/frol/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
+* [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
@@ -213,6 +217,7 @@
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
 ## Game
 * [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
+* [frogatto/frogatto](https://github.com/frogatto/frogatto): Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 
 ### Ingress
 * [iitc-project/ingress-intel-total-conversion](https://github.com/iitc-project/ingress-intel-total-conversion): ingress.com/intel total conversion user script with some new features. Should allow easier extension of the intel map.
 ### KSP
@@ -355,17 +360,14 @@
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
-* [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [dst-academy/docker-dontstarvetogether](https://github.com/dst-academy/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 一款Android脱壳工具，需要xposed支持
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
-* [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
-* [frogatto/frogatto](https://github.com/frogatto/frogatto): Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 
-* [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+* [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
 * [ccat3z/hackwlb-server](https://github.com/ccat3z/hackwlb-server): ccat3z's blog ❤
@@ -380,7 +382,6 @@
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
-* [evilsocket/librestd](https://github.com/evilsocket/librestd): A low dependencies and self contained library to create C++ RESTful API services.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [marktext/marktext](https://github.com/marktext/marktext): 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
@@ -401,10 +402,13 @@
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root filesystem entirely into RAM during boot.
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
+* [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for Node.js
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
@@ -412,12 +416,9 @@
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): None
-* [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js
-* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): Material Component Framework for Vue.js 2
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
-* [trazyn/weweChat](https://github.com/trazyn/weweChat): 💬 Unofficial WeChat client built with React, MobX and Electron.
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
@@ -430,6 +431,8 @@
 ## Python
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [pallets/click](https://github.com/pallets/click): Python composable command line utility
+* [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
+* [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
 * [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
@@ -514,6 +517,9 @@
 * [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
 ## Web
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
+### Backend
+#### REST
+* [evilsocket/librestd](https://github.com/evilsocket/librestd): A low dependencies and self contained library to create C++ RESTful API services.
 ### CSS
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
 ### JavaScript
@@ -525,6 +531,9 @@
 * [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol
 ### Tutorial
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
+### Vue
+* [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js
+* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): Material Component Framework for Vue.js 2
 ## Windows
 ### PowerShell
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
@@ -543,9 +552,8 @@
 ### Utility
 * [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
-* [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
-### Utitity
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
+* [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance (for Windows 10 FCU 64bit or later)

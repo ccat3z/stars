@@ -88,6 +88,7 @@
     "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [
         "Android/Magick"
     ],
+    "Masterminds/glide": [],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
@@ -590,6 +591,7 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "lambdalisue/suda.vim": [],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
     ],
@@ -695,6 +697,7 @@
         "Windows/Terminal"
     ],
     "nok/leap-motion-processing": [],
+    "octokit/rest.js": [],
     "opengapps/all": [
         "Android/APP"
     ],
@@ -857,6 +860,7 @@
     ],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
+    "tpope/vim-eunuch": [],
     "trazyn/weweChat": [
         "Chinese APP Hack/WeChat"
     ],
