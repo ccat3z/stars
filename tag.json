@@ -88,6 +88,7 @@
     "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [
         "Android/Magick"
     ],
+    "Marak/faker.js": [],
     "Masterminds/glide": [],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
@@ -126,6 +127,7 @@
     ],
     "RaphaelRochet/arch-update": [],
     "RelaxedJS/ReLaXed": [],
+    "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],
     "Shougo/deoplete.nvim": [
         "Vim"
@@ -671,6 +673,7 @@
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
+    "metafizzy/isotope": [],
     "mhinz/vim-signify": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
@@ -744,6 +747,7 @@
     "python-mode/python-mode": [
         "Vim"
     ],
+    "qrohlf/trianglify": [],
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
     "rfjakob/earlyoom": [],
@@ -865,6 +869,7 @@
         "Chinese APP Hack/WeChat"
     ],
     "txyyss/Lambda-Calculus": [],
+    "tyru/caw.vim": [],
     "v2ray/v2ray-core": [
         "GFW"
     ],
