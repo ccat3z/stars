@@ -901,6 +901,7 @@
     "viniciuschiele/flask-apscheduler": [
         "Python"
     ],
+    "vue-styleguidist/vue-styleguidist": [],
     "vuematerial/vue-material": [
         "Web/Vue"
     ],
