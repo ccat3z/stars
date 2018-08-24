@@ -25,6 +25,7 @@
         "C/JSON",
         "JSON"
     ],
+    "David-Desmaisons/Vue.Isotope": [],
     "DeanIsMe/SevSeg": [
         "Arduino"
     ],
@@ -46,6 +47,7 @@
     "Edenhofer/Minimalism-Gnome-Shell": [
         "Gnome Shell Extensions"
     ],
+    "ElemeFE/vue-infinite-scroll": [],
     "FasterXML/jackson": [
         "Java/JSON",
         "JSON"
@@ -103,6 +105,7 @@
     "Microsoft/WSL-DistroLauncher": [
         "Windows/WSL"
     ],
+    "MopTym/vue-waterfall": [],
     "MrKiven/PyZh": [
         "Python/Tutorial"
     ],
@@ -116,6 +119,7 @@
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
+    "PeachScript/vue-infinite-loading": [],
     "PegasusWang/python-web-guide": [
         "Python/Tutorial"
     ],
@@ -374,6 +378,7 @@
         "Jekyll",
         "Web/CSS"
     ],
+    "egoist/vue-mugen-scroll": [],
     "ekibun/QQNotfAndShare": [
         "Android/APP/Utility"
     ],
@@ -751,6 +756,7 @@
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
     "rfjakob/earlyoom": [],
+    "rigor789/vue-scrollto": [],
     "rkalla/imgscalr": [
         "Java"
     ],
@@ -902,6 +908,7 @@
         "Python"
     ],
     "vue-styleguidist/vue-styleguidist": [],
+    "vuejs/awesome-vue": [],
     "vuematerial/vue-material": [
         "Web/Vue"
     ],
