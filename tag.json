@@ -406,6 +406,7 @@
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
+    "fairplay-zone/docker-dontstarvetogether": [],
     "fcitx/fcitx": [
         "Linux"
     ],

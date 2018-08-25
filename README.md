@@ -363,7 +363,7 @@
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
-* [dst-academy/docker-dontstarvetogether](https://github.com/dst-academy/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
+* [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 一款Android脱壳工具，需要xposed支持
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
