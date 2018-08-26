@@ -425,6 +425,7 @@
 * [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll): Infinite scroll component for Vue.js 2
+* [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
 * [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
