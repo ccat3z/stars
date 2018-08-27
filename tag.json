@@ -2,6 +2,7 @@
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
+    "AppImage/AppImageKit": [],
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
@@ -326,6 +327,7 @@
     "ctrlpvim/ctrlp.vim": [
         "Vim"
     ],
+    "customd/jquery-visible": [],
     "cytle/wechat_web_devtools": [],
     "d4nj1/TLPUI": [
         "Linux/Utility"
