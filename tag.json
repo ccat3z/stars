@@ -728,6 +728,7 @@
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
+    "paulcollett/vue-masonry-css": [],
     "pawelsalawa/sqlitestudio": [
         "SQLite"
     ],
