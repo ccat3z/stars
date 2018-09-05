@@ -421,6 +421,8 @@
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
+* [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
+* [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components

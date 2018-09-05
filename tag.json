@@ -502,6 +502,7 @@
     "hanwen/go-fuse": [
         "Go"
     ],
+    "heavenshell/vim-jsdoc": [],
     "henrysher/duplicity": [],
     "hertogp/imagine": [],
     "hmrc/service-manager": [
@@ -724,6 +725,7 @@
     "pallets/click": [
         "Python"
     ],
+    "pangloss/vim-javascript": [],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
