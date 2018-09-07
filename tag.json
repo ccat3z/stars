@@ -530,6 +530,7 @@
     "imsun/gitment": [
         "Jekyll"
     ],
+    "indexzero/http-server": [],
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
@@ -711,6 +712,7 @@
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
     ],
+    "nelhage/reptyr": [],
     "nok/leap-motion-processing": [],
     "octokit/rest.js": [],
     "opengapps/all": [
