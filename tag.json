@@ -315,6 +315,7 @@
     "coleifer/peewee": [
         "Python"
     ],
+    "corbindavenport/creative-cloud-linux": [],
     "cosven/FeelUOwn": [],
     "crossoverJie/JCSprout": [],
     "crossoverJie/Java-Interview": [],
@@ -370,6 +371,7 @@
         "Java/Web/RESTful"
     ],
     "dst-academy/docker-dontstarvetogether": [],
+    "duskwuff/Xilinx-ISE-Makefile": [],
     "duxingkei33/orangepi_PC_gpio_pyH3": [
         "SBC"
     ],
