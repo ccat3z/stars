@@ -358,6 +358,7 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "dojiong/daemon-manager": [],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
     ],

@@ -318,7 +318,6 @@
 * [XuShaohua/bcloud-packages](https://github.com/XuShaohua/bcloud-packages): bcloud 的安装包
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
-* [lodevil/daemon-manager](https://github.com/lodevil/daemon-manager): user tool for creating and managing daemons
 * [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
@@ -363,6 +362,7 @@
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
+* [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
