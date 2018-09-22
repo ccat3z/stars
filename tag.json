@@ -117,6 +117,7 @@
     "Neilpang/acme.sh": [
         "Web/SSL"
     ],
+    "NicoHood/arc-theme": [],
     "NixOS/patchelf": [],
     "OneDrive/onedrive-sdk-python": [
         "Python/API"

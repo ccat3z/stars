@@ -347,6 +347,7 @@
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
+* [NicoHood/arc-theme](https://github.com/NicoHood/arc-theme): [New upstream] A flat theme with transparent elements
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
