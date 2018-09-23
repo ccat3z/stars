@@ -458,7 +458,7 @@
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
 ## Python
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
-* [pallets/click](https://github.com/pallets/click): Python composable command line utility
+* [pallets/click](https://github.com/pallets/click): Python composable command line interface toolkit
 * [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
 * [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
