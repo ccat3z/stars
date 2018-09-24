@@ -481,6 +481,7 @@
         "OpenShift"
     ],
     "go-gitea/gitea": [],
+    "go-sql-driver/mysql": [],
     "goessner/mdmath": [
         "VS Code"
     ],
@@ -488,6 +489,7 @@
         "Git"
     ],
     "gogs/gogs": [],
+    "golang-standards/project-layout": [],
     "google/yapf": [
         "Python"
     ],
@@ -565,6 +567,7 @@
     "jimdigriz/debian-mssp4": [
         "Linux/Device/Surface"
     ],
+    "jinzhu/gorm": [],
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
@@ -702,6 +705,7 @@
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
+    "moovweb/gvm": [],
     "mozillazg/python-pinyin": [],
     "mzlogin/mzlogin.github.io": [
         "Blog"
@@ -849,6 +853,7 @@
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "sparksuite/simplemde-markdown-editor": [],
+    "spf13/cobra": [],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
@@ -922,6 +927,7 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
+    "vincentbernat/hellogopher": [],
     "viniciuschiele/flask-apscheduler": [
         "Python"
     ],
