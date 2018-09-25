@@ -427,6 +427,7 @@
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
+* [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
