@@ -405,6 +405,7 @@
     "emiapwil/glassy-gnome": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "emicklei/go-restful": [],
     "equalsraf/win32yank": [
         "Windows/Utility"
     ],
@@ -855,6 +856,7 @@
     ],
     "sparksuite/simplemde-markdown-editor": [],
     "spf13/cobra": [],
+    "spf13/viper": [],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
