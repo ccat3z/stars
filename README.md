@@ -372,9 +372,9 @@
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 一款Android脱壳工具，需要xposed支持
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
-* [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of fake data in Node.js and the browser
+* [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): The plugin manager for fish-shell
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
