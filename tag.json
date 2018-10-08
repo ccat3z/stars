@@ -556,6 +556,7 @@
     "jekyll/jekyll-paginate": [
         "Jekyll"
     ],
+    "jekyll/jemoji": [],
     "jglovier/dotfiles-logo": [],
     "jgm/pandocfilters": [
         "Pandoc"
