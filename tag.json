@@ -759,6 +759,7 @@
     ],
     "phw/peek": [],
     "pimutils/khal": [],
+    "plasma-disassembler/plasma": [],
     "pnigos/hookjs": [
         "Web/JavaScript"
     ],
