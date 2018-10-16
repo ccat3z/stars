@@ -34,6 +34,7 @@
     "DecaTec/Nextcloud-Backup-Restore": [
         "Nextcloud"
     ],
+    "Dev-XYS/Algorithms": [],
     "Doreamonsky/CampusAdventure": [
         "Game"
     ],
@@ -780,6 +781,7 @@
         "Vim"
     ],
     "qrohlf/trianglify": [],
+    "racaljk/llmd": [],
     "rakyll/statik": [],
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
