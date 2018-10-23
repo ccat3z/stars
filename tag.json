@@ -354,6 +354,7 @@
         "Vim"
     ],
     "dbader/schedule": [],
+    "desandro/imagesloaded": [],
     "desandro/masonry": [],
     "discordianfish/docker-backup": [],
     "docker-library/haproxy": [
