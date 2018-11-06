@@ -434,7 +434,7 @@
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
-* [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for Node.js
+* [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
