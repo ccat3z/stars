@@ -453,6 +453,7 @@
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
+* [websanova/vue-auth](https://github.com/websanova/vue-auth): Jwt Auth library for Vue.js.
 * [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): None
 * [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
@@ -463,6 +464,7 @@
 * [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): Vue component for isotope filter & sort magical layouts
+* [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
