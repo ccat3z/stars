@@ -202,7 +202,7 @@
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
 * [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
-* [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕
+* [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
 ## GFW
 * [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
@@ -421,6 +421,7 @@
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
+* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack

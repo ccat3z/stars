@@ -785,6 +785,7 @@
     "python-mode/python-mode": [
         "Vim"
     ],
+    "python-pillow/Pillow": [],
     "qrohlf/trianglify": [],
     "racaljk/llmd": [],
     "rakyll/statik": [],
