@@ -544,6 +544,7 @@
         "Jekyll"
     ],
     "indexzero/http-server": [],
+    "isaacs/async-cache": [],
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
@@ -774,6 +775,7 @@
     ],
     "postcss/postcss-loader": [],
     "posva/vim-vue": [],
+    "posva/vue-promised": [],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
