@@ -587,7 +587,7 @@
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
 ### Vue
 * [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js
-* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): Material Component Framework for Vue.js 2
+* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): 🐲 Material Component Framework for Vue.js 2
 ## Windows
 ### PowerShell
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
