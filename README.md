@@ -172,7 +172,7 @@
 ### QQ
 * [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
 * [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
-* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
 ### WeChat
@@ -474,6 +474,7 @@
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+* [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
