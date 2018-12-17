@@ -523,6 +523,7 @@
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
+    "home-sweet-gnome/dash-to-panel": [],
     "hoovercj/vscode-power-mode": [],
     "horst3180/arc-icon-theme": [],
     "horst3180/arc-theme": [
