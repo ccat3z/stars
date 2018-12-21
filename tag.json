@@ -260,6 +260,7 @@
     "attractivechaos/klib": [
         "C"
     ],
+    "aymericdamien/TensorFlow-Examples": [],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -367,6 +368,7 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "docker/distribution": [],
     "dojiong/daemon-manager": [],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
@@ -998,9 +1000,11 @@
     "yuk7/ArchWSL": [
         "Windows/WSL"
     ],
+    "yunjey/pytorch-tutorial": [],
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],
     "zhblue/hustoj": [],
-    "ziahamza/webui-aria2": []
+    "ziahamza/webui-aria2": [],
+    "zth/json-to-flowtype-generator": []
 }
