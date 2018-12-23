@@ -635,6 +635,7 @@
     "ledger/ledger": [
         "Utility"
     ],
+    "leisurelicht/wtfpython-cn": [],
     "lepture/opencc-python": [
         "Python"
     ],
@@ -820,6 +821,7 @@
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
     ],
+    "satwikkansal/wtfpython": [],
     "scrooloose/nerdcommenter": [
         "Vim"
     ],
