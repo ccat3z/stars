@@ -325,6 +325,7 @@
     "coleifer/peewee": [
         "Python"
     ],
+    "commitizen/cz-cli": [],
     "corbindavenport/creative-cloud-linux": [],
     "cosven/FeelUOwn": [],
     "crossoverJie/JCSprout": [],
