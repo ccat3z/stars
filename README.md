@@ -388,6 +388,7 @@
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+* [julio641742/gnome-shell-extension-reference](https://github.com/julio641742/gnome-shell-extension-reference): None
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Google Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
