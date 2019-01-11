@@ -591,6 +591,7 @@
     "joonro/ConEmu-Color-Themes": [
         "Windows/Terminal/ConEmu"
     ],
+    "jorgebucaran/awesome-fish-shell": [],
     "jorgebucaran/fisher": [],
     "jsnjycwyz/QQUnrecalled": [
         "Android/Xposed"
