@@ -415,6 +415,7 @@
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
+* [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim

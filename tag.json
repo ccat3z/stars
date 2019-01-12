@@ -428,6 +428,7 @@
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
+    "eycorsican/kitsunebi-android": [],
     "fairplay-zone/docker-dontstarvetogether": [],
     "fcitx/fcitx": [
         "Linux"
