@@ -459,6 +459,7 @@
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* [transform-it/transform-www](https://github.com/transform-it/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
