@@ -402,7 +402,7 @@
 * [indexzero/http-server](https://github.com/indexzero/http-server): a simple zero-configuration command-line http server
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [C4ptainCrunch/ics.py](https://github.com/C4ptainCrunch/ics.py): Pythonic and easy iCalendar library (rfc5545)
-* [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 谈谈一些有趣的 CSS 话题
+* [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
