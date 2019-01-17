@@ -353,7 +353,7 @@
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
-* [jorgebucaran/awesome-fish-shell](https://github.com/jorgebucaran/awesome-fish-shell): A curated list of awesome packages, prompts and other nuggets for the fish shell
+* [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of awesome packages, prompts and other nuggets for the fish shell
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
@@ -457,8 +457,10 @@
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
+* [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.js.org/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [transform-it/transform-www](https://github.com/transform-it/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
@@ -487,6 +489,7 @@
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
+* [ochukai/wepy-com-toptip](https://github.com/ochukai/wepy-com-toptip): a toptip component for 小程序~
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): A collection of surprising Python snippets and lesser-known features.
