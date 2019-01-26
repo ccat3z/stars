@@ -387,6 +387,7 @@
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
+* [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
@@ -396,6 +397,8 @@
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [ccat3z/hackwlb-server](https://github.com/ccat3z/hackwlb-server): ccat3z's blog ❤
+* [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
+* [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust command-line/curses/web plaintext accounting tools, a Haskell rewrite of Ledger.
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
@@ -418,6 +421,7 @@
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
+* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [racaljk/llmd](https://github.com/racaljk/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?

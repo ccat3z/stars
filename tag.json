@@ -263,6 +263,7 @@
     "attractivechaos/klib": [
         "C"
     ],
+    "autozimu/LanguageClient-neovim": [],
     "aymericdamien/TensorFlow-Examples": [],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
@@ -526,6 +527,7 @@
     "hanwen/go-fuse": [
         "Go"
     ],
+    "haskell/haskell-ide-engine": [],
     "heavenshell/vim-jsdoc": [],
     "henrysher/duplicity": [],
     "hertogp/imagine": [],
@@ -602,6 +604,7 @@
         "Android/Xposed"
     ],
     "julio641742/gnome-shell-extension-reference": [],
+    "junegunn/fzf": [],
     "junegunn/vim-plug": [],
     "justind000/nRF-IoT": [
         "SBC"
@@ -748,6 +751,7 @@
         "Windows/Terminal"
     ],
     "nelhage/reptyr": [],
+    "neovimhaskell/haskell-vim": [],
     "nok/leap-motion-processing": [],
     "ochukai/wepy-com-toptip": [],
     "octokit/rest.js": [],
