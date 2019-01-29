@@ -443,7 +443,7 @@
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
-* [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
+* [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
