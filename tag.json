@@ -165,6 +165,7 @@
         "Jekyll/Theme"
     ],
     "Tencent/wepy": [],
+    "Tencent/weui-wxss": [],
     "ThirtyDegreesRay/OpenHub": [
         "Android/APP/Utility"
     ],
@@ -433,6 +434,7 @@
         "Web/Backend/REST"
     ],
     "eycorsican/kitsunebi-android": [],
+    "facebook/immutable-js": [],
     "fairplay-zone/docker-dontstarvetogether": [],
     "fcitx/fcitx": [
         "Linux"
@@ -731,6 +733,7 @@
         "Gov"
     ],
     "mmiller42/html-webpack-externals-plugin": [],
+    "mochajs/mocha": [],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
@@ -1014,6 +1017,7 @@
         "Python/Tutorial"
     ],
     "yoda-pa/yoda": [],
+    "youzan/vant-weapp": [],
     "yudai/gotty": [
         "Utility"
     ],
