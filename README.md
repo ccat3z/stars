@@ -413,6 +413,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [facebook/immutable-js](https://github.com/facebook/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
+* [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java

@@ -751,6 +751,7 @@
         "Utility",
         "Machine Learning"
     ],
+    "nefe/iron-redux": [],
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
     ],
