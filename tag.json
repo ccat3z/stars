@@ -64,6 +64,7 @@
     "GhostFlying/LocationReportEnabler": [
         "Android/APP/Utility"
     ],
+    "Gozala/events": [],
     "HelloCodeMing/baidu-wenku": [],
     "Jactor-Sue/Deepin-Apps-Installation": [],
     "Jguer/yay": [],
@@ -949,6 +950,7 @@
     "trazyn/weweChat": [
         "Chinese APP Hack/WeChat"
     ],
+    "tvfe/wxpage": [],
     "txyyss/Lambda-Calculus": [],
     "tyru/caw.vim": [],
     "v2ray/v2ray-core": [
