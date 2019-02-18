@@ -389,6 +389,7 @@
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell
+* [codemix/flow-runtime](https://github.com/codemix/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
@@ -489,7 +490,7 @@
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): Jwt Auth library for Vue.js.
-* [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): None
+* [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): Vue Bootstrap with Material Design - Powerful and free UI KIT
 * [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free
