@@ -114,7 +114,6 @@
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 * [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 9.0 in business version)
 ### APP
-* [opengapps/all](https://github.com/opengapps/all): architecture independent sources for opengapps
 * [loopeer/code-reader](https://github.com/loopeer/code-reader): One Multi program language code reader
 * [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
 * [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard): Hacker's Keyboard (official)
