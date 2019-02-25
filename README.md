@@ -136,7 +136,6 @@
 * [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
 * [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
-* [veryyoung/QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney): QQLuckyMoney(QQ红包插件)
 * [jsnjycwyz/QQUnrecalled](https://github.com/jsnjycwyz/QQUnrecalled): None
 * [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
