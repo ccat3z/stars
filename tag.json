@@ -535,6 +535,7 @@
     "hanwen/go-fuse": [
         "Go"
     ],
+    "hardpixel/unite-shell": [],
     "haskell/haskell-ide-engine": [],
     "heavenshell/vim-jsdoc": [],
     "henrysher/duplicity": [],

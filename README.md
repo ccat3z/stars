@@ -476,6 +476,7 @@
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [transform-it/transform-www](https://github.com/transform-it/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
+* [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks.
