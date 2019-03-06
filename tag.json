@@ -927,6 +927,7 @@
         "Vim",
         "Arduino"
     ],
+    "superwf/vuex-cache": [],
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],

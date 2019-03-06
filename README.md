@@ -501,6 +501,7 @@
 * [f/vue-wait](https://github.com/f/vue-wait): Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
+* [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
