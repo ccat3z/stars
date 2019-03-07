@@ -941,6 +941,7 @@
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
+    "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
     "tinajs/tina": [],
     "tipsy/j2html": [

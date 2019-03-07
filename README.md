@@ -466,6 +466,7 @@
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
