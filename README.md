@@ -429,6 +429,7 @@
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [racaljk/llmd](https://github.com/racaljk/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
+* [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂majsoul专用PC浏览器，提供了一些专有特性
 * [marktext/marktext](https://github.com/marktext/marktext): 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
