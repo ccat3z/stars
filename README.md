@@ -274,7 +274,6 @@
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
 ## LaTeX
 * [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. The script is customisable through its YAML interface.
-* [CTeX-org/lshort-cn](https://github.com/CTeX-org/lshort-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 ## Linux
 * [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
 ### Device
@@ -429,6 +428,7 @@
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [racaljk/llmd](https://github.com/racaljk/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
+* [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂majsoul专用PC浏览器，提供了一些专有特性
 * [marktext/marktext](https://github.com/marktext/marktext): 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
