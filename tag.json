@@ -250,6 +250,7 @@
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
+    "andyholmes/gnome-shell-extension-gsconnect": [],
     "anntzer/pypi2pkgbuild": [],
     "archlinuxcn/repo": [
         "Linux/Distribution/Arch Linux"

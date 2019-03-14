@@ -392,6 +392,7 @@
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+* [andyholmes/gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [julio641742/gnome-shell-extension-reference](https://github.com/julio641742/gnome-shell-extension-reference): None
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
