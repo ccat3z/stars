@@ -425,6 +425,7 @@
     "embear/vim-localvimrc": [
         "Vim"
     ],
+    "emedvedev/attention-ocr": [],
     "emeraldwalk/vscode-runonsave": [
         "VS Code"
     ],
@@ -944,6 +945,7 @@
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
+    "tesseract-ocr/tesseract": [],
     "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
     "tinajs/tina": [],
