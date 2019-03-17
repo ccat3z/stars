@@ -338,6 +338,7 @@
 * [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
 * [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
 ## Other
+* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
@@ -414,6 +415,7 @@
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+* [Bajoja/indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect): AppIndicator for KDE Connect
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
@@ -475,6 +477,7 @@
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.js.org/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs
+* [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
@@ -655,7 +658,7 @@
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): Install ArchLinux as a WSL Instance. Supports multiple install.
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux as a WSL Instance. Supports multiple install.
 * [Microsoft/WSL](https://github.com/Microsoft/WSL): Issues found on WSL
 * [Microsoft/WSL-DistroLauncher](https://github.com/Microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [goreliu/wsl-terminal](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)

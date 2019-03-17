@@ -1,4 +1,5 @@
 {
+    "30-seconds/30-seconds-of-code": [],
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
@@ -14,6 +15,7 @@
         "Chinese APP Hack/QQ"
     ],
     "BYVoid/OpenCC": [],
+    "Bajoja/indicator-kdeconnect": [],
     "C4ptainCrunch/ics.py": [],
     "CTeX-org/lshort-cn": [
         "LaTeX"
@@ -946,6 +948,7 @@
         "Android/APP/Utility"
     ],
     "tesseract-ocr/tesseract": [],
+    "thestinger/termite": [],
     "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
     "tinajs/tina": [],
