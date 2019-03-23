@@ -511,6 +511,7 @@
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
+* [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :new: :tada:
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
