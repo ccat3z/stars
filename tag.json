@@ -115,6 +115,7 @@
     ],
     "Meituan-Dianping/mpvue": [],
     "MiKTeX/miktex": [],
+    "MicheleBertoli/css-in-js": [],
     "Microsoft/WSL": [
         "Windows/WSL"
     ],
@@ -382,6 +383,8 @@
     "deadalnix/pixel-saver": [],
     "desandro/imagesloaded": [],
     "desandro/masonry": [],
+    "developit/preact": [],
+    "developit/preact-cli": [],
     "discordianfish/docker-backup": [],
     "docker-library/haproxy": [
         "Docker"
@@ -439,6 +442,7 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "emicklei/go-restful": [],
+    "emotion-js/emotion": [],
     "equalsraf/win32yank": [
         "Windows/Utility"
     ],
@@ -614,12 +618,14 @@
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
+    "johnagan/clean-webpack-plugin": [],
     "joonro/ConEmu-Color-Themes": [
         "Windows/Terminal/ConEmu"
     ],
     "jorgebucaran/awesome-fish": [],
     "jorgebucaran/awesome-fish-shell": [],
     "jorgebucaran/fisher": [],
+    "jsjoeio/styled-components-vs-emotion": [],
     "jsnjycwyz/QQUnrecalled": [
         "Android/Xposed"
     ],
@@ -650,6 +656,7 @@
     "keybuk/libnih": [
         "C"
     ],
+    "kgshank/gse-refresh-wifi": [],
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
@@ -747,6 +754,7 @@
     ],
     "metafizzy/isotope": [],
     "mhinz/vim-signify": [],
+    "michael-rapp/gnome-shell-extension-hide-app-icon": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
@@ -931,6 +939,7 @@
     "studyzy/imewlconverter": [
         "Utility"
     ],
+    "styled-components/styled-components": [],
     "sudar/vim-arduino-snippets": [
         "Vim",
         "Arduino"
@@ -1056,6 +1065,7 @@
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],
+    "zhangkaizhao/gnome-shell-extension-tray-icons": [],
     "zhblue/hustoj": [],
     "ziahamza/webui-aria2": [],
     "zth/json-to-flowtype-generator": []
