@@ -1,5 +1,6 @@
 {
     "30-seconds/30-seconds-of-code": [],
+    "4Catalyzer/astroturf": [],
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
@@ -323,6 +324,7 @@
     "caldwell/daemon-manager": [
         "Linux/Utility"
     ],
+    "callstack/linaria": [],
     "captnbp/docker-owncloud": [
         "Docker"
     ],

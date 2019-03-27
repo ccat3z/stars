@@ -350,6 +350,7 @@
 * [NicoHood/arc-theme](https://github.com/NicoHood/arc-theme): [New upstream] A flat theme with transparent elements
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
+* [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" css-in-js for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
@@ -438,6 +439,7 @@
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
+* [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [racaljk/llmd](https://github.com/racaljk/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂majsoul专用PC浏览器，提供了一些专有特性
