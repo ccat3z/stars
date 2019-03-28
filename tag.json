@@ -335,6 +335,7 @@
     ],
     "chokcoco/iCSS": [],
     "chr4/nginx.vim": [],
+    "clone95/Virgilio": [],
     "cmhughes/latexindent.pl": [
         "LaTeX"
     ],
@@ -1035,6 +1036,7 @@
     "wangxian/alpine-mysql": [
         "Docker"
     ],
+    "webpack/webpack": [],
     "websanova/vue-auth": [],
     "wengxt/kimpanel-for-gnome-shell": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
