@@ -413,6 +413,7 @@
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust command-line/curses/web plaintext accounting tools, a Haskell rewrite of Ledger.
+* [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
 * [indexzero/http-server](https://github.com/indexzero/http-server): a simple zero-configuration command-line http server
