@@ -271,6 +271,7 @@
     "asins/vimcdoc": [
         "Vim"
     ],
+    "astaxie/build-web-application-with-golang": [],
     "astralapp/astral": [
         "GitHub"
     ],
@@ -591,6 +592,7 @@
         "Web/Tutorial"
     ],
     "itchyny/lightline.vim": [],
+    "ivarptr/yu-writer.site": [],
     "ivmech/ivPID": [],
     "jaagr/polybar": [
         "Linux/Utility"

@@ -362,6 +362,7 @@
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
+* [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
@@ -545,6 +546,7 @@
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
+* [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): None
 ## Pandoc
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
 * [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
