@@ -600,6 +600,7 @@
     "janeczku/calibre-web": [
         "Utility"
     ],
+    "jdneo/vscode-leetcode": [],
     "jekyll/jekyll": [
         "Jekyll"
     ],
@@ -914,6 +915,7 @@
     "skilion/onedrive": [
         "Linux/Utility"
     ],
+    "skygragon/leetcode-cli": [],
     "skylot/jadx": [
         "Java",
         "Android"
