@@ -338,6 +338,7 @@
 * [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
 ## Other
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+* [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
@@ -494,7 +495,7 @@
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
 * [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.js.org/
-* [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs
+* [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
