@@ -387,6 +387,7 @@
     ],
     "dbader/schedule": [],
     "deadalnix/pixel-saver": [],
+    "denoland/deno": [],
     "desandro/imagesloaded": [],
     "desandro/masonry": [],
     "developit/preact": [],
@@ -754,6 +755,7 @@
     "matthewwardrop/linux-surfacepro3": [
         "Linux/Device/Surface"
     ],
+    "mattzeunert/CSS-Todo-App": [],
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
@@ -973,6 +975,7 @@
         "Android/APP/Utility"
     ],
     "tesseract-ocr/tesseract": [],
+    "themix-project/oomox": [],
     "thestinger/termite": [],
     "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
