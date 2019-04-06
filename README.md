@@ -141,7 +141,7 @@
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
 ## Arduino
-* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Neo Pixels!
+* [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 * [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
 * [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
@@ -371,6 +371,7 @@
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): A neat wrapper around node.js fs.watch / fs.watchFile / FSEvents
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
+* [codercom/code-server](https://github.com/codercom/code-server): Run VS Code on a remote server.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
