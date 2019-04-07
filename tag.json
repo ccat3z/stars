@@ -193,6 +193,7 @@
     "Valloric/YouCompleteMe": [
         "Vim"
     ],
+    "ValveSoftware/Proton": [],
     "WickyNilliams/headroom.js": [
         "Web/JavaScript"
     ],
@@ -660,6 +661,7 @@
     "karlin/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
+    "kelthuzadx/llmd": [],
     "kennethreitz/requests-html": [],
     "kesenhoo/android-training-course-in-chinese": [
         "Android"
