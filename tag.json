@@ -20,6 +20,7 @@
     "BYVoid/OpenCC": [],
     "Bajoja/indicator-kdeconnect": [],
     "C4ptainCrunch/ics.py": [],
+    "CTeX-org/ctex-kit": [],
     "CTeX-org/lshort-cn": [
         "LaTeX"
     ],
@@ -530,6 +531,7 @@
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
+    "go-delve/delve": [],
     "go-gitea/gitea": [],
     "go-sql-driver/mysql": [],
     "goessner/mdmath": [
