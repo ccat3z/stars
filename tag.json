@@ -837,6 +837,7 @@
     ],
     "phw/peek": [],
     "pimutils/khal": [],
+    "pixel-saver/pixel-saver": [],
     "plasma-disassembler/plasma": [],
     "pnigos/hookjs": [
         "Web/JavaScript"

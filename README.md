@@ -470,7 +470,7 @@
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
-* [deadalnix/pixel-saver](https://github.com/deadalnix/pixel-saver): Pixel Saver
+* [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
 * [developit/preact](https://github.com/developit/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
