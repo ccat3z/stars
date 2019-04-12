@@ -153,6 +153,7 @@
     ],
     "RaphaelRochet/arch-update": [],
     "RelaxedJS/ReLaXed": [],
+    "Rocket1184/electron-netease-cloud-music": [],
     "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],
     "Shougo/deoplete.nvim": [
@@ -778,6 +779,7 @@
         "Gov"
     ],
     "mmiller42/html-webpack-externals-plugin": [],
+    "mnielsen/neural-networks-and-deep-learning": [],
     "mochajs/mocha": [],
     "mojombo/mojombo.github.io": [
         "Blog"
@@ -785,6 +787,7 @@
     "moovweb/gvm": [],
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
+    "museui/muse-ui": [],
     "mzlogin/mzlogin.github.io": [
         "Blog"
     ],

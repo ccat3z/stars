@@ -394,6 +394,7 @@
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
+* [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL clinet for music.163.com. Powered by Electron and Vue
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): CSS-in-JS library designed for high performance style composition
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
@@ -459,8 +460,10 @@
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
 * [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+* [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
+* [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
 * [themix-project/oomox](https://github.com/themix-project/oomox): Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
@@ -540,7 +543,7 @@
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
-* [containrrr/watchtower](https://github.com/containrrr/watchtower): Automatically update running Docker containers
+* [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
 * [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :new: :tada:
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
