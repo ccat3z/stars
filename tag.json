@@ -262,6 +262,7 @@
     ],
     "andyholmes/gnome-shell-extension-gsconnect": [],
     "anntzer/pypi2pkgbuild": [],
+    "antoniomika/sish": [],
     "archlinuxcn/repo": [
         "Linux/Distribution/Arch Linux"
     ],
@@ -454,6 +455,7 @@
     ],
     "emicklei/go-restful": [],
     "emotion-js/emotion": [],
+    "eonpatapon/gnome-shell-extension-caffeine": [],
     "equalsraf/win32yank": [
         "Windows/Utility"
     ],
@@ -1005,6 +1007,7 @@
     "trazyn/weweChat": [
         "Chinese APP Hack/WeChat"
     ],
+    "tsl0922/ttyd": [],
     "tvfe/wxpage": [],
     "txyyss/Lambda-Calculus": [],
     "tyru/caw.vim": [],
@@ -1063,6 +1066,7 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "wepyjs/wepy-weui-demo": [],
+    "wernight/docker-ngrok": [],
     "xiehuc/pidgin-lwqq": [
         "Chinese APP Hack/QQ"
     ],

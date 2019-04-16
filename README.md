@@ -389,6 +389,7 @@
 * [docker/distribution](https://github.com/docker/distribution): The Docker toolset to pack, ship, store, and deliver content
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
+* [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
@@ -407,6 +408,7 @@
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
+* [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
 * [andyholmes/gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
 * [julio641742/gnome-shell-extension-reference](https://github.com/julio641742/gnome-shell-extension-reference): None
@@ -499,6 +501,7 @@
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [antoniomika/sish](https://github.com/antoniomika/sish): An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
@@ -515,6 +518,7 @@
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [transform-it/transform-www](https://github.com/transform-it/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
+* [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
@@ -617,7 +621,7 @@
 * [karabaja4/vscode-explorer-git-status](https://github.com/karabaja4/vscode-explorer-git-status): Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
 * [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave): Visual Studio Code extension to run commands whenever a file is saved.
 ## Vim
-* [w0rp/ale](https://github.com/w0rp/ale): Asynchronous linting/fixing for Vim and Language Server Protocol (LSP) integration
+* [w0rp/ale](https://github.com/w0rp/ale): Check syntax (linting) and fix files asynchronously, with Language Server Protocol (LSP) integration in Vim
 * [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
 * [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
