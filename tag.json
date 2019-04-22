@@ -899,6 +899,7 @@
     "scrooloose/nerdcommenter": [
         "Vim"
     ],
+    "sdrausty/termux-archlinux": [],
     "severin-lemaignan/vim-minimap": [
         "Vim"
     ],

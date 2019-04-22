@@ -118,7 +118,7 @@
 * [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
 * [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard): Hacker's Keyboard (official)
 * [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
-* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
+* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
 #### Entertainment
 * [Arachnid-27/Cimoc](https://github.com/Arachnid-27/Cimoc): Android 平台在线漫画阅读器
@@ -270,7 +270,7 @@
 ## Kindle
 * [samsheff/Amazon-Kindle-Cross-Toolchain](https://github.com/samsheff/Amazon-Kindle-Cross-Toolchain): A cross-compiling toolchain for the Amazon Kindle
 * [hwhw/kindlevncviewer](https://github.com/hwhw/kindlevncviewer): A VNC viewer for ebook readers
-* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices
+* [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 ## LaTeX
 * [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. The script is customisable through its YAML interface.
 ## Linux
@@ -513,6 +513,7 @@
 * [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.js.org/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+* [sdrausty/termux-archlinux](https://github.com/sdrausty/termux-archlinux): You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
