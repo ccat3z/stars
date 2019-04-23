@@ -859,6 +859,7 @@
         "Linux/GUI/Display Manager"
     ],
     "printempw/blessing-skin-server": [],
+    "proot-me/proot": [],
     "proxyee-down-org/proxyee-down": [],
     "pypa/pipenv": [
         "Python"
@@ -899,6 +900,7 @@
     "scrooloose/nerdcommenter": [
         "Vim"
     ],
+    "sdrausty/TermuxArch": [],
     "sdrausty/termux-archlinux": [],
     "severin-lemaignan/vim-minimap": [
         "Vim"
