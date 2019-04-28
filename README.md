@@ -372,8 +372,9 @@
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): A neat wrapper around node.js fs.watch / fs.watchFile / FSEvents
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
-* [codercom/code-server](https://github.com/codercom/code-server): Run VS Code on a remote server.
+* [cdr/code-server](https://github.com/cdr/code-server): Run VS Code on a remote server.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
+* [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript

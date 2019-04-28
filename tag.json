@@ -336,6 +336,7 @@
         "Docker"
     ],
     "ccat3z/hackwlb-server": [],
+    "cdr/code-server": [],
     "celery/celery": [],
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
@@ -902,6 +903,7 @@
     ],
     "sdrausty/TermuxArch": [],
     "sdrausty/termux-archlinux": [],
+    "seblucas/cops": [],
     "severin-lemaignan/vim-minimap": [
         "Vim"
     ],
