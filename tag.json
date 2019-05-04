@@ -59,6 +59,7 @@
     "Edenhofer/Minimalism-Gnome-Shell": [
         "Gnome Shell Extensions"
     ],
+    "ElderDrivers/EdXposed": [],
     "ElemeFE/vue-infinite-scroll": [],
     "FasterXML/jackson": [
         "Java/JSON",
@@ -153,6 +154,7 @@
     ],
     "RaphaelRochet/arch-update": [],
     "RelaxedJS/ReLaXed": [],
+    "RikkaApps/Riru": [],
     "Rocket1184/electron-netease-cloud-music": [],
     "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],

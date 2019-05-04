@@ -398,6 +398,7 @@
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): Early OOM Daemon for Linux
+* [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL clinet for music.163.com. Powered by Electron and Vue
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): CSS-in-JS library designed for high performance style composition
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
@@ -501,6 +502,7 @@
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 * [kennethreitz/requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
 * [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
+* [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
