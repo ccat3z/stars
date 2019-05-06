@@ -317,7 +317,6 @@
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
 * [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
-* [jaagr/polybar](https://github.com/jaagr/polybar): A fast and easy-to-use status bar
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 * [hmrc/service-manager](https://github.com/hmrc/service-manager): A python tool to manage developing and testing with lots of microservices
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
@@ -482,6 +481,7 @@
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+* [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 * [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
 * [developit/preact](https://github.com/developit/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [developit/preact-cli](https://github.com/developit/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.

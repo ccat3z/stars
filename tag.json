@@ -852,6 +852,7 @@
     "pnigos/hookjs": [
         "Web/JavaScript"
     ],
+    "polybar/polybar": [],
     "portainer/portainer": [
         "Docker"
     ],
