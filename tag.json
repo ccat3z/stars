@@ -779,6 +779,8 @@
     "metafizzy/isotope": [],
     "mhinz/vim-signify": [],
     "michael-rapp/gnome-shell-extension-hide-app-icon": [],
+    "microsoft/WSL": [],
+    "microsoft/WSL-DistroLauncher": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
@@ -986,6 +988,7 @@
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],
+    "taichi-framework/TaiChi": [],
     "tclem/vim-arduino": [
         "Vim",
         "Arduino"
