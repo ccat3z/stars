@@ -149,6 +149,7 @@
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
+    "PowerShell/PSReadLine": [],
     "PyCQA/pep8-naming": [
         "Python"
     ],
