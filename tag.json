@@ -470,6 +470,7 @@
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
+    "eycorsican/go-tun2socks": [],
     "eycorsican/kitsunebi-android": [],
     "f/vue-wait": [],
     "facebook/immutable-js": [],
