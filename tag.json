@@ -261,6 +261,7 @@
     "alwsl/alwsl": [
         "Windows/WSL"
     ],
+    "anbox/anbox": [],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
@@ -325,6 +326,7 @@
     "breakwa11/gfw_whitelist": [
         "GFW"
     ],
+    "budtmo/docker-android": [],
     "bytegust/spm": [
         "Linux/Utility"
     ],
