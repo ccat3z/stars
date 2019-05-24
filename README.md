@@ -487,8 +487,8 @@
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 * [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
-* [developit/preact](https://github.com/developit/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-* [developit/preact-cli](https://github.com/developit/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
+* [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+* [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
@@ -521,7 +521,7 @@
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
-* [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.js.org/
+* [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.jd.com/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [sdrausty/termux-archlinux](https://github.com/sdrausty/termux-archlinux): You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/

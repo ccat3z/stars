@@ -865,6 +865,8 @@
     "postcss/postcss-loader": [],
     "posva/vim-vue": [],
     "posva/vue-promised": [],
+    "preactjs/preact": [],
+    "preactjs/preact-cli": [],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
