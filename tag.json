@@ -412,6 +412,7 @@
         "Docker"
     ],
     "docker/distribution": [],
+    "docopt/docopt.go": [],
     "dojiong/daemon-manager": [],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
@@ -535,6 +536,7 @@
     "github-tools/github": [
         "GitHub"
     ],
+    "gizak/termui": [],
     "gliffy/canvas2svg": [
         "Linux/Utility"
     ],
@@ -651,6 +653,7 @@
     "jorgebucaran/awesome-fish": [],
     "jorgebucaran/awesome-fish-shell": [],
     "jorgebucaran/fisher": [],
+    "jroimartin/gocui": [],
     "jsjoeio/styled-components-vs-emotion": [],
     "jsnjycwyz/QQUnrecalled": [
         "Android/Xposed"
@@ -811,6 +814,7 @@
         "Utility",
         "Machine Learning"
     ],
+    "nana-4/materia-theme": [],
     "nefe/iron-redux": [],
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
@@ -818,6 +822,7 @@
     "nelhage/reptyr": [],
     "neovimhaskell/haskell-vim": [],
     "nok/leap-motion-processing": [],
+    "nsf/termbox-go": [],
     "ochukai/wepy-com-toptip": [],
     "octokit/rest.js": [],
     "oh-my-fish/oh-my-fish": [],

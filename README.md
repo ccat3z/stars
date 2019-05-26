@@ -250,6 +250,7 @@
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## JavaScript
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
+* [almende/vis](https://github.com/almende/vis): vis.js is a dynamic, browser-based visualization library
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 ## Jekyll
@@ -393,6 +394,7 @@
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
+* [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
@@ -420,6 +422,7 @@
 * [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver): Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
+* [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
@@ -463,6 +466,7 @@
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂majsoul专用PC浏览器，提供了一些专有特性
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
+* [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
@@ -523,7 +527,9 @@
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
 * [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用。  https://taro.jd.com/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+* [nsf/termbox-go](https://github.com/nsf/termbox-go): Pure Go termbox implementation
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+* [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
 * [sdrausty/termux-archlinux](https://github.com/sdrausty/termux-archlinux): You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
 * [sdrausty/TermuxArch](https://github.com/sdrausty/TermuxArch): You can use setupTermuxArch.sh 📲 to install Arch Linux in Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/TermuxArch/docs/install
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
