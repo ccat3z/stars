@@ -536,7 +536,7 @@
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
-* [transform-it/transform-www](https://github.com/transform-it/transform-www): 🔁  Transform JS objects to get something useful
+* [ritz078/transform-www](https://github.com/ritz078/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
