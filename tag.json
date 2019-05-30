@@ -397,6 +397,7 @@
     "davidhalter/jedi-vim": [
         "Vim"
     ],
+    "dawnlabs/carbon": [],
     "dbader/schedule": [],
     "deadalnix/pixel-saver": [],
     "dell/dkms": [],
@@ -702,6 +703,7 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "labstack/echo": [],
     "lambdalisue/suda.vim": [],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
