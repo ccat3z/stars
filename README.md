@@ -383,7 +383,7 @@
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
-* [qgaye/DataStructuresAndAlgorithm](https://github.com/qgaye/DataStructuresAndAlgorithm): 一个到处"抄袭"以实现的Java数据结构和算法的学习代码
+* [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处"抄袭"以实现的Java数据结构和算法的学习代码
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
@@ -406,7 +406,7 @@
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL clinet for music.163.com. Powered by Electron and Vue
-* [emotion-js/emotion](https://github.com/emotion-js/emotion): CSS-in-JS library designed for high performance style composition
+* [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
