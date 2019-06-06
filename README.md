@@ -224,7 +224,6 @@
 * [astralapp/astral](https://github.com/astralapp/astral): Organize Your GitHub Stars With Ease
 * [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti): abusing github commit history for the lulz
 * [github-tools/github](https://github.com/github-tools/github): A higher-level wrapper around the Github API. Intended for the browser.
-* [artisologic/github-stars-tagger](https://github.com/artisologic/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 ## Gnome Shell Extensions
@@ -415,6 +414,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+* [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
