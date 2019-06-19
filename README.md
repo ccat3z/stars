@@ -192,7 +192,7 @@
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
-* [portainer/portainer](https://github.com/portainer/portainer): Simple management UI for Docker
+* [portainer/portainer](https://github.com/portainer/portainer): Making Docker management easy.
 * [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
 ## Font
@@ -541,6 +541,7 @@
 * [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
+* [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
 * [ritz078/transform-www](https://github.com/ritz078/transform-www): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
