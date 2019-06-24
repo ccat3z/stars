@@ -1114,6 +1114,7 @@
     "yangyangwithgnu/use_vim_as_ide": [
         "Vim"
     ],
+    "ycm-core/YouCompleteMe": [],
     "yidao620c/python3-cookbook": [
         "Python/Tutorial"
     ],

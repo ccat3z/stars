@@ -594,6 +594,7 @@
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
+* [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): None
 ## Pandoc
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
@@ -680,7 +681,6 @@
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern vim plugin for editing LaTeX files.
-* [Valloric/YouCompleteMe](https://github.com/Valloric/YouCompleteMe): A code-completion engine for Vim
 ## WeChat
 ### Mini Program
 #### Develop
