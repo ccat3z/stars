@@ -836,6 +836,7 @@
     "openshift-quickstart/owncloud-openshift-quickstart": [
         "OpenShift"
     ],
+    "oranzhang/mina-webpack-plugin": [],
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -894,6 +895,7 @@
     "qrohlf/trianglify": [],
     "racaljk/llmd": [],
     "rakyll/statik": [],
+    "realywithoutname/mini-program-webpack-loader": [],
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
     "rfjakob/earlyoom": [],
