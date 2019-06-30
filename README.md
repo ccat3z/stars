@@ -353,7 +353,7 @@
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of packages, prompts, and resources for the fish shell
+* [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of packages, prompts, and resources for the fish shell.
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
@@ -409,7 +409,7 @@
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [cosven/FeelUOwn](https://github.com/cosven/FeelUOwn): trying to be a user-friendly and hackable music player
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell.
 * [codemix/flow-runtime](https://github.com/codemix/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
