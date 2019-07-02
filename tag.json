@@ -139,6 +139,8 @@
     "NervJS/taro": [],
     "NicoHood/arc-theme": [],
     "NixOS/patchelf": [],
+    "OmniSharp/omnisharp-roslyn": [],
+    "OmniSharp/omnisharp-vscode": [],
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
