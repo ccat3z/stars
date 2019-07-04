@@ -61,6 +61,7 @@
     ],
     "ElderDrivers/EdXposed": [],
     "ElemeFE/vue-infinite-scroll": [],
+    "EliverLara/Ant": [],
     "FasterXML/jackson": [
         "Java/JSON",
         "JSON"
@@ -144,6 +145,7 @@
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
+    "PapyElGringo/material-shell": [],
     "PeachScript/vue-infinite-loading": [],
     "PegasusWang/python-web-guide": [
         "Python/Tutorial"
