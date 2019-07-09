@@ -294,6 +294,7 @@
     ],
     "autozimu/LanguageClient-neovim": [],
     "aymericdamien/TensorFlow-Examples": [],
+    "b3log/baidu-netdisk-downloaderx": [],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -780,6 +781,7 @@
         "Vim"
     ],
     "marktext/marktext": [],
+    "matheuss/google-translate-api": [],
     "matteoserva/MegaFuse": [],
     "matthewwardrop/linux-surfacepro3": [
         "Linux/Device/Surface"
@@ -863,6 +865,7 @@
     "pdudits/soundlibs": [
         "Java"
     ],
+    "peterq/pan-light": [],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
