@@ -6,7 +6,6 @@
       * [EF Core](#ef-core)
   * [Android](#android)
     * [APP](#app)
-      * [Entertainment](#entertainment)
       * [Utility](#utility)
     * [MIUI](#miui)
     * [Magick](#magick)
@@ -120,8 +119,6 @@
 * [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
-#### Entertainment
-* [Arachnid-27/Cimoc](https://github.com/Arachnid-27/Cimoc): Android 平台在线漫画阅读器
 #### Utility
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
@@ -249,7 +246,7 @@
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## JavaScript
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
-* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please got to https://github.com/visjs
+* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please got se https://github.com/almende/vis/issues/4259
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 ## Jekyll
@@ -385,7 +382,7 @@
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
-* [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处"抄袭"以实现的Java数据结构和算法的学习代码
+* [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处借鉴得来的Java数据结构和算法的学习代码
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
@@ -401,6 +398,7 @@
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
+* [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
