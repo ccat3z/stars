@@ -318,6 +318,7 @@
     "binux/ThunderLixianExporter": [
         "Utility"
     ],
+    "binux/yaaw": [],
     "blacklabelops/volumerize": [
         "Docker"
     ],
@@ -792,6 +793,7 @@
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
+    "mayswind/AriaNg": [],
     "mdbootstrap/Vue-Bootstrap-with-Material-Design": [],
     "meefik/linuxdeploy": [
         "Android/APP"
