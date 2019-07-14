@@ -753,6 +753,7 @@
         "Utility",
         "Machine Learning"
     ],
+    "lodash/lodash": [],
     "lodevil/daemon-manager": [
         "Linux/Utility"
     ],
@@ -815,6 +816,7 @@
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
+    "mono/t4": [],
     "moovweb/gvm": [],
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
@@ -830,6 +832,7 @@
         "Machine Learning"
     ],
     "nana-4/materia-theme": [],
+    "natemcmaster/dotnet-tools": [],
     "nefe/iron-redux": [],
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
