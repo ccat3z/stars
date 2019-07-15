@@ -246,7 +246,7 @@
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## JavaScript
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
-* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please got se https://github.com/almende/vis/issues/4259
+* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! 
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 ## Jekyll
@@ -358,7 +358,7 @@
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
-* [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
+* [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
