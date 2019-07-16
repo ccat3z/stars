@@ -519,6 +519,7 @@
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "gajus/flow-runtime": [],
     "gdiepen/docker-convenience-scripts": [
         "Docker"
     ],
