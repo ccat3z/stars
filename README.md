@@ -246,7 +246,7 @@
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
 ## JavaScript
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
-* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! 
+* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 ## Jekyll
@@ -555,7 +555,7 @@
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
-* [ritz078/transform-www](https://github.com/ritz078/transform-www): 🔁  Transform JS objects to get something useful
+* [ritz078/transform](https://github.com/ritz078/transform): 🔁  Transform JS objects to get something useful
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
