@@ -525,7 +525,7 @@
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
-* [kennethreitz/requests-html](https://github.com/kennethreitz/requests-html): Pythonic HTML Parsing for Humans™
+* [oldani/requests-html](https://github.com/oldani/requests-html): Pythonic HTML Parsing for Humans™
 * [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
