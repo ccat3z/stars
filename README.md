@@ -555,7 +555,7 @@
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
-* [ritz078/transform](https://github.com/ritz078/transform): 🔁  Transform JS objects to get something useful
+* [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
