@@ -693,6 +693,7 @@
     ],
     "kelthuzadx/llmd": [],
     "kennethreitz/requests-html": [],
+    "keratin/authn-server": [],
     "kesenhoo/android-training-course-in-chinese": [
         "Android"
     ],
@@ -909,6 +910,7 @@
     "python-pillow/Pillow": [],
     "qgaye/DataStructures": [],
     "qgaye/DataStructuresAndAlgorithm": [],
+    "qor/auth": [],
     "qrohlf/trianglify": [],
     "racaljk/llmd": [],
     "rakyll/statik": [],
@@ -1098,6 +1100,7 @@
         "Python"
     ],
     "virgili0/Virgilio": [],
+    "volatiletech/authboss": [],
     "vue-styleguidist/vue-styleguidist": [],
     "vuejs/awesome-vue": [],
     "vuematerial/vue-material": [
