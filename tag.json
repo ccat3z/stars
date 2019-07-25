@@ -283,6 +283,7 @@
     "asLody/VirtualApp": [
         "Android"
     ],
+    "asciinema/asciinema": [],
     "asins/vimcdoc": [
         "Vim"
     ],
@@ -356,6 +357,7 @@
     ],
     "chokcoco/iCSS": [],
     "chr4/nginx.vim": [],
+    "chrislgarry/Apollo-11": [],
     "clone95/Virgilio": [],
     "cmhughes/latexindent.pl": [
         "LaTeX"
