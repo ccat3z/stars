@@ -162,6 +162,8 @@
     "RelaxedJS/ReLaXed": [],
     "RikkaApps/Riru": [],
     "Rocket1184/electron-netease-cloud-music": [],
+    "SDRausty/TermuxArch": [],
+    "SDRausty/termux-archlinux": [],
     "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],
     "Shougo/deoplete.nvim": [
@@ -506,6 +508,7 @@
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
+    "fluent/fluentd": [],
     "frogatto/frogatto": [
         "Game"
     ],
