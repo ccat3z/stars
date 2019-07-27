@@ -1038,6 +1038,7 @@
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],
+    "tadly/hideIt.sh": [],
     "taichi-framework/TaiChi": [],
     "tclem/vim-arduino": [
         "Vim",

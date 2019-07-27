@@ -445,6 +445,7 @@
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
+* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust command-line/curses/web plaintext accounting tools, a Haskell rewrite of Ledger.
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
