@@ -414,6 +414,7 @@
     "deadalnix/pixel-saver": [],
     "dell/dkms": [],
     "denoland/deno": [],
+    "dense-analysis/ale": [],
     "desandro/imagesloaded": [],
     "desandro/masonry": [],
     "developit/preact": [],
@@ -949,6 +950,7 @@
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
     ],
+    "samyk/evercookie": [],
     "satwikkansal/wtfpython": [],
     "scrooloose/nerdcommenter": [
         "Vim"
