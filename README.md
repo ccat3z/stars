@@ -461,6 +461,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [Bajoja/indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect): AppIndicator for KDE Connect
+* [getinsomnia/insomnia](https://github.com/getinsomnia/insomnia): Cross-platform HTTP and GraphQL Client
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
