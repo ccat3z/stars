@@ -412,6 +412,7 @@
     ],
     "dawnlabs/carbon": [],
     "dbader/schedule": [],
+    "dbcli/mycli": [],
     "deadalnix/pixel-saver": [],
     "dell/dkms": [],
     "denoland/deno": [],
@@ -650,6 +651,7 @@
         "Jekyll"
     ],
     "jekyll/jemoji": [],
+    "jergusg/k380-function-keys-conf": [],
     "jglovier/dotfiles-logo": [],
     "jgm/pandocfilters": [
         "Pandoc"
@@ -831,6 +833,7 @@
     "moovweb/gvm": [],
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
+    "muesli/gitomatic": [],
     "museui/muse-ui": [],
     "mzlogin/mzlogin.github.io": [
         "Blog"
