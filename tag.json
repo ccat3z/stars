@@ -268,6 +268,7 @@
     "alwsl/alwsl": [
         "Windows/WSL"
     ],
+    "amanusk/s-tui": [],
     "anbox/anbox": [],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
@@ -1055,6 +1056,7 @@
     "teddysun/across": [
         "GFW"
     ],
+    "teejee2008/timeshift": [],
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
