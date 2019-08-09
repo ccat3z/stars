@@ -818,6 +818,7 @@
     "michael-rapp/gnome-shell-extension-hide-app-icon": [],
     "microsoft/WSL": [],
     "microsoft/WSL-DistroLauncher": [],
+    "microsoft/vscode": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
