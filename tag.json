@@ -59,6 +59,7 @@
     "Edenhofer/Minimalism-Gnome-Shell": [
         "Gnome Shell Extensions"
     ],
+    "EdiWang/Edi.Captcha.AspNetCore": [],
     "ElaWorkshop/awesome-cn-cafe": [],
     "ElderDrivers/EdXposed": [],
     "ElemeFE/vue-infinite-scroll": [],
@@ -509,6 +510,7 @@
     "ferbar/jmagick": [
         "Java"
     ],
+    "fhackenberger/ktikz": [],
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
