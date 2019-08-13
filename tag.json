@@ -11,6 +11,7 @@
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
+    "Awesome-HarmonyOS/HarmonyOS": [],
     "AykoPoel/surface3-scripts": [
         "Linux/Device/Surface"
     ],
@@ -19,6 +20,7 @@
     ],
     "BYVoid/OpenCC": [],
     "Bajoja/indicator-kdeconnect": [],
+    "BlackArch/blackarch": [],
     "C4ptainCrunch/ics.py": [],
     "CTeX-org/ctex-kit": [],
     "CTeX-org/lshort-cn": [
@@ -606,12 +608,14 @@
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
+    "hollischuang/toBeTopJavaer": [],
     "home-sweet-gnome/dash-to-panel": [],
     "hoovercj/vscode-power-mode": [],
     "horst3180/arc-icon-theme": [],
     "horst3180/arc-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
+    "hrdwrrsk/adementary-theme": [],
     "http-party/http-server": [],
     "huanghaibin-dev/CalendarView": [],
     "huanghongxun/HMCL": [],

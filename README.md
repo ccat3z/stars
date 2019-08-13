@@ -334,6 +334,7 @@
 ## Other
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+* [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): Adementary is a GTK theme based on Adwaita, blended with elementary OS visual design.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
@@ -367,6 +368,7 @@
 * [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
+* [BlackArch/blackarch](https://github.com/BlackArch/blackarch): BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Javascript Secrets Vault - Multi-Platform Desktop Application
@@ -447,6 +449,7 @@
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [ccat3z/hackwlb-server](https://github.com/ccat3z/hackwlb-server): ccat3z's blog ❤
+* [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
@@ -574,6 +577,7 @@
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
+* [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
