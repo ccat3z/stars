@@ -356,6 +356,7 @@
     "captnbp/docker-owncloud": [
         "Docker"
     ],
+    "carbon-app/carbon": [],
     "ccat3z/hackwlb-server": [],
     "cdr/code-server": [],
     "celery/celery": [],
