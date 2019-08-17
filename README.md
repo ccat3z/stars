@@ -549,6 +549,7 @@
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
 * [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
+* [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
