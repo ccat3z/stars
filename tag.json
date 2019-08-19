@@ -135,6 +135,7 @@
     "MrKiven/PyZh": [
         "Python/Tutorial"
     ],
+    "N-Yuki/gnome-shell-extension-workspace-isolated-dash": [],
     "NanoHttpd/nanohttpd": [
         "Java/Web"
     ],
@@ -486,6 +487,7 @@
     ],
     "emicklei/go-restful": [],
     "emotion-js/emotion": [],
+    "eolinker/EOLINKER-GoKu-API-Gateway-CE": [],
     "eonpatapon/gnome-shell-extension-caffeine": [],
     "equalsraf/win32yank": [
         "Windows/Utility"
@@ -735,6 +737,7 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "kzu/GitInfo": [],
     "labstack/echo": [],
     "lambdalisue/suda.vim": [],
     "lauritzsh/pandoc-markdown-template": [
