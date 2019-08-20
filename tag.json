@@ -278,6 +278,7 @@
         "Android/Xposed"
     ],
     "andyholmes/gnome-shell-extension-gsconnect": [],
+    "anirudhajith/process-wallpaper": [],
     "anntzer/pypi2pkgbuild": [],
     "antoniomika/sish": [],
     "archlinuxcn/repo": [
@@ -438,6 +439,7 @@
     "docker/distribution": [],
     "docopt/docopt.go": [],
     "dojiong/daemon-manager": [],
+    "domaindrivendev/Swashbuckle.AspNetCore": [],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
     ],
