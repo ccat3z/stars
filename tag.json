@@ -870,6 +870,7 @@
     "nelhage/reptyr": [],
     "neovimhaskell/haskell-vim": [],
     "netdata/netdata": [],
+    "neuland/micro-frontends": [],
     "nok/leap-motion-processing": [],
     "nsf/termbox-go": [],
     "ochukai/wepy-com-toptip": [],
@@ -1005,6 +1006,7 @@
         "GitHub"
     ],
     "simonmichael/hledger": [],
+    "sindresorhus/github-markdown-css": [],
     "sjdy521/Mojo-Webqq": [
         "Chinese APP Hack/QQ"
     ],
@@ -1101,6 +1103,7 @@
     "tvfe/wxpage": [],
     "txyyss/Lambda-Calculus": [],
     "tyru/caw.vim": [],
+    "umijs/qiankun": [],
     "unknwon/the-way-to-go_ZH_CN": [],
     "v2ray/v2ray-core": [
         "GFW"

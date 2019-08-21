@@ -432,6 +432,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+* [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [kzu/GitInfo](https://github.com/kzu/GitInfo): Git and SemVer Info from MSBuild, C# and VB
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
@@ -501,6 +502,7 @@
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell): New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse/keyboard workflow to increase daily productivity and comfort
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
+* [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [oranzhang/mina-webpack-plugin](https://github.com/oranzhang/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
@@ -545,6 +547,7 @@
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
+* [umijs/qiankun](https://github.com/umijs/qiankun): 📦🚀Blazing fast, simple and completed solution for micro frontends.
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root filesystem entirely into RAM during boot.
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
