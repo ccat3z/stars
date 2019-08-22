@@ -429,6 +429,7 @@
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell.
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
+* [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
@@ -517,6 +518,7 @@
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://my-netdata.io/
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
+* [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp based on roslyn workspaces

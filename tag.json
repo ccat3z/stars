@@ -70,6 +70,7 @@
         "Java/JSON",
         "JSON"
     ],
+    "Fody/Fody": [],
     "ForbesLindesay/throat": [],
     "GNOME/glib": [
         "C"
@@ -359,6 +360,7 @@
         "Docker"
     ],
     "carbon-app/carbon": [],
+    "cbrnix/Newaita": [],
     "ccat3z/hackwlb-server": [],
     "cdr/code-server": [],
     "celery/celery": [],
