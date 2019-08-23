@@ -80,6 +80,7 @@
     ],
     "Gozala/events": [],
     "HelloCodeMing/baidu-wenku": [],
+    "Homebrew/brew": [],
     "Jactor-Sue/Deepin-Apps-Installation": [],
     "Jguer/yay": [],
     "JinnLynn/genpac": [
@@ -267,6 +268,7 @@
     "agronholm/apscheduler": [],
     "airblade/vim-gitgutter": [],
     "akiraux/Akira": [],
+    "alastairtree/LazyCache": [],
     "almende/vis": [
         "JavaScript"
     ],
@@ -452,6 +454,7 @@
         ".NET/.NET Core/ASP.NET Core"
     ],
     "drone/drone": [],
+    "drone/drone-cli": [],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
