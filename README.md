@@ -422,6 +422,7 @@
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL clinet for music.163.com. Powered by Electron and Vue
+* [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [eolinker/EOLINKER-GoKu-API-Gateway-CE](https://github.com/eolinker/EOLINKER-GoKu-API-Gateway-CE): GoKu API Gateway CE，悟空API网关（开源版），是国内首个开源go语言API网关，帮助企业进行API服务治理与API性能安全维护，为企业数字化赋能。
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
