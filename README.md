@@ -359,6 +359,8 @@
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
 * [keratin/authn-server](https://github.com/keratin/authn-server): Authentication service that keeps you in control without forcing you to be an expert in web security.
+* [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
+* [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
 * [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of packages, prompts, and resources for the fish shell.
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.

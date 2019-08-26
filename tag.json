@@ -11,6 +11,8 @@
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
     ],
+    "AutoMapper/AutoMapper": [],
+    "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [],
     "Awesome-HarmonyOS/HarmonyOS": [],
     "AykoPoel/surface3-scripts": [
         "Linux/Device/Surface"
