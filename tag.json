@@ -2,6 +2,7 @@
     "30-seconds/30-seconds-of-code": [],
     "4Catalyzer/astroturf": [],
     "996icu/996.ICU": [],
+    "AArnott/Xunit.SkippableFact": [],
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
@@ -741,6 +742,7 @@
         "Android/APP"
     ],
     "kouya/snownews": [],
+    "krhougs/mina-webpack-plugin": [],
     "kronik3r/daktilo": [
         "Jekyll"
     ],
