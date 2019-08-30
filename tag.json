@@ -187,6 +187,7 @@
     "SkiaWorks/Awesome_APIs": [
         "Web/API"
     ],
+    "StackExchange/Dapper": [],
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
@@ -861,6 +862,7 @@
     "mrvautin/adminMongo": [],
     "muesli/gitomatic": [],
     "museui/muse-ui": [],
+    "mysql-net/MySqlConnector": [],
     "mzlogin/mzlogin.github.io": [
         "Blog"
     ],
