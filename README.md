@@ -532,6 +532,7 @@
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp based on roslyn workspaces
 * [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode): Official C# support for Visual Studio Code (powered by OmniSharp)
 * [themix-project/oomox](https://github.com/themix-project/oomox): Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+* [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
