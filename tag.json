@@ -768,6 +768,7 @@
     "lervag/vimtex": [
         "Vim"
     ],
+    "lesspass/lesspass": [],
     "libfuse/python-fuse": [
         "Python"
     ],

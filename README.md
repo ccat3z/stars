@@ -499,6 +499,7 @@
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
+* [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
