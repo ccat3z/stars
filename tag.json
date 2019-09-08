@@ -115,6 +115,7 @@
     "LiuLang/bcloud-packages": [
         "Linux/Utility"
     ],
+    "Macil/flow-copy-source": [],
     "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [
         "Android/Magick"
     ],
