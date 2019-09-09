@@ -472,6 +472,7 @@
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
 * [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
+* [typicode/husky](https://github.com/typicode/husky): 🐶 Git hooks made easy
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [C4ptainCrunch/ics.py](https://github.com/C4ptainCrunch/ics.py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
@@ -681,7 +682,7 @@
 ### API
 * [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python): OneDrive SDK for Python! https://dev.onedrive.com 
 ### Tutorial
-* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python-web入坑指南
+* [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python/golang -web入坑指南
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 ## Resource
