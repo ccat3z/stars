@@ -139,6 +139,7 @@
         "Windows/WSL"
     ],
     "MopTym/vue-waterfall": [],
+    "Mortennn/Dozer": [],
     "MrKiven/PyZh": [
         "Python/Tutorial"
     ],
@@ -304,6 +305,7 @@
     "asins/vimcdoc": [
         "Vim"
     ],
+    "aspnet/AspNetCore": [],
     "astaxie/build-web-application-with-golang": [],
     "astralapp/astral": [
         "GitHub"
@@ -515,12 +517,14 @@
     "eycorsican/go-tun2socks": [],
     "eycorsican/kitsunebi-android": [],
     "f/vue-wait": [],
+    "fabiandev/ts-runtime": [],
     "facebook/immutable-js": [],
     "fairplay-zone/docker-dontstarvetogether": [],
     "fcitx/fcitx": [
         "Linux"
     ],
     "feeluown/FeelUOwn": [],
+    "feilongfl/Cimoc": [],
     "felixrieseberg/npm-windows-upgrade": [
         "Node.js/Windows"
     ],
@@ -961,6 +965,7 @@
     "qrohlf/trianglify": [],
     "racaljk/llmd": [],
     "rakyll/statik": [],
+    "ramda/ramda": [],
     "realywithoutname/mini-program-webpack-loader": [],
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
