@@ -519,6 +519,7 @@
     "eycorsican/kitsunebi-android": [],
     "f/vue-wait": [],
     "fabiandev/ts-runtime": [],
+    "facebook/flow": [],
     "facebook/immutable-js": [],
     "fairplay-zone/docker-dontstarvetogether": [],
     "fcitx/fcitx": [
@@ -1113,6 +1114,7 @@
     "tkem/cachetools": [
         "Python"
     ],
+    "tleunen/babel-plugin-module-resolver": [],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
     "tpope/vim-eunuch": [],
