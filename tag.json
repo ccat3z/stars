@@ -890,6 +890,7 @@
         "Windows/Terminal"
     ],
     "nelhage/reptyr": [],
+    "neoclide/coc.nvim": [],
     "neovimhaskell/haskell-vim": [],
     "netdata/netdata": [],
     "neuland/micro-frontends": [],
