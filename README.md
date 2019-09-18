@@ -133,7 +133,6 @@
 * [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
 * [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
-* [jsnjycwyz/QQUnrecalled](https://github.com/jsnjycwyz/QQUnrecalled): None
 * [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
@@ -462,7 +461,7 @@
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
-* [eolinker/goku](https://github.com/eolinker/goku): Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang + MySQL + Redis 开发的微服务网关，能够实现高性能 HTTP API 转发、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
+* [eolinker/goku](https://github.com/eolinker/goku): An Powerful API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
@@ -579,6 +578,7 @@
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
 * [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
+* [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
