@@ -545,6 +545,7 @@
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
