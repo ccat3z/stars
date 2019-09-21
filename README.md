@@ -575,6 +575,7 @@
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root filesystem entirely into RAM during boot.
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
+* [remaxjs/remax](https://github.com/remaxjs/remax): 全新的小程序开发体验
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
