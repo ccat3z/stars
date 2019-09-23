@@ -436,6 +436,7 @@
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for the fish shell.
+* [takluyver/flit](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
@@ -465,6 +466,7 @@
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
+* [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [ccat3z/hackwlb-server](https://github.com/ccat3z/hackwlb-server): ccat3z's blog ❤
 * [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
@@ -533,6 +535,7 @@
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): Async MySQL Connector for .NET and .NET Core
 * [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
+* [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://my-netdata.io/
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
@@ -621,6 +624,7 @@
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
+* [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift4.2编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.

@@ -167,6 +167,7 @@
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
+    "PonasKovas/netctl-tray": [],
     "PowerShell/PSReadLine": [],
     "PyCQA/pep8-naming": [
         "Python"
@@ -746,6 +747,7 @@
         "C"
     ],
     "kgshank/gse-refresh-wifi": [],
+    "kgshank/gse-sound-output-device-chooser": [],
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
@@ -1094,6 +1096,7 @@
     ],
     "tadly/hideIt.sh": [],
     "taichi-framework/TaiChi": [],
+    "takluyver/flit": [],
     "tclem/vim-arduino": [
         "Vim",
         "Arduino"
@@ -1205,6 +1208,7 @@
     "yangyangwithgnu/use_vim_as_ide": [
         "Vim"
     ],
+    "yanue/V2rayU": [],
     "ycm-core/YouCompleteMe": [],
     "yidao620c/python3-cookbook": [
         "Python/Tutorial"
