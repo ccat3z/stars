@@ -507,6 +507,7 @@
     "emotion-js/emotion": [],
     "eolinker/EOLINKER-GoKu-API-Gateway-CE": [],
     "eolinker/goku": [],
+    "eolinker/goku-api-gateway": [],
     "eonpatapon/gnome-shell-extension-caffeine": [],
     "equalsraf/win32yank": [
         "Windows/Utility"
@@ -664,6 +665,7 @@
         "Jekyll"
     ],
     "indexzero/http-server": [],
+    "int128/wslexec": [],
     "isaacs/async-cache": [],
     "it-ebooks/w3school": [
         "Web/Tutorial"
@@ -857,6 +859,7 @@
     "michael-rapp/gnome-shell-extension-hide-app-icon": [],
     "microsoft/WSL": [],
     "microsoft/WSL-DistroLauncher": [],
+    "microsoft/pyright": [],
     "microsoft/vscode": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
@@ -875,6 +878,7 @@
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
     "muesli/gitomatic": [],
+    "mumoshu/variant": [],
     "museui/muse-ui": [],
     "mysql-net/MySqlConnector": [],
     "mzlogin/mzlogin.github.io": [
@@ -977,6 +981,8 @@
     "remaxjs/remax": [],
     "replit-archive/repl.it": [],
     "replit/repl.it": [],
+    "restic/others": [],
+    "restic/restic": [],
     "rfjakob/earlyoom": [],
     "rigor789/vue-scrollto": [],
     "ritz078/transform": [],
@@ -1081,6 +1087,7 @@
     "studyzy/imewlconverter": [
         "Utility"
     ],
+    "stv0g/stm32cube-gcc": [],
     "styled-components/styled-components": [],
     "sudar/vim-arduino-snippets": [
         "Vim",
