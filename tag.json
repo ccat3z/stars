@@ -279,6 +279,7 @@
     "airblade/vim-gitgutter": [],
     "akiraux/Akira": [],
     "alastairtree/LazyCache": [],
+    "alibaba/serverless-vscode": [],
     "almende/vis": [
         "JavaScript"
     ],
@@ -825,6 +826,7 @@
     "lukesampson/scoop": [
         "Windows/Utility"
     ],
+    "lutris/lutris": [],
     "lzybkr/PSReadLine": [
         "Windows/PowerShell"
     ],
