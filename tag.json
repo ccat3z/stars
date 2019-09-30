@@ -205,6 +205,8 @@
     ],
     "Tencent/wepy": [],
     "Tencent/weui-wxss": [],
+    "TheAlgorithms/Go": [],
+    "TheAlgorithms/Python": [],
     "ThirtyDegreesRay/OpenHub": [
         "Android/APP/Utility"
     ],
@@ -319,6 +321,7 @@
         "C"
     ],
     "autozimu/LanguageClient-neovim": [],
+    "avelino/awesome-go": [],
     "aymericdamien/TensorFlow-Examples": [],
     "b3log/baidu-netdisk-downloaderx": [],
     "baskerville/bspwm": [
