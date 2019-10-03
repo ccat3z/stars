@@ -427,6 +427,7 @@
     "dahlbyk/posh-git": [
         "Windows/PowerShell"
     ],
+    "daliansky/Hackintosh": [],
     "daniellandau/switcher": [],
     "danielquinn/Gentoo-Surface-Pro-3": [
         "Linux/Device/Surface"
@@ -685,6 +686,7 @@
     "janeczku/calibre-web": [
         "Utility"
     ],
+    "jasonlvhit/gocron": [],
     "jcouyang/grokking-monad": [],
     "jdneo/vscode-leetcode": [],
     "jekyll/jekyll": [
@@ -970,6 +972,7 @@
     "printempw/blessing-skin-server": [],
     "proot-me/proot": [],
     "proxyee-down-org/proxyee-down": [],
+    "prprprus/scheduler": [],
     "psf/requests-html": [],
     "pypa/pipenv": [
         "Python"
@@ -1001,6 +1004,7 @@
     "robbyrussell/oh-my-zsh": [
         "Zsh"
     ],
+    "robfig/cron": [],
     "robinvdvleuten/vuex-persistedstate": [],
     "rockon999/dynamic-panel-transparency": [],
     "rosghub/TLP-Switcher": [
@@ -1036,6 +1040,7 @@
     "shadowsocksrr/shadowsocksr-csharp": [
         "GFW"
     ],
+    "sharkdp/bat": [],
     "shenfeng/tiny-web-server": [
         "C"
     ],

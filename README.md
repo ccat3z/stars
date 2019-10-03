@@ -371,6 +371,7 @@
 * [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 * [HelloCodeMing/baidu-wenku](https://github.com/HelloCodeMing/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
+* [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
@@ -394,6 +395,7 @@
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
+* [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
@@ -429,7 +431,7 @@
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
-* [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL clinet for music.163.com. Powered by Electron and Vue
+* [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
@@ -462,6 +464,7 @@
 * [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver): Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
+* [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service.
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
@@ -471,6 +474,7 @@
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
+* [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [ccat3z/hackwlb-server](https://github.com/ccat3z/hackwlb-server): ccat3z's blog ❤
 * [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
@@ -597,6 +601,7 @@
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
+* [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [antoniomika/sish](https://github.com/antoniomika/sish): An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -637,7 +642,7 @@
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift4.2编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
-* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: A modern generic interactive finder and dispatcher for Vim and NeoVim
+* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern generic interactive finder and dispatcher for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
