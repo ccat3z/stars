@@ -445,12 +445,14 @@
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
+* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK eBook reader
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [kzu/GitInfo](https://github.com/kzu/GitInfo): Git and SemVer Info from MSBuild, C# and VB
+* [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
@@ -542,6 +544,7 @@
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): Async MySQL Connector for .NET and .NET Core
+* [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://my-netdata.io/

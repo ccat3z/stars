@@ -444,6 +444,7 @@
     "dbcli/mycli": [],
     "deadalnix/pixel-saver": [],
     "dell/dkms": [],
+    "denisidoro/navi": [],
     "denoland/deno": [],
     "dense-analysis/ale": [],
     "desandro/imagesloaded": [],
@@ -716,6 +717,7 @@
         "Awesome"
     ],
     "johnagan/clean-webpack-plugin": [],
+    "johnfactotum/foliate": [],
     "joonro/ConEmu-Color-Themes": [
         "Windows/Terminal/ConEmu"
     ],
@@ -1055,6 +1057,7 @@
     ],
     "simonmichael/hledger": [],
     "sindresorhus/github-markdown-css": [],
+    "sitaramc/gitolite": [],
     "sjdy521/Mojo-Webqq": [
         "Chinese APP Hack/QQ"
     ],
