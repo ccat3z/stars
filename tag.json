@@ -871,6 +871,7 @@
     "michael-rapp/gnome-shell-extension-hide-app-icon": [],
     "microsoft/WSL": [],
     "microsoft/WSL-DistroLauncher": [],
+    "microsoft/monaco-editor": [],
     "microsoft/pyright": [],
     "microsoft/vscode": [],
     "mk-fg/onedrive-fuse-fs": [
@@ -985,6 +986,7 @@
     "python-pillow/Pillow": [],
     "qgaye/DataStructures": [],
     "qgaye/DataStructuresAndAlgorithm": [],
+    "qgaye/note": [],
     "qor/auth": [],
     "qrohlf/trianglify": [],
     "racaljk/llmd": [],

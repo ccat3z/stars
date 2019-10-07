@@ -539,6 +539,7 @@
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
 * [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 * [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -552,6 +553,7 @@
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
+* [qgaye/note](https://github.com/qgaye/note): just note
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp based on roslyn workspaces
 * [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode): Official C# support for Visual Studio Code (powered by OmniSharp)
