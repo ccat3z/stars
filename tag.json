@@ -86,6 +86,7 @@
     "HelloCodeMing/baidu-wenku": [],
     "Himself65/OpenArkCompiler": [],
     "Homebrew/brew": [],
+    "ImVexed/muon": [],
     "Jactor-Sue/Deepin-Apps-Installation": [],
     "Jguer/yay": [],
     "JinnLynn/genpac": [
@@ -165,6 +166,7 @@
     "PegasusWang/python-web-guide": [
         "Python/Tutorial"
     ],
+    "Phantas0s/devdash": [],
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
@@ -1161,6 +1163,7 @@
     "txyyss/Lambda-Calculus": [],
     "typicode/husky": [],
     "tyru/caw.vim": [],
+    "ultralight-ux/Ultralight": [],
     "umijs/qiankun": [],
     "unknwon/the-way-to-go_ZH_CN": [],
     "v2ray/v2ray-core": [
