@@ -1035,6 +1035,7 @@
     "sdrausty/TermuxArch": [],
     "sdrausty/termux-archlinux": [],
     "seblucas/cops": [],
+    "serhii-londar/open-source-mac-os-apps": [],
     "severin-lemaignan/vim-minimap": [
         "Vim"
     ],
@@ -1204,6 +1205,7 @@
     "volatiletech/authboss": [],
     "vue-styleguidist/vue-styleguidist": [],
     "vuejs/awesome-vue": [],
+    "vuejs/vue-next": [],
     "vuematerial/vue-material": [
         "Web/Vue"
     ],
