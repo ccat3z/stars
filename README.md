@@ -192,7 +192,7 @@
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
 ## Font
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
-* [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック
+* [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 * [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
