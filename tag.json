@@ -869,6 +869,7 @@
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
+    "mesonbuild/meson": [],
     "metafizzy/isotope": [],
     "mhinz/vim-signify": [],
     "michael-rapp/gnome-shell-extension-hide-app-icon": [],
