@@ -1015,6 +1015,7 @@
     "robfig/cron": [],
     "robinvdvleuten/vuex-persistedstate": [],
     "rockon999/dynamic-panel-transparency": [],
+    "rollup/rollup": [],
     "rosghub/TLP-Switcher": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -1121,6 +1122,7 @@
         "Arduino"
     ],
     "superwf/vuex-cache": [],
+    "sveltejs/svelte": [],
     "syhyz1990/baiduyun": [],
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
@@ -1203,6 +1205,7 @@
         "Python"
     ],
     "virgili0/Virgilio": [],
+    "vlang/v": [],
     "volatiletech/authboss": [],
     "vue-styleguidist/vue-styleguidist": [],
     "vuejs/awesome-vue": [],
