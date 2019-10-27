@@ -617,6 +617,7 @@
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
+* [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [antoniomika/sish](https://github.com/antoniomika/sish): An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
@@ -636,6 +637,7 @@
 * [NervJS/taro](https://github.com/NervJS/taro): 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。  https://taro.jd.com/
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 * [nsf/termbox-go](https://github.com/nsf/termbox-go): Pure Go termbox implementation
+* [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
 * [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/

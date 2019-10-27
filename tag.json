@@ -328,6 +328,7 @@
     "avelino/awesome-go": [],
     "aymericdamien/TensorFlow-Examples": [],
     "b3log/baidu-netdisk-downloaderx": [],
+    "badges/shields": [],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -538,6 +539,7 @@
     "facebook/flow": [],
     "facebook/immutable-js": [],
     "fairplay-zone/docker-dontstarvetogether": [],
+    "faressoft/terminalizer": [],
     "fcitx/fcitx": [
         "Linux"
     ],
