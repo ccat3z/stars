@@ -409,7 +409,7 @@
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
-* [denoland/deno](https://github.com/denoland/deno): A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+* [denoland/deno](https://github.com/denoland/deno): A secure JavaScript and TypeScript runtime
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2019
 * [docker/distribution](https://github.com/docker/distribution): The Docker toolset to pack, ship, store, and deliver content
