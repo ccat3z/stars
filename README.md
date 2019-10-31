@@ -351,7 +351,7 @@
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [aspnet/AspNetCore](https://github.com/aspnet/AspNetCore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-* [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" css-in-js for those that want it all.
+* [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" CSS-in-JS for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
