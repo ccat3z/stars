@@ -79,6 +79,7 @@
     "GNOME/glib": [
         "C"
     ],
+    "Geofferey/mgkdhelper": [],
     "GhostFlying/LocationReportEnabler": [
         "Android/APP/Utility"
     ],
