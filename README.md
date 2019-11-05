@@ -372,6 +372,7 @@
 * [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
 * [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun): 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
+* [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
