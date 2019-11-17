@@ -877,6 +877,7 @@
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
+    "menzi11/BullshitGenerator": [],
     "mesonbuild/meson": [],
     "metafizzy/isotope": [],
     "mhinz/vim-signify": [],
@@ -1165,6 +1166,7 @@
     "tleunen/babel-plugin-module-resolver": [],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
+    "tonyqus/npoi": [],
     "tpope/vim-eunuch": [],
     "transform-it/transform-www": [],
     "trazyn/ieaseMusic": [],
