@@ -294,6 +294,7 @@
     ],
     "amanusk/s-tui": [],
     "anbox/anbox": [],
+    "andrey-pohilko/registry-cli": [],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
@@ -389,6 +390,7 @@
     "ccat3z/hackwlb-server": [],
     "cdr/code-server": [],
     "celery/celery": [],
+    "cesanta/docker_auth": [],
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
     ],
@@ -645,6 +647,7 @@
         "Go"
     ],
     "hardpixel/unite-shell": [],
+    "hashicorp/nomad": [],
     "haskell/haskell-ide-engine": [],
     "heavenshell/vim-jsdoc": [],
     "hellocodeM/baidu-wenku": [],
@@ -786,6 +789,7 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "kwk/docker-registry-setup": [],
     "kzu/GitInfo": [],
     "labstack/echo": [],
     "lambdalisue/suda.vim": [],
@@ -873,6 +877,7 @@
         "Windows/Terminal/Mintty"
     ],
     "mayswind/AriaNg": [],
+    "mcuadros/ofelia": [],
     "mdbootstrap/Vue-Bootstrap-with-Material-Design": [],
     "meefik/linuxdeploy": [
         "Android/APP"
