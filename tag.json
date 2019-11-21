@@ -182,6 +182,7 @@
     "Rocket1184/electron-netease-cloud-music": [],
     "SDRausty/TermuxArch": [],
     "SDRausty/termux-archlinux": [],
+    "SheetJS/sheetjs": [],
     "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],
     "Shougo/deoplete.nvim": [
@@ -938,6 +939,7 @@
     "ochukai/wepy-com-toptip": [],
     "octokit/rest.js": [],
     "oh-my-fish/oh-my-fish": [],
+    "ohmyzsh/ohmyzsh": [],
     "oldani/requests-html": [],
     "opengapps/all": [
         "Android/APP"
