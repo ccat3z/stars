@@ -462,6 +462,7 @@
 * [kzu/GitInfo](https://github.com/kzu/GitInfo): Git and SemVer Info from MSBuild, C# and VB
 * [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
+* [optimisme/gjs-examples](https://github.com/optimisme/gjs-examples): GJS examples showing how to build Gtk javascript applications
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem - (this is only a public mirror, see the README for contributing)
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
