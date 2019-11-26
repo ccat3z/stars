@@ -348,6 +348,7 @@
     "bilelmoussaoui/Hardcode-Tray": [
         "Linux/Utility"
     ],
+    "billziss-gh/sshfs-win": [],
     "billziss-gh/winfsp": [
         "Windows/Utility"
     ],
@@ -864,6 +865,7 @@
     "majutsushi/tagbar": [
         "Vim"
     ],
+    "manisandro/gImageReader": [],
     "maralla/completor.vim": [
         "Vim"
     ],
