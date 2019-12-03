@@ -680,6 +680,7 @@
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐A lightweight private npm proxy registry
+* [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern generic interactive finder and dispatcher for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
