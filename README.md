@@ -639,6 +639,7 @@
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
+* [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): SS/SSR/V2Ray/Socks5 透明代理 for Linux
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
