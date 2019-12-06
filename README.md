@@ -329,7 +329,7 @@
 * [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
 * [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
 ## Other
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
@@ -585,6 +585,7 @@
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): A project for conversion between Traditional and Simplified Chinese
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
+* [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables

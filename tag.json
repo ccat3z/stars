@@ -627,6 +627,7 @@
     "go-delve/delve": [],
     "go-gitea/gitea": [],
     "go-sql-driver/mysql": [],
+    "gobuffalo/packr": [],
     "goessner/mdmath": [
         "VS Code"
     ],
