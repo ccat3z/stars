@@ -109,6 +109,7 @@
         "Game/KSP"
     ],
     "KaitoHH/AnyCodeToBmp": [],
+    "Kong/insomnia": [],
     "Kozea/Radicale": [],
     "Kozea/wdb": [
         "Web"
@@ -387,6 +388,7 @@
         "Linux/Utility"
     ],
     "callstack/linaria": [],
+    "capaj/react-promise": [],
     "captnbp/docker-owncloud": [
         "Docker"
     ],
@@ -399,6 +401,7 @@
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
     ],
+    "chkimes/graphql-net": [],
     "chokcoco/iCSS": [],
     "chr4/nginx.vim": [],
     "chrislgarry/Apollo-11": [],
