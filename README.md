@@ -622,6 +622,7 @@
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
+* [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
 * [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts)
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
