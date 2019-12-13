@@ -379,6 +379,7 @@
     "budtmo/docker-android": [],
     "buildfoundation/mainframer": [],
     "buttercup/buttercup-desktop": [],
+    "bvaughn/react-window": [],
     "bytegust/spm": [
         "Linux/Utility"
     ],
