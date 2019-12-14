@@ -819,6 +819,7 @@
     "lepture/opencc-python": [
         "Python"
     ],
+    "lerna/lerna": [],
     "lervag/vimtex": [
         "Vim"
     ],
@@ -927,6 +928,7 @@
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
     "muesli/gitomatic": [],
+    "mui-org/material-ui": [],
     "mumoshu/variant": [],
     "museui/muse-ui": [],
     "mysql-net/MySqlConnector": [],
@@ -1042,6 +1044,7 @@
     "rigor789/vue-scrollto": [],
     "ritz078/transform": [],
     "ritz078/transform-www": [],
+    "rjsf-team/react-jsonschema-form": [],
     "rkalla/imgscalr": [
         "Java"
     ],

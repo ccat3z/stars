@@ -534,6 +534,7 @@
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
+* [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
@@ -548,6 +549,7 @@
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
 * [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell): New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort
+* [mui-org/material-ui](https://github.com/mui-org/material-ui): React components for faster and easier web development. Build your own design system, or start with Material Design.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
 * [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
@@ -621,6 +623,7 @@
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
 * [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
 * [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data
