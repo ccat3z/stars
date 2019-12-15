@@ -75,6 +75,7 @@
         "Java/JSON",
         "JSON"
     ],
+    "Flipboard/react-canvas": [],
     "Fody/Fody": [],
     "ForbesLindesay/throat": [],
     "GNOME/glib": [
@@ -843,6 +844,7 @@
         "Android/Xposed"
     ],
     "liuchengxu/vim-clap": [],
+    "ljharb/qs": [],
     "llimllib/bloomfilter-tutorial": [
         "Computer Science"
     ],
@@ -1137,6 +1139,7 @@
     "soduto/Soduto": [],
     "soimort/translate-shell": [],
     "soruly/trace.moe": [],
+    "souporserious/react-measure": [],
     "sourcegraph/go-langserver": [],
     "sparksuite/simplemde-markdown-editor": [],
     "spf13/cobra": [],

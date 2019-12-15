@@ -619,11 +619,14 @@
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦🚀Blazing fast, simple and completed solution for micro frontends.
+* [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
+* [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
 * [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
 * [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
 * [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data
