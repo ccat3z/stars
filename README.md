@@ -346,6 +346,7 @@
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): [New upstream] A flat theme with transparent elements
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
+* [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
@@ -734,6 +735,7 @@
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
+* [LingDong-/wenyan-lang](https://github.com/LingDong-/wenyan-lang): 文言文編程語言 A programming language for the ancient Chinese.
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 * [ochukai/wepy-com-toptip](https://github.com/ochukai/wepy-com-toptip): a toptip component for 小程序~
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
