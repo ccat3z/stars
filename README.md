@@ -676,7 +676,7 @@
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
 * [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
-* [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.sh 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
+* [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/termux-archlinux/
 * [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch): You can use setupTermuxArch.sh 📲 to install Arch Linux in Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/TermuxArch/docs/install
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
