@@ -1014,6 +1014,7 @@
     "posva/vue-promised": [],
     "preactjs/preact": [],
     "preactjs/preact-cli": [],
+    "preservim/nerdcommenter": [],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
