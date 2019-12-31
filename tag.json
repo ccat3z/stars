@@ -419,6 +419,7 @@
     "coderstory/Mi-Purify": [
         "Android/Xposed"
     ],
+    "coldfix/udiskie": [],
     "coleifer/peewee": [
         "Python"
     ],

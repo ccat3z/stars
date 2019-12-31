@@ -693,6 +693,7 @@
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): TypeScript preprocessor with sourcemap support for Jest
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
+* [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Ultralight— lightweight, pure-GPU, HTML UI engine for desktop apps and games.
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
