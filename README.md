@@ -707,7 +707,7 @@
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐A lightweight private npm proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
-* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern generic interactive finder and dispatcher for Vim and NeoVim
+* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
