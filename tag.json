@@ -493,6 +493,7 @@
     "dotnet-architecture/eShopOnWeb": [
         ".NET/.NET Core/ASP.NET Core"
     ],
+    "dotnet/aspnetcore": [],
     "dotnet/dotnet-docker": [
         ".NET/.NET Core/ASP.NET Core"
     ],

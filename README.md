@@ -320,7 +320,7 @@
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
 ## Nextcloud
 * [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
-* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📔 Android client for Nextcloud Notes app.
+* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📝 Android client for Nextcloud Notes app.
 ## Node.js
 ### Windows
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
@@ -351,7 +351,7 @@
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
-* [aspnet/AspNetCore](https://github.com/aspnet/AspNetCore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+* [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" CSS-in-JS for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
