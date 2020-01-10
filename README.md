@@ -380,7 +380,7 @@
 * [khamer/base16-termite](https://github.com/khamer/base16-termite): None
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-* [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [This repo is outdated. Please refer to bs-community/blessing-skin-server for new versions.] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
+* [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
@@ -756,6 +756,7 @@
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
+* [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go

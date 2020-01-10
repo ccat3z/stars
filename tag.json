@@ -650,6 +650,7 @@
     ],
     "gogs/gogs": [],
     "golang-standards/project-layout": [],
+    "google/xsecurelock": [],
     "google/yapf": [
         "Python"
     ],
