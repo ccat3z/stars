@@ -718,6 +718,7 @@
     "itchyny/lightline.vim": [],
     "ivarptr/yu-writer.site": [],
     "ivmech/ivPID": [],
+    "jD91mZM2/xidlehook": [],
     "jaagr/polybar": [
         "Linux/Utility"
     ],
@@ -1286,6 +1287,7 @@
     "wengxt/kimpanel-for-gnome-shell": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "wenyan-lang/wenyan": [],
     "wepyjs/wepy-weui-demo": [],
     "wernight/docker-ngrok": [],
     "xiehuc/pidgin-lwqq": [

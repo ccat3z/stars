@@ -743,7 +743,7 @@
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
-* [LingDong-/wenyan-lang](https://github.com/LingDong-/wenyan-lang): 文言文編程語言 A programming language for the ancient Chinese.
+* [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
 * [ochukai/wepy-com-toptip](https://github.com/ochukai/wepy-com-toptip): a toptip component for 小程序~
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
@@ -755,6 +755,7 @@
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
+* [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
