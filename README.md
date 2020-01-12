@@ -338,6 +338,7 @@
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
+* [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
