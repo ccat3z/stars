@@ -353,6 +353,7 @@
 * [crsmithdev/arrow](https://github.com/crsmithdev/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+* [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
 * [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" CSS-in-JS for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): Run Async Shell Commands in Vim 8.0 / NeoVim and Output to Quickfix Window
@@ -396,7 +397,7 @@
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [mholt/certmagic](https://github.com/mholt/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
-* [paulmillr/chokidar](https://github.com/paulmillr/chokidar): A neat wrapper around node.js fs.watch / fs.watchFile / FSEvents
+* [paulmillr/chokidar](https://github.com/paulmillr/chokidar): An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -492,6 +493,7 @@
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
+* [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 2.5 KB size limited) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
@@ -753,7 +755,7 @@
 * [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
-* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
+* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): If you think you know Python, think once more!
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook

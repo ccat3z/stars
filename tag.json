@@ -727,6 +727,7 @@
         "Utility"
     ],
     "jasonlvhit/gocron": [],
+    "jaydenseric/graphql-react": [],
     "jcouyang/grokking-monad": [],
     "jdneo/vscode-leetcode": [],
     "jeffgerickson/algorithms": [],
@@ -930,6 +931,7 @@
     "mlouielu/cn_constitution_2018": [
         "Gov"
     ],
+    "mmacneil/ASPNetCoreGraphQL": [],
     "mmiller42/html-webpack-externals-plugin": [],
     "mnielsen/neural-networks-and-deep-learning": [],
     "mochajs/mocha": [],
