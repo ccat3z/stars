@@ -79,6 +79,7 @@
     "Flipboard/react-canvas": [],
     "Fody/Fody": [],
     "ForbesLindesay/throat": [],
+    "FormidableLabs/urql": [],
     "GNOME/glib": [
         "C"
     ],
@@ -560,6 +561,7 @@
     "eycorsican/kitsunebi-android": [],
     "f/vue-wait": [],
     "fabiandev/ts-runtime": [],
+    "facebook/create-react-app": [],
     "facebook/flow": [],
     "facebook/immutable-js": [],
     "facebook/react": [],
@@ -1204,6 +1206,7 @@
     "the-cavalry/light-locker": [],
     "themix-project/oomox": [],
     "thestinger/termite": [],
+    "timarney/react-app-rewired": [],
     "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
     "tinajs/tina": [],
