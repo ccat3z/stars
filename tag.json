@@ -729,6 +729,7 @@
     "janeczku/calibre-web": [
         "Utility"
     ],
+    "jaredpalmer/formik": [],
     "jasonlvhit/gocron": [],
     "jaydenseric/graphql-react": [],
     "jcouyang/grokking-monad": [],
@@ -768,6 +769,7 @@
     "jorgebucaran/awesome-fish": [],
     "jorgebucaran/awesome-fish-shell": [],
     "jorgebucaran/fisher": [],
+    "jquense/yup": [],
     "jroimartin/gocui": [],
     "jsjoeio/styled-components-vs-emotion": [],
     "jsnjycwyz/QQUnrecalled": [
