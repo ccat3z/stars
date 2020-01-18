@@ -645,6 +645,7 @@
     "go-gitea/gitea": [],
     "go-sql-driver/mysql": [],
     "gobuffalo/packr": [],
+    "gocd/gocd": [],
     "goessner/mdmath": [
         "VS Code"
     ],
@@ -845,6 +846,7 @@
     "libfuse/python-fuse": [
         "Python"
     ],
+    "ligurio/awesome-ci": [],
     "lingfengsan/MillionHero": [
         "Utility"
     ],
