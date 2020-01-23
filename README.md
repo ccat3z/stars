@@ -640,6 +640,7 @@
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
+* [intljusticemission/react-big-calendar](https://github.com/intljusticemission/react-big-calendar): gcal/outlook like calendar component
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
