@@ -708,6 +708,7 @@
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): TypeScript preprocessor with sourcemap support for Jest
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
+* [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet): .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
