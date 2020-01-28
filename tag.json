@@ -88,6 +88,7 @@
         "Android/APP/Utility"
     ],
     "Gozala/events": [],
+    "HangfireIO/Hangfire": [],
     "HelloCodeMing/baidu-wenku": [],
     "Himself65/OpenArkCompiler": [],
     "Homebrew/brew": [],
@@ -1057,6 +1058,7 @@
     "qgaye/note": [],
     "qor/auth": [],
     "qrohlf/trianglify": [],
+    "quartznet/quartznet": [],
     "racaljk/llmd": [],
     "rakyll/statik": [],
     "ramda/ramda": [],
