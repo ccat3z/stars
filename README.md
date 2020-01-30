@@ -85,7 +85,6 @@
       * [REST](#rest)
     * [CSS](#css)
     * [JavaScript](#javascript-1)
-    * [SSL](#ssl)
     * [Tutorial](#tutorial-1)
     * [Vue](#vue)
   * [Windows](#windows-1)
@@ -331,6 +330,7 @@
 ## Other
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+* [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
@@ -339,6 +339,7 @@
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+* [imolorhe/altair](https://github.com/imolorhe/altair): ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
@@ -497,7 +498,9 @@
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
+* [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
+* [prisma-labs/graphql-playground](https://github.com/prisma-labs/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 2.5 KB size limited) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): 📡  Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
@@ -683,6 +686,7 @@
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
+* [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws): :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
@@ -886,8 +890,6 @@
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-### SSL
-* [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh): A pure Unix shell script implementing ACME client protocol
 ### Tutorial
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
 ### Vue
