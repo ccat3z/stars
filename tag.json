@@ -301,6 +301,7 @@
     "almende/vis": [
         "JavaScript"
     ],
+    "alnorris/file-dialog": [],
     "alwsl/alwsl": [
         "Windows/WSL"
     ],
