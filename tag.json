@@ -349,6 +349,7 @@
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
+    "bchavez/Bogus": [],
     "be5invis/Iosevka": [
         "Font"
     ],
@@ -1220,6 +1221,7 @@
         "Android/APP/Utility"
     ],
     "tesseract-ocr/tesseract": [],
+    "thangchung/awesome-dotnet-core": [],
     "the-cavalry/light-locker": [],
     "themix-project/oomox": [],
     "thestinger/termite": [],
