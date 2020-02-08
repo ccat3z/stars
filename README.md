@@ -725,7 +725,7 @@
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Ultralight— lightweight, pure-GPU, HTML UI engine for desktop apps and games.
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
-* [FormidableLabs/urql](https://github.com/FormidableLabs/urql): A highly customizable and versatile GraphQL client for React
+* [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client.
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. https://vlang.io
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
