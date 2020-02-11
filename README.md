@@ -722,6 +722,7 @@
 * [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet): .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
+* [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Ultralight— lightweight, pure-GPU, HTML UI engine for desktop apps and games.
