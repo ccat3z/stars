@@ -620,6 +620,7 @@
 * [essensoft/payment](https://github.com/essensoft/payment): Payment 是基于 .NET Core / ASP.NET Core  开发，支持多商户的跨平台支付SDK集。简化了API调用及相关通知的处理流程。目前支持：支付宝(Alipay)、微信支付(WeChatPay)
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
+* [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
