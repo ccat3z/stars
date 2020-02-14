@@ -343,6 +343,7 @@
     ],
     "autozimu/LanguageClient-neovim": [],
     "avelino/awesome-go": [],
+    "axkibe/lsyncd": [],
     "aymericdamien/TensorFlow-Examples": [],
     "b3log/baidu-netdisk-downloaderx": [],
     "badges/shields": [],
@@ -784,6 +785,7 @@
     "jorgebucaran/awesome-fish": [],
     "jorgebucaran/awesome-fish-shell": [],
     "jorgebucaran/fisher": [],
+    "jquense/react-big-calendar": [],
     "jquense/yup": [],
     "jroimartin/gocui": [],
     "jsjoeio/styled-components-vs-emotion": [],
@@ -1193,6 +1195,7 @@
     "stefan-niedermann/nextcloud-notes": [
         "Nextcloud"
     ],
+    "stephenh/mirror": [],
     "studyzy/imewlconverter": [
         "Utility"
     ],
