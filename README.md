@@ -436,6 +436,7 @@
 * [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
+* [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
@@ -501,7 +502,7 @@
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
-* [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly
+* [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [prisma-labs/graphql-playground](https://github.com/prisma-labs/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)

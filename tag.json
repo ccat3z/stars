@@ -813,6 +813,7 @@
     "karlin/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
+    "kekru/docker-remote-api-tls": [],
     "kelthuzadx/llmd": [],
     "kennethreitz/requests-html": [],
     "keratin/authn-server": [],
