@@ -940,6 +940,7 @@
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
+    "megastep/makeself": [],
     "menzi11/BullshitGenerator": [],
     "mesonbuild/meson": [],
     "metafizzy/isotope": [],
