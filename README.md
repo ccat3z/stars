@@ -102,7 +102,7 @@
 #### ASP.NET Core
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET Core and the .NET Core Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 3.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download 130+ page eBook PDF from docs folder.
+* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 3.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 #### EF Core
 * [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
 ## Android
@@ -610,7 +610,7 @@
 * [tonyqus/npoi](https://github.com/tonyqus/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 * [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode): Official C# support for Visual Studio Code (powered by OmniSharp)
 * [themix-project/oomox](https://github.com/themix-project/oomox): Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
@@ -626,6 +626,7 @@
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
+* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 (previously a compton fork)
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
