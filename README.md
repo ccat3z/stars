@@ -318,7 +318,7 @@
 * [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
 ## Nextcloud
-* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Bash scripts for backup/restore of Nextcloud
+* [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Moved to codeberg.org - https://codeberg.org/DecaTec/Nextcloud-Backup-Restore - Bash scripts for backup/restore of Nextcloud
 * [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📝 Android client for Nextcloud Notes app.
 ## Node.js
 ### Windows
