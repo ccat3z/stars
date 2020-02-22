@@ -681,6 +681,7 @@
     "gsterjov/openshift-nginx-cartridge": [
         "OpenShift"
     ],
+    "guren-cloud/v-request": [],
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
