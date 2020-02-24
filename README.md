@@ -285,7 +285,7 @@
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [gTile/gTile](https://github.com/gTile/gTile): A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
 * [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
-* [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell. Just move a window to the edges of the screen to create a tiling, otherwise move a window over another one, holding down the Control key. Grouped windows minimize, resize, raise and change workspace together. Move or maximize a window to remove it from the group.
+* [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell
 * [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
 ###### Theme
@@ -384,6 +384,7 @@
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [khamer/base16-termite](https://github.com/khamer/base16-termite): None
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
+* [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set an animated battery as desktop wallpaper.
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -793,7 +794,7 @@
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): If you think you know Python, think once more!
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-* [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline): 记录自2019年12月起武汉新冠肺炎疫情进展的时间线。
+* [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline): 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
