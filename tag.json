@@ -473,6 +473,7 @@
     "darknessomi/musicbox": [
         "Utility"
     ],
+    "date-fns/date-fns": [],
     "davatorium/rofi": [],
     "davidhalter/jedi-vim": [
         "Vim"
@@ -716,6 +717,7 @@
     "iamdanfox/typetype": [
         "Web/JavaScript"
     ],
+    "iamkun/dayjs": [],
     "iikira/BaiduPCS-Go": [
         "Chinese APP Hack/Baidu Pan"
     ],
@@ -778,6 +780,7 @@
         "Linux/Device/Surface"
     ],
     "jinzhu/gorm": [],
+    "jmblog/how-to-optimize-momentjs-with-webpack": [],
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
@@ -967,6 +970,7 @@
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
+    "moment/moment": [],
     "mono/t4": [],
     "moovweb/gvm": [],
     "mozillazg/python-pinyin": [],
@@ -999,6 +1003,7 @@
     "netdata/netdata": [],
     "neuland/micro-frontends": [],
     "newren/git-filter-repo": [],
+    "noctuid/tdrop": [],
     "nok/leap-motion-processing": [],
     "nsf/termbox-go": [],
     "ochukai/wepy-com-toptip": [],
@@ -1251,6 +1256,8 @@
         "Python"
     ],
     "tleunen/babel-plugin-module-resolver": [],
+    "tmux-plugins/tmux-sensible": [],
+    "tmux-plugins/tpm": [],
     "tolerious/Programming_learning_resource": [],
     "tonybeltramelli/pix2code": [],
     "tonyqus/npoi": [],
@@ -1352,6 +1359,7 @@
     ],
     "yifeikong/reverse-interview-zh": [],
     "yoda-pa/yoda": [],
+    "you-dont-need/You-Dont-Need-Momentjs": [],
     "youzan/vant-weapp": [],
     "yshui/picom": [],
     "yudai/gotty": [
