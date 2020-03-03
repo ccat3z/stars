@@ -1012,6 +1012,7 @@
     "oh-my-fish/oh-my-fish": [],
     "ohmyzsh/ohmyzsh": [],
     "oldani/requests-html": [],
+    "onsi/ginkgo": [],
     "opengapps/all": [
         "Android/APP"
     ],
@@ -1341,6 +1342,7 @@
     "wenyan-lang/wenyan": [],
     "wepyjs/wepy-weui-demo": [],
     "wernight/docker-ngrok": [],
+    "wuye9036/CppTemplateTutorial": [],
     "xiehuc/pidgin-lwqq": [
         "Chinese APP Hack/QQ"
     ],
