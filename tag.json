@@ -317,6 +317,7 @@
     "anirudhajith/process-wallpaper": [],
     "anntzer/pypi2pkgbuild": [],
     "antoniomika/sish": [],
+    "aoaojiang/HelloWorld": [],
     "apollographql/subscriptions-transport-ws": [],
     "apple/sourcekit-lsp": [],
     "arc-design/arc-theme": [],
@@ -438,6 +439,7 @@
     ],
     "commitizen/cz-cli": [],
     "concourse/concourse": [],
+    "concourse/git-resource": [],
     "containrrr/watchtower": [],
     "corbindavenport/creative-cloud-linux": [],
     "cosven/FeelUOwn": [],
@@ -1039,6 +1041,7 @@
     "pawelsalawa/sqlitestudio": [
         "SQLite"
     ],
+    "pcottle/learnGitBranching": [],
     "pdudits/soundlibs": [
         "Java"
     ],
