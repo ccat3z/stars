@@ -403,6 +403,7 @@
     "c0ldcat/hackwlb-server": [
         "Blog"
     ],
+    "caddyserver/certmagic": [],
     "caldwell/daemon-manager": [
         "Linux/Utility"
     ],
@@ -440,6 +441,7 @@
     "commitizen/cz-cli": [],
     "concourse/concourse": [],
     "concourse/git-resource": [],
+    "concourse/registry-image-resource": [],
     "containrrr/watchtower": [],
     "corbindavenport/creative-cloud-linux": [],
     "cosven/FeelUOwn": [],
