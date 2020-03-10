@@ -283,7 +283,6 @@
 * [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 * [gTile/gTile](https://github.com/gTile/gTile): A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
-* [wengxt/kimpanel-for-gnome-shell](https://github.com/wengxt/kimpanel-for-gnome-shell): KDE kimpanel protocol for gnome shell
 * [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell
 * [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
@@ -495,6 +494,7 @@
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
 * [andyholmes/gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
+* [wengxt/gnome-shell-extension-kimpanel](https://github.com/wengxt/gnome-shell-extension-kimpanel): KDE kimpanel protocol for gnome shell
 * [julio641742/gnome-shell-extension-reference](https://github.com/julio641742/gnome-shell-extension-reference): None
 * [zhangkaizhao/gnome-shell-extension-tray-icons](https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons): GNOME shell extension - Tray icons
 * [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
