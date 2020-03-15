@@ -1213,6 +1213,7 @@
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
+    "square/retrofit": [],
     "staticlibs/ccronexpr": [],
     "stefan-niedermann/nextcloud-notes": [
         "Nextcloud"

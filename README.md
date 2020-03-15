@@ -687,6 +687,7 @@
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
 * [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
+* [square/retrofit](https://github.com/square/retrofit): Type-safe HTTP client for Android and Java by Square, Inc.
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
