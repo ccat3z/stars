@@ -619,6 +619,7 @@
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [tonyqus/npoi](https://github.com/tonyqus/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+* [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -690,6 +691,7 @@
 * [square/retrofit](https://github.com/square/retrofit): Type-safe HTTP client for Android and Java by Square, Inc.
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
+* [adi1090x/rofi](https://github.com/adi1090x/rofi): Rofi Based Custom Applets And Menus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
@@ -740,6 +742,7 @@
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
 * [danielnixon/total-functions](https://github.com/danielnixon/total-functions): A collection of total functions to replace TypeScript's built-in partial functions.
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
+* [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.

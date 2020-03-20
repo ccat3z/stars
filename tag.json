@@ -288,6 +288,7 @@
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
     "adi1090x/battery-wallpaper": [],
+    "adi1090x/rofi": [],
     "adobe-fonts/source-code-pro": [
         "Font"
     ],
@@ -1274,6 +1275,7 @@
     "tonybeltramelli/pix2code": [],
     "tonyqus/npoi": [],
     "tpope/vim-eunuch": [],
+    "tqdm/tqdm": [],
     "transform-it/transform-www": [],
     "trazyn/ieaseMusic": [],
     "trazyn/weweChat": [
@@ -1323,6 +1325,7 @@
         "Python"
     ],
     "virgili0/Virgilio": [],
+    "vito/oci-build-task": [],
     "vlang/v": [],
     "volatiletech/authboss": [],
     "vue-styleguidist/vue-styleguidist": [],
