@@ -500,6 +500,7 @@
     "desandro/masonry": [],
     "developit/preact": [],
     "developit/preact-cli": [],
+    "dexidp/dex": [],
     "discordianfish/docker-backup": [],
     "docker-library/haproxy": [
         "Docker"
@@ -1039,6 +1040,7 @@
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "paramiko/paramiko": [],
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],

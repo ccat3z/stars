@@ -431,6 +431,7 @@
 * [denoland/deno](https://github.com/denoland/deno): A secure JavaScript and TypeScript runtime
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2020
+* [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 * [docker/distribution](https://github.com/docker/distribution): The Docker toolset to pack, ship, store, and deliver content
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
@@ -633,6 +634,7 @@
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
+* [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [essensoft/payment](https://github.com/essensoft/payment): Payment 是基于 .NET Core / ASP.NET Core  开发，支持多商户的跨平台支付SDK集。简化了API调用及相关通知的处理流程。目前支持：支付宝(Alipay)、微信支付(WeChatPay)
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
@@ -709,7 +711,7 @@
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
-* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): SS/SSR/V2Ray/Socks5 透明代理 for Linux
+* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 辅助构建 SS/SSR/V2Ray/Socks5 透明代理环境的 Shell 脚本
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
@@ -768,7 +770,7 @@
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
-* [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column) and stages/undoes hunks and partial hunks.
+* [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the sign column and stages/previews/undoes hunks and partial hunks.
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
 * [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
