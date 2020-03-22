@@ -711,7 +711,7 @@
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
-* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 辅助构建 SS/SSR/V2Ray/Socks5 透明代理环境的 Shell 脚本
+* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
