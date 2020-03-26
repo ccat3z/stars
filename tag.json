@@ -391,6 +391,7 @@
     "boekkooi/openshift-cartridge-nginx": [
         "OpenShift"
     ],
+    "borntyping/python-colorlog": [],
     "breakwa11/gfw_whitelist": [
         "GFW"
     ],

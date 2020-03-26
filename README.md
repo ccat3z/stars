@@ -611,7 +611,7 @@
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://my-netdata.io/
+* [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
@@ -662,6 +662,7 @@
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
+* [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦🚀Blazing fast, simple and completed solution for micro frontends.
@@ -814,7 +815,7 @@
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
-* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): If you think you know Python, think once more!
+* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): Do you think you know Python?
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline): 以 社会学年鉴模式体例规范地统编自2019年12月起武汉新冠肺炎疫情进展的时间线。
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
