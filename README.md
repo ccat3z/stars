@@ -655,6 +655,7 @@
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些资源
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
+* [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 * [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
