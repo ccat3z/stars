@@ -300,7 +300,6 @@
 ### Utility
 * [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
-* [XuShaohua/bcloud-packages](https://github.com/XuShaohua/bcloud-packages): bcloud 的安装包
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
 * [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
