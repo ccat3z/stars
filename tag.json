@@ -182,6 +182,7 @@
     ],
     "PonasKovas/netctl-tray": [],
     "PowerShell/PSReadLine": [],
+    "Pratitya/COVID-19-timeline": [],
     "Pratitya/wuhan2020-timeline": [],
     "PyCQA/pep8-naming": [
         "Python"
@@ -844,6 +845,7 @@
     "kgshank/gse-refresh-wifi": [],
     "kgshank/gse-sound-output-device-chooser": [],
     "khamer/base16-termite": [],
+    "kitten/wonka": [],
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
@@ -985,6 +987,7 @@
     "moment/moment": [],
     "mono/t4": [],
     "moovweb/gvm": [],
+    "moq/moq4": [],
     "mozillazg/python-pinyin": [],
     "mrvautin/adminMongo": [],
     "mskyaxl/wsl-terminal": [],
