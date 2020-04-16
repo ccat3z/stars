@@ -588,6 +588,7 @@
         "Web/Backend/REST"
     ],
     "eycorsican/go-tun2socks": [],
+    "eycorsican/go-tun2socks-mobile": [],
     "eycorsican/kitsunebi-android": [],
     "f/vue-wait": [],
     "fabiandev/ts-runtime": [],
