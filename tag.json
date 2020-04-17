@@ -683,6 +683,7 @@
     "gogits/gogs": [
         "Git"
     ],
+    "gogradle/gogradle": [],
     "gogs/gogs": [],
     "golang-standards/project-layout": [],
     "google/xsecurelock": [],
