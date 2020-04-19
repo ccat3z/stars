@@ -71,7 +71,6 @@
   * [SBC](#sbc)
   * [SQLite](#sqlite)
   * [Spider](#spider)
-  * [TeX](#tex)
   * [Unity](#unity)
   * [Utility](#utility-3)
   * [VS Code](#vs-code)
@@ -873,8 +872,6 @@
 * [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
 ## Spider
 * [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
-## TeX
-* [louisstuart96/lshort-new-zh-cn](https://github.com/louisstuart96/lshort-new-zh-cn): New and frequently-updated version of `lshort' document
 ## Unity
 * [ekpyron/ktxutils](https://github.com/ekpyron/ktxutils): Utilities for the KTX image format.
 ## Utility
