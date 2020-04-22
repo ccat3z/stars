@@ -306,6 +306,7 @@
     "airblade/vim-gitgutter": [],
     "akiraux/Akira": [],
     "alastairtree/LazyCache": [],
+    "alfg/docker-nginx-rtmp": [],
     "alibaba/serverless-vscode": [],
     "almende/vis": [
         "JavaScript"
