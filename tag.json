@@ -135,6 +135,7 @@
     "MajsoulPlus/majsoul-plus": [],
     "Marak/faker.js": [],
     "Masterminds/glide": [],
+    "Masterminds/sprig": [],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
@@ -226,6 +227,7 @@
     "Tencent/weui-wxss": [],
     "TheAlgorithms/Go": [],
     "TheAlgorithms/Python": [],
+    "TheLocehiliosan/yadm": [],
     "ThirtyDegreesRay/OpenHub": [
         "Android/APP/Utility"
     ],
@@ -321,6 +323,7 @@
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
+    "andsens/homeshick": [],
     "andyholmes/gnome-shell-extension-gsconnect": [],
     "anirudhajith/process-wallpaper": [],
     "anntzer/pypi2pkgbuild": [],
@@ -1264,6 +1267,7 @@
         "Vim",
         "Arduino"
     ],
+    "technicalpickles/homesick": [],
     "teddysun/across": [
         "GFW"
     ],
@@ -1303,6 +1307,7 @@
     "tsujan/Kvantum": [],
     "tusdotnet/tusdotnet": [],
     "tvfe/wxpage": [],
+    "twpayne/chezmoi": [],
     "txyyss/Lambda-Calculus": [],
     "typicode/husky": [],
     "tyru/caw.vim": [],
