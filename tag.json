@@ -273,6 +273,7 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
+    "aaron-williamson/base16-alacritty": [],
     "aaron-williamson/base16-gnome-terminal": [
         "Linux/Utility"
     ],
@@ -699,6 +700,7 @@
     "goreliu/wsl-terminal": [
         "Windows/WSL"
     ],
+    "gpakosz/.tmux": [],
     "graphql/graphiql": [],
     "greenrobot/greenDAO": [
         "Android"
@@ -1291,6 +1293,7 @@
         "Python"
     ],
     "tleunen/babel-plugin-module-resolver": [],
+    "tmux-plugins/tmux-resurrect": [],
     "tmux-plugins/tmux-sensible": [],
     "tmux-plugins/tpm": [],
     "tolerious/Programming_learning_resource": [],
