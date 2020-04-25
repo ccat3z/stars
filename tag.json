@@ -166,6 +166,7 @@
     "NervJS/taro": [],
     "NicoHood/arc-theme": [],
     "NixOS/patchelf": [],
+    "OI-wiki/OI-wiki": [],
     "OmniSharp/omnisharp-roslyn": [],
     "OmniSharp/omnisharp-vscode": [],
     "OneDrive/onedrive-sdk-python": [
@@ -875,6 +876,7 @@
         "Linux/Kernel"
     ],
     "kwk/docker-registry-setup": [],
+    "kylemanna/docker-aosp": [],
     "kzu/GitInfo": [],
     "labstack/echo": [],
     "lambdalisue/suda.vim": [],
