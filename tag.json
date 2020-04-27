@@ -813,6 +813,7 @@
     ],
     "jinzhu/gorm": [],
     "jmblog/how-to-optimize-momentjs-with-webpack": [],
+    "jmoiron/sqlx": [],
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
@@ -1058,6 +1059,8 @@
     ],
     "optimisme/gjs-examples": [],
     "oranzhang/mina-webpack-plugin": [],
+    "ory/fosite": [],
+    "ory/hydra": [],
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -1162,6 +1165,7 @@
     "rprichard/wslbridge": [
         "Windows/WSL"
     ],
+    "rs/zerolog": [],
     "ryanoasis/nerd-fonts": [],
     "sabre-io/Baikal": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
@@ -1206,6 +1210,7 @@
     "simonmichael/hledger": [],
     "sindresorhus/github-markdown-css": [],
     "sirredbeard/Awesome-WSL": [],
+    "sirupsen/logrus": [],
     "sitaramc/gitolite": [],
     "sjdy521/Mojo-Webqq": [
         "Chinese APP Hack/QQ"
