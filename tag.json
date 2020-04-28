@@ -496,6 +496,7 @@
     "darknessomi/musicbox": [
         "Utility"
     ],
+    "darlinghq/darling": [],
     "date-fns/date-fns": [],
     "davatorium/rofi": [],
     "davidhalter/jedi-vim": [
@@ -554,6 +555,7 @@
     "eduardoboucas/staticman": [
         "Jekyll"
     ],
+    "egh/ledger-autosync": [],
     "egoist/hack": [
         "Jekyll",
         "Web/CSS"
@@ -1091,6 +1093,7 @@
     "phw/peek": [],
     "pimutils/khal": [],
     "pixel-saver/pixel-saver": [],
+    "plaintextaccounting/plaintextaccounting.github.io": [],
     "plasma-disassembler/plasma": [],
     "pnigos/hookjs": [
         "Web/JavaScript"

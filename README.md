@@ -243,7 +243,7 @@
 ### jQuery
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 ## Jekyll
-* [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll
+* [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
 * [imsun/gitment](https://github.com/imsun/gitment): A comment system based on GitHub Issues.
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
@@ -354,7 +354,7 @@
 * [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
 * [4Catalyzer/astroturf](https://github.com/4Catalyzer/astroturf): An "artificial" CSS-in-JS for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
-* [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
+* [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !! (Vim 中运行异步任务)
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
@@ -423,6 +423,7 @@
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [StackExchange/Dapper](https://github.com/StackExchange/Dapper): Dapper - a simple object mapper for .Net
+* [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处借鉴得来的Java数据结构和算法的学习代码
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
@@ -581,6 +582,7 @@
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate!
+* [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
@@ -667,6 +669,7 @@
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
+* [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): 📦🚀 Fast, disk space efficient package manager
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
