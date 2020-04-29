@@ -489,6 +489,7 @@
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
+* [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
 * [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
 * [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
