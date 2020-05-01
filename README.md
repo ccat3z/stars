@@ -146,7 +146,7 @@
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
 ## Blog
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
-* [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): :speak_no_evil: My Blog / Jekyll Themes / GitHub Pages 博客模板
+* [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): A template repository for Jekyll based blog / Jekyll Themes / GitHub Pages 博客模板
 ## C
 * [GNOME/glib](https://github.com/GNOME/glib): Low level core library
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
@@ -386,6 +386,7 @@
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
 * [beancount/beancount](https://github.com/beancount/beancount): Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
+* [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
@@ -519,6 +520,7 @@
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
+* [goccmack/gogll](https://github.com/goccmack/gogll): Generates scannerless generalised LL (GLL) parsers
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
@@ -662,6 +664,7 @@
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
+* [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [essensoft/payment](https://github.com/essensoft/payment): Payment 是基于 .NET Core / ASP.NET Core  开发，支持多商户的跨平台支付SDK集。简化了API调用及相关通知的处理流程。目前支持：支付宝(Alipay)、微信支付(WeChatPay)
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
@@ -784,6 +787,7 @@
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
+* [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
@@ -827,7 +831,7 @@
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free
 * [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll): Infinite scroll component for Vue.js 2
-* [vuejs/vue-next](https://github.com/vuejs/vue-next): The next major version of Vue (WIP)
+* [vuejs/vue-next](https://github.com/vuejs/vue-next): Repo for Vue 3.0 (currently in beta)
 * [posva/vue-promised](https://github.com/posva/vue-promised): 💝 Promises as components
 * [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.

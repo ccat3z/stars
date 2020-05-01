@@ -216,6 +216,7 @@
         "Web/API"
     ],
     "StackExchange/Dapper": [],
+    "StackExchange/blackbox": [],
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
@@ -313,6 +314,7 @@
     "airblade/vim-gitgutter": [],
     "akiraux/Akira": [],
     "alastairtree/LazyCache": [],
+    "alecthomas/participle": [],
     "alfg/docker-nginx-rtmp": [],
     "alibaba/serverless-vscode": [],
     "almende/vis": [
@@ -569,6 +571,7 @@
     "ekpyron/ktxutils": [
         "Unity"
     ],
+    "elasticdog/transcrypt": [],
     "emasab/shelltile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -691,6 +694,7 @@
     "go-gitea/gitea": [],
     "go-sql-driver/mysql": [],
     "gobuffalo/packr": [],
+    "goccmack/gogll": [],
     "gocd/gocd": [],
     "goessner/mdmath": [
         "VS Code"
