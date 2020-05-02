@@ -420,6 +420,7 @@
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
+* [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility.
@@ -487,6 +488,7 @@
 * [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
+* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
@@ -913,7 +915,7 @@
 ## Utility
 * [m13253/BiliDan](https://github.com/m13253/BiliDan): Play videos on Bilibili.com with MPV and Danmaku2ASS
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-* [jgraph/drawio](https://github.com/jgraph/drawio): Source to www.draw.io
+* [jgraph/drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 * [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
 * [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): 一款开源免费的输入法词库转换程序

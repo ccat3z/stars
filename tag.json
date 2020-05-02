@@ -641,6 +641,7 @@
     "frol/docker-alpine-glibc": [
         "Docker"
     ],
+    "fsnotify/fsnotify": [],
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
@@ -732,6 +733,7 @@
     "hardpixel/unite-shell": [],
     "hashicorp/nomad": [],
     "haskell/haskell-ide-engine": [],
+    "hcy226/CSSummerCamp2020": [],
     "heavenshell/vim-jsdoc": [],
     "hellocodeM/baidu-wenku": [],
     "henrysher/duplicity": [],
