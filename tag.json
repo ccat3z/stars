@@ -903,6 +903,7 @@
     "ledger/ledger": [
         "Utility"
     ],
+    "ledger/vim-ledger": [],
     "leisurelicht/wtfpython-cn": [],
     "lepture/opencc-python": [
         "Python"
@@ -1260,6 +1261,7 @@
     "sparksuite/simplemde-markdown-editor": [],
     "spf13/cobra": [],
     "spf13/viper": [],
+    "spwhitton/git-remote-gcrypt": [],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
