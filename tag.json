@@ -601,6 +601,7 @@
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
+    "evanw/esbuild": [],
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],

@@ -146,7 +146,7 @@
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
 ## Blog
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
-* [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): A template repository for Jekyll based blog / Jekyll Themes / GitHub Pages 博客模板
+* [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 ## C
 * [GNOME/glib](https://github.com/GNOME/glib): Low level core library
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
@@ -471,6 +471,7 @@
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+* [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast JavaScript bundler and minifier
 * [Gozala/events](https://github.com/Gozala/events): Node's event emitter for all engines.
 * [samyk/evercookie](https://github.com/samyk/evercookie): Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
@@ -534,7 +535,7 @@
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [prisma-labs/graphql-playground](https://github.com/prisma-labs/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-* [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 2.5 KB size limited) but powerful; the first Relay and Apollo alternative with server side rendering.
+* [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 3 KB size limited) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
