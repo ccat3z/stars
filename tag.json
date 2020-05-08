@@ -708,6 +708,7 @@
     "gogradle/gogradle": [],
     "gogs/gogs": [],
     "golang-standards/project-layout": [],
+    "google/sanitizers": [],
     "google/xsecurelock": [],
     "google/yapf": [
         "Python"
