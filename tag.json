@@ -62,6 +62,7 @@
         "Spider"
     ],
     "Dotnet-Boxed/Templates": [],
+    "Dreamacro/clash": [],
     "EastWorld/wechat-app-mall": [
         "WeChat/Mini Program/Develop"
     ],
@@ -85,6 +86,7 @@
     "GNOME/glib": [
         "C"
     ],
+    "GPGTools/pinentry-mac": [],
     "Geofferey/mgkdhelper": [],
     "GhostFlying/LocationReportEnabler": [
         "Android/APP/Utility"
@@ -386,6 +388,7 @@
     "bestwu/docker-qq": [
         "Chinese APP Hack/QQ"
     ],
+    "bettercap/bettercap": [],
     "bilelmoussaoui/Hardcode-Tray": [
         "Linux/Utility"
     ],
@@ -1011,6 +1014,7 @@
     "microsoft/monaco-editor": [],
     "microsoft/pyright": [],
     "microsoft/vscode": [],
+    "mitmproxy/mitmproxy": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
