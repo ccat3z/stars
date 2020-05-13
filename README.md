@@ -367,6 +367,7 @@
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 * [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of packages, prompts, and resources for the fish shell.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
+* [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up:适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
@@ -527,7 +528,7 @@
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
-* [goccmack/gogll](https://github.com/goccmack/gogll): Generates scannerless generalised LL (GLL) parsers
+* [goccmack/gogll](https://github.com/goccmack/gogll): Generates generalised LL (GLL) parsers with matching lexers
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
@@ -573,7 +574,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [Bajoja/indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect): AppIndicator for KDE Connect
-* [Kong/insomnia](https://github.com/Kong/insomnia): Cross-platform HTTP and GraphQL Client
+* [Kong/insomnia](https://github.com/Kong/insomnia): Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
@@ -758,6 +759,7 @@
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [antoniomika/sish](https://github.com/antoniomika/sish): An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
+* [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
