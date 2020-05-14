@@ -115,6 +115,8 @@
         "Windows/PowerShell"
     ],
     "JumboInteractiveLimited/redux-cache": [],
+    "KDE-mac/homebrew-kde": [],
+    "KDE/kdeconnect-kde": [],
     "KSP-CKAN/CKAN": [
         "Game/KSP"
     ],
@@ -769,6 +771,7 @@
     ],
     "iamkun/dayjs": [],
     "ibhagwan/picom": [],
+    "iglance/iGlance": [],
     "iikira/BaiduPCS-Go": [
         "Chinese APP Hack/Baidu Pan"
     ],
@@ -806,6 +809,7 @@
     "jaredpalmer/tsdx": [],
     "jasonlvhit/gocron": [],
     "jaydenseric/graphql-react": [],
+    "jaywcjlove/awesome-mac": [],
     "jcouyang/grokking-monad": [],
     "jdneo/vscode-leetcode": [],
     "jeffgerickson/algorithms": [],
@@ -872,6 +876,7 @@
     "karlin/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
+    "karlstav/cava": [],
     "kekru/docker-remote-api-tls": [],
     "kelthuzadx/llmd": [],
     "kennethreitz/requests-html": [],
@@ -979,6 +984,7 @@
     "m13253/BiliDan": [
         "Utility"
     ],
+    "machyve/xhyve": [],
     "maguowei/starred": [
         "GitHub"
     ],
@@ -991,10 +997,12 @@
     ],
     "marktext/marktext": [],
     "matheuss/google-translate-api": [],
+    "matryer/bitbar": [],
     "matteoserva/MegaFuse": [],
     "matthewwardrop/linux-surfacepro3": [
         "Linux/Device/Surface"
     ],
+    "mattingalls/Soundflower": [],
     "mattzeunert/CSS-Todo-App": [],
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
@@ -1115,6 +1123,7 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "phw/peek": [],
+    "pigigaldi/Pock": [],
     "pimutils/khal": [],
     "pixel-saver/pixel-saver": [],
     "plaintextaccounting/plaintextaccounting.github.io": [],
