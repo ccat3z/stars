@@ -423,6 +423,8 @@
     ],
     "brillout/awesome-react-components": [],
     "brndnmtthws/conky": [],
+    "browserpass/browserpass-extension": [],
+    "browserpass/browserpass-native": [],
     "bsonntag/react-use-promise": [],
     "budtmo/docker-android": [],
     "buildfoundation/mainframer": [],
@@ -482,6 +484,7 @@
     "cs01/gdbgui": [
         "C/Utility"
     ],
+    "csujedihy/proximac": [],
     "ctrlpnn/ctrlp.vim": [
         "Vim"
     ],
@@ -1014,6 +1017,7 @@
         "Android/APP"
     ],
     "megastep/makeself": [],
+    "mellow-io/mellow": [],
     "menzi11/BullshitGenerator": [],
     "mesonbuild/meson": [],
     "metafizzy/isotope": [],
