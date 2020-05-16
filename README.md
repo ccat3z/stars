@@ -561,7 +561,9 @@
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Homebrew tap for KDE Frameworks and Applications
+* [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 🖖 External command for Homebrew that checks for newer versions of formulae from upstream.
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services with macOS' launchctl daemon manager
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
@@ -595,6 +597,7 @@
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [rancher/k3s](https://github.com/rancher/k3s): Lightweight Kubernetes
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
+* [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
 * [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): KDE Connect adds communication between KDE and your smartphone.
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
@@ -872,6 +875,7 @@
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
+* [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.
 * [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
