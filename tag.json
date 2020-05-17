@@ -502,6 +502,7 @@
     "daattali/beautiful-jekyll": [
         "Jekyll"
     ],
+    "dado3212/spaces-renamer": [],
     "dahlbyk/posh-git": [
         "Windows/PowerShell"
     ],
@@ -675,6 +676,7 @@
     ],
     "geekfactory/PID": [],
     "geekplux/cv_resume": [],
+    "geerlingguy/macos-virtualbox-vm": [],
     "gelstudios/gitfiti": [
         "GitHub"
     ],
@@ -748,6 +750,7 @@
     ],
     "hardpixel/unite-shell": [],
     "hashicorp/nomad": [],
+    "hashicorp/vagrant": [],
     "haskell/haskell-ide-engine": [],
     "hcy226/CSSummerCamp2020": [],
     "heavenshell/vim-jsdoc": [],
@@ -1425,6 +1428,7 @@
     "vuetifyjs/vuetify": [
         "Web/Vue"
     ],
+    "w0lfschild/MacForge": [],
     "w0rp/ale": [
         "Vim"
     ],
