@@ -324,6 +324,7 @@
     "akiraux/Akira": [],
     "alastairtree/LazyCache": [],
     "alecthomas/participle": [],
+    "alexzielenski/Mousecape": [],
     "alfg/docker-nginx-rtmp": [],
     "alibaba/serverless-vscode": [],
     "almende/vis": [
@@ -886,6 +887,7 @@
         "Windows/Terminal/Mintty"
     ],
     "karlstav/cava": [],
+    "keeferrourke/capitaine-cursors": [],
     "kekru/docker-remote-api-tls": [],
     "kelthuzadx/llmd": [],
     "kennethreitz/requests-html": [],
