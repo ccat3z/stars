@@ -124,6 +124,7 @@
         "Game/KSP"
     ],
     "KaitoHH/AnyCodeToBmp": [],
+    "KhaosT/tb3-enabler": [],
     "Kong/insomnia": [],
     "Kozea/Radicale": [],
     "Kozea/wdb": [
@@ -251,6 +252,7 @@
     "TonnyL/Awesome_APIs": [
         "Awesome"
     ],
+    "Toxblh/MTMR": [],
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
     ],
@@ -867,6 +869,7 @@
         "Android/Xposed"
     ],
     "julio641742/gnome-shell-extension-reference": [],
+    "jumper149/blugon": [],
     "junegunn/fzf": [],
     "junegunn/vim-plug": [],
     "justind000/nRF-IoT": [
@@ -1037,6 +1040,8 @@
     "microsoft/monaco-editor": [],
     "microsoft/pyright": [],
     "microsoft/vscode": [],
+    "microsoft/winget-cli": [],
+    "microsoft/winget-pkgs": [],
     "mitmproxy/mitmproxy": [],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
@@ -1114,6 +1119,7 @@
         "Python"
     ],
     "pangloss/vim-javascript": [],
+    "paperwm/PaperWM": [],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -1189,6 +1195,7 @@
     "restic/others": [],
     "restic/restic": [],
     "rfjakob/earlyoom": [],
+    "rgov/Thunderbolt3Unblocker": [],
     "rigor789/vue-scrollto": [],
     "ritave/xeventbind": [],
     "ritz078/transform": [],
@@ -1215,6 +1222,7 @@
     ],
     "rs/zerolog": [],
     "ryanoasis/nerd-fonts": [],
+    "rycee/home-manager": [],
     "sabre-io/Baikal": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
