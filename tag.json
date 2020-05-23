@@ -393,6 +393,7 @@
         "Font"
     ],
     "beancount/beancount": [],
+    "beancount/beancount_mirror_deprecated": [],
     "benoitgrelard/github-stars-tagger": [],
     "bestwu/docker-qq": [
         "Chinese APP Hack/QQ"

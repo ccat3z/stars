@@ -387,7 +387,7 @@
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set an animated battery as desktop wallpaper.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
-* [beancount/beancount](https://github.com/beancount/beancount): Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
+* [beancount/beancount_mirror_deprecated](https://github.com/beancount/beancount_mirror_deprecated): Official mirror of Beancount Mercurial repo on Github (updated manually and infrequently)
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 * [matryer/bitbar](https://github.com/matryer/bitbar): Put the output from any script or program in your Mac OS X Menu Bar
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
