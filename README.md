@@ -628,7 +628,7 @@
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [axkibe/lsyncd](https://github.com/axkibe/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris client - Open Source gaming platform for GNU/Linux
-* [w0lfschild/MacForge](https://github.com/w0lfschild/MacForge): :computer: 📦 Application, plugin and theme discovery and manager for macOS
+* [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): Plugin, App, and Theme store which includes plugin injection for macOS
 * [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
@@ -781,6 +781,7 @@
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+* [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [antoniomika/sish](https://github.com/antoniomika/sish): An open source serveo/ngrok alternative. HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.

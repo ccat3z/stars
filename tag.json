@@ -140,6 +140,7 @@
         "Linux/Utility"
     ],
     "LnL7/nix-darwin": [],
+    "MacEnhance/MacForge": [],
     "Macil/flow-copy-source": [],
     "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [
         "Android/Magick"
@@ -1362,6 +1363,7 @@
     "themix-project/oomox": [],
     "thestinger/termite": [],
     "timarney/react-app-rewired": [],
+    "timbertson/shellshape": [],
     "timbertson/slinger": [],
     "tinajs/mina-webpack": [],
     "tinajs/tina": [],
