@@ -132,6 +132,7 @@
         "Web"
     ],
     "LeetCode-OpenSource/rxjs-hooks": [],
+    "LeetCode-OpenSource/vscode-leetcode": [],
     "LingDong-/wenyan-lang": [],
     "LiuLang/bcloud": [
         "Linux/Utility"
@@ -912,6 +913,7 @@
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
+    "koalaman/shellcheck": [],
     "koekeishiya/skhd": [],
     "koekeishiya/yabai": [],
     "koral--/android-gif-drawable": [],
@@ -1177,6 +1179,7 @@
     "proxyee-down-org/proxyee-down": [],
     "prprprus/scheduler": [],
     "psf/requests-html": [],
+    "pyenv/pyenv": [],
     "pypa/pipenv": [
         "Python"
     ],
@@ -1323,6 +1326,7 @@
         "Nextcloud"
     ],
     "stephenh/mirror": [],
+    "stilliard/docker-pure-ftpd": [],
     "studyzy/imewlconverter": [
         "Utility"
     ],
