@@ -17,7 +17,6 @@
     * [JSON](#json)
     * [Utility](#utility-1)
   * [Chinese APP Hack](#chinese-app-hack)
-    * [Baidu Pan](#baidu-pan)
     * [QQ](#qq)
     * [WeChat](#wechat)
       * [Mini Program](#mini-program)
@@ -157,8 +156,6 @@
 ### Utility
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 ## Chinese APP Hack
-### Baidu Pan
-* [iikira/BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go): 百度网盘客户端 - Go语言编写
 ### QQ
 * [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
 * [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
@@ -636,7 +633,7 @@
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
-* [PapyElGringo/material-shell](https://github.com/PapyElGringo/material-shell): New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort
+* [material-shell/material-shell](https://github.com/material-shell/material-shell): New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort
 * [mui-org/material-ui](https://github.com/mui-org/material-ui): React components for faster and easier web development. Build your own design system, or start with Material Design.
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux.
