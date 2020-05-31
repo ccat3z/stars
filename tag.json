@@ -1110,6 +1110,7 @@
     "oldani/requests-html": [],
     "onsi/ginkgo": [],
     "open-keychain/open-keychain": [],
+    "openSUSE/lftp-concourse-resource": [],
     "openSUSE/snapper": [],
     "opengapps/all": [
         "Android/APP"
