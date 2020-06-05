@@ -562,6 +562,7 @@
     "dotnet-architecture/eShopOnWeb": [
         ".NET/.NET Core/ASP.NET Core"
     ],
+    "dotnet/Docker.DotNet": [],
     "dotnet/aspnetcore": [],
     "dotnet/dotnet-docker": [
         ".NET/.NET Core/ASP.NET Core"
@@ -1208,6 +1209,7 @@
     "restic/others": [],
     "restic/restic": [],
     "rfjakob/earlyoom": [],
+    "rfjakob/gocryptfs": [],
     "rgov/Thunderbolt3Unblocker": [],
     "rigor789/vue-scrollto": [],
     "ritave/xeventbind": [],
