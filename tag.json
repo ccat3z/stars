@@ -526,6 +526,7 @@
     "darlinghq/darling": [],
     "date-fns/date-fns": [],
     "davatorium/rofi": [],
+    "davidcarlisle/geometry": [],
     "davidhalter/jedi-vim": [
         "Vim"
     ],
@@ -720,6 +721,7 @@
     ],
     "go-delve/delve": [],
     "go-gitea/gitea": [],
+    "go-gorm/gorm": [],
     "go-sql-driver/mysql": [],
     "gobuffalo/packr": [],
     "goccmack/gogll": [],
@@ -829,6 +831,7 @@
     "jasonlvhit/gocron": [],
     "jaydenseric/graphql-react": [],
     "jaywcjlove/awesome-mac": [],
+    "jbezos/titlesec": [],
     "jcouyang/grokking-monad": [],
     "jdneo/vscode-leetcode": [],
     "jeffgerickson/algorithms": [],

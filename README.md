@@ -504,6 +504,7 @@
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
+* [davidcarlisle/geometry](https://github.com/davidcarlisle/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
@@ -544,7 +545,7 @@
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 他妈的我终于能用谷歌搜中文了
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
-* [jinzhu/gorm](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+* [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [prisma-labs/graphql-playground](https://github.com/prisma-labs/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
@@ -832,6 +833,7 @@
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
+* [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Persists tmux environment across system restarts.
 * [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
