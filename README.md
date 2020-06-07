@@ -606,7 +606,7 @@
 * [rancher/k3s](https://github.com/rancher/k3s): Lightweight Kubernetes
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
-* [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): KDE Connect adds communication between KDE and your smartphone.
+* [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): Multi-platform app that allows your devices to communicate
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
