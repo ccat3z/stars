@@ -569,7 +569,7 @@
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [rycee/home-manager](https://github.com/rycee/home-manager): Manage a user environment using Nix
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-* [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Homebrew tap for KDE Frameworks and Applications
+* [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Moved
 * [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 🖖 External command for Homebrew that checks for newer versions of formulae from upstream.
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services with macOS' launchctl daemon manager
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
@@ -741,7 +741,7 @@
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
-* [umijs/qiankun](https://github.com/umijs/qiankun): 📦🚀Blazing fast, simple and completed solution for micro frontends.
+* [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -1051,7 +1051,7 @@
 * [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
 #### ConEmu
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-* [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Color themes for ConEmu
+* [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Manually ported color themes for ConEmu
 #### Mintty
 * [karlin/mintty-colors-solarized](https://github.com/karlin/mintty-colors-solarized): Solarized theme for mintty
 * [mavnn/mintty-colors-solarized](https://github.com/mavnn/mintty-colors-solarized): None
