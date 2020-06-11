@@ -150,6 +150,7 @@
     "Magisk-Modules-Repo/mm": [],
     "MajsoulPlus/majsoul-plus": [],
     "Marak/faker.js": [],
+    "Martchus/syncthingtray": [],
     "Masterminds/glide": [],
     "Masterminds/sprig": [],
     "Maximus5/ConEmu": [
@@ -493,6 +494,7 @@
     "crossoverJie/JCSprout": [],
     "crossoverJie/Java-Interview": [],
     "crsmithdev/arrow": [],
+    "cryptomator/cryptomator": [],
     "cs01/gdbgui": [
         "C/Utility"
     ],
@@ -1353,6 +1355,7 @@
     "superwf/vuex-cache": [],
     "sveltejs/svelte": [],
     "syhyz1990/baiduyun": [],
+    "syncthing/syncthing": [],
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],

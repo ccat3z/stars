@@ -428,6 +428,7 @@
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [pivotal-cf-experimental/cron-resource](https://github.com/pivotal-cf-experimental/cron-resource): None
+* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
@@ -814,6 +815,8 @@
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
+* [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
+* [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray): Tray application and Dolphin/Plasma integration for Syncthing
 * [mono/t4](https://github.com/mono/t4): T4 text templating engine
 * [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi): Free and open source manga reader for Android
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
