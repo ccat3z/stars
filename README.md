@@ -369,7 +369,7 @@
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
-* [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up:适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+* [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
@@ -442,6 +442,7 @@
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处借鉴得来的Java数据结构和算法的学习代码
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+* [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
@@ -787,6 +788,7 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+* [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format

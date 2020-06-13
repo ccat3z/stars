@@ -1170,6 +1170,7 @@
     ],
     "pnpm/pnpm": [],
     "polybar/polybar": [],
+    "pop-os/shell": [],
     "portainer/portainer": [
         "Docker"
     ],
@@ -1277,6 +1278,7 @@
     ],
     "shengxinjing/programmer-job-blacklist": [],
     "shimohq/chinese-programmer-wrong-pronunciation": [],
+    "shopspring/decimal": [],
     "sickp/docker-alpine-sshd": [
         "Docker"
     ],
