@@ -634,6 +634,7 @@
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
+    "ewlsh/dynamic-panel-transparency": [],
     "eycorsican/go-tun2socks": [],
     "eycorsican/go-tun2socks-mobile": [],
     "eycorsican/kitsunebi-android": [],

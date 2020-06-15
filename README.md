@@ -475,7 +475,7 @@
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
-* [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
+* [ewlsh/dynamic-panel-transparency](https://github.com/ewlsh/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
