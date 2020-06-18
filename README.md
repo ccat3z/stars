@@ -311,7 +311,7 @@
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
 ## Nextcloud
 * [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Moved to codeberg.org - https://codeberg.org/DecaTec/Nextcloud-Backup-Restore - Bash scripts for backup/restore of Nextcloud
-* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): 📝 Android client for Nextcloud Notes app.
+* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): ✎ Android client for Nextcloud Notes app.
 ## Node.js
 ### Windows
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
@@ -361,6 +361,7 @@
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
+* [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 * [jorgebucaran/awesome-fish](https://github.com/jorgebucaran/awesome-fish): A curated list of packages, prompts, and resources for the fish shell.
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
