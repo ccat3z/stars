@@ -215,6 +215,7 @@
     "Rocket1184/electron-netease-cloud-music": [],
     "SDRausty/TermuxArch": [],
     "SDRausty/termux-archlinux": [],
+    "SaekiRaku/vscode-rainbow-fart": [],
     "SheetJS/sheetjs": [],
     "Shougo/context_filetype.vim": [],
     "Shougo/denite.nvim": [],
@@ -285,6 +286,7 @@
         "Linux/Utility"
     ],
     "Xuyuanp/nerdtree-git-plugin": [],
+    "Yelp/dumb-init": [],
     "Yggdroot/indentLine": [
         "Vim"
     ],
