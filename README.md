@@ -336,6 +336,7 @@
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
+* [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -595,7 +596,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [Bajoja/indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect): AppIndicator for KDE Connect
-* [Kong/insomnia](https://github.com/Kong/insomnia): Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
+* [Kong/insomnia](https://github.com/Kong/insomnia): The Open Source API Client and Design Platform for GraphQL and REST ->
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
@@ -890,7 +891,7 @@
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
-* [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 这是一个在你编程时疯狂称赞你的 VSCode 扩展插件
+* [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
 * [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): Vue Bootstrap with Material Design - Powerful and free UI KIT

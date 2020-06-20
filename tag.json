@@ -350,6 +350,7 @@
         "Android/Xposed"
     ],
     "android-password-store/Android-Password-Store": [],
+    "androidannotations/androidannotations": [],
     "andsens/homeshick": [],
     "andyholmes/gnome-shell-extension-gsconnect": [],
     "anirudhajith/process-wallpaper": [],
