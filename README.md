@@ -358,6 +358,7 @@
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
 * [keratin/authn-server](https://github.com/keratin/authn-server): Authentication service that keeps you in control without forcing you to be an expert in web security.
+* [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
 * [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
@@ -660,6 +661,8 @@
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
 * [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+* [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
+* [nhaarman/mockito-kotlin](https://github.com/nhaarman/mockito-kotlin): Using Mockito with Kotlin
 * [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
 * [ilearnio/module-alias](https://github.com/ilearnio/module-alias): Register aliases of directories and custom module paths in Node
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.

@@ -1074,6 +1074,7 @@
     "mmiller42/html-webpack-externals-plugin": [],
     "mnielsen/neural-networks-and-deep-learning": [],
     "mochajs/mocha": [],
+    "mockito/mockito": [],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
@@ -1112,6 +1113,7 @@
     "neuland/micro-frontends": [],
     "newren/git-filter-repo": [],
     "nginx-proxy/nginx-proxy": [],
+    "nhaarman/mockito-kotlin": [],
     "niudai/How-to-be-a-good-programmer": [],
     "noctuid/tdrop": [],
     "nok/leap-motion-processing": [],
@@ -1421,6 +1423,7 @@
     "txyyss/Lambda-Calculus": [],
     "typicode/husky": [],
     "tyru/caw.vim": [],
+    "uber/AutoDispose": [],
     "ufoscout/docker-compose-wait": [],
     "ultralight-ux/Ultralight": [],
     "umijs/qiankun": [],
