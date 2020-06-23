@@ -670,6 +670,8 @@
     ],
     "fluent/fluentd": [],
     "foreversd/forever": [],
+    "formik/formik": [],
+    "formik/tsdx": [],
     "frogatto/frogatto": [
         "Game"
     ],
