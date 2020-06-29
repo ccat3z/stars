@@ -120,6 +120,7 @@
     ],
     "JumboInteractiveLimited/redux-cache": [],
     "KDE-mac/homebrew-kde": [],
+    "KDE/kdeconnect-android": [],
     "KDE/kdeconnect-kde": [],
     "KSP-CKAN/CKAN": [
         "Game/KSP"
@@ -1172,6 +1173,7 @@
     "phw/peek": [],
     "pigigaldi/Pock": [],
     "pimutils/khal": [],
+    "pingcap/tidb": [],
     "pivotal-cf-experimental/cron-resource": [],
     "pixel-saver/pixel-saver": [],
     "plaintextaccounting/plaintextaccounting.github.io": [],
@@ -1505,6 +1507,7 @@
     "xuhdev/vim-latex-live-preview": [
         "Vim"
     ],
+    "xxf098/go-tun2socks-build": [],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [
         "Font"
     ],
