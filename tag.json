@@ -395,6 +395,7 @@
     ],
     "bazelbuild/bazel": [],
     "bchavez/Bogus": [],
+    "bcicen/grmon": [],
     "be5invis/Iosevka": [
         "Font"
     ],
@@ -632,6 +633,7 @@
     "erebe/greenclip": [],
     "ericandrewlewis/emoji-mosaic": [],
     "essensoft/payment": [],
+    "etcd-io/etcd": [],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
