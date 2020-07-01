@@ -358,6 +358,7 @@
     "anntzer/pypi2pkgbuild": [],
     "antoniomika/sish": [],
     "aoaojiang/HelloWorld": [],
+    "apache/shardingsphere": [],
     "apollographql/subscriptions-transport-ws": [],
     "apple/sourcekit-lsp": [],
     "arc-design/arc-theme": [],
@@ -454,6 +455,7 @@
         "Blog"
     ],
     "caddyserver/certmagic": [],
+    "caddyserver/xcaddy": [],
     "caldwell/daemon-manager": [
         "Linux/Utility"
     ],
@@ -1012,6 +1014,7 @@
     "louisstuart96/lshort-new-zh-cn": [
         "TeX"
     ],
+    "lrsjng/h5ai": [],
     "lucaslorentz/caddy-docker-proxy": [],
     "lukesampson/scoop": [
         "Windows/Utility"
@@ -1118,6 +1121,7 @@
     "netdata/netdata": [],
     "neuland/micro-frontends": [],
     "newren/git-filter-repo": [],
+    "ngaut/builddatabase": [],
     "nginx-proxy/nginx-proxy": [],
     "nhaarman/mockito-kotlin": [],
     "niudai/How-to-be-a-good-programmer": [],
@@ -1151,6 +1155,7 @@
         "Python"
     ],
     "pangloss/vim-javascript": [],
+    "papers-we-love/papers-we-love": [],
     "paperwm/PaperWM": [],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
@@ -1224,6 +1229,7 @@
     "rakyll/statik": [],
     "ramda/ramda": [],
     "rancher/k3s": [],
+    "rclone/rclone": [],
     "realywithoutname/mini-program-webpack-loader": [],
     "remaxjs/remax": [],
     "replit-archive/repl.it": [],
