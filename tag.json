@@ -11,6 +11,7 @@
     "Alexandre-io/verdaccio-ldap": [],
     "Alexays/Waybar": [],
     "Algram/rofi-gopass": [],
+    "ApostropheEditor/Apostrophe": [],
     "AppImage/AppImageKit": [],
     "Arachnid-27/Cimoc": [
         "Android/APP/Entertainment"
@@ -1300,6 +1301,7 @@
     "shengxinjing/programmer-job-blacklist": [],
     "shimohq/chinese-programmer-wrong-pronunciation": [],
     "shopspring/decimal": [],
+    "sickcodes/Docker-OSX": [],
     "sickp/docker-alpine-sshd": [
         "Docker"
     ],
