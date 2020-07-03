@@ -470,6 +470,7 @@
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
+* [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone): Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 * [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet): :whale: .NET (C#) Client Library for Docker API
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
@@ -654,7 +655,7 @@
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
-* [material-shell/material-shell](https://github.com/material-shell/material-shell): New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort
+* [material-shell/material-shell](https://github.com/material-shell/material-shell): New shell for Linux as Gnome Extension following the Material-design guidelines. Proposing a performant and simple opinionated mouse / keyboard workflow to increase daily productivity and comfort
 * [mui-org/material-ui](https://github.com/mui-org/material-ui): React components for faster and easier web development. Build your own design system, or start with Material Design.
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
@@ -944,6 +945,7 @@
 * [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
+* [Rucadi/wsld](https://github.com/Rucadi/wsld): WSLD is a tool for downloading and installing docker images into WSL1 or WSL2 directly. It also supports uploading WSL images into Docker Hub.
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python?
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
