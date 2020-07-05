@@ -578,6 +578,7 @@
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [aoaojiang/HelloWorld](https://github.com/aoaojiang/HelloWorld): 测试Android Studio的VCS
+* [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
@@ -642,6 +643,7 @@
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
+* [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
