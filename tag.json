@@ -1215,6 +1215,7 @@
     "proxyee-down-org/proxyee-down": [],
     "prprprus/scheduler": [],
     "psf/requests-html": [],
+    "puppeteer/puppeteer": [],
     "pyenv/pyenv": [],
     "pypa/pipenv": [
         "Python"
@@ -1268,6 +1269,7 @@
         "Windows/WSL"
     ],
     "rs/zerolog": [],
+    "rxin/db-readings": [],
     "ryanoasis/nerd-fonts": [],
     "rycee/home-manager": [],
     "sabre-io/Baikal": [],
@@ -1476,6 +1478,7 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
+    "vim/vim": [],
     "vincentbernat/hellogopher": [],
     "viniciuschiele/flask-apscheduler": [
         "Python"
