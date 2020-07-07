@@ -614,6 +614,7 @@
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
+* [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 * [jekyll/jemoji](https://github.com/jekyll/jemoji): GitHub-flavored emoji plugin for Jekyll
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
