@@ -394,6 +394,7 @@
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
+* [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ccat3z's blog ❤
 * [jumper149/blugon](https://github.com/jumper149/blugon): simple and configurable Blue Light Filter for X
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
@@ -412,7 +413,6 @@
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [ccat3z/ccat3z](https://github.com/ccat3z/ccat3z): ccat3z's blog ❤
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -1104,5 +1104,5 @@
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux as a WSL Instance. Supports multiple install.
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux based Linux Distribution. Supports multiple install.
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
