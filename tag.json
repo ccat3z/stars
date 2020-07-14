@@ -659,6 +659,7 @@
     "facebook/flow": [],
     "facebook/immutable-js": [],
     "facebook/react": [],
+    "facebook/zstd": [],
     "fairplay-zone/docker-dontstarvetogether": [],
     "faressoft/terminalizer": [],
     "fcitx/fcitx": [

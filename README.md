@@ -980,6 +980,7 @@
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): None
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
+* [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 ## Pandoc
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
 * [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
@@ -1106,5 +1107,5 @@
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 ### WSL
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
-* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux based Linux Distribution. Supports multiple install.
+* [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux based WSL Distribution. Supports multiple install.
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
