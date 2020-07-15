@@ -94,6 +94,7 @@
         "Android/APP/Utility"
     ],
     "Gozala/events": [],
+    "Guake/guake": [],
     "HangfireIO/Hangfire": [],
     "HelloCodeMing/baidu-wenku": [],
     "Himself65/OpenArkCompiler": [],
@@ -684,6 +685,8 @@
     "foreversd/forever": [],
     "formik/formik": [],
     "formik/tsdx": [],
+    "formium/formik": [],
+    "formium/tsdx": [],
     "frogatto/frogatto": [
         "Game"
     ],
@@ -853,6 +856,7 @@
     "jaredpalmer/tsdx": [],
     "jasonlvhit/gocron": [],
     "jaydenseric/graphql-react": [],
+    "jaystrictor/gnome-shell-extension-syncthing": [],
     "jaywcjlove/awesome-mac": [],
     "jbezos/titlesec": [],
     "jcouyang/grokking-monad": [],
