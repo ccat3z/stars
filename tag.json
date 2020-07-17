@@ -435,6 +435,7 @@
     "blueimp/jQuery-File-Upload": [
         "JavaScript/jQuery"
     ],
+    "bodedejavu/gnome-shell-extensions": [],
     "boekkooi/openshift-cartridge-nginx": [
         "OpenShift"
     ],
@@ -1286,6 +1287,7 @@
     "ryanoasis/nerd-fonts": [],
     "rycee/home-manager": [],
     "sabre-io/Baikal": [],
+    "sammydre/ts-for-gjs": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
     ],
