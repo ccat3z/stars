@@ -371,6 +371,7 @@
     ],
     "arcmags/ramroot": [],
     "arkane-systems/genie": [],
+    "arrow-py/arrow": [],
     "artisologic/github-stars-tagger": [
         "GitHub"
     ],
@@ -1316,6 +1317,7 @@
         "GFW"
     ],
     "sharkdp/bat": [],
+    "sharkdp/hexyl": [],
     "shenfeng/tiny-web-server": [
         "C"
     ],
