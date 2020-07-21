@@ -104,6 +104,7 @@
     "Homebrew/homebrew-services": [],
     "ImVexed/muon": [],
     "Inokinoki/kde-blog": [],
+    "JabRef/jabref": [],
     "Jactor-Sue/Deepin-Apps-Installation": [],
     "JeffreySu/WeiXinMPSDK": [],
     "Jguer/yay": [],
@@ -240,6 +241,8 @@
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
+    "TablePlus/TablePlus": [],
+    "TablePlus/TablePlus-Linux": [],
     "TaylanTatli/Halve": [
         "Jekyll/Theme"
     ],
@@ -969,6 +972,7 @@
     "kwk/docker-registry-setup": [],
     "kylemanna/docker-aosp": [],
     "kzu/GitInfo": [],
+    "l0o0/translators_CN": [],
     "labstack/echo": [],
     "lambdalisue/suda.vim": [],
     "lauritzsh/pandoc-markdown-template": [
@@ -1575,6 +1579,7 @@
     "zhangkaizhao/gnome-shell-extension-tray-icons": [],
     "zhblue/hustoj": [],
     "ziahamza/webui-aria2": [],
+    "zotero/zotero": [],
     "zth/json-to-flowtype-generator": [],
     "zzzeyez/pecan": [],
     "zzzprojects/EntityFramework-Plus": []
