@@ -469,6 +469,7 @@
         "Linux/Utility"
     ],
     "callstack/linaria": [],
+    "canonical/dqlite": [],
     "capaj/react-promise": [],
     "captnbp/docker-owncloud": [
         "Docker"
@@ -737,6 +738,7 @@
     "gilbarbara/logos": [
         "Resource"
     ],
+    "giorginolab/zotfile_doctor": [],
     "github-tools/github": [
         "GitHub"
     ],
@@ -965,6 +967,7 @@
     "kronik3r/daktilo": [
         "Jekyll"
     ],
+    "kubernetes/kompose": [],
     "kulshekhar/ts-jest": [],
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
@@ -1537,6 +1540,7 @@
     "wenyan-lang/wenyan": [],
     "wepyjs/wepy-weui-demo": [],
     "wernight/docker-ngrok": [],
+    "wunderio/csi-rclone": [],
     "wuye9036/CppTemplateTutorial": [],
     "xdanaux/moderncv": [],
     "xiaoxiunique/tool-tips": [],

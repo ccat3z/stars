@@ -437,6 +437,7 @@
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [pivotal-cf-experimental/cron-resource](https://github.com/pivotal-cf-experimental/cron-resource): None
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
+* [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone): CSI driver for rclone
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
@@ -481,6 +482,7 @@
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
+* [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [drone/drone-cli](https://github.com/drone/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
@@ -637,6 +639,7 @@
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
+* [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
@@ -991,6 +994,7 @@
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+* [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 ## Pandoc
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
