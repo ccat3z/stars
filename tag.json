@@ -509,6 +509,7 @@
     "concourse/concourse": [],
     "concourse/git-resource": [],
     "concourse/registry-image-resource": [],
+    "containous/traefik": [],
     "containrrr/watchtower": [],
     "corbindavenport/creative-cloud-linux": [],
     "cosven/FeelUOwn": [],
@@ -788,6 +789,7 @@
         "OpenShift"
     ],
     "guren-cloud/v-request": [],
+    "gusztavvargadr/packer": [],
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
