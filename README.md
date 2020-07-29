@@ -761,7 +761,7 @@
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): 📦🚀 Fast, disk space efficient package manager
 * [pigigaldi/Pock](https://github.com/pigigaldi/Pock): Display macOS Dock in Touch Bar
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
-* [postcss/postcss-loader](https://github.com/postcss/postcss-loader): PostCSS loader for webpack
+* [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader): PostCSS loader for webpack
 * [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
@@ -813,6 +813,7 @@
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
+* [ifreund/river](https://github.com/ifreund/river): A dynamic tiling wayland compositor
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): Rofi Based Custom Applets And Menus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi

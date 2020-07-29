@@ -828,6 +828,7 @@
     ],
     "iamkun/dayjs": [],
     "ibhagwan/picom": [],
+    "ifreund/river": [],
     "iglance/iGlance": [],
     "iikira/BaiduPCS-Go": [
         "Chinese APP Hack/Baidu Pan"
@@ -1534,6 +1535,7 @@
     "wangxian/alpine-mysql": [
         "Docker"
     ],
+    "webpack-contrib/postcss-loader": [],
     "webpack/webpack": [],
     "websanova/vue-auth": [],
     "wengxt/gnome-shell-extension-kimpanel": [],
