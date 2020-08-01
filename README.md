@@ -748,6 +748,7 @@
 * [essensoft/payment](https://github.com/essensoft/payment): Payment 是基于 .NET Core / ASP.NET Core  开发，支持多商户的跨平台支付SDK集。简化了API调用及相关通知的处理流程。目前支持：支付宝(Alipay)、微信支付(WeChatPay)
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
+* [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 (previously a compton fork)
@@ -855,7 +856,7 @@
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 * [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws): :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
-* [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+* [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
