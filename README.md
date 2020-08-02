@@ -1,140 +1,170 @@
-# TOC
-* [Star](#star)
-  * [.NET](#.net)
-    * [.NET Core](#.net-core)
-      * [ASP.NET Core](#asp.net-core)
-      * [EF Core](#ef-core)
-  * [Android](#android)
-    * [APP](#app)
-      * [Utility](#utility)
-    * [MIUI](#miui)
-    * [Magick](#magick)
-    * [Xposed](#xposed)
-  * [Arduino](#arduino)
-  * [Awesome](#awesome)
-  * [Blog](#blog)
-  * [C](#c)
-    * [JSON](#json)
-    * [Utility](#utility-1)
-  * [Chinese APP Hack](#chinese-app-hack)
-    * [QQ](#qq)
-    * [WeChat](#wechat)
-      * [Mini Program](#mini-program)
-  * [Computer Science](#computer-science)
-  * [Docker](#docker)
-  * [Font](#font)
-  * [GFW](#gfw)
-  * [Game](#game)
-    * [Ingress](#ingress)
-    * [KSP](#ksp)
-  * [GitHub](#github)
-  * [Gnome Shell Extensions](#gnome-shell-extensions)
-  * [Go](#go)
-  * [Gov](#gov)
-  * [JSON](#json-1)
-  * [Java](#java)
-    * [JSON](#json-2)
-    * [Web](#web)
-      * [RESTful](#restful)
-  * [JavaScript](#javascript)
-    * [jQuery](#jquery)
-  * [Jekyll](#jekyll)
-    * [Theme](#theme)
-  * [Kindle](#kindle)
-  * [LaTeX](#latex)
-  * [Linux](#linux)
-    * [Device](#device)
-      * [Surface](#surface)
-    * [Distribution](#distribution)
-      * [Arch Linux](#arch-linux)
-    * [GUI](#gui)
-      * [Desktop Environment](#desktop-environment)
-        * [Gnome](#gnome)
-          * [Extension](#extension)
-          * [Theme](#theme-1)
-      * [Display Manager](#display-manager)
-      * [Windows Manager](#windows-manager)
-    * [Kernel](#kernel)
-    * [Utility](#utility-2)
-  * [Machine Learning](#machine-learning)
-  * [Nextcloud](#nextcloud)
-  * [Node.js](#node.js)
-    * [Windows](#windows)
-  * [OpenShift](#openshift)
-  * [Operating System](#operating-system)
-    * [HarmonyOS](#harmonyos)
-  * [Other](#other)
-  * [Pandoc](#pandoc)
-  * [Python](#python)
-    * [API](#api)
-    * [Tutorial](#tutorial)
-  * [Resource](#resource)
-  * [SBC](#sbc)
-  * [SQLite](#sqlite)
-  * [Spider](#spider)
-  * [Unity](#unity)
-  * [Utility](#utility-3)
-  * [VS Code](#vs-code)
-  * [Vim](#vim)
-  * [WeChat](#wechat-1)
-    * [Mini Program](#mini-program-1)
-      * [Develop](#develop)
-      * [Utility](#utility-4)
-  * [Web](#web-1)
-    * [Backend](#backend)
-      * [REST](#rest)
-    * [CSS](#css)
-    * [JavaScript](#javascript-1)
-    * [Tutorial](#tutorial-1)
-    * [Vue](#vue)
-  * [Windows](#windows-1)
-    * [PowerShell](#powershell)
-    * [Terminal](#terminal)
-      * [ConEmu](#conemu)
-      * [Mintty](#mintty)
-    * [Utility](#utility-5)
-    * [WSL](#wsl)
+# Usage
 
-# Star
-## .NET
+1. fork this repo
+1. trigger github action
+
+# Inspiration
+
+[starred](https://github.com/maguowei/starred)
+
+
+# Contents
+
+* [.NET](#.net)
+  * [.NET Core](#.net-core)
+    * [ASP.NET Core](#asp.net-core)
+    * [EF Core](#ef-core)
+* [Android](#android)
+  * [APP](#app)
+    * [Utility](#utility)
+  * [MIUI](#miui)
+  * [Magick](#magick)
+  * [Xposed](#xposed)
+* [Arduino](#arduino)
+* [Awesome](#awesome)
+* [Blog](#blog)
+* [C](#c)
+  * [JSON](#json)
+  * [Utility](#utility-1)
+* [Chinese APP Hack](#chinese-app-hack)
+  * [QQ](#qq)
+  * [WeChat](#wechat)
+    * [Mini Program](#mini-program)
+* [Computer Science](#computer-science)
+* [Docker](#docker)
+* [Font](#font)
+* [GFW](#gfw)
+* [Game](#game)
+  * [Ingress](#ingress)
+  * [KSP](#ksp)
+* [GitHub](#github)
+* [Gnome Shell Extensions](#gnome-shell-extensions)
+* [Go](#go)
+* [Gov](#gov)
+* [JSON](#json-1)
+* [Java](#java)
+  * [JSON](#json-2)
+  * [Web](#web)
+    * [RESTful](#restful)
+* [JavaScript](#javascript)
+  * [jQuery](#jquery)
+* [Jekyll](#jekyll)
+  * [Theme](#theme)
+* [Kindle](#kindle)
+* [LaTeX](#latex)
+* [Linux](#linux)
+  * [Device](#device)
+    * [Surface](#surface)
+  * [Distribution](#distribution)
+    * [Arch Linux](#arch-linux)
+  * [GUI](#gui)
+    * [Desktop Environment](#desktop-environment)
+      * [Gnome](#gnome)
+        * [Extension](#extension)
+        * [Theme](#theme-1)
+    * [Display Manager](#display-manager)
+    * [Windows Manager](#windows-manager)
+  * [Kernel](#kernel)
+  * [Utility](#utility-2)
+* [Machine Learning](#machine-learning)
+* [Nextcloud](#nextcloud)
+* [Node.js](#node.js)
+  * [Windows](#windows)
+* [OpenShift](#openshift)
+* [Operating System](#operating-system)
+  * [HarmonyOS](#harmonyos)
+* [Other](#other)
+* [Pandoc](#pandoc)
+* [Python](#python)
+  * [API](#api)
+  * [Tutorial](#tutorial)
+* [Resource](#resource)
+* [SBC](#sbc)
+* [SQLite](#sqlite)
+* [Spider](#spider)
+* [Unity](#unity)
+* [Utility](#utility-3)
+* [VS Code](#vs-code)
+* [Vim](#vim)
+* [WeChat](#wechat-1)
+  * [Mini Program](#mini-program-1)
+    * [Develop](#develop)
+    * [Utility](#utility-4)
+* [Web](#web-1)
+  * [Backend](#backend)
+    * [REST](#rest)
+  * [CSS](#css)
+  * [JavaScript](#javascript-1)
+  * [Tutorial](#tutorial-1)
+  * [Vue](#vue)
+* [Windows](#windows-1)
+  * [PowerShell](#powershell)
+  * [Terminal](#terminal)
+    * [ConEmu](#conemu)
+    * [Mintty](#mintty)
+  * [Utility](#utility-5)
+  * [WSL](#wsl)
+
+# .NET
+
 * [ZeekoZhu/TextTemplatingCore](https://github.com/ZeekoZhu/TextTemplatingCore): T4 scaffolding for ASP.NET Core 2.0 without IDE
-### .NET Core
-#### ASP.NET Core
+
+## .NET Core
+
+
+### ASP.NET Core
+
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET Core and the .NET Core Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 * [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 3.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
-#### EF Core
+
+### EF Core
+
 * [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql): Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
-## Android
+
+# Android
+
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 * [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 10.0 in business version)
-### APP
+
+## APP
+
 * [loopeer/code-reader](https://github.com/loopeer/code-reader): One Multi program language code reader
 * [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
 * [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard): Hacker's Keyboard (official)
 * [ghbhaha/JzApp](https://github.com/ghbhaha/JzApp): 账单助手--一款简洁的记账软件
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy): Install and run GNU/Linux on Android
-#### Utility
+
+### Utility
+
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
 * [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): (Deprecated)QQ通知增强+分享转发
 * [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
-### MIUI
+
+## MIUI
+
 * [linusyang92/mipay-extract](https://github.com/linusyang92/mipay-extract): Extract Mi Pay from MIUI China Rom
-### Magick
+
+## Magick
+
 * [Jman420/magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script): Installs a simple script to enable Permissive Mode during Magisk Startup
 * [D4rCM4rC/MagiskSSH](https://github.com/D4rCM4rC/MagiskSSH): None
-### Xposed
+
+## Xposed
+
 * [liubaoyua/CustomText](https://github.com/liubaoyua/CustomText): 一个可以自定义替换文本的 Xposed 模块
 * [liubaoyua/CustomText-MD](https://github.com/liubaoyua/CustomText-MD): CustomText with MD
 * [coderstory/Mi-Purify](https://github.com/coderstory/Mi-Purify): None
 * [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed): A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * [abforce/xposed_art_n](https://github.com/abforce/xposed_art_n): ART module for a built-in enabled Xposed firmware based on AOSP 7
 * [halfkiss/ZjDroid](https://github.com/halfkiss/ZjDroid): Android app dynamic reverse tool based on Xposed framework.
-## Arduino
+
+# Arduino
+
 * [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 * [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
@@ -142,39 +172,61 @@
 * [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
 * [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
-## Awesome
+
+# Awesome
+
 * [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn): C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 * [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs): :octocat: A collection of APIs
-## Blog
+
+# Blog
+
 * [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
 * [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io): Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-## C
+
+# C
+
 * [GNOME/glib](https://github.com/GNOME/glib): Read-only mirror of https://gitlab.gnome.org/GNOME/glib
 * [attractivechaos/klib](https://github.com/attractivechaos/klib): A standalone and lightweight C library
 * [keybuk/libnih](https://github.com/keybuk/libnih): NIH Utility Library
 * [shenfeng/tiny-web-server](https://github.com/shenfeng/tiny-web-server): a tiny web server in C, for daily use.
-### JSON
+
+## JSON
+
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
-### Utility
+
+## Utility
+
 * [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-## Chinese APP Hack
-### QQ
+
+# Chinese APP Hack
+
+
+## QQ
+
 * [bestwu/docker-qq](https://github.com/bestwu/docker-qq): 提供一种在linux下运行QQ的方式
 * [BUPT-HJM/fun-photo-combine](https://github.com/BUPT-HJM/fun-photo-combine): 一个有趣的图片合成工具（生成的图片在QQ缩略图与大图表现不同）
 * [sjdy521/Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq): a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 * [Yinzo/SmartQQBot](https://github.com/Yinzo/SmartQQBot): 基于SmartQQ的自动机器人框架
-### WeChat
+
+## WeChat
+
 * [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 * [sjdy521/Mojo-Weixin](https://github.com/sjdy521/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [trazyn/weweChat](https://github.com/trazyn/weweChat): 💬 Unofficial WeChat client built with React, MobX and Electron.
 * [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
-#### Mini Program
+
+### Mini Program
+
 * [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game): 微信《跳一跳》Python 辅助
-## Computer Science
+
+# Computer Science
+
 * [llimllib/bloomfilter-tutorial](https://github.com/llimllib/bloomfilter-tutorial): A Bloom Filter Tutorial
-## Docker
+
+# Docker
+
 * [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
 * [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
@@ -184,13 +236,17 @@
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker management easy.
 * [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
-## Font
+
+# Font
+
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Slender typeface for code, from code.
 * [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 * [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans): Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 * [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12): YaHei Consolas Hybrid 字体
-## GFW
+
+# GFW
+
 * [teddysun/across](https://github.com/teddysun/across): Across the Great Wall we can reach every corner in the world
 * [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist): gfw_whitelist
 * [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
@@ -200,48 +256,78 @@
 * [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
 * [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
-## Game
+
+# Game
+
 * [Doreamonsky/CampusAdventure](https://github.com/Doreamonsky/CampusAdventure): None
 * [frogatto/frogatto](https://github.com/frogatto/frogatto): Frogatto & Friends is an action-adventure game, starring a certain quixotic frog. 
-### Ingress
+
+## Ingress
+
 * [iitc-project/ingress-intel-total-conversion](https://github.com/iitc-project/ingress-intel-total-conversion): ingress.com/intel total conversion user script with some new features. Should allow easier extension of the intel map.
-### KSP
+
+## KSP
+
 * [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN): The Comprehensive Kerbal Archive Network
 * [TriggerAu/KerbalAlarmClock](https://github.com/TriggerAu/KerbalAlarmClock): A time management and utility plugin for Kerbal Space Program
 * [CYBUTEK/KerbalEngineer](https://github.com/CYBUTEK/KerbalEngineer): Kerbal Engineer v1.0 (current in-development build).
-## GitHub
+
+# GitHub
+
 * [astralapp/astral](https://github.com/astralapp/astral): Organize Your GitHub Stars With Ease
 * [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti): abusing github commit history for the lulz
 * [github-tools/github](https://github.com/github-tools/github): A higher-level wrapper around the Github API. Intended for the browser.
 * [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 2.7, 3.4, 3.5, 3.6, and 3.7 (and maybe 3.8?)
 * [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
-## Gnome Shell Extensions
+
+# Gnome Shell Extensions
+
 * [Edenhofer/Minimalism-Gnome-Shell](https://github.com/Edenhofer/Minimalism-Gnome-Shell): Minimalism Gnome Shell  Extensions
-## Go
+
+# Go
+
 * [hanwen/go-fuse](https://github.com/hanwen/go-fuse): FUSE bindings for Go
-## Gov
+
+# Gov
+
 * [mlouielu/cn_constitution_2018](https://github.com/mlouielu/cn_constitution_2018): 2018-02-25 中国共产党中央委员会关于修改宪法部分内容的建议
-## JSON
+
+# JSON
+
 * [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
-## Java
+
+# Java
+
 * [rkalla/imgscalr](https://github.com/rkalla/imgscalr): Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [tipsy/j2html](https://github.com/tipsy/j2html): Java to HTML generator. Enjoy typesafe HTML generation.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
 * [ferbar/jmagick](https://github.com/ferbar/jmagick): None
 * [pdudits/soundlibs](https://github.com/pdudits/soundlibs): Maven artifacts for Java Sound Libraries
-### JSON
+
+## JSON
+
 * [FasterXML/jackson](https://github.com/FasterXML/jackson): Main Portal page for the Jackson project
-### Web
+
+## Web
+
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd): Tiny, easily embeddable HTTP server in Java.
-#### RESTful
+
+### RESTful
+
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard): A damn simple library for building production-ready RESTful web services.
-## JavaScript
+
+# JavaScript
+
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
 * [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
-### jQuery
+
+## jQuery
+
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload): File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-## Jekyll
+
+# Jekyll
+
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
 * [imsun/gitment](https://github.com/imsun/gitment): A comment system based on GitHub Issues.
@@ -252,30 +338,54 @@
 * [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 * [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
 * [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  Static sites with superpowers
-### Theme
+
+## Theme
+
 * [TaylanTatli/Halve](https://github.com/TaylanTatli/Halve): Stylish Two-Column Jekyll Theme
 * [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon): Moon is a minimal, one column jekyll theme.
-## Kindle
+
+# Kindle
+
 * [samsheff/Amazon-Kindle-Cross-Toolchain](https://github.com/samsheff/Amazon-Kindle-Cross-Toolchain): A cross-compiling toolchain for the Amazon Kindle
 * [hwhw/kindlevncviewer](https://github.com/hwhw/kindlevncviewer): A VNC viewer for ebook readers
 * [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-## LaTeX
+
+# LaTeX
+
 * [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
-## Linux
+
+# Linux
+
 * [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
-### Device
-#### Surface
+
+## Device
+
+
+### Surface
+
 * [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
 * [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
 * [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
 * [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
-### Distribution
-#### Arch Linux
+
+## Distribution
+
+
+### Arch Linux
+
 * [archlinuxcn/repo](https://github.com/archlinuxcn/repo): Arch Linux CN Repository
-### GUI
-#### Desktop Environment
-##### Gnome
-###### Extension
+
+## GUI
+
+
+### Desktop Environment
+
+
+#### Gnome
+
+
+##### Extension
+
 * [p-e-w/argos](https://github.com/p-e-w/argos): Create GNOME Shell extensions in seconds
 * [emiapwil/glassy-gnome](https://github.com/emiapwil/glassy-gnome): To bring opacity features to gnome windows.
 * [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet): Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
@@ -283,18 +393,28 @@
 * [emasab/shelltile](https://github.com/emasab/shelltile): A tiling window extension for GNOME Shell
 * [rosghub/TLP-Switcher](https://github.com/rosghub/TLP-Switcher): Gnome shell extension for switching TLP configurations
 * [phocean/TopIcons-plus](https://github.com/phocean/TopIcons-plus): An gnome-shell extension to put the icons back to the tray.
-###### Theme
+
+##### Theme
+
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
 * [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
-#### Display Manager
+
+### Display Manager
+
 * [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter): A Minimal, Configurable, Single-User GTK3 LightDM Greeter
-#### Windows Manager
+
+### Windows Manager
+
 * [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
 * [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
-### Kernel
+
+## Kernel
+
 * [kvalo/ath10k-firmware](https://github.com/kvalo/ath10k-firmware): Firmware files for ath10k, a mac80211 driver for Qualcomm 802.11ac devices
-### Utility
+
+## Utility
+
 * [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
@@ -308,23 +428,39 @@
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
 * [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for UNIX
 * [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI): A GTK user interface for TLP written in Python
-## Machine Learning
+
+# Machine Learning
+
 * [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
-## Nextcloud
+
+# Nextcloud
+
 * [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Moved to codeberg.org - https://codeberg.org/DecaTec/Nextcloud-Backup-Restore - Bash scripts for backup/restore of Nextcloud
 * [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): ✎ Android client for Nextcloud Notes app.
-## Node.js
-### Windows
+
+# Node.js
+
+
+## Windows
+
 * [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
-## OpenShift
+
+# OpenShift
+
 * [boekkooi/openshift-cartridge-nginx](https://github.com/boekkooi/openshift-cartridge-nginx): None
 * [gsterjov/openshift-nginx-cartridge](https://github.com/gsterjov/openshift-nginx-cartridge): An Nginx Cartridge for OpenShift
 * [gnurag/openshift-origin-cartridge-httpd-proxy](https://github.com/gnurag/openshift-origin-cartridge-httpd-proxy): A cartridge for using Apache httpd as a reverse proxy server
-## Operating System
-### HarmonyOS
+
+# Operating System
+
+
+## HarmonyOS
+
 * [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-## Other
+
+# Other
+
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -1010,13 +1146,17 @@
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
-## Pandoc
+
+# Pandoc
+
 * [lauritzsh/pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template): Markdown templates for Pandoc
 * [jgm/pandocfilters](https://github.com/jgm/pandocfilters): A python module for writing pandoc filters, with a collection of examples
 * [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc): pandoc integration and utilities for vim
 * [vim-pandoc/vim-pandoc-after](https://github.com/vim-pandoc/vim-pandoc-after): Handles vim-pandoc's integration with third-party plugins
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
-## Python
+
+# Python
+
 * [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 * [pallets/click](https://github.com/pallets/click): Python composable command line interface toolkit
 * [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
@@ -1027,25 +1167,41 @@
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
 * [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python 2.x/3.x bindings for libfuse 2.x
 * [google/yapf](https://github.com/google/yapf): A formatter for Python files
-### API
+
+## API
+
 * [OneDrive/onedrive-sdk-python](https://github.com/OneDrive/onedrive-sdk-python): OneDrive SDK for Python! https://dev.onedrive.com 
-### Tutorial
+
+## Tutorial
+
 * [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide): python/golang -web入坑指南
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh): :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
-## Resource
+
+# Resource
+
 * [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos
-## SBC
+
+# SBC
+
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
 * [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
-## SQLite
+
+# SQLite
+
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
 * [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
-## Spider
+
+# Spider
+
 * [Doreamonsky/Shnu-Cas-Login](https://github.com/Doreamonsky/Shnu-Cas-Login): 上师大 CAS登陆与课程爬虫
-## Unity
+
+# Unity
+
 * [ekpyron/ktxutils](https://github.com/ekpyron/ktxutils): Utilities for the KTX image format.
-## Utility
+
+# Utility
+
 * [m13253/BiliDan](https://github.com/m13253/BiliDan): Play videos on Bilibili.com with MPV and Danmaku2ASS
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 * [jgraph/drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
@@ -1058,11 +1214,15 @@
 * [binux/ThunderLixianExporter](https://github.com/binux/ThunderLixianExporter): export thunder lixian url to aria2/wget
 * [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x): Image Super-Resolution for Anime-Style Art
 * [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe): waifu2xのCaffe版
-## VS Code
+
+# VS Code
+
 * [goessner/mdmath](https://github.com/goessner/mdmath): LaTeX Math for Markdown inside of Visual Studio Code.
 * [karabaja4/vscode-explorer-git-status](https://github.com/karabaja4/vscode-explorer-git-status): Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
 * [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave): Visual Studio Code extension to run commands whenever a file is saved.
-## Vim
+
+# Vim
+
 * [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs): Vim plugin, insert or delete brackets, parens, quotes in pair
 * [maralla/completor.vim](https://github.com/maralla/completor.vim): Async completion framework made ease.
 * [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim): Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
@@ -1091,50 +1251,88 @@
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 * [lervag/vimtex](https://github.com/lervag/vimtex): A modern Vim and neovim filetype plugin for LaTeX files.
-## WeChat
-### Mini Program
-#### Develop
+
+# WeChat
+
+
+## Mini Program
+
+
+### Develop
+
 * [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店
 * [chemzqm/wept](https://github.com/chemzqm/wept): 微信小程序 web 端实时运行工具
-#### Utility
+
+### Utility
+
 * [Doreamonsky/Course-table](https://github.com/Doreamonsky/Course-table): 微信小程序，课程表最佳实践案例。
-## Web
+
+# Web
+
 * [Kozea/wdb](https://github.com/Kozea/wdb): An improbable web debugger through WebSockets
-### Backend
-#### REST
+
+## Backend
+
+
+### REST
+
 * [evilsocket/librestd](https://github.com/evilsocket/librestd): A low dependencies and self contained library to create C++ RESTful API services.
-### CSS
+
+## CSS
+
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
-### JavaScript
+
+## JavaScript
+
 * [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js): Give your pages some headroom. Hide your header until you need it
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-### Tutorial
+
+## Tutorial
+
 * [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
-### Vue
+
+## Vue
+
 * [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js
 * [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
-## Windows
-### PowerShell
+
+# Windows
+
+
+## PowerShell
+
 * [Windos/BurntToast](https://github.com/Windos/BurntToast): Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git): A PowerShell environment for Git
 * [JulianChow94/Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch): Powershell port of bash/unix screenfetch.
-### Terminal
+
+## Terminal
+
 * [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized): Solarized color settings for Windows command prompt
 * [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal): A Terminal Emulator based on UWP and web technologies.
-#### ConEmu
+
+### ConEmu
+
 * [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Manually ported color themes for ConEmu
-#### Mintty
+
+### Mintty
+
 * [karlin/mintty-colors-solarized](https://github.com/karlin/mintty-colors-solarized): Solarized theme for mintty
 * [mavnn/mintty-colors-solarized](https://github.com/mavnn/mintty-colors-solarized): None
-### Utility
+
+## Utility
+
 * [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
-### WSL
+
+## WSL
+
 * [alwsl/alwsl](https://github.com/alwsl/alwsl): Install archlinux as the WSL (Windows Subsystem for Linux) host.
 * [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL): ArchLinux based WSL Distribution. Supports multiple install.
 * [rprichard/wslbridge](https://github.com/rprichard/wslbridge): Bridge from Cygwin to WSL pty/pipe I/O
+
+

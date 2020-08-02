@@ -3,10 +3,10 @@
 from github3 import GitHub
 from functools import total_ordering
 import json
-import sys
 import argparse
 from collections import defaultdict
 import os
+import textwrap
 
 
 class Tree(dict):
@@ -26,32 +26,11 @@ class Tree(dict):
         else:
             return value
 
-    def mdtoc(self, dep=0, name='ROOT', id_counter=None):
-        if id_counter is None:
-            id_counter = defaultdict(lambda: -1)
-
-        name_id = name.lower().replace(' ', '-')
-        id_counter[name_id] += 1
-        name_id = (name_id + ('-' + str(id_counter[name_id])
-                   if id_counter[name_id] != 0
-                   else ""))
-
-        print('{}* [{}](#{})'.format('  ' * dep, name, name_id))
-
-        try:
-            for tree_name, tree in sorted(self.items()):
-                tree.mdtoc(dep + 1, tree_name, id_counter)
-        except IndexError:
-            pass
-
-    def mdprint(self, dep=1, name='ROOT', node_md=str):
-        print('{} {}'.format('#' * dep, name))
-
-        for node in sorted(self.nodes):
-            print('* {}'.format(node_md(node)))
-
+    def walk(self, dep=0, name='ROOT'):
+        yield (name, dep, self)
         for tree_name, tree in sorted(self.items()):
-            tree.mdprint(dep + 1, tree_name, node_md)
+            for item in tree.walk(dep + 1, tree_name):
+                yield item
 
 
 @total_ordering
@@ -146,13 +125,56 @@ def gen(user):
         json.dump(repo_tag, tag_file, indent='    ', sort_keys=True)
 
     # print .md file
-    print("# TOC")
-    repo_tree.mdtoc(name="Star")
+    used_id_counter = defaultdict(lambda: -1)
+
+    def use_id(name):
+        name_id = name.lower().replace(' ', '-')
+        used_id_counter[name_id] += 1
+        suffix = ('-' + str(used_id_counter[name_id])) \
+            if used_id_counter[name_id] != 0 \
+            else ""
+        return f'{name_id}{suffix}'
+
+    print(textwrap.dedent("""\
+        # Usage
+
+        1. fork this repo
+        1. trigger github action
+
+        # Inspiration
+
+        [starred](https://github.com/maguowei/starred)
+    """))
+    use_id('Usage')
+    use_id('Inspiration')
+
+    print("# Contents")
+    use_id('Contents')
     print()
-    repo_tree.mdprint(
-        name='Star',
-        node_md=lambda x: '[{}]({}): {}'.format(
-                                                str(x), x.url, x.description))
+    for name, dep, item in repo_tree.walk():
+        if dep == 0:
+            continue
+
+        print('{}* [{}](#{})'.format(
+            '  ' * (dep - 1),
+            name,
+            use_id(name))
+        )
+    print()
+
+    for name, dep, item in repo_tree.walk():
+        if dep == 0:
+            continue
+
+        print('{} {}'.format('#' * dep, name))
+        print()
+
+        for node in sorted(item.nodes):
+            print('* [{}]({}): {}'.format(
+                str(node), node.url, node.description
+            ))
+        print()
+    print()
 
 
 if __name__ == '__main__':
