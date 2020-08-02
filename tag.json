@@ -18,7 +18,9 @@
     ],
     "AutoMapper/AutoMapper": [],
     "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [],
-    "Awesome-HarmonyOS/HarmonyOS": [],
+    "Awesome-HarmonyOS/HarmonyOS": [
+        "Operating System/HarmonyOS"
+    ],
     "AykoPoel/surface3-scripts": [
         "Linux/Device/Surface"
     ],
