@@ -6,6 +6,7 @@ import json
 import sys
 import argparse
 from collections import defaultdict
+import os
 
 
 class Tree(dict):
@@ -90,47 +91,73 @@ class Repo(object):
         return self.full_name
 
 
-class RepoTagDict(dict):
-    def __missing__(self, key):
-        self[key] = value = []
-        return value
+def get_star_repos(user):
+    gh = GitHub()
+    stars = gh.starred_by(user)
+    return list(map(Repo, stars))
 
-def gen(token):
-    gh = GitHub(token=token)
-    stars = gh.starred()
 
-    taged_star_tree = Tree()
+def get_alias_converter():
+    if os.path.isfile('alias.json'):
+        with open('alias.json', 'r') as alias_config:
+            alias = json.load(alias_config, object_hook=dict)
+    else:
+        alias = {}
 
+    def f(tag):
+        for before, after in alias.items():
+            if tag.startswith(before):
+                tag = tag.replace(before, after, 1)
+        return tag
+    return f
+
+
+def get_tag_getter():
+    tag_dict = {}
     try:
         with open('tag.json', 'r') as tag_file:
-            repo_tag_dict = json.load(tag_file, object_hook=RepoTagDict)
+            tag_dict = json.load(tag_file, object_hook=dict)
     except FileNotFoundError:
-        print("invalid tag", file=sys.stderr)
-        repo_tag_dict = RepoTagDict()
+        pass
 
-    for star in stars:
-        repo = Repo(star)
-        if len(repo_tag_dict[repo.full_name]) == 0:
-            taged_star_tree['Other'].nodes.append(repo)
+    def f(repo_name):
+        if repo_name in tag_dict and len(tag_dict[repo_name]) > 0:
+            return tag_dict[repo_name]
         else:
-            for tag in repo_tag_dict[repo.full_name]:
-                taged_star_tree[tag].nodes.append(repo)
+            return ['Other']
+    return f
 
+
+def gen(user):
+    get_tag_of_repo = get_tag_getter()
+    convert_alias = get_alias_converter()
+
+    # build repo tree and repo tags
+    repo_tree = Tree()
+    repo_tag = {}
+    for repo in get_star_repos(user):
+        tags = list(map(convert_alias, get_tag_of_repo(repo.full_name)))
+        repo_tag[repo.full_name] = tags
+        for tag in tags:
+            repo_tree[tag].nodes.append(repo)
+
+    # overwrite tag.json
     with open('tag.json', 'w+') as tag_file:
-        json.dump(repo_tag_dict, tag_file, indent='    ', sort_keys=True)
+        json.dump(repo_tag, tag_file, indent='    ', sort_keys=True)
 
-        print("# TOC")
-        taged_star_tree.mdtoc(name="Star")
-        print()
-        taged_star_tree.mdprint(
-            name='Star',
-            node_md=lambda x: '[{}]({}): {}'.format(
+    # print .md file
+    print("# TOC")
+    repo_tree.mdtoc(name="Star")
+    print()
+    repo_tree.mdprint(
+        name='Star',
+        node_md=lambda x: '[{}]({}): {}'.format(
                                                 str(x), x.url, x.description))
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='star')
-    parser.add_argument('-t', '--token', help='GitHub token', required=True)
+    parser.add_argument('-u', '--user', help='GitHub user', required=True)
 
     args = parser.parse_args()
 

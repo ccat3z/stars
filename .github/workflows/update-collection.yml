@@ -16,9 +16,9 @@ jobs:
         python-version: 3.8
     - name: Install dependencies
       run: pip install -r requirements.txt
-    - name: Update Collection
+    - name: Update collection
       run: |
-        python star.py -t ${{ secrets.PERSONAL_GITHUB_TOKEN }} > README.md
+        python star.py -u ${GITHUB_REPOSITORY%%/*} > README.md
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
 
