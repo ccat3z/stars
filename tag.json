@@ -364,6 +364,7 @@
     "andyholmes/gnome-shell-extension-gsconnect": [],
     "anirudhajith/process-wallpaper": [],
     "anntzer/pypi2pkgbuild": [],
+    "ansible/ansible": [],
     "antoniomika/sish": [],
     "aoaojiang/HelloWorld": [],
     "apache/shardingsphere": [],
@@ -484,6 +485,7 @@
     "cdr/code-server": [],
     "celery/celery": [],
     "cesanta/docker_auth": [],
+    "chef/chef": [],
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
     ],
@@ -910,6 +912,7 @@
     ],
     "jorgebucaran/awesome-fish": [],
     "jorgebucaran/awesome-fish-shell": [],
+    "jorgebucaran/awesome.fish": [],
     "jorgebucaran/fisher": [],
     "jquense/react-big-calendar": [],
     "jquense/yup": [],
@@ -1243,6 +1246,7 @@
     "prprprus/scheduler": [],
     "psf/requests-html": [],
     "puppeteer/puppeteer": [],
+    "puppetlabs/puppet": [],
     "pyenv/pyenv": [],
     "pypa/pipenv": [
         "Python"
@@ -1301,6 +1305,7 @@
     "ryanoasis/nerd-fonts": [],
     "rycee/home-manager": [],
     "sabre-io/Baikal": [],
+    "saltstack/salt": [],
     "sammydre/ts-for-gjs": [],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
