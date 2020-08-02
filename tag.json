@@ -1,23 +1,43 @@
 {
-    "30-seconds/30-seconds-of-code": [],
-    "4Catalyzer/astroturf": [],
-    "996icu/996.ICU": [],
-    "AArnott/Xunit.SkippableFact": [],
-    "AGWA/git-crypt": [],
+    "30-seconds/30-seconds-of-code": [
+        "Other"
+    ],
+    "4Catalyzer/astroturf": [
+        "Other"
+    ],
+    "996icu/996.ICU": [
+        "Other"
+    ],
+    "AArnott/Xunit.SkippableFact": [
+        "Other"
+    ],
+    "AGWA/git-crypt": [
+        "Other"
+    ],
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
-    "Alecaddd/Akira": [],
-    "Alexandre-io/verdaccio-ldap": [],
-    "Alexays/Waybar": [],
-    "Algram/rofi-gopass": [],
-    "ApostropheEditor/Apostrophe": [],
-    "AppImage/AppImageKit": [],
-    "Arachnid-27/Cimoc": [
-        "Android/APP/Entertainment"
+    "Alexandre-io/verdaccio-ldap": [
+        "Other"
     ],
-    "AutoMapper/AutoMapper": [],
-    "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [],
+    "Alexays/Waybar": [
+        "Other"
+    ],
+    "Algram/rofi-gopass": [
+        "Other"
+    ],
+    "ApostropheEditor/Apostrophe": [
+        "Other"
+    ],
+    "AppImage/AppImageKit": [
+        "Other"
+    ],
+    "AutoMapper/AutoMapper": [
+        "Other"
+    ],
+    "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [
+        "Other"
+    ],
     "Awesome-HarmonyOS/HarmonyOS": [
         "Operating System/HarmonyOS"
     ],
@@ -27,15 +47,24 @@
     "BUPT-HJM/fun-photo-combine": [
         "Chinese APP Hack/QQ"
     ],
-    "BYVoid/OpenCC": [],
-    "Bajoja/indicator-kdeconnect": [],
-    "BlackArch/blackarch": [],
-    "C4ptainCrunch/ics.py": [],
-    "CTeX-org/ctex-kit": [],
-    "CTeX-org/lshort-cn": [
-        "LaTeX"
+    "BYVoid/OpenCC": [
+        "Other"
     ],
-    "CTeX-org/lshort-zh-cn": [],
+    "Bajoja/indicator-kdeconnect": [
+        "Other"
+    ],
+    "BlackArch/blackarch": [
+        "Other"
+    ],
+    "C4ptainCrunch/ics.py": [
+        "Other"
+    ],
+    "CTeX-org/ctex-kit": [
+        "Other"
+    ],
+    "CTeX-org/lshort-zh-cn": [
+        "Other"
+    ],
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
@@ -46,15 +75,21 @@
         "C/JSON",
         "JSON"
     ],
-    "David-Desmaisons/Vue.Isotope": [],
+    "David-Desmaisons/Vue.Isotope": [
+        "Other"
+    ],
     "DeanIsMe/SevSeg": [
         "Arduino"
     ],
     "DecaTec/Nextcloud-Backup-Restore": [
         "Nextcloud"
     ],
-    "Dev-XYS/Algorithms": [],
-    "Docker-Hub-frolvlad/docker-alpine-glibc": [],
+    "Dev-XYS/Algorithms": [
+        "Other"
+    ],
+    "Docker-Hub-frolvlad/docker-alpine-glibc": [
+        "Other"
+    ],
     "Doreamonsky/CampusAdventure": [
         "Game"
     ],
@@ -64,168 +99,304 @@
     "Doreamonsky/Shnu-Cas-Login": [
         "Spider"
     ],
-    "Dotnet-Boxed/Templates": [],
-    "Dreamacro/clash": [],
+    "Dotnet-Boxed/Templates": [
+        "Other"
+    ],
+    "Dreamacro/clash": [
+        "Other"
+    ],
     "EastWorld/wechat-app-mall": [
         "WeChat/Mini Program/Develop"
     ],
-    "EbookFoundation/free-programming-books": [],
+    "EbookFoundation/free-programming-books": [
+        "Other"
+    ],
     "Edenhofer/Minimalism-Gnome-Shell": [
         "Gnome Shell Extensions"
     ],
-    "EdiWang/Edi.Captcha.AspNetCore": [],
-    "ElaWorkshop/awesome-cn-cafe": [],
-    "ElderDrivers/EdXposed": [],
-    "ElemeFE/vue-infinite-scroll": [],
-    "EliverLara/Ant": [],
+    "EdiWang/Edi.Captcha.AspNetCore": [
+        "Other"
+    ],
+    "ElaWorkshop/awesome-cn-cafe": [
+        "Other"
+    ],
+    "ElderDrivers/EdXposed": [
+        "Other"
+    ],
+    "ElemeFE/vue-infinite-scroll": [
+        "Other"
+    ],
+    "EliverLara/Ant": [
+        "Other"
+    ],
     "FasterXML/jackson": [
         "Java/JSON",
         "JSON"
     ],
-    "Flipboard/react-canvas": [],
-    "Fody/Fody": [],
-    "ForbesLindesay/throat": [],
-    "FormidableLabs/urql": [],
+    "Flipboard/react-canvas": [
+        "Other"
+    ],
+    "Fody/Fody": [
+        "Other"
+    ],
+    "ForbesLindesay/throat": [
+        "Other"
+    ],
+    "FormidableLabs/urql": [
+        "Other"
+    ],
     "GNOME/glib": [
         "C"
     ],
-    "GPGTools/pinentry-mac": [],
-    "Genymobile/scrcpy": [],
-    "Geofferey/mgkdhelper": [],
+    "GPGTools/pinentry-mac": [
+        "Other"
+    ],
+    "Genymobile/scrcpy": [
+        "Other"
+    ],
+    "Geofferey/mgkdhelper": [
+        "Other"
+    ],
     "GhostFlying/LocationReportEnabler": [
         "Android/APP/Utility"
     ],
-    "Gozala/events": [],
-    "Guake/guake": [],
-    "HangfireIO/Hangfire": [],
-    "HelloCodeMing/baidu-wenku": [],
-    "Himself65/OpenArkCompiler": [],
-    "Homebrew/brew": [],
-    "Homebrew/homebrew-cask": [],
-    "Homebrew/homebrew-livecheck": [],
-    "Homebrew/homebrew-services": [],
-    "ImVexed/muon": [],
-    "Inokinoki/kde-blog": [],
-    "JabRef/jabref": [],
-    "Jactor-Sue/Deepin-Apps-Installation": [],
-    "JeffreySu/WeiXinMPSDK": [],
-    "Jguer/yay": [],
+    "Gozala/events": [
+        "Other"
+    ],
+    "Guake/guake": [
+        "Other"
+    ],
+    "HangfireIO/Hangfire": [
+        "Other"
+    ],
+    "Himself65/OpenArkCompiler": [
+        "Other"
+    ],
+    "Homebrew/brew": [
+        "Other"
+    ],
+    "Homebrew/homebrew-cask": [
+        "Other"
+    ],
+    "Homebrew/homebrew-livecheck": [
+        "Other"
+    ],
+    "Homebrew/homebrew-services": [
+        "Other"
+    ],
+    "ImVexed/muon": [
+        "Other"
+    ],
+    "Inokinoki/kde-blog": [
+        "Other"
+    ],
+    "JabRef/jabref": [
+        "Other"
+    ],
+    "Jactor-Sue/Deepin-Apps-Installation": [
+        "Other"
+    ],
+    "JeffreySu/WeiXinMPSDK": [
+        "Other"
+    ],
+    "Jguer/yay": [
+        "Other"
+    ],
     "JinnLynn/genpac": [
         "Utility"
     ],
     "Jman420/magisk-permissive-script": [
         "Android/Magick"
     ],
-    "Jomik/vscode-search-provider": [],
+    "Jomik/vscode-search-provider": [
+        "Other"
+    ],
     "Jonno12345/TileIconifier": [
         "Windows/Utility"
     ],
     "JulianChow94/Windows-screenFetch": [
         "Windows/PowerShell"
     ],
-    "JumboInteractiveLimited/redux-cache": [],
-    "KDE-mac/homebrew-kde": [],
-    "KDE/kdeconnect-android": [],
-    "KDE/kdeconnect-kde": [],
+    "JumboInteractiveLimited/redux-cache": [
+        "Other"
+    ],
+    "KDE-mac/homebrew-kde": [
+        "Other"
+    ],
+    "KDE/kdeconnect-android": [
+        "Other"
+    ],
+    "KDE/kdeconnect-kde": [
+        "Other"
+    ],
     "KSP-CKAN/CKAN": [
         "Game/KSP"
     ],
-    "KaitoHH/AnyCodeToBmp": [],
-    "Kazhnuz/awesome-gnome": [],
-    "KhaosT/tb3-enabler": [],
-    "Kong/insomnia": [],
-    "Kozea/Radicale": [],
+    "KaitoHH/AnyCodeToBmp": [
+        "Other"
+    ],
+    "Kazhnuz/awesome-gnome": [
+        "Other"
+    ],
+    "KhaosT/tb3-enabler": [
+        "Other"
+    ],
+    "Kong/insomnia": [
+        "Other"
+    ],
+    "Kozea/Radicale": [
+        "Other"
+    ],
     "Kozea/wdb": [
         "Web"
     ],
-    "LeetCode-OpenSource/rxjs-hooks": [],
-    "LeetCode-OpenSource/vscode-leetcode": [],
-    "LingDong-/wenyan-lang": [],
-    "LiuLang/bcloud": [
-        "Linux/Utility"
+    "LeetCode-OpenSource/rxjs-hooks": [
+        "Other"
     ],
-    "LiuLang/bcloud-packages": [
-        "Linux/Utility"
+    "LeetCode-OpenSource/vscode-leetcode": [
+        "Other"
     ],
-    "LnL7/nix-darwin": [],
-    "MacEnhance/MacForge": [],
-    "Macil/flow-copy-source": [],
-    "Magisk-Modules-Repo/Magisk-Manager-for-Recovery-Mode": [
-        "Android/Magick"
+    "LnL7/nix-darwin": [
+        "Other"
     ],
-    "Magisk-Modules-Repo/mm": [],
-    "MajsoulPlus/majsoul-plus": [],
-    "Marak/faker.js": [],
-    "Martchus/syncthingtray": [],
-    "Masterminds/glide": [],
-    "Masterminds/sprig": [],
+    "MacEnhance/MacForge": [
+        "Other"
+    ],
+    "Macil/flow-copy-source": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/mm": [
+        "Other"
+    ],
+    "MajsoulPlus/majsoul-plus": [
+        "Other"
+    ],
+    "Marak/faker.js": [
+        "Other"
+    ],
+    "Martchus/syncthingtray": [
+        "Other"
+    ],
+    "Masterminds/glide": [
+        "Other"
+    ],
+    "Masterminds/sprig": [
+        "Other"
+    ],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
     "Mayccoll/Gogh": [
         "Linux/Utility"
     ],
-    "Meituan-Dianping/mpvue": [],
-    "MiKTeX/miktex": [],
-    "MicheleBertoli/css-in-js": [],
-    "Microsoft/WSL": [
-        "Windows/WSL"
+    "Meituan-Dianping/mpvue": [
+        "Other"
     ],
-    "Microsoft/WSL-DistroLauncher": [
-        "Windows/WSL"
+    "MiKTeX/miktex": [
+        "Other"
     ],
-    "MopTym/vue-waterfall": [],
-    "Mortennn/Dozer": [],
+    "MicheleBertoli/css-in-js": [
+        "Other"
+    ],
+    "MopTym/vue-waterfall": [
+        "Other"
+    ],
+    "Mortennn/Dozer": [
+        "Other"
+    ],
     "MrKiven/PyZh": [
         "Python/Tutorial"
     ],
-    "N-Yuki/gnome-shell-extension-workspace-isolated-dash": [],
+    "N-Yuki/gnome-shell-extension-workspace-isolated-dash": [
+        "Other"
+    ],
     "NanoHttpd/nanohttpd": [
         "Java/Web"
     ],
-    "Neilpang/acme.sh": [
-        "Web/SSL"
+    "NervJS/taro": [
+        "Other"
     ],
-    "NervJS/taro": [],
-    "NicoHood/arc-theme": [],
-    "NixOS/patchelf": [],
-    "OI-wiki/OI-wiki": [],
-    "OmniSharp/omnisharp-roslyn": [],
-    "OmniSharp/omnisharp-vscode": [],
+    "NixOS/patchelf": [
+        "Other"
+    ],
+    "OI-wiki/OI-wiki": [
+        "Other"
+    ],
+    "OmniSharp/omnisharp-roslyn": [
+        "Other"
+    ],
+    "OmniSharp/omnisharp-vscode": [
+        "Other"
+    ],
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
-    "PapirusDevelopmentTeam/papirus-icon-theme": [],
-    "PapyElGringo/material-shell": [],
-    "PeachScript/vue-infinite-loading": [],
+    "PapirusDevelopmentTeam/papirus-icon-theme": [
+        "Other"
+    ],
+    "PeachScript/vue-infinite-loading": [
+        "Other"
+    ],
     "PegasusWang/python-web-guide": [
         "Python/Tutorial"
     ],
-    "Phantas0s/devdash": [],
+    "Phantas0s/devdash": [
+        "Other"
+    ],
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
-    "PonasKovas/netctl-tray": [],
-    "PowerShell/PSReadLine": [],
-    "Pratitya/COVID-19-timeline": [],
-    "Pratitya/wuhan2020-timeline": [],
+    "PonasKovas/netctl-tray": [
+        "Other"
+    ],
+    "PowerShell/PSReadLine": [
+        "Other"
+    ],
     "PyCQA/pep8-naming": [
         "Python"
     ],
-    "RaphaelRochet/arch-update": [],
-    "ReactiveX/RxGo": [],
-    "ReactiveX/RxJava": [],
-    "ReactiveX/RxKotlin": [],
-    "RelaxedJS/ReLaXed": [],
-    "RikkaApps/Riru": [],
-    "Rocket1184/electron-netease-cloud-music": [],
-    "Rucadi/wsld": [],
-    "SDRausty/TermuxArch": [],
-    "SDRausty/termux-archlinux": [],
-    "SaekiRaku/vscode-rainbow-fart": [],
-    "SheetJS/sheetjs": [],
-    "Shougo/context_filetype.vim": [],
-    "Shougo/denite.nvim": [],
+    "RaphaelRochet/arch-update": [
+        "Other"
+    ],
+    "ReactiveX/RxGo": [
+        "Other"
+    ],
+    "ReactiveX/RxJava": [
+        "Other"
+    ],
+    "ReactiveX/RxKotlin": [
+        "Other"
+    ],
+    "RelaxedJS/ReLaXed": [
+        "Other"
+    ],
+    "RikkaApps/Riru": [
+        "Other"
+    ],
+    "Rocket1184/electron-netease-cloud-music": [
+        "Other"
+    ],
+    "Rucadi/wsld": [
+        "Other"
+    ],
+    "SDRausty/TermuxArch": [
+        "Other"
+    ],
+    "SDRausty/termux-archlinux": [
+        "Other"
+    ],
+    "SaekiRaku/vscode-rainbow-fart": [
+        "Other"
+    ],
+    "SheetJS/sheetjs": [
+        "Other"
+    ],
+    "Shougo/context_filetype.vim": [
+        "Other"
+    ],
+    "Shougo/denite.nvim": [
+        "Other"
+    ],
     "Shougo/deoplete.nvim": [
         "Vim"
     ],
@@ -235,68 +406,102 @@
     "SirVer/ultisnips": [
         "Vim"
     ],
-    "SkiaWorks/Awesome_APIs": [
-        "Web/API"
+    "StackExchange/Dapper": [
+        "Other"
     ],
-    "StackExchange/Dapper": [],
-    "StackExchange/blackbox": [],
+    "StackExchange/blackbox": [
+        "Other"
+    ],
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
-    "TablePlus/TablePlus": [],
-    "TablePlus/TablePlus-Linux": [],
+    "TablePlus/TablePlus": [
+        "Other"
+    ],
+    "TablePlus/TablePlus-Linux": [
+        "Other"
+    ],
     "TaylanTatli/Halve": [
         "Jekyll/Theme"
     ],
     "TaylanTatli/Moon": [
         "Jekyll/Theme"
     ],
-    "Tencent/kbone": [],
-    "Tencent/vConsole": [],
-    "Tencent/wepy": [],
-    "Tencent/weui-wxss": [],
-    "TheAlgorithms/Go": [],
-    "TheAlgorithms/Python": [],
-    "TheLocehiliosan/yadm": [],
+    "Tencent/kbone": [
+        "Other"
+    ],
+    "Tencent/vConsole": [
+        "Other"
+    ],
+    "Tencent/wepy": [
+        "Other"
+    ],
+    "Tencent/weui-wxss": [
+        "Other"
+    ],
+    "TheAlgorithms/Go": [
+        "Other"
+    ],
+    "TheAlgorithms/Python": [
+        "Other"
+    ],
+    "TheLocehiliosan/yadm": [
+        "Other"
+    ],
     "ThirtyDegreesRay/OpenHub": [
         "Android/APP/Utility"
     ],
-    "TieBaMma/InstallTutorial": [],
-    "Tinche/aiofiles": [],
-    "TomFreudenberg/dell-bios-fan-control": [],
+    "TieBaMma/InstallTutorial": [
+        "Other"
+    ],
+    "Tinche/aiofiles": [
+        "Other"
+    ],
+    "TomFreudenberg/dell-bios-fan-control": [
+        "Other"
+    ],
     "TonnyL/Awesome_APIs": [
         "Awesome"
     ],
-    "Toxblh/MTMR": [],
+    "Toxblh/MTMR": [
+        "Other"
+    ],
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
     ],
-    "Ulauncher/Ulauncher": [],
-    "Unknwon/the-way-to-go_ZH_CN": [],
-    "UnnoTed/fileb0x": [],
-    "Valloric/YouCompleteMe": [
-        "Vim"
+    "Ulauncher/Ulauncher": [
+        "Other"
     ],
-    "ValveSoftware/Proton": [],
-    "Vonng/ddia": [],
+    "UnnoTed/fileb0x": [
+        "Other"
+    ],
+    "ValveSoftware/Proton": [
+        "Other"
+    ],
+    "Vonng/ddia": [
+        "Other"
+    ],
     "WickyNilliams/headroom.js": [
         "Web/JavaScript"
     ],
     "Windos/BurntToast": [
         "Windows/PowerShell"
     ],
-    "WrBug/dumpDex": [],
+    "WrBug/dumpDex": [
+        "Other"
+    ],
     "Xfennec/progress": [
         "Linux/Utility"
     ],
     "XuShaohua/bcloud": [
         "Linux/Utility"
     ],
-    "XuShaohua/bcloud-packages": [
-        "Linux/Utility"
+    "Xuyuanp/nerdtree-git-plugin": [
+        "Other"
     ],
-    "Xuyuanp/nerdtree-git-plugin": [],
-    "Yelp/dumb-init": [],
+    "Yelp/dumb-init": [
+        "Other"
+    ],
     "Yggdroot/indentLine": [
         "Vim"
     ],
@@ -306,28 +511,39 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
-    "aaron-williamson/base16-alacritty": [],
+    "aaron-williamson/base16-alacritty": [
+        "Other"
+    ],
     "aaron-williamson/base16-gnome-terminal": [
         "Linux/Utility"
     ],
-    "aben1188/awesome-wepy": [],
+    "aben1188/awesome-wepy": [
+        "Other"
+    ],
     "abforce/xposed_art_n": [
         "Android/Xposed"
     ],
-    "abiosoft/caddy-docker": [],
-    "acgotaku/BaiduExporter": [
-        "Chinese APP Hack/Baidu Pan"
+    "abiosoft/caddy-docker": [
+        "Other"
     ],
-    "acmesh-official/acme.sh": [],
-    "ad-m/github-push-action": [],
+    "acmesh-official/acme.sh": [
+        "Other"
+    ],
+    "ad-m/github-push-action": [
+        "Other"
+    ],
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
     "adapta-project/adapta-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
-    "adi1090x/battery-wallpaper": [],
-    "adi1090x/rofi": [],
+    "adi1090x/battery-wallpaper": [
+        "Other"
+    ],
+    "adi1090x/rofi": [
+        "Other"
+    ],
     "adobe-fonts/source-code-pro": [
         "Font"
     ],
@@ -337,104 +553,192 @@
     "aemkei/jsfuck": [
         "JavaScript"
     ],
-    "agalwood/Motrix": [],
-    "agendav/agendav": [],
-    "agronholm/apscheduler": [],
-    "airblade/vim-gitgutter": [],
-    "akiraux/Akira": [],
-    "aknuds1/html-to-react": [],
-    "alastairtree/LazyCache": [],
-    "alecthomas/participle": [],
-    "alexzielenski/Mousecape": [],
-    "alfg/docker-nginx-rtmp": [],
-    "alibaba/serverless-vscode": [],
+    "agalwood/Motrix": [
+        "Other"
+    ],
+    "agendav/agendav": [
+        "Other"
+    ],
+    "agronholm/apscheduler": [
+        "Other"
+    ],
+    "airblade/vim-gitgutter": [
+        "Other"
+    ],
+    "akiraux/Akira": [
+        "Other"
+    ],
+    "aknuds1/html-to-react": [
+        "Other"
+    ],
+    "alastairtree/LazyCache": [
+        "Other"
+    ],
+    "alecthomas/participle": [
+        "Other"
+    ],
+    "alexzielenski/Mousecape": [
+        "Other"
+    ],
+    "alfg/docker-nginx-rtmp": [
+        "Other"
+    ],
+    "alibaba/serverless-vscode": [
+        "Other"
+    ],
     "almende/vis": [
         "JavaScript"
     ],
-    "alnorris/file-dialog": [],
+    "alnorris/file-dialog": [
+        "Other"
+    ],
     "alwsl/alwsl": [
         "Windows/WSL"
     ],
-    "amanusk/s-tui": [],
-    "anbox/anbox": [],
-    "andrey-pohilko/registry-cli": [],
+    "amanusk/s-tui": [
+        "Other"
+    ],
+    "anbox/anbox": [
+        "Other"
+    ],
+    "andrey-pohilko/registry-cli": [
+        "Other"
+    ],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
-    "android-password-store/Android-Password-Store": [],
-    "androidannotations/androidannotations": [],
-    "andsens/homeshick": [],
-    "andyholmes/gnome-shell-extension-gsconnect": [],
-    "anirudhajith/process-wallpaper": [],
-    "anntzer/pypi2pkgbuild": [],
-    "ansible/ansible": [],
-    "antoniomika/sish": [],
-    "aoaojiang/HelloWorld": [],
-    "apache/shardingsphere": [],
-    "apollographql/subscriptions-transport-ws": [],
-    "apple/sourcekit-lsp": [],
-    "arc-design/arc-theme": [],
+    "android-password-store/Android-Password-Store": [
+        "Other"
+    ],
+    "androidannotations/androidannotations": [
+        "Other"
+    ],
+    "andsens/homeshick": [
+        "Other"
+    ],
+    "andyholmes/gnome-shell-extension-gsconnect": [
+        "Other"
+    ],
+    "anirudhajith/process-wallpaper": [
+        "Other"
+    ],
+    "anntzer/pypi2pkgbuild": [
+        "Other"
+    ],
+    "ansible/ansible": [
+        "Other"
+    ],
+    "antoniomika/sish": [
+        "Other"
+    ],
+    "aoaojiang/HelloWorld": [
+        "Other"
+    ],
+    "apache/shardingsphere": [
+        "Other"
+    ],
+    "apollographql/subscriptions-transport-ws": [
+        "Other"
+    ],
+    "apple/sourcekit-lsp": [
+        "Other"
+    ],
+    "arc-design/arc-theme": [
+        "Other"
+    ],
     "archlinuxcn/repo": [
         "Linux/Distribution/Arch Linux"
     ],
-    "arcmags/ramroot": [],
-    "arkane-systems/genie": [],
-    "arrow-py/arrow": [],
-    "artisologic/github-stars-tagger": [
-        "GitHub"
+    "arcmags/ramroot": [
+        "Other"
+    ],
+    "arkane-systems/genie": [
+        "Other"
+    ],
+    "arrow-py/arrow": [
+        "Other"
     ],
     "asLody/VirtualApp": [
         "Android"
     ],
-    "asciinema/asciinema": [],
+    "asciinema/asciinema": [
+        "Other"
+    ],
     "asins/vimcdoc": [
         "Vim"
     ],
-    "aspnet/AspNetCore": [],
-    "astaxie/build-web-application-with-golang": [],
+    "astaxie/build-web-application-with-golang": [
+        "Other"
+    ],
     "astralapp/astral": [
         "GitHub"
     ],
     "attractivechaos/klib": [
         "C"
     ],
-    "autozimu/LanguageClient-neovim": [],
-    "avelino/awesome-go": [],
-    "axkibe/lsyncd": [],
-    "aymericdamien/TensorFlow-Examples": [],
-    "b3log/baidu-netdisk-downloaderx": [],
-    "badges/shields": [],
+    "autozimu/LanguageClient-neovim": [
+        "Other"
+    ],
+    "avelino/awesome-go": [
+        "Other"
+    ],
+    "axkibe/lsyncd": [
+        "Other"
+    ],
+    "aymericdamien/TensorFlow-Examples": [
+        "Other"
+    ],
+    "b3log/baidu-netdisk-downloaderx": [
+        "Other"
+    ],
+    "badges/shields": [
+        "Other"
+    ],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
-    "bazelbuild/bazel": [],
-    "bchavez/Bogus": [],
-    "bcicen/grmon": [],
+    "bazelbuild/bazel": [
+        "Other"
+    ],
+    "bchavez/Bogus": [
+        "Other"
+    ],
+    "bcicen/grmon": [
+        "Other"
+    ],
     "be5invis/Iosevka": [
         "Font"
     ],
     "be5invis/Sarasa-Gothic": [
         "Font"
     ],
-    "beancount/beancount": [],
-    "beancount/beancount_mirror_deprecated": [],
-    "benoitgrelard/github-stars-tagger": [],
+    "benoitgrelard/github-stars-tagger": [
+        "Other"
+    ],
     "bestwu/docker-qq": [
         "Chinese APP Hack/QQ"
     ],
-    "bettercap/bettercap": [],
+    "bettercap/bettercap": [
+        "Other"
+    ],
     "bilelmoussaoui/Hardcode-Tray": [
         "Linux/Utility"
     ],
-    "billziss-gh/sshfs-win": [],
+    "billziss-gh/sshfs-win": [
+        "Other"
+    ],
     "billziss-gh/winfsp": [
         "Windows/Utility"
     ],
     "binux/ThunderLixianExporter": [
         "Utility"
     ],
-    "binux/yaaw": [],
-    "bjcull/LinqExpander": [],
+    "binux/yaaw": [
+        "Other"
+    ],
+    "bjcull/LinqExpander": [
+        "Other"
+    ],
     "blacklabelops/volumerize": [
         "Docker"
     ],
@@ -444,244 +748,436 @@
     "blueimp/jQuery-File-Upload": [
         "JavaScript/jQuery"
     ],
-    "bodedejavu/gnome-shell-extensions": [],
+    "bodedejavu/gnome-shell-extensions": [
+        "Other"
+    ],
     "boekkooi/openshift-cartridge-nginx": [
         "OpenShift"
     ],
-    "boltgolt/howdy": [],
-    "borntyping/python-colorlog": [],
+    "boltgolt/howdy": [
+        "Other"
+    ],
+    "borntyping/python-colorlog": [
+        "Other"
+    ],
     "breakwa11/gfw_whitelist": [
         "GFW"
     ],
-    "brillout/awesome-react-components": [],
-    "brndnmtthws/conky": [],
-    "browserpass/browserpass-extension": [],
-    "browserpass/browserpass-native": [],
-    "bsonntag/react-use-promise": [],
-    "budtmo/docker-android": [],
-    "buildfoundation/mainframer": [],
-    "buttercup/buttercup-desktop": [],
-    "bvaughn/react-window": [],
+    "brillout/awesome-react-components": [
+        "Other"
+    ],
+    "brndnmtthws/conky": [
+        "Other"
+    ],
+    "browserpass/browserpass-extension": [
+        "Other"
+    ],
+    "browserpass/browserpass-native": [
+        "Other"
+    ],
+    "bsonntag/react-use-promise": [
+        "Other"
+    ],
+    "budtmo/docker-android": [
+        "Other"
+    ],
+    "buildfoundation/mainframer": [
+        "Other"
+    ],
+    "buttercup/buttercup-desktop": [
+        "Other"
+    ],
+    "bvaughn/react-window": [
+        "Other"
+    ],
     "bytegust/spm": [
         "Linux/Utility"
     ],
-    "c0ldcat/hackwlb-server": [
-        "Blog"
+    "caddyserver/certmagic": [
+        "Other"
     ],
-    "caddyserver/certmagic": [],
-    "caddyserver/xcaddy": [],
+    "caddyserver/xcaddy": [
+        "Other"
+    ],
     "caldwell/daemon-manager": [
         "Linux/Utility"
     ],
-    "callstack/linaria": [],
-    "canonical/dqlite": [],
-    "capaj/react-promise": [],
+    "callstack/linaria": [
+        "Other"
+    ],
+    "canonical/dqlite": [
+        "Other"
+    ],
+    "capaj/react-promise": [
+        "Other"
+    ],
     "captnbp/docker-owncloud": [
         "Docker"
     ],
-    "carbon-app/carbon": [],
-    "cbeust/klaxon": [],
-    "cbrnix/Newaita": [],
-    "ccat3z/blog.ccat3z.xyz": [],
-    "ccat3z/ccat3z": [],
-    "ccat3z/hackwlb-server": [],
-    "cdr/code-server": [],
-    "celery/celery": [],
-    "cesanta/docker_auth": [],
-    "chef/chef": [],
+    "carbon-app/carbon": [
+        "Other"
+    ],
+    "cbeust/klaxon": [
+        "Other"
+    ],
+    "cbrnix/Newaita": [
+        "Other"
+    ],
+    "ccat3z/blog.ccat3z.xyz": [
+        "Other"
+    ],
+    "cdr/code-server": [
+        "Other"
+    ],
+    "celery/celery": [
+        "Other"
+    ],
+    "cesanta/docker_auth": [
+        "Other"
+    ],
+    "chef/chef": [
+        "Other"
+    ],
     "chemzqm/wept": [
         "WeChat/Mini Program/Develop"
     ],
-    "chkimes/graphql-net": [],
-    "chokcoco/iCSS": [],
-    "chr4/nginx.vim": [],
-    "chrislgarry/Apollo-11": [],
-    "clone95/Virgilio": [],
+    "chkimes/graphql-net": [
+        "Other"
+    ],
+    "chokcoco/iCSS": [
+        "Other"
+    ],
+    "chr4/nginx.vim": [
+        "Other"
+    ],
+    "chrislgarry/Apollo-11": [
+        "Other"
+    ],
     "cmhughes/latexindent.pl": [
         "LaTeX"
     ],
-    "cmu-db/peloton": [],
-    "cobaltdisco/Google-Chinese-Results-Blocklist": [],
-    "codemix/flow-runtime": [],
-    "codercom/code-server": [],
+    "cmu-db/peloton": [
+        "Other"
+    ],
+    "cobaltdisco/Google-Chinese-Results-Blocklist": [
+        "Other"
+    ],
     "coderstory/Mi-Purify": [
         "Android/Xposed"
     ],
-    "coldfix/udiskie": [],
+    "coldfix/udiskie": [
+        "Other"
+    ],
     "coleifer/peewee": [
         "Python"
     ],
-    "commitizen/cz-cli": [],
-    "concourse/concourse": [],
-    "concourse/git-resource": [],
-    "concourse/registry-image-resource": [],
-    "containous/traefik": [],
-    "containrrr/watchtower": [],
-    "corbindavenport/creative-cloud-linux": [],
-    "cosven/FeelUOwn": [],
-    "crossoverJie/JCSprout": [],
-    "crossoverJie/Java-Interview": [],
-    "crsmithdev/arrow": [],
-    "cryptomator/cryptomator": [],
+    "commitizen/cz-cli": [
+        "Other"
+    ],
+    "concourse/concourse": [
+        "Other"
+    ],
+    "concourse/git-resource": [
+        "Other"
+    ],
+    "concourse/registry-image-resource": [
+        "Other"
+    ],
+    "containous/traefik": [
+        "Other"
+    ],
+    "containrrr/watchtower": [
+        "Other"
+    ],
+    "corbindavenport/creative-cloud-linux": [
+        "Other"
+    ],
+    "crossoverJie/JCSprout": [
+        "Other"
+    ],
+    "cryptomator/cryptomator": [
+        "Other"
+    ],
     "cs01/gdbgui": [
         "C/Utility"
     ],
-    "csujedihy/proximac": [],
-    "ctrlpnn/ctrlp.vim": [
-        "Vim"
+    "csujedihy/proximac": [
+        "Other"
     ],
     "ctrlpvim/ctrlp.vim": [
         "Vim"
     ],
-    "customd/jquery-visible": [],
-    "cytle/wechat_web_devtools": [],
+    "customd/jquery-visible": [
+        "Other"
+    ],
+    "cytle/wechat_web_devtools": [
+        "Other"
+    ],
     "d4nj1/TLPUI": [
         "Linux/Utility"
     ],
     "daattali/beautiful-jekyll": [
         "Jekyll"
     ],
-    "dado3212/spaces-renamer": [],
+    "dado3212/spaces-renamer": [
+        "Other"
+    ],
     "dahlbyk/posh-git": [
         "Windows/PowerShell"
     ],
-    "daliansky/Hackintosh": [],
-    "daniellandau/switcher": [],
-    "danielnixon/total-functions": [],
+    "daliansky/Hackintosh": [
+        "Other"
+    ],
+    "daniellandau/switcher": [
+        "Other"
+    ],
+    "danielnixon/total-functions": [
+        "Other"
+    ],
     "danielquinn/Gentoo-Surface-Pro-3": [
         "Linux/Device/Surface"
     ],
     "darknessomi/musicbox": [
         "Utility"
     ],
-    "darlinghq/darling": [],
-    "date-fns/date-fns": [],
-    "davatorium/rofi": [],
-    "davidcarlisle/geometry": [],
+    "darlinghq/darling": [
+        "Other"
+    ],
+    "date-fns/date-fns": [
+        "Other"
+    ],
+    "davatorium/rofi": [
+        "Other"
+    ],
+    "davidcarlisle/geometry": [
+        "Other"
+    ],
     "davidhalter/jedi-vim": [
         "Vim"
     ],
-    "dawnlabs/carbon": [],
-    "dbader/schedule": [],
-    "dbcli/mycli": [],
-    "dbcli/pgcli": [],
-    "deadalnix/pixel-saver": [],
-    "debauchee/barrier": [],
-    "dell/dkms": [],
-    "denisidoro/navi": [],
-    "denoland/deno": [],
-    "dense-analysis/ale": [],
-    "desandro/imagesloaded": [],
-    "desandro/masonry": [],
-    "developit/preact": [],
-    "developit/preact-cli": [],
-    "dexidp/dex": [],
-    "digint/btrbk": [],
-    "discordianfish/docker-backup": [],
+    "dbader/schedule": [
+        "Other"
+    ],
+    "dbcli/mycli": [
+        "Other"
+    ],
+    "dbcli/pgcli": [
+        "Other"
+    ],
+    "debauchee/barrier": [
+        "Other"
+    ],
+    "dell/dkms": [
+        "Other"
+    ],
+    "denisidoro/navi": [
+        "Other"
+    ],
+    "denoland/deno": [
+        "Other"
+    ],
+    "dense-analysis/ale": [
+        "Other"
+    ],
+    "desandro/imagesloaded": [
+        "Other"
+    ],
+    "desandro/masonry": [
+        "Other"
+    ],
+    "dexidp/dex": [
+        "Other"
+    ],
+    "digint/btrbk": [
+        "Other"
+    ],
+    "discordianfish/docker-backup": [
+        "Other"
+    ],
     "docker-library/haproxy": [
         "Docker"
     ],
     "docker-library/openjdk": [
         "Docker"
     ],
-    "docker/distribution": [],
-    "docopt/docopt.go": [],
-    "dojiong/daemon-manager": [],
-    "domaindrivendev/Swashbuckle.AspNetCore": [],
+    "docker/distribution": [
+        "Other"
+    ],
+    "docopt/docopt.go": [
+        "Other"
+    ],
+    "dojiong/daemon-manager": [
+        "Other"
+    ],
+    "domaindrivendev/Swashbuckle.AspNetCore": [
+        "Other"
+    ],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
     ],
     "dotnet-architecture/eShopOnWeb": [
         ".NET/.NET Core/ASP.NET Core"
     ],
-    "dotnet/Docker.DotNet": [],
-    "dotnet/aspnetcore": [],
+    "dotnet/Docker.DotNet": [
+        "Other"
+    ],
+    "dotnet/aspnetcore": [
+        "Other"
+    ],
     "dotnet/dotnet-docker": [
         ".NET/.NET Core/ASP.NET Core"
     ],
-    "dotnet/reactive": [],
-    "drone/drone": [],
-    "drone/drone-cli": [],
+    "dotnet/reactive": [
+        "Other"
+    ],
+    "drone/drone": [
+        "Other"
+    ],
+    "drone/drone-cli": [
+        "Other"
+    ],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
     ],
-    "dst-academy/docker-dontstarvetogether": [],
-    "duskwuff/Xilinx-ISE-Makefile": [],
+    "duskwuff/Xilinx-ISE-Makefile": [
+        "Other"
+    ],
     "duxingkei33/orangepi_PC_gpio_pyH3": [
         "SBC"
     ],
-    "dyweb/awesome-resume-for-chinese": [],
-    "easychen/howto-make-more-money": [],
-    "eddiemf/vue-scrollactive": [],
+    "dyweb/awesome-resume-for-chinese": [
+        "Other"
+    ],
+    "easychen/howto-make-more-money": [
+        "Other"
+    ],
+    "eddiemf/vue-scrollactive": [
+        "Other"
+    ],
     "eduardoboucas/staticman": [
         "Jekyll"
     ],
-    "egh/ledger-autosync": [],
+    "egh/ledger-autosync": [
+        "Other"
+    ],
     "egoist/hack": [
         "Jekyll",
         "Web/CSS"
     ],
-    "egoist/vue-mugen-scroll": [],
+    "egoist/vue-mugen-scroll": [
+        "Other"
+    ],
     "ekibun/QQNotfAndShare": [
         "Android/APP/Utility"
     ],
     "ekpyron/ktxutils": [
         "Unity"
     ],
-    "elasticdog/transcrypt": [],
+    "elasticdog/transcrypt": [
+        "Other"
+    ],
     "emasab/shelltile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "embear/vim-localvimrc": [
         "Vim"
     ],
-    "emedvedev/attention-ocr": [],
+    "emedvedev/attention-ocr": [
+        "Other"
+    ],
     "emeraldwalk/vscode-runonsave": [
         "VS Code"
     ],
     "emiapwil/glassy-gnome": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
-    "emicklei/go-restful": [],
-    "emotion-js/emotion": [],
-    "enaqx/awesome-react": [],
-    "eolinker/EOLINKER-GoKu-API-Gateway-CE": [],
-    "eolinker/goku": [],
-    "eolinker/goku-api-gateway": [],
-    "eonpatapon/gnome-shell-extension-caffeine": [],
+    "emicklei/go-restful": [
+        "Other"
+    ],
+    "emotion-js/emotion": [
+        "Other"
+    ],
+    "enaqx/awesome-react": [
+        "Other"
+    ],
+    "eolinker/goku-api-gateway": [
+        "Other"
+    ],
+    "eonpatapon/gnome-shell-extension-caffeine": [
+        "Other"
+    ],
     "equalsraf/win32yank": [
         "Windows/Utility"
     ],
-    "erebe/greenclip": [],
-    "ericandrewlewis/emoji-mosaic": [],
-    "essensoft/payment": [],
-    "etcd-io/etcd": [],
+    "erebe/greenclip": [
+        "Other"
+    ],
+    "ericandrewlewis/emoji-mosaic": [
+        "Other"
+    ],
+    "essensoft/payment": [
+        "Other"
+    ],
+    "etcd-io/etcd": [
+        "Other"
+    ],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
-    "evanw/esbuild": [],
+    "evanw/esbuild": [
+        "Other"
+    ],
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
-    "ewlsh/dynamic-panel-transparency": [],
-    "extrawurst/gitui": [],
-    "eycorsican/go-tun2socks": [],
-    "eycorsican/go-tun2socks-mobile": [],
-    "eycorsican/kitsunebi-android": [],
-    "f/vue-wait": [],
-    "fabiandev/ts-runtime": [],
-    "facebook/create-react-app": [],
-    "facebook/flow": [],
-    "facebook/immutable-js": [],
-    "facebook/react": [],
-    "facebook/zstd": [],
-    "fairplay-zone/docker-dontstarvetogether": [],
-    "faressoft/terminalizer": [],
+    "ewlsh/dynamic-panel-transparency": [
+        "Other"
+    ],
+    "extrawurst/gitui": [
+        "Other"
+    ],
+    "eycorsican/go-tun2socks": [
+        "Other"
+    ],
+    "eycorsican/go-tun2socks-mobile": [
+        "Other"
+    ],
+    "eycorsican/kitsunebi-android": [
+        "Other"
+    ],
+    "f/vue-wait": [
+        "Other"
+    ],
+    "fabiandev/ts-runtime": [
+        "Other"
+    ],
+    "facebook/create-react-app": [
+        "Other"
+    ],
+    "facebook/flow": [
+        "Other"
+    ],
+    "facebook/react": [
+        "Other"
+    ],
+    "facebook/zstd": [
+        "Other"
+    ],
+    "fairplay-zone/docker-dontstarvetogether": [
+        "Other"
+    ],
+    "faressoft/terminalizer": [
+        "Other"
+    ],
     "fcitx/fcitx": [
         "Linux"
     ],
-    "feeluown/FeelUOwn": [],
-    "feilongfl/Cimoc": [],
+    "feeluown/FeelUOwn": [
+        "Other"
+    ],
+    "feilongfl/Cimoc": [
+        "Other"
+    ],
     "felixrieseberg/npm-windows-upgrade": [
         "Node.js/Windows"
     ],
@@ -691,23 +1187,30 @@
     "ferbar/jmagick": [
         "Java"
     ],
-    "fhackenberger/ktikz": [],
+    "fhackenberger/ktikz": [
+        "Other"
+    ],
     "fisadev/vim-ctrlp-cmdpalette": [
         "Vim"
     ],
-    "fluent/fluentd": [],
-    "foreversd/forever": [],
-    "formik/formik": [],
-    "formik/tsdx": [],
-    "formium/formik": [],
-    "formium/tsdx": [],
+    "fluent/fluentd": [
+        "Other"
+    ],
+    "foreversd/forever": [
+        "Other"
+    ],
+    "formium/formik": [
+        "Other"
+    ],
+    "formium/tsdx": [
+        "Other"
+    ],
     "frogatto/frogatto": [
         "Game"
     ],
-    "frol/docker-alpine-glibc": [
-        "Docker"
+    "fsnotify/fsnotify": [
+        "Other"
     ],
-    "fsnotify/fsnotify": [],
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
@@ -717,22 +1220,26 @@
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
-    "gajus/flow-runtime": [],
+    "gajus/flow-runtime": [
+        "Other"
+    ],
     "gdiepen/docker-convenience-scripts": [
         "Docker"
     ],
     "geeeeeeeeek/electronic-wechat": [
         "Chinese APP Hack/WeChat"
     ],
-    "geekfactory/PID": [],
-    "geekplux/cv_resume": [],
-    "geerlingguy/macos-virtualbox-vm": [],
+    "geekfactory/PID": [
+        "Other"
+    ],
+    "geekplux/cv_resume": [
+        "Other"
+    ],
+    "geerlingguy/macos-virtualbox-vm": [
+        "Other"
+    ],
     "gelstudios/gitfiti": [
         "GitHub"
-    ],
-    "getinsomnia/insomnia": [],
-    "getlantern/forum": [
-        "GFW"
     ],
     "gfjaru/Kiko": [
         "Jekyll"
@@ -746,150 +1253,273 @@
     "gilbarbara/logos": [
         "Resource"
     ],
-    "giorginolab/zotfile_doctor": [],
+    "giorginolab/zotfile_doctor": [
+        "Other"
+    ],
     "github-tools/github": [
         "GitHub"
     ],
-    "gizak/termui": [],
+    "gizak/termui": [
+        "Other"
+    ],
     "gliffy/canvas2svg": [
         "Linux/Utility"
     ],
-    "gluster/glusterfs": [],
-    "gmg137/netease-cloud-music-gtk": [],
+    "gluster/glusterfs": [
+        "Other"
+    ],
+    "gmg137/netease-cloud-music-gtk": [
+        "Other"
+    ],
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
-    "go-delve/delve": [],
-    "go-gitea/gitea": [],
-    "go-gorm/gorm": [],
-    "go-sql-driver/mysql": [],
-    "gobuffalo/packr": [],
-    "goccmack/gogll": [],
-    "gocd/gocd": [],
+    "go-delve/delve": [
+        "Other"
+    ],
+    "go-gitea/gitea": [
+        "Other"
+    ],
+    "go-gorm/gorm": [
+        "Other"
+    ],
+    "go-sql-driver/mysql": [
+        "Other"
+    ],
+    "gobuffalo/packr": [
+        "Other"
+    ],
+    "goccmack/gogll": [
+        "Other"
+    ],
+    "gocd/gocd": [
+        "Other"
+    ],
     "goessner/mdmath": [
         "VS Code"
     ],
-    "gogits/gogs": [
-        "Git"
+    "gogradle/gogradle": [
+        "Other"
     ],
-    "gogradle/gogradle": [],
-    "gogs/gogs": [],
-    "gojek/awesome-distributed-systems": [],
-    "golang-standards/project-layout": [],
-    "google/sanitizers": [],
-    "google/xsecurelock": [],
+    "gogs/gogs": [
+        "Other"
+    ],
+    "gojek/awesome-distributed-systems": [
+        "Other"
+    ],
+    "golang-standards/project-layout": [
+        "Other"
+    ],
+    "google/sanitizers": [
+        "Other"
+    ],
+    "google/xsecurelock": [
+        "Other"
+    ],
     "google/yapf": [
         "Python"
     ],
-    "gopasspw/gopass": [],
-    "goreliu/wsl-terminal": [
-        "Windows/WSL"
+    "gopasspw/gopass": [
+        "Other"
     ],
-    "gorilla/mux": [],
-    "gpakosz/.tmux": [],
-    "graphql/graphiql": [],
+    "gorilla/mux": [
+        "Other"
+    ],
+    "gpakosz/.tmux": [
+        "Other"
+    ],
+    "graphql/graphiql": [
+        "Other"
+    ],
     "greenrobot/greenDAO": [
         "Android"
     ],
     "gsterjov/openshift-nginx-cartridge": [
         "OpenShift"
     ],
-    "guren-cloud/v-request": [],
-    "gusztavvargadr/packer": [],
+    "guren-cloud/v-request": [
+        "Other"
+    ],
+    "gusztavvargadr/packer": [
+        "Other"
+    ],
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
     "hanwen/go-fuse": [
         "Go"
     ],
-    "hardpixel/unite-shell": [],
-    "hashicorp/nomad": [],
-    "hashicorp/vagrant": [],
-    "haskell/haskell-ide-engine": [],
-    "hcy226/CSSummerCamp2020": [],
-    "heavenshell/vim-jsdoc": [],
-    "hellocodeM/baidu-wenku": [],
-    "henrysher/duplicity": [],
-    "hertogp/imagine": [],
+    "hardpixel/unite-shell": [
+        "Other"
+    ],
+    "hashicorp/nomad": [
+        "Other"
+    ],
+    "hashicorp/vagrant": [
+        "Other"
+    ],
+    "haskell/haskell-ide-engine": [
+        "Other"
+    ],
+    "hcy226/CSSummerCamp2020": [
+        "Other"
+    ],
+    "heavenshell/vim-jsdoc": [
+        "Other"
+    ],
+    "hellocodeM/baidu-wenku": [
+        "Other"
+    ],
+    "henrysher/duplicity": [
+        "Other"
+    ],
+    "hertogp/imagine": [
+        "Other"
+    ],
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
-    "hollischuang/toBeTopJavaer": [],
-    "home-sweet-gnome/dash-to-panel": [],
-    "hoovercj/vscode-power-mode": [],
-    "horst3180/arc-icon-theme": [],
+    "hollischuang/toBeTopJavaer": [
+        "Other"
+    ],
+    "home-sweet-gnome/dash-to-panel": [
+        "Other"
+    ],
+    "hoovercj/vscode-power-mode": [
+        "Other"
+    ],
+    "horst3180/arc-icon-theme": [
+        "Other"
+    ],
     "horst3180/arc-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
-    "hrdwrrsk/adementary-theme": [],
-    "http-party/http-server": [],
-    "huanghaibin-dev/CalendarView": [],
-    "huanghongxun/HMCL": [],
+    "hrdwrrsk/adementary-theme": [
+        "Other"
+    ],
+    "http-party/http-server": [
+        "Other"
+    ],
+    "huanghaibin-dev/CalendarView": [
+        "Other"
+    ],
+    "huanghongxun/HMCL": [
+        "Other"
+    ],
     "hwhw/kindlevncviewer": [
         "Kindle"
     ],
-    "iCHAIT/awesome-macOS": [],
+    "iCHAIT/awesome-macOS": [
+        "Other"
+    ],
     "iamdanfox/typetype": [
         "Web/JavaScript"
     ],
-    "iamkun/dayjs": [],
-    "ibhagwan/picom": [],
-    "ifreund/river": [],
-    "iglance/iGlance": [],
-    "iikira/BaiduPCS-Go": [
-        "Chinese APP Hack/Baidu Pan"
+    "iamkun/dayjs": [
+        "Other"
+    ],
+    "ibhagwan/picom": [
+        "Other"
+    ],
+    "ifreund/river": [
+        "Other"
+    ],
+    "iglance/iGlance": [
+        "Other"
     ],
     "iitc-project/ingress-intel-total-conversion": [
         "Game/Ingress"
     ],
-    "ilearnio/module-alias": [],
-    "iluwatar/java-design-patterns": [],
-    "immutable-js/immutable-js": [],
-    "imolorhe/altair": [],
+    "ilearnio/module-alias": [
+        "Other"
+    ],
+    "iluwatar/java-design-patterns": [
+        "Other"
+    ],
+    "immutable-js/immutable-js": [
+        "Other"
+    ],
+    "imolorhe/altair": [
+        "Other"
+    ],
     "imsun/gitment": [
         "Jekyll"
     ],
-    "indexzero/http-server": [],
-    "inorichi/tachiyomi": [],
-    "int128/wslexec": [],
-    "intljusticemission/react-big-calendar": [],
-    "isaacs/async-cache": [],
+    "inorichi/tachiyomi": [
+        "Other"
+    ],
+    "int128/wslexec": [
+        "Other"
+    ],
+    "isaacs/async-cache": [
+        "Other"
+    ],
     "it-ebooks/w3school": [
         "Web/Tutorial"
     ],
-    "itchyny/lightline.vim": [],
-    "ivarptr/yu-writer.site": [],
-    "ivmech/ivPID": [],
-    "jD91mZM2/xidlehook": [],
-    "jaagr/polybar": [
-        "Linux/Utility"
+    "itchyny/lightline.vim": [
+        "Other"
     ],
-    "jadbox/BreezyTile": [],
-    "jamessan/vim-gnupg": [],
+    "ivarptr/yu-writer.site": [
+        "Other"
+    ],
+    "ivmech/ivPID": [
+        "Other"
+    ],
+    "jD91mZM2/xidlehook": [
+        "Other"
+    ],
+    "jadbox/BreezyTile": [
+        "Other"
+    ],
+    "jamessan/vim-gnupg": [
+        "Other"
+    ],
     "janeczku/calibre-web": [
         "Utility"
     ],
-    "jaredpalmer/formik": [],
-    "jaredpalmer/tsdx": [],
-    "jasonlvhit/gocron": [],
-    "jaydenseric/graphql-react": [],
-    "jaystrictor/gnome-shell-extension-syncthing": [],
-    "jaywcjlove/awesome-mac": [],
-    "jbezos/titlesec": [],
-    "jcouyang/grokking-monad": [],
-    "jdneo/vscode-leetcode": [],
-    "jeffgerickson/algorithms": [],
+    "jasonlvhit/gocron": [
+        "Other"
+    ],
+    "jaydenseric/graphql-react": [
+        "Other"
+    ],
+    "jaystrictor/gnome-shell-extension-syncthing": [
+        "Other"
+    ],
+    "jaywcjlove/awesome-mac": [
+        "Other"
+    ],
+    "jbezos/titlesec": [
+        "Other"
+    ],
+    "jcouyang/grokking-monad": [
+        "Other"
+    ],
+    "jeffgerickson/algorithms": [
+        "Other"
+    ],
     "jekyll/jekyll": [
         "Jekyll"
     ],
     "jekyll/jekyll-paginate": [
         "Jekyll"
     ],
-    "jekyll/jemoji": [],
-    "jergusg/k380-function-keys-conf": [],
-    "jesseduffield/lazydocker": [],
-    "jfinal/jfinal": [],
-    "jglovier/dotfiles-logo": [],
+    "jekyll/jemoji": [
+        "Other"
+    ],
+    "jergusg/k380-function-keys-conf": [
+        "Other"
+    ],
+    "jesseduffield/lazydocker": [
+        "Other"
+    ],
+    "jfinal/jfinal": [
+        "Other"
+    ],
+    "jglovier/dotfiles-logo": [
+        "Other"
+    ],
     "jgm/pandocfilters": [
         "Pandoc"
     ],
@@ -902,121 +1532,205 @@
     "jimdigriz/debian-mssp4": [
         "Linux/Device/Surface"
     ],
-    "jinzhu/gorm": [],
-    "jmblog/how-to-optimize-momentjs-with-webpack": [],
-    "jmoiron/sqlx": [],
+    "jmblog/how-to-optimize-momentjs-with-webpack": [
+        "Other"
+    ],
+    "jmoiron/sqlx": [
+        "Other"
+    ],
     "jobbole/awesome-c-cn": [
         "Awesome"
     ],
-    "johnagan/clean-webpack-plugin": [],
-    "johnfactotum/foliate": [],
+    "johnagan/clean-webpack-plugin": [
+        "Other"
+    ],
+    "johnfactotum/foliate": [
+        "Other"
+    ],
     "joonro/ConEmu-Color-Themes": [
         "Windows/Terminal/ConEmu"
     ],
-    "jorgebucaran/awesome-fish": [],
-    "jorgebucaran/awesome-fish-shell": [],
-    "jorgebucaran/awesome.fish": [],
-    "jorgebucaran/fisher": [],
-    "jquense/react-big-calendar": [],
-    "jquense/yup": [],
-    "jroimartin/gocui": [],
-    "jsjoeio/styled-components-vs-emotion": [],
-    "jsnjycwyz/QQUnrecalled": [
-        "Android/Xposed"
+    "jorgebucaran/awesome.fish": [
+        "Other"
     ],
-    "julio641742/gnome-shell-extension-reference": [],
-    "jumper149/blugon": [],
-    "junegunn/fzf": [],
-    "junegunn/vim-plug": [],
+    "jorgebucaran/fisher": [
+        "Other"
+    ],
+    "jquense/react-big-calendar": [
+        "Other"
+    ],
+    "jquense/yup": [
+        "Other"
+    ],
+    "jroimartin/gocui": [
+        "Other"
+    ],
+    "jsjoeio/styled-components-vs-emotion": [
+        "Other"
+    ],
+    "julio641742/gnome-shell-extension-reference": [
+        "Other"
+    ],
+    "jumper149/blugon": [
+        "Other"
+    ],
+    "junegunn/fzf": [
+        "Other"
+    ],
+    "junegunn/vim-plug": [
+        "Other"
+    ],
     "justind000/nRF-IoT": [
         "SBC"
     ],
-    "justjavac/awesome-wechat-weapp": [],
-    "jwilder/nginx-proxy": [
-        "Docker"
+    "justjavac/awesome-wechat-weapp": [
+        "Other"
     ],
     "k0shk0sh/FastHub": [
         "Android/APP"
     ],
-    "kamranahmedse/developer-roadmap": [],
+    "kamranahmedse/developer-roadmap": [
+        "Other"
+    ],
     "karabaja4/vscode-explorer-git-status": [
         "VS Code"
     ],
     "karlin/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
-    "karlstav/cava": [],
-    "keeferrourke/capitaine-cursors": [],
-    "kekru/docker-remote-api-tls": [],
-    "kelthuzadx/llmd": [],
-    "kennethreitz/requests-html": [],
-    "keratin/authn-server": [],
+    "karlstav/cava": [
+        "Other"
+    ],
+    "keeferrourke/capitaine-cursors": [
+        "Other"
+    ],
+    "kekru/docker-remote-api-tls": [
+        "Other"
+    ],
+    "kelthuzadx/llmd": [
+        "Other"
+    ],
+    "keratin/authn-server": [
+        "Other"
+    ],
     "kesenhoo/android-training-course-in-chinese": [
         "Android"
     ],
     "keybuk/libnih": [
         "C"
     ],
-    "kgshank/gse-refresh-wifi": [],
-    "kgshank/gse-sound-output-device-chooser": [],
-    "khamer/base16-termite": [],
-    "kitian616/jekyll-TeXt-theme": [],
-    "kitten/wonka": [],
+    "kgshank/gse-refresh-wifi": [
+        "Other"
+    ],
+    "kgshank/gse-sound-output-device-chooser": [
+        "Other"
+    ],
+    "khamer/base16-termite": [
+        "Other"
+    ],
+    "kitian616/jekyll-TeXt-theme": [
+        "Other"
+    ],
+    "kitten/wonka": [
+        "Other"
+    ],
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
-    "koalaman/shellcheck": [],
-    "koekeishiya/skhd": [],
-    "koekeishiya/yabai": [],
-    "koral--/android-gif-drawable": [],
+    "koalaman/shellcheck": [
+        "Other"
+    ],
+    "koekeishiya/skhd": [
+        "Other"
+    ],
+    "koekeishiya/yabai": [
+        "Other"
+    ],
+    "koral--/android-gif-drawable": [
+        "Other"
+    ],
     "koreader/koreader": [
         "Kindle",
         "Android/APP"
     ],
-    "kouya/snownews": [],
-    "krhougs/mina-webpack-plugin": [],
+    "kouya/snownews": [
+        "Other"
+    ],
+    "krhougs/mina-webpack-plugin": [
+        "Other"
+    ],
     "kronik3r/daktilo": [
         "Jekyll"
     ],
-    "kubernetes/kompose": [],
-    "kulshekhar/ts-jest": [],
+    "kubernetes/kompose": [
+        "Other"
+    ],
+    "kulshekhar/ts-jest": [
+        "Other"
+    ],
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
-    "kwk/docker-registry-setup": [],
-    "kylemanna/docker-aosp": [],
-    "kzu/GitInfo": [],
-    "l0o0/translators_CN": [],
-    "labstack/echo": [],
-    "lambdalisue/suda.vim": [],
+    "kwk/docker-registry-setup": [
+        "Other"
+    ],
+    "kylemanna/docker-aosp": [
+        "Other"
+    ],
+    "kzu/GitInfo": [
+        "Other"
+    ],
+    "l0o0/translators_CN": [
+        "Other"
+    ],
+    "labstack/echo": [
+        "Other"
+    ],
+    "lambdalisue/suda.vim": [
+        "Other"
+    ],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
     ],
     "ledger/ledger": [
         "Utility"
     ],
-    "ledger/vim-ledger": [],
-    "leisurelicht/wtfpython-cn": [],
+    "ledger/vim-ledger": [
+        "Other"
+    ],
+    "leisurelicht/wtfpython-cn": [
+        "Other"
+    ],
     "lepture/opencc-python": [
         "Python"
     ],
-    "lerna/lerna": [],
+    "lerna/lerna": [
+        "Other"
+    ],
     "lervag/vimtex": [
         "Vim"
     ],
-    "lesspass/lesspass": [],
+    "lesspass/lesspass": [
+        "Other"
+    ],
     "libfuse/python-fuse": [
         "Python"
     ],
-    "ligurio/awesome-ci": [],
+    "ligurio/awesome-ci": [
+        "Other"
+    ],
     "lingfengsan/MillionHero": [
         "Utility"
     ],
     "linusyang92/mipay-extract": [
         "Android/MIUI"
     ],
-    "linux-noah/noah": [],
-    "linux-surface/linux-surface": [],
+    "linux-noah/noah": [
+        "Other"
+    ],
+    "linux-surface/linux-surface": [
+        "Other"
+    ],
     "littlecodersh/ItChat": [
         "Chinese APP Hack/WeChat"
     ],
@@ -1026,8 +1740,12 @@
     "liubaoyua/CustomText-MD": [
         "Android/Xposed"
     ],
-    "liuchengxu/vim-clap": [],
-    "ljharb/qs": [],
+    "liuchengxu/vim-clap": [
+        "Other"
+    ],
+    "ljharb/qs": [
+        "Other"
+    ],
     "llimllib/bloomfilter-tutorial": [
         "Computer Science"
     ],
@@ -1035,9 +1753,8 @@
         "Utility",
         "Machine Learning"
     ],
-    "lodash/lodash": [],
-    "lodevil/daemon-manager": [
-        "Linux/Utility"
+    "lodash/lodash": [
+        "Other"
     ],
     "loomchild/volume-backup": [
         "Docker"
@@ -1045,94 +1762,183 @@
     "loopeer/code-reader": [
         "Android/APP"
     ],
-    "louisstuart96/lshort-new-zh-cn": [
-        "TeX"
+    "lrsjng/h5ai": [
+        "Other"
     ],
-    "lrsjng/h5ai": [],
-    "lucaslorentz/caddy-docker-proxy": [],
+    "lucaslorentz/caddy-docker-proxy": [
+        "Other"
+    ],
     "lukesampson/scoop": [
         "Windows/Utility"
     ],
-    "lutris/lutris": [],
-    "lzybkr/PSReadLine": [
-        "Windows/PowerShell"
+    "lutris/lutris": [
+        "Other"
     ],
     "m13253/BiliDan": [
         "Utility"
     ],
-    "machyve/xhyve": [],
+    "machyve/xhyve": [
+        "Other"
+    ],
     "maguowei/starred": [
         "GitHub"
     ],
     "majutsushi/tagbar": [
         "Vim"
     ],
-    "manisandro/gImageReader": [],
+    "manisandro/gImageReader": [
+        "Other"
+    ],
     "maralla/completor.vim": [
         "Vim"
     ],
-    "marktext/marktext": [],
-    "material-shell/material-shell": [],
-    "matheuss/google-translate-api": [],
-    "matryer/bitbar": [],
-    "matteoserva/MegaFuse": [],
+    "marktext/marktext": [
+        "Other"
+    ],
+    "material-shell/material-shell": [
+        "Other"
+    ],
+    "matheuss/google-translate-api": [
+        "Other"
+    ],
+    "matryer/bitbar": [
+        "Other"
+    ],
+    "matteoserva/MegaFuse": [
+        "Other"
+    ],
     "matthewwardrop/linux-surfacepro3": [
         "Linux/Device/Surface"
     ],
-    "mattingalls/Soundflower": [],
-    "mattzeunert/CSS-Todo-App": [],
+    "mattingalls/Soundflower": [
+        "Other"
+    ],
+    "mattzeunert/CSS-Todo-App": [
+        "Other"
+    ],
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
     ],
-    "mayswind/AriaNg": [],
-    "mcuadros/ofelia": [],
-    "mdbootstrap/Vue-Bootstrap-with-Material-Design": [],
+    "mayswind/AriaNg": [
+        "Other"
+    ],
+    "mcuadros/ofelia": [
+        "Other"
+    ],
+    "mdbootstrap/Vue-Bootstrap-with-Material-Design": [
+        "Other"
+    ],
     "meefik/linuxdeploy": [
         "Android/APP"
     ],
-    "meganz/MEGAcmd": [],
-    "megastep/makeself": [],
-    "mellow-io/mellow": [],
-    "menzi11/BullshitGenerator": [],
-    "mesonbuild/meson": [],
-    "metafizzy/isotope": [],
-    "mhinz/vim-signify": [],
-    "mholt/certmagic": [],
-    "michael-rapp/gnome-shell-extension-hide-app-icon": [],
-    "microsoft/WSL": [],
-    "microsoft/WSL-DistroLauncher": [],
-    "microsoft/monaco-editor": [],
-    "microsoft/pyright": [],
-    "microsoft/vscode": [],
-    "microsoft/winget-cli": [],
-    "microsoft/winget-pkgs": [],
-    "mitmproxy/mitmproxy": [],
+    "meganz/MEGAcmd": [
+        "Other"
+    ],
+    "megastep/makeself": [
+        "Other"
+    ],
+    "mellow-io/mellow": [
+        "Other"
+    ],
+    "menzi11/BullshitGenerator": [
+        "Other"
+    ],
+    "mesonbuild/meson": [
+        "Other"
+    ],
+    "metafizzy/isotope": [
+        "Other"
+    ],
+    "mhinz/vim-signify": [
+        "Other"
+    ],
+    "michael-rapp/gnome-shell-extension-hide-app-icon": [
+        "Other"
+    ],
+    "microsoft/WSL": [
+        "Other"
+    ],
+    "microsoft/WSL-DistroLauncher": [
+        "Other"
+    ],
+    "microsoft/monaco-editor": [
+        "Other"
+    ],
+    "microsoft/pyright": [
+        "Other"
+    ],
+    "microsoft/vscode": [
+        "Other"
+    ],
+    "microsoft/winget-cli": [
+        "Other"
+    ],
+    "microsoft/winget-pkgs": [
+        "Other"
+    ],
+    "mitmproxy/mitmproxy": [
+        "Other"
+    ],
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
     "mlouielu/cn_constitution_2018": [
         "Gov"
     ],
-    "mmacneil/ASPNetCoreGraphQL": [],
-    "mmiller42/html-webpack-externals-plugin": [],
-    "mnielsen/neural-networks-and-deep-learning": [],
-    "mochajs/mocha": [],
-    "mockito/mockito": [],
+    "mmacneil/ASPNetCoreGraphQL": [
+        "Other"
+    ],
+    "mmiller42/html-webpack-externals-plugin": [
+        "Other"
+    ],
+    "mnielsen/neural-networks-and-deep-learning": [
+        "Other"
+    ],
+    "mochajs/mocha": [
+        "Other"
+    ],
+    "mockito/mockito": [
+        "Other"
+    ],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
-    "moment/moment": [],
-    "mono/t4": [],
-    "moovweb/gvm": [],
-    "moq/moq4": [],
-    "mozillazg/python-pinyin": [],
-    "mrvautin/adminMongo": [],
-    "mskyaxl/wsl-terminal": [],
-    "muesli/gitomatic": [],
-    "mui-org/material-ui": [],
-    "mumoshu/variant": [],
-    "museui/muse-ui": [],
-    "mysql-net/MySqlConnector": [],
+    "moment/moment": [
+        "Other"
+    ],
+    "mono/t4": [
+        "Other"
+    ],
+    "moovweb/gvm": [
+        "Other"
+    ],
+    "moq/moq4": [
+        "Other"
+    ],
+    "mozillazg/python-pinyin": [
+        "Other"
+    ],
+    "mrvautin/adminMongo": [
+        "Other"
+    ],
+    "mskyaxl/wsl-terminal": [
+        "Other"
+    ],
+    "muesli/gitomatic": [
+        "Other"
+    ],
+    "mui-org/material-ui": [
+        "Other"
+    ],
+    "mumoshu/variant": [
+        "Other"
+    ],
+    "museui/muse-ui": [
+        "Other"
+    ],
+    "mysql-net/MySqlConnector": [
+        "Other"
+    ],
     "mzlogin/mzlogin.github.io": [
         "Blog"
     ],
@@ -1143,157 +1949,324 @@
         "Utility",
         "Machine Learning"
     ],
-    "nana-4/materia-theme": [],
-    "natemcmaster/dotnet-tools": [],
-    "nefe/iron-redux": [],
+    "nana-4/materia-theme": [
+        "Other"
+    ],
+    "natemcmaster/dotnet-tools": [
+        "Other"
+    ],
+    "nefe/iron-redux": [
+        "Other"
+    ],
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
     ],
-    "nelhage/reptyr": [],
-    "neoclide/coc.nvim": [],
-    "neovimhaskell/haskell-vim": [],
-    "netdata/netdata": [],
-    "neuland/micro-frontends": [],
-    "newren/git-filter-repo": [],
-    "ngaut/builddatabase": [],
-    "nginx-proxy/nginx-proxy": [],
-    "nhaarman/mockito-kotlin": [],
-    "niudai/How-to-be-a-good-programmer": [],
-    "noctuid/tdrop": [],
-    "nok/leap-motion-processing": [],
-    "nsf/termbox-go": [],
-    "ochinchina/supervisord": [],
-    "ochukai/wepy-com-toptip": [],
-    "octokit/rest.js": [],
-    "oh-my-fish/oh-my-fish": [],
-    "ohmyzsh/ohmyzsh": [],
-    "oldani/requests-html": [],
-    "onsi/ginkgo": [],
-    "open-keychain/open-keychain": [],
-    "openSUSE/lftp-concourse-resource": [],
-    "openSUSE/snapper": [],
-    "opengapps/all": [
-        "Android/APP"
+    "nelhage/reptyr": [
+        "Other"
     ],
-    "openshift-quickstart/owncloud-openshift-quickstart": [
-        "OpenShift"
+    "neoclide/coc.nvim": [
+        "Other"
     ],
-    "optimisme/gjs-examples": [],
-    "oranzhang/mina-webpack-plugin": [],
-    "ory/fosite": [],
-    "ory/hydra": [],
+    "neovimhaskell/haskell-vim": [
+        "Other"
+    ],
+    "netdata/netdata": [
+        "Other"
+    ],
+    "neuland/micro-frontends": [
+        "Other"
+    ],
+    "newren/git-filter-repo": [
+        "Other"
+    ],
+    "ngaut/builddatabase": [
+        "Other"
+    ],
+    "nginx-proxy/nginx-proxy": [
+        "Other"
+    ],
+    "nhaarman/mockito-kotlin": [
+        "Other"
+    ],
+    "niudai/How-to-be-a-good-programmer": [
+        "Other"
+    ],
+    "noctuid/tdrop": [
+        "Other"
+    ],
+    "nok/leap-motion-processing": [
+        "Other"
+    ],
+    "nsf/termbox-go": [
+        "Other"
+    ],
+    "ochinchina/supervisord": [
+        "Other"
+    ],
+    "ochukai/wepy-com-toptip": [
+        "Other"
+    ],
+    "octokit/rest.js": [
+        "Other"
+    ],
+    "oh-my-fish/oh-my-fish": [
+        "Other"
+    ],
+    "ohmyzsh/ohmyzsh": [
+        "Other"
+    ],
+    "onsi/ginkgo": [
+        "Other"
+    ],
+    "open-keychain/open-keychain": [
+        "Other"
+    ],
+    "openSUSE/lftp-concourse-resource": [
+        "Other"
+    ],
+    "openSUSE/snapper": [
+        "Other"
+    ],
+    "optimisme/gjs-examples": [
+        "Other"
+    ],
+    "ory/fosite": [
+        "Other"
+    ],
+    "ory/hydra": [
+        "Other"
+    ],
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "pallets/click": [
         "Python"
     ],
-    "pangloss/vim-javascript": [],
-    "papers-we-love/papers-we-love": [],
-    "paperwm/PaperWM": [],
+    "pangloss/vim-javascript": [
+        "Other"
+    ],
+    "papers-we-love/papers-we-love": [
+        "Other"
+    ],
+    "paperwm/PaperWM": [
+        "Other"
+    ],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
-    "paramiko/paramiko": [],
+    "paramiko/paramiko": [
+        "Other"
+    ],
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
-    "paulcollett/vue-masonry-css": [],
-    "paulmillr/chokidar": [],
+    "paulcollett/vue-masonry-css": [
+        "Other"
+    ],
+    "paulmillr/chokidar": [
+        "Other"
+    ],
     "pawelsalawa/sqlitestudio": [
         "SQLite"
     ],
-    "pcottle/learnGitBranching": [],
+    "pcottle/learnGitBranching": [
+        "Other"
+    ],
     "pdudits/soundlibs": [
         "Java"
     ],
-    "peterq/pan-light": [],
+    "peterq/pan-light": [
+        "Other"
+    ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
-    "phw/peek": [],
-    "pigigaldi/Pock": [],
-    "pimutils/khal": [],
-    "pingcap/tidb": [],
-    "pivotal-cf-experimental/cron-resource": [],
-    "pixel-saver/pixel-saver": [],
-    "plaintextaccounting/plaintextaccounting.github.io": [],
-    "plasma-disassembler/plasma": [],
-    "plk/biber": [],
-    "plk/biblatex": [],
+    "phw/peek": [
+        "Other"
+    ],
+    "pigigaldi/Pock": [
+        "Other"
+    ],
+    "pimutils/khal": [
+        "Other"
+    ],
+    "pingcap/tidb": [
+        "Other"
+    ],
+    "pivotal-cf-experimental/cron-resource": [
+        "Other"
+    ],
+    "pixel-saver/pixel-saver": [
+        "Other"
+    ],
+    "plaintextaccounting/plaintextaccounting.github.io": [
+        "Other"
+    ],
+    "plasma-disassembler/plasma": [
+        "Other"
+    ],
+    "plk/biber": [
+        "Other"
+    ],
+    "plk/biblatex": [
+        "Other"
+    ],
     "pnigos/hookjs": [
         "Web/JavaScript"
     ],
-    "pnpm/pnpm": [],
-    "polybar/polybar": [],
-    "pop-os/shell": [],
+    "pnpm/pnpm": [
+        "Other"
+    ],
+    "polybar/polybar": [
+        "Other"
+    ],
+    "pop-os/shell": [
+        "Other"
+    ],
     "portainer/portainer": [
         "Docker"
     ],
-    "postcss/postcss-loader": [],
-    "posva/vim-vue": [],
-    "posva/vue-promised": [],
-    "preactjs/preact": [],
-    "preactjs/preact-cli": [],
-    "preservim/nerdcommenter": [],
-    "preservim/nerdtree": [],
+    "posva/vim-vue": [
+        "Other"
+    ],
+    "posva/vue-promised": [
+        "Other"
+    ],
+    "preactjs/preact": [
+        "Other"
+    ],
+    "preactjs/preact-cli": [
+        "Other"
+    ],
+    "preservim/nerdcommenter": [
+        "Other"
+    ],
+    "preservim/nerdtree": [
+        "Other"
+    ],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
-    "printempw/blessing-skin-server": [],
-    "prisma-labs/graphql-playground": [],
-    "prisma-labs/graphql-request": [],
-    "prometheus/prometheus": [],
-    "proot-me/proot": [],
-    "proxyee-down-org/proxyee-down": [],
-    "prprprus/scheduler": [],
-    "psf/requests-html": [],
-    "puppeteer/puppeteer": [],
-    "puppetlabs/puppet": [],
-    "pyenv/pyenv": [],
+    "printempw/blessing-skin-server": [
+        "Other"
+    ],
+    "prisma-labs/graphql-playground": [
+        "Other"
+    ],
+    "prisma-labs/graphql-request": [
+        "Other"
+    ],
+    "prometheus/prometheus": [
+        "Other"
+    ],
+    "proot-me/proot": [
+        "Other"
+    ],
+    "proxyee-down-org/proxyee-down": [
+        "Other"
+    ],
+    "prprprus/scheduler": [
+        "Other"
+    ],
+    "psf/requests-html": [
+        "Other"
+    ],
+    "puppeteer/puppeteer": [
+        "Other"
+    ],
+    "puppetlabs/puppet": [
+        "Other"
+    ],
+    "pyenv/pyenv": [
+        "Other"
+    ],
     "pypa/pipenv": [
         "Python"
     ],
     "python-mode/python-mode": [
         "Vim"
     ],
-    "python-pillow/Pillow": [],
-    "qgaye/DataStructures": [],
-    "qgaye/DataStructuresAndAlgorithm": [],
-    "qgaye/note": [],
-    "qgaye/qgaye": [],
-    "qor/auth": [],
-    "qrohlf/trianglify": [],
-    "quartznet/quartznet": [],
-    "racaljk/llmd": [],
-    "rakyll/statik": [],
-    "ramda/ramda": [],
-    "rancher/k3s": [],
-    "rclone/rclone": [],
-    "realywithoutname/mini-program-webpack-loader": [],
-    "remaxjs/remax": [],
-    "replit-archive/repl.it": [],
-    "replit/repl.it": [],
-    "restic/others": [],
-    "restic/restic": [],
-    "rfjakob/earlyoom": [],
-    "rfjakob/gocryptfs": [],
-    "rgov/Thunderbolt3Unblocker": [],
-    "rigor789/vue-scrollto": [],
-    "ritave/xeventbind": [],
-    "ritz078/transform": [],
-    "ritz078/transform-www": [],
-    "rjsf-team/react-jsonschema-form": [],
+    "python-pillow/Pillow": [
+        "Other"
+    ],
+    "qgaye/DataStructures": [
+        "Other"
+    ],
+    "qgaye/note": [
+        "Other"
+    ],
+    "qgaye/qgaye": [
+        "Other"
+    ],
+    "qor/auth": [
+        "Other"
+    ],
+    "qrohlf/trianglify": [
+        "Other"
+    ],
+    "quartznet/quartznet": [
+        "Other"
+    ],
+    "rakyll/statik": [
+        "Other"
+    ],
+    "ramda/ramda": [
+        "Other"
+    ],
+    "rancher/k3s": [
+        "Other"
+    ],
+    "rclone/rclone": [
+        "Other"
+    ],
+    "realywithoutname/mini-program-webpack-loader": [
+        "Other"
+    ],
+    "remaxjs/remax": [
+        "Other"
+    ],
+    "replit-archive/repl.it": [
+        "Other"
+    ],
+    "restic/others": [
+        "Other"
+    ],
+    "restic/restic": [
+        "Other"
+    ],
+    "rfjakob/earlyoom": [
+        "Other"
+    ],
+    "rfjakob/gocryptfs": [
+        "Other"
+    ],
+    "rgov/Thunderbolt3Unblocker": [
+        "Other"
+    ],
+    "rigor789/vue-scrollto": [
+        "Other"
+    ],
+    "ritave/xeventbind": [
+        "Other"
+    ],
+    "ritz078/transform": [
+        "Other"
+    ],
+    "rjsf-team/react-jsonschema-form": [
+        "Other"
+    ],
     "rkalla/imgscalr": [
         "Java"
     ],
-    "robbyrussell/oh-my-zsh": [
-        "Zsh"
+    "robfig/cron": [
+        "Other"
     ],
-    "robfig/cron": [],
-    "robinvdvleuten/vuex-persistedstate": [],
-    "rockon999/dynamic-panel-transparency": [],
-    "rollup/rollup": [],
+    "robinvdvleuten/vuex-persistedstate": [
+        "Other"
+    ],
+    "rollup/rollup": [
+        "Other"
+    ],
     "rosghub/TLP-Switcher": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -1303,28 +2276,51 @@
     "rprichard/wslbridge": [
         "Windows/WSL"
     ],
-    "rs/zerolog": [],
-    "rxin/db-readings": [],
-    "ryanoasis/nerd-fonts": [],
-    "rycee/home-manager": [],
-    "sabre-io/Baikal": [],
-    "saltstack/salt": [],
-    "sammydre/ts-for-gjs": [],
+    "rs/zerolog": [
+        "Other"
+    ],
+    "rxin/db-readings": [
+        "Other"
+    ],
+    "ryanoasis/nerd-fonts": [
+        "Other"
+    ],
+    "rycee/home-manager": [
+        "Other"
+    ],
+    "sabre-io/Baikal": [
+        "Other"
+    ],
+    "saltstack/salt": [
+        "Other"
+    ],
+    "sammydre/ts-for-gjs": [
+        "Other"
+    ],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [
         "Kindle"
     ],
-    "samyk/evercookie": [],
-    "sapk/docker-volume-rclone": [],
-    "satwikkansal/wtfpython": [],
-    "sboli/twmn": [],
-    "scrooloose/nerdcommenter": [
-        "Vim"
+    "samyk/evercookie": [
+        "Other"
     ],
-    "sdrausty/TermuxArch": [],
-    "sdrausty/termux-archlinux": [],
-    "seblucas/cops": [],
-    "serhii-londar/open-source-mac-os-apps": [],
-    "serjs/socks5-server": [],
+    "sapk/docker-volume-rclone": [
+        "Other"
+    ],
+    "satwikkansal/wtfpython": [
+        "Other"
+    ],
+    "sboli/twmn": [
+        "Other"
+    ],
+    "seblucas/cops": [
+        "Other"
+    ],
+    "serhii-londar/open-source-mac-os-apps": [
+        "Other"
+    ],
+    "serjs/socks5-server": [
+        "Other"
+    ],
     "severin-lemaignan/vim-minimap": [
         "Vim"
     ],
@@ -1337,27 +2333,51 @@
     "shadowsocksrr/shadowsocksr-csharp": [
         "GFW"
     ],
-    "sharkdp/bat": [],
-    "sharkdp/hexyl": [],
+    "sharkdp/bat": [
+        "Other"
+    ],
+    "sharkdp/hexyl": [
+        "Other"
+    ],
     "shenfeng/tiny-web-server": [
         "C"
     ],
-    "shengxinjing/programmer-job-blacklist": [],
-    "shimohq/chinese-programmer-wrong-pronunciation": [],
-    "shopspring/decimal": [],
-    "sickcodes/Docker-OSX": [],
+    "shengxinjing/programmer-job-blacklist": [
+        "Other"
+    ],
+    "shimohq/chinese-programmer-wrong-pronunciation": [
+        "Other"
+    ],
+    "shopspring/decimal": [
+        "Other"
+    ],
+    "sickcodes/Docker-OSX": [
+        "Other"
+    ],
     "sickp/docker-alpine-sshd": [
         "Docker"
     ],
-    "siger-young/ropez": [],
+    "siger-young/ropez": [
+        "Other"
+    ],
     "sigmavirus24/github3.py": [
         "GitHub"
     ],
-    "simonmichael/hledger": [],
-    "sindresorhus/github-markdown-css": [],
-    "sirredbeard/Awesome-WSL": [],
-    "sirupsen/logrus": [],
-    "sitaramc/gitolite": [],
+    "simonmichael/hledger": [
+        "Other"
+    ],
+    "sindresorhus/github-markdown-css": [
+        "Other"
+    ],
+    "sirredbeard/Awesome-WSL": [
+        "Other"
+    ],
+    "sirupsen/logrus": [
+        "Other"
+    ],
+    "sitaramc/gitolite": [
+        "Other"
+    ],
     "sjdy521/Mojo-Webqq": [
         "Chinese APP Hack/QQ"
     ],
@@ -1367,16 +2387,22 @@
     "skilion/onedrive": [
         "Linux/Utility"
     ],
-    "skygragon/leetcode-cli": [],
+    "skygragon/leetcode-cli": [
+        "Other"
+    ],
     "skylot/jadx": [
         "Java",
         "Android"
     ],
-    "skywind3000/asyncrun.vim": [],
+    "skywind3000/asyncrun.vim": [
+        "Other"
+    ],
     "skywind3000/vim": [
         "Vim"
     ],
-    "slacka/WoeUSB": [],
+    "slacka/WoeUSB": [
+        "Other"
+    ],
     "snachx/gfwlist2privoxy": [
         "GFW"
     ],
@@ -1386,34 +2412,72 @@
     "snwh/paper-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
-    "sobolevn/git-secret": [],
-    "soduto/Soduto": [],
-    "soimort/translate-shell": [],
-    "songgao/water": [],
-    "soruly/trace.moe": [],
-    "souporserious/react-measure": [],
-    "sourcegraph/go-langserver": [],
-    "sparksuite/simplemde-markdown-editor": [],
-    "spf13/cobra": [],
-    "spf13/viper": [],
-    "spwhitton/git-remote-gcrypt": [],
+    "sobolevn/git-secret": [
+        "Other"
+    ],
+    "soduto/Soduto": [
+        "Other"
+    ],
+    "soimort/translate-shell": [
+        "Other"
+    ],
+    "songgao/water": [
+        "Other"
+    ],
+    "soruly/trace.moe": [
+        "Other"
+    ],
+    "souporserious/react-measure": [
+        "Other"
+    ],
+    "sourcegraph/go-langserver": [
+        "Other"
+    ],
+    "sparksuite/simplemde-markdown-editor": [
+        "Other"
+    ],
+    "spf13/cobra": [
+        "Other"
+    ],
+    "spf13/viper": [
+        "Other"
+    ],
+    "spwhitton/git-remote-gcrypt": [
+        "Other"
+    ],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
-    "square/go-jose": [],
-    "square/retrofit": [],
-    "staticlibs/ccronexpr": [],
+    "square/go-jose": [
+        "Other"
+    ],
+    "square/retrofit": [
+        "Other"
+    ],
+    "staticlibs/ccronexpr": [
+        "Other"
+    ],
     "stefan-niedermann/nextcloud-notes": [
         "Nextcloud"
     ],
-    "stephenh/mirror": [],
-    "stilliard/docker-pure-ftpd": [],
-    "stretchr/testify": [],
+    "stephenh/mirror": [
+        "Other"
+    ],
+    "stilliard/docker-pure-ftpd": [
+        "Other"
+    ],
+    "stretchr/testify": [
+        "Other"
+    ],
     "studyzy/imewlconverter": [
         "Utility"
     ],
-    "stv0g/stm32cube-gcc": [],
-    "styled-components/styled-components": [],
+    "stv0g/stm32cube-gcc": [
+        "Other"
+    ],
+    "styled-components/styled-components": [
+        "Other"
+    ],
     "sudar/vim-arduino-snippets": [
         "Vim",
         "Arduino"
@@ -1422,82 +2486,160 @@
         "Vim",
         "Arduino"
     ],
-    "superwf/vuex-cache": [],
-    "sveltejs/svelte": [],
-    "syhyz1990/baiduyun": [],
-    "syncthing/syncthing": [],
+    "superwf/vuex-cache": [
+        "Other"
+    ],
+    "sveltejs/svelte": [
+        "Other"
+    ],
+    "syncthing/syncthing": [
+        "Other"
+    ],
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],
-    "tadly/hideIt.sh": [],
-    "taichi-framework/TaiChi": [],
-    "takluyver/flit": [],
+    "tadly/hideIt.sh": [
+        "Other"
+    ],
+    "taichi-framework/TaiChi": [
+        "Other"
+    ],
+    "takluyver/flit": [
+        "Other"
+    ],
     "tclem/vim-arduino": [
         "Vim",
         "Arduino"
     ],
-    "technicalpickles/homesick": [],
+    "technicalpickles/homesick": [
+        "Other"
+    ],
     "teddysun/across": [
         "GFW"
     ],
-    "teejee2008/timeshift": [],
+    "teejee2008/timeshift": [
+        "Other"
+    ],
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
-    "tesseract-ocr/tesseract": [],
-    "thangchung/awesome-dotnet-core": [],
-    "the-cavalry/light-locker": [],
-    "themix-project/oomox": [],
-    "thestinger/termite": [],
-    "timarney/react-app-rewired": [],
-    "timbertson/shellshape": [],
-    "timbertson/slinger": [],
-    "tinajs/mina-webpack": [],
-    "tinajs/tina": [],
+    "tesseract-ocr/tesseract": [
+        "Other"
+    ],
+    "thangchung/awesome-dotnet-core": [
+        "Other"
+    ],
+    "the-cavalry/light-locker": [
+        "Other"
+    ],
+    "themix-project/oomox": [
+        "Other"
+    ],
+    "thestinger/termite": [
+        "Other"
+    ],
+    "timarney/react-app-rewired": [
+        "Other"
+    ],
+    "timbertson/shellshape": [
+        "Other"
+    ],
+    "timbertson/slinger": [
+        "Other"
+    ],
+    "tinajs/mina-webpack": [
+        "Other"
+    ],
+    "tinajs/tina": [
+        "Other"
+    ],
     "tipsy/j2html": [
         "Java"
     ],
     "tkem/cachetools": [
         "Python"
     ],
-    "tleunen/babel-plugin-module-resolver": [],
-    "tmux-plugins/tmux-resurrect": [],
-    "tmux-plugins/tmux-sensible": [],
-    "tmux-plugins/tpm": [],
-    "tolerious/Programming_learning_resource": [],
-    "tonybeltramelli/pix2code": [],
-    "tonyqus/npoi": [],
-    "tpope/vim-eunuch": [],
-    "tqdm/tqdm": [],
-    "transform-it/transform-www": [],
-    "trazyn/ieaseMusic": [],
+    "tleunen/babel-plugin-module-resolver": [
+        "Other"
+    ],
+    "tmux-plugins/tmux-resurrect": [
+        "Other"
+    ],
+    "tmux-plugins/tmux-sensible": [
+        "Other"
+    ],
+    "tmux-plugins/tpm": [
+        "Other"
+    ],
+    "tolerious/Programming_learning_resource": [
+        "Other"
+    ],
+    "tonybeltramelli/pix2code": [
+        "Other"
+    ],
+    "tonyqus/npoi": [
+        "Other"
+    ],
+    "tpope/vim-eunuch": [
+        "Other"
+    ],
+    "tqdm/tqdm": [
+        "Other"
+    ],
+    "trazyn/ieaseMusic": [
+        "Other"
+    ],
     "trazyn/weweChat": [
         "Chinese APP Hack/WeChat"
     ],
-    "tsl0922/ttyd": [],
-    "tsujan/Kvantum": [],
-    "tusdotnet/tusdotnet": [],
-    "tvfe/wxpage": [],
-    "twpayne/chezmoi": [],
-    "txyyss/Lambda-Calculus": [],
-    "typicode/husky": [],
-    "tyru/caw.vim": [],
-    "uber/AutoDispose": [],
-    "ufoscout/docker-compose-wait": [],
-    "ultralight-ux/Ultralight": [],
-    "umijs/qiankun": [],
-    "unknwon/the-way-to-go_ZH_CN": [],
+    "tsl0922/ttyd": [
+        "Other"
+    ],
+    "tsujan/Kvantum": [
+        "Other"
+    ],
+    "tusdotnet/tusdotnet": [
+        "Other"
+    ],
+    "tvfe/wxpage": [
+        "Other"
+    ],
+    "twpayne/chezmoi": [
+        "Other"
+    ],
+    "txyyss/Lambda-Calculus": [
+        "Other"
+    ],
+    "typicode/husky": [
+        "Other"
+    ],
+    "tyru/caw.vim": [
+        "Other"
+    ],
+    "uber/AutoDispose": [
+        "Other"
+    ],
+    "ufoscout/docker-compose-wait": [
+        "Other"
+    ],
+    "ultralight-ux/Ultralight": [
+        "Other"
+    ],
+    "umijs/qiankun": [
+        "Other"
+    ],
+    "unknwon/the-way-to-go_ZH_CN": [
+        "Other"
+    ],
     "v2ray/v2ray-core": [
         "GFW"
     ],
-    "v2tec/watchtower": [
-        "Docker"
+    "verdaccio/verdaccio": [
+        "Other"
     ],
-    "verdaccio/verdaccio": [],
-    "veryyoung/QQLuckyMoney": [
-        "Android/Xposed"
+    "viatsko/awesome-vscode": [
+        "Other"
     ],
-    "viatsko/awesome-vscode": [],
     "vim-awesome/vim-awesome": [
         "Vim"
     ],
@@ -1516,27 +2658,41 @@
     "vim-python/python-syntax": [
         "Vim"
     ],
-    "vim/vim": [],
-    "vincentbernat/hellogopher": [],
+    "vim/vim": [
+        "Other"
+    ],
+    "vincentbernat/hellogopher": [
+        "Other"
+    ],
     "viniciuschiele/flask-apscheduler": [
         "Python"
     ],
-    "virgili0/Virgilio": [],
-    "vito/oci-build-task": [],
-    "vlang/v": [],
-    "volatiletech/authboss": [],
-    "vue-styleguidist/vue-styleguidist": [],
-    "vuejs/awesome-vue": [],
-    "vuejs/vue-next": [],
+    "virgili0/Virgilio": [
+        "Other"
+    ],
+    "vito/oci-build-task": [
+        "Other"
+    ],
+    "vlang/v": [
+        "Other"
+    ],
+    "volatiletech/authboss": [
+        "Other"
+    ],
+    "vue-styleguidist/vue-styleguidist": [
+        "Other"
+    ],
+    "vuejs/awesome-vue": [
+        "Other"
+    ],
+    "vuejs/vue-next": [
+        "Other"
+    ],
     "vuematerial/vue-material": [
         "Web/Vue"
     ],
     "vuetifyjs/vuetify": [
         "Web/Vue"
-    ],
-    "w0lfschild/MacForge": [],
-    "w0rp/ale": [
-        "Vim"
     ],
     "wangshub/wechat_jump_game": [
         "Chinese APP Hack/WeChat/Mini Program"
@@ -1544,62 +2700,121 @@
     "wangxian/alpine-mysql": [
         "Docker"
     ],
-    "webpack-contrib/postcss-loader": [],
-    "webpack/webpack": [],
-    "websanova/vue-auth": [],
-    "wengxt/gnome-shell-extension-kimpanel": [],
-    "wengxt/kimpanel-for-gnome-shell": [
-        "Linux/GUI/Desktop Environment/Gnome/Extension"
+    "webpack-contrib/postcss-loader": [
+        "Other"
     ],
-    "wenyan-lang/wenyan": [],
-    "wepyjs/wepy-weui-demo": [],
-    "wernight/docker-ngrok": [],
-    "wunderio/csi-rclone": [],
-    "wuye9036/CppTemplateTutorial": [],
-    "xdanaux/moderncv": [],
-    "xiaoxiunique/tool-tips": [],
+    "webpack/webpack": [
+        "Other"
+    ],
+    "websanova/vue-auth": [
+        "Other"
+    ],
+    "wengxt/gnome-shell-extension-kimpanel": [
+        "Other"
+    ],
+    "wenyan-lang/wenyan": [
+        "Other"
+    ],
+    "wepyjs/wepy-weui-demo": [
+        "Other"
+    ],
+    "wernight/docker-ngrok": [
+        "Other"
+    ],
+    "wunderio/csi-rclone": [
+        "Other"
+    ],
+    "wuye9036/CppTemplateTutorial": [
+        "Other"
+    ],
+    "xdanaux/moderncv": [
+        "Other"
+    ],
+    "xiaoxiunique/tool-tips": [
+        "Other"
+    ],
     "xiehuc/pidgin-lwqq": [
         "Chinese APP Hack/QQ"
     ],
-    "xingshaocheng/architect-awesome": [],
+    "xingshaocheng/architect-awesome": [
+        "Other"
+    ],
     "xuhdev/vim-latex-live-preview": [
         "Vim"
     ],
-    "xxf098/go-tun2socks-build": [],
+    "xxf098/go-tun2socks-build": [
+        "Other"
+    ],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [
         "Font"
     ],
     "yangyangwithgnu/use_vim_as_ide": [
         "Vim"
     ],
-    "yanue/V2rayU": [],
-    "ycm-core/YouCompleteMe": [],
+    "yanue/V2rayU": [
+        "Other"
+    ],
+    "ycm-core/YouCompleteMe": [
+        "Other"
+    ],
     "yidao620c/python3-cookbook": [
         "Python/Tutorial"
     ],
-    "yifeikong/reverse-interview-zh": [],
-    "yoda-pa/yoda": [],
-    "you-dont-need/You-Dont-Need-Momentjs": [],
-    "youzan/vant-weapp": [],
-    "yshui/picom": [],
+    "yifeikong/reverse-interview-zh": [
+        "Other"
+    ],
+    "yoda-pa/yoda": [
+        "Other"
+    ],
+    "you-dont-need/You-Dont-Need-Momentjs": [
+        "Other"
+    ],
+    "youzan/vant-weapp": [
+        "Other"
+    ],
+    "yshui/picom": [
+        "Other"
+    ],
     "yudai/gotty": [
         "Utility"
     ],
     "yuk7/ArchWSL": [
         "Windows/WSL"
     ],
-    "yunjey/pytorch-tutorial": [],
+    "yunjey/pytorch-tutorial": [
+        "Other"
+    ],
     "z3t0/Arduino-IRremote": [
         "Arduino"
     ],
-    "zbezj/HEU_KMS_Activator": [],
-    "zfl9/ss-tproxy": [],
-    "zh32/drtelemetry": [],
-    "zhangkaizhao/gnome-shell-extension-tray-icons": [],
-    "zhblue/hustoj": [],
-    "ziahamza/webui-aria2": [],
-    "zotero/zotero": [],
-    "zth/json-to-flowtype-generator": [],
-    "zzzeyez/pecan": [],
-    "zzzprojects/EntityFramework-Plus": []
+    "zbezj/HEU_KMS_Activator": [
+        "Other"
+    ],
+    "zfl9/ss-tproxy": [
+        "Other"
+    ],
+    "zh32/drtelemetry": [
+        "Other"
+    ],
+    "zhangkaizhao/gnome-shell-extension-tray-icons": [
+        "Other"
+    ],
+    "zhblue/hustoj": [
+        "Other"
+    ],
+    "ziahamza/webui-aria2": [
+        "Other"
+    ],
+    "zotero/zotero": [
+        "Other"
+    ],
+    "zth/json-to-flowtype-generator": [
+        "Other"
+    ],
+    "zzzeyez/pecan": [
+        "Other"
+    ],
+    "zzzprojects/EntityFramework-Plus": [
+        "Other"
+    ]
 }
