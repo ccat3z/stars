@@ -5,7 +5,8 @@
 
 # Inspiration
 
-[starred](https://github.com/maguowei/starred)
+* [maguowei/starred](https://github.com/maguowei/starred):
+  creating your own Awesome List by GitHub stars!
 
 # Contents
 
