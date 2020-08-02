@@ -1,6 +1,6 @@
 # Usage
 
-1. fork this repo
+1. generate a new repository from this template
 1. trigger github action
 
 # Inspiration
