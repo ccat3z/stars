@@ -18,7 +18,7 @@ jobs:
       run: pip install -r requirements.txt
     - name: Update Collection
       run: |
-        python star.py -t ${{ secrets.GITHUB_TOKEN }} > README.md
+        python star.py -t ${{ secrets.PERSONAL_GITHUB_TOKEN }} > README.md
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
