@@ -1,3 +1,5 @@
+#! env python3
+
 from github3 import GitHub
 from functools import total_ordering
 import json
