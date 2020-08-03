@@ -1121,6 +1121,9 @@
     "etcd-io/etcd": [
         "Other"
     ],
+    "etesync/etesync-dav": [
+        "Other"
+    ],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
