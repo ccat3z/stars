@@ -1035,6 +1035,7 @@
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+* [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
