@@ -506,6 +506,8 @@
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
+* [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
+* [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
@@ -1026,6 +1028,7 @@
 * [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
 * [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 * [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch): You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
+* [cmu-db/terrier](https://github.com/cmu-db/terrier): You know what this is...
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
@@ -1058,7 +1061,7 @@
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
-* [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Ultralight— lightweight, pure-GPU, HTML UI engine for desktop apps and games.
+* [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): A fast, lightweight, cross-platform HTML UI engine for apps and games.
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client.
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io

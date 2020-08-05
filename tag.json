@@ -859,6 +859,9 @@
     "cmu-db/peloton": [
         "Other"
     ],
+    "cmu-db/terrier": [
+        "Other"
+    ],
     "cobaltdisco/Google-Chinese-Results-Blocklist": [
         "Other"
     ],
@@ -2006,6 +2009,9 @@
     "nsf/termbox-go": [
         "Other"
     ],
+    "numetriclabz/awesome-db": [
+        "Other"
+    ],
     "ochinchina/supervisord": [
         "Other"
     ],
@@ -2094,6 +2100,9 @@
         "Other"
     ],
     "pimutils/khal": [
+        "Other"
+    ],
+    "pingcap/awesome-database-learning": [
         "Other"
     ],
     "pingcap/tidb": [
