@@ -1169,6 +1169,9 @@
     "facebook/react": [
         "Other"
     ],
+    "facebook/rocksdb": [
+        "Other"
+    ],
     "facebook/zstd": [
         "Other"
     ],
@@ -2293,6 +2296,9 @@
     ],
     "rprichard/wslbridge": [
         "Windows/WSL"
+    ],
+    "rqlite/rqlite": [
+        "Other"
     ],
     "rs/zerolog": [
         "Other"
