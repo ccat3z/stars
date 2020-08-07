@@ -742,6 +742,9 @@
     "binux/yaaw": [
         "Other"
     ],
+    "biokoda/actordb": [
+        "Other"
+    ],
     "bjcull/LinqExpander": [
         "Other"
     ],
@@ -869,6 +872,9 @@
         "Other"
     ],
     "cobaltdisco/Google-Chinese-Results-Blocklist": [
+        "Other"
+    ],
+    "cockroachdb/cockroach": [
         "Other"
     ],
     "coderstory/Mi-Purify": [
