@@ -577,6 +577,9 @@
     "alastairtree/LazyCache": [
         "Other"
     ],
+    "albertlauncher/albert": [
+        "Other"
+    ],
     "alecthomas/participle": [
         "Other"
     ],
@@ -1365,6 +1368,9 @@
         "Other"
     ],
     "hashicorp/nomad": [
+        "Other"
+    ],
+    "hashicorp/raft": [
         "Other"
     ],
     "hashicorp/vagrant": [
