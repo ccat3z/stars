@@ -569,6 +569,7 @@
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
+* [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -656,7 +657,7 @@
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A package manager for fish.
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): Insanely fast plugin manager for fish.
 * [takluyver/flit](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
