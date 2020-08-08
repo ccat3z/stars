@@ -986,6 +986,7 @@
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
+* [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed database middleware
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
