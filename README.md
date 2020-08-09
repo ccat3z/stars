@@ -677,6 +677,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
+* [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [davidcarlisle/geometry](https://github.com/davidcarlisle/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
