@@ -574,6 +574,9 @@
     "aknuds1/html-to-react": [
         "Other"
     ],
+    "akopytov/sysbench": [
+        "Other"
+    ],
     "alastairtree/LazyCache": [
         "Other"
     ],
@@ -765,6 +768,9 @@
     ],
     "boekkooi/openshift-cartridge-nginx": [
         "OpenShift"
+    ],
+    "boltdb/bolt": [
+        "Other"
     ],
     "boltgolt/howdy": [
         "Other"
@@ -1015,6 +1021,9 @@
     "dexidp/dex": [
         "Other"
     ],
+    "dgraph-io/dgraph": [
+        "Other"
+    ],
     "digint/btrbk": [
         "Other"
     ],
@@ -1101,6 +1110,9 @@
         "Unity"
     ],
     "elasticdog/transcrypt": [
+        "Other"
+    ],
+    "eli-schwartz/aurpublish": [
         "Other"
     ],
     "emasab/shelltile": [
@@ -1761,6 +1773,9 @@
     "ligurio/awesome-ci": [
         "Other"
     ],
+    "lilydjwg/nvchecker": [
+        "Other"
+    ],
     "lingfengsan/MillionHero": [
         "Utility"
     ],
@@ -2133,6 +2148,12 @@
         "Other"
     ],
     "pimutils/khal": [
+        "Other"
+    ],
+    "pingcap-incubator/tinykv": [
+        "Other"
+    ],
+    "pingcap-incubator/tinysql": [
         "Other"
     ],
     "pingcap/awesome-database-learning": [
