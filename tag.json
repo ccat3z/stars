@@ -805,6 +805,9 @@
     "bytegust/spm": [
         "Linux/Utility"
     ],
+    "caddy-dns/cloudflare": [
+        "Other"
+    ],
     "caddyserver/certmagic": [
         "Other"
     ],
