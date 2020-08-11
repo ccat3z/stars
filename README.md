@@ -537,6 +537,7 @@
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set an animated battery as desktop wallpaper.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
+* [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
@@ -728,6 +729,7 @@
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 他妈的我终于能用谷歌搜中文了
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
+* [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
@@ -815,6 +817,7 @@
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
+* [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library

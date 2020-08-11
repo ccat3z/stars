@@ -925,6 +925,9 @@
     "corbindavenport/creative-cloud-linux": [
         "Other"
     ],
+    "coreos/license-bill-of-materials": [
+        "Other"
+    ],
     "crossoverJie/JCSprout": [
         "Other"
     ],
@@ -1158,6 +1161,9 @@
         "Other"
     ],
     "essensoft/payment": [
+        "Other"
+    ],
+    "etcd-io/bbolt": [
         "Other"
     ],
     "etcd-io/etcd": [
@@ -1877,6 +1883,9 @@
         "Linux/Device/Surface"
     ],
     "mattingalls/Soundflower": [
+        "Other"
+    ],
+    "mattn/goreman": [
         "Other"
     ],
     "mattzeunert/CSS-Todo-App": [
