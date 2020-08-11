@@ -665,7 +665,7 @@
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): Insanely fast plugin manager for fish.
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for fish—the friendly interactive shell.
 * [takluyver/flit](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
