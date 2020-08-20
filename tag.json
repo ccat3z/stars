@@ -859,6 +859,9 @@
     "celery/celery": [
         "Other"
     ],
+    "ceph/ceph": [
+        "Other"
+    ],
     "cesanta/docker_auth": [
         "Other"
     ],
@@ -2560,6 +2563,9 @@
         "Nextcloud"
     ],
     "stephenh/mirror": [
+        "Other"
+    ],
+    "stevenjoezhang/live2d-widget": [
         "Other"
     ],
     "stilliard/docker-pure-ftpd": [

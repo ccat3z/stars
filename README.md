@@ -568,6 +568,7 @@
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
+* [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple machines, securely.
@@ -824,6 +825,7 @@
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
 * [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
+* [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
