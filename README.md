@@ -1093,7 +1093,7 @@
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
-* [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): A fast, lightweight, cross-platform HTML UI engine for apps and games.
+* [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Fast, lightweight HTML UI engine for apps and games
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client.
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
