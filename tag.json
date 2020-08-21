@@ -871,9 +871,6 @@
     "chef/chef": [
         "Other"
     ],
-    "chemzqm/wept": [
-        "WeChat/Mini Program/Develop"
-    ],
     "chkimes/graphql-net": [
         "Other"
     ],
@@ -2833,6 +2830,9 @@
         "Other"
     ],
     "wernight/docker-ngrok": [
+        "Other"
+    ],
+    "wetools/wept": [
         "Other"
     ],
     "wunderio/csi-rclone": [
