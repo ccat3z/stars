@@ -466,6 +466,7 @@
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
+* [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
