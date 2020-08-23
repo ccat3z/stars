@@ -473,6 +473,7 @@
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
+* [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, GPU-accelerated terminal emulator
 * [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
@@ -786,6 +787,7 @@
 * [Bajoja/indicator-kdeconnect](https://github.com/Bajoja/indicator-kdeconnect): AppIndicator for KDE Connect
 * [Kong/insomnia](https://github.com/Kong/insomnia): The Open Source API Client and Design Platform for GraphQL and REST ->
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
+* [smxi/inxi](https://github.com/smxi/inxi): inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. 
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller

@@ -583,6 +583,9 @@
     "akopytov/sysbench": [
         "Other"
     ],
+    "alacritty/alacritty": [
+        "Other"
+    ],
     "alastairtree/LazyCache": [
         "Other"
     ],
@@ -2509,6 +2512,9 @@
         "Vim"
     ],
     "slacka/WoeUSB": [
+        "Other"
+    ],
+    "smxi/inxi": [
         "Other"
     ],
     "snachx/gfwlist2privoxy": [
