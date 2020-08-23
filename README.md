@@ -923,7 +923,7 @@
 * [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
-* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 (previously a compton fork)
+* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
