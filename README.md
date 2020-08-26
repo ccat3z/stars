@@ -919,6 +919,7 @@
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
+* [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
 * [essensoft/payment](https://github.com/essensoft/payment): Payment 是基于 .NET Core / ASP.NET Core  开发，支持多商户的跨平台支付SDK集。简化了API调用及相关通知的处理流程。目前支持：支付宝(Alipay)、微信支付(WeChatPay)
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
