@@ -687,6 +687,7 @@
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [davidcarlisle/geometry](https://github.com/davidcarlisle/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
+* [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
