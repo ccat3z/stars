@@ -482,7 +482,6 @@
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
-* [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
@@ -719,6 +718,7 @@
 * [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms Implemented in GoLang
+* [alexflint/go-arg](https://github.com/alexflint/go-arg): Struct-based argument parsing in Go
 * [square/go-jose](https://github.com/square/go-jose): An implementation of JOSE standards (JWE, JWS, JWT) in Go
 * [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver): Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
@@ -969,6 +969,7 @@
 * [hashicorp/raft](https://github.com/hashicorp/raft): Golang implementation of the Raft consensus protocol
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
+* [kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor): 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting

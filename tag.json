@@ -598,6 +598,9 @@
     "alecthomas/participle": [
         "Other"
     ],
+    "alexflint/go-arg": [
+        "Other"
+    ],
     "alexzielenski/Mousecape": [
         "Other"
     ],
@@ -1696,6 +1699,9 @@
     ],
     "keybuk/libnih": [
         "C"
+    ],
+    "kgco/RateMySupervisor": [
+        "Other"
     ],
     "kgshank/gse-refresh-wifi": [
         "Other"
