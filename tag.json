@@ -1559,6 +1559,9 @@
     "janeczku/calibre-web": [
         "Utility"
     ],
+    "jantimon/iconfont-webpack-plugin": [
+        "Other"
+    ],
     "jasonlvhit/gocron": [
         "Other"
     ],
