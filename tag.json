@@ -166,9 +166,6 @@
     "Gioni06/terminal.css": [
         "Other"
     ],
-    "Gozala/events": [
-        "Other"
-    ],
     "Guake/guake": [
         "Other"
     ],
@@ -806,6 +803,9 @@
         "Other"
     ],
     "brndnmtthws/conky": [
+        "Other"
+    ],
+    "browserify/events": [
         "Other"
     ],
     "browserpass/browserpass-extension": [
