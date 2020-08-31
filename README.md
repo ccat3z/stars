@@ -461,7 +461,7 @@
 
 # Other
 
-* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2020年研究生-408 
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
