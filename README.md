@@ -941,6 +941,7 @@
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): 📦🚀 Fast, disk space efficient package manager
 * [pigigaldi/Pock](https://github.com/pigigaldi/Pock): Display macOS Dock in Touch Bar
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
+* [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 * [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader): PostCSS loader for webpack
 * [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
