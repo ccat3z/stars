@@ -2532,6 +2532,9 @@
     "skywind3000/asyncrun.vim": [
         "Other"
     ],
+    "skywind3000/kcp": [
+        "Other"
+    ],
     "skywind3000/vim": [
         "Vim"
     ],
@@ -2846,6 +2849,9 @@
     ],
     "wangxian/alpine-mysql": [
         "Docker"
+    ],
+    "wangyu-/udp2raw-tunnel": [
+        "Other"
     ],
     "webpack-contrib/postcss-loader": [
         "Other"
