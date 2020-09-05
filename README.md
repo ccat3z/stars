@@ -541,6 +541,7 @@
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set an animated battery as desktop wallpaper.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
 * [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
+* [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
@@ -1112,6 +1113,7 @@
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Fast, lightweight HTML UI engine for apps and games
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client.
+* [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 * [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
