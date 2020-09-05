@@ -492,6 +492,7 @@
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
+* [jnsh/arc-theme](https://github.com/jnsh/arc-theme): A flat theme with transparent elements (actively maintained fork)
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
