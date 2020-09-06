@@ -1033,6 +1033,7 @@
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
 * [kouya/snownews](https://github.com/kouya/snownews): Snownews is a command-line RSS feed reader. It runs on everything Unix.
+* [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
