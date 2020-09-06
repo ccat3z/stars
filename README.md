@@ -328,7 +328,7 @@
 
 # Jekyll
 
-* [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): :sparkles: Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+* [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [kronik3r/daktilo](https://github.com/kronik3r/daktilo): A Jekyll theme with a minimal design inspired by typewriters.
 * [imsun/gitment](https://github.com/imsun/gitment): A comment system based on GitHub Issues.
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
