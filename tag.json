@@ -2114,6 +2114,9 @@
     "niudai/How-to-be-a-good-programmer": [
         "Other"
     ],
+    "nix-community/home-manager": [
+        "Other"
+    ],
     "noctuid/tdrop": [
         "Other"
     ],
@@ -2439,9 +2442,6 @@
         "Other"
     ],
     "ryanoasis/nerd-fonts": [
-        "Other"
-    ],
-    "rycee/home-manager": [
         "Other"
     ],
     "sabre-io/Baikal": [
