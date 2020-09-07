@@ -964,6 +964,7 @@
 * [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Headless Chrome Node.js API
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
+* [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
@@ -1010,6 +1011,7 @@
 * [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
+* [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite.
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.

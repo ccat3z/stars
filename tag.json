@@ -2321,6 +2321,9 @@
     "pyenv/pyenv": [
         "Other"
     ],
+    "pygments/pygments": [
+        "Other"
+    ],
     "pypa/pipenv": [
         "Python"
     ],
@@ -2413,6 +2416,9 @@
     ],
     "rosghub/TLP-Switcher": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "rouge-ruby/rouge": [
+        "Other"
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
