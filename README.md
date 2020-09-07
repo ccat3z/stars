@@ -513,6 +513,7 @@
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
+* [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
 * [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
