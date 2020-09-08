@@ -1433,6 +1433,9 @@
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
+    "hanickadot/compile-time-regular-expressions": [
+        "Other"
+    ],
     "hanwen/go-fuse": [
         "Go"
     ],
