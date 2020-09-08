@@ -768,7 +768,7 @@
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
-* [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix
+* [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Moved
 * [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 💀 Homebrew/homebrew-livecheck (deprecated)
