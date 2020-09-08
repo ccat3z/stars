@@ -889,6 +889,9 @@
     "cesanta/docker_auth": [
         "Other"
     ],
+    "checkpoint-restore/criu": [
+        "Other"
+    ],
     "chef/chef": [
         "Other"
     ],
@@ -2218,6 +2221,9 @@
     ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "phuhl/linux_notification_center": [
+        "Other"
     ],
     "phw/peek": [
         "Other"

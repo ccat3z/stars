@@ -596,6 +596,7 @@
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
+* [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [pivotal-cf-experimental/cron-resource](https://github.com/pivotal-cf-experimental/cron-resource): None
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
@@ -840,6 +841,7 @@
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
 * [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
+* [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
