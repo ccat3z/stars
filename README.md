@@ -904,6 +904,7 @@
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
+* [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [tonyqus/npoi](https://github.com/tonyqus/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
@@ -1081,7 +1082,6 @@
 * [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
 * [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 * [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch): You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
-* [cmu-db/terrier](https://github.com/cmu-db/terrier): You know what this is...
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
