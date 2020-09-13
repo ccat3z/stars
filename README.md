@@ -619,6 +619,7 @@
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
 * [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
+* [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
