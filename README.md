@@ -1071,6 +1071,7 @@
 * [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
 * [TablePlus/TablePlus-Linux](https://github.com/TablePlus/TablePlus-Linux):  TablePlus Linux issue tracker
 * [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi): Free and open source manga reader for Android
+* [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.jd.com/
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
@@ -1300,7 +1301,6 @@
 * [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim): Using the jedi autocompletion library for VIM.
 * [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 * [vim-python/python-syntax](https://github.com/vim-python/python-syntax): Python syntax highlighting for Vim
-* [majutsushi/tagbar](https://github.com/majutsushi/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide): use vim as IDE
 * [skywind3000/vim](https://github.com/skywind3000/vim): Personal Vim Profile

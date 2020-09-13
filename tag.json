@@ -1912,9 +1912,6 @@
     "maguowei/starred": [
         "GitHub"
     ],
-    "majutsushi/tagbar": [
-        "Vim"
-    ],
     "manisandro/gImageReader": [
         "Other"
     ],
@@ -2301,6 +2298,9 @@
         "Other"
     ],
     "preservim/nerdtree": [
+        "Other"
+    ],
+    "preservim/tagbar": [
         "Other"
     ],
     "prikhi/lightdm-mini-greeter": [
