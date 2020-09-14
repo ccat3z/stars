@@ -622,6 +622,8 @@
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
+* [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars and other key-value mappings without a server
+* [39aldo39/DecSyncCC](https://github.com/39aldo39/DecSyncCC): Android app to sync contacts and calendars without a server using DecSync
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
@@ -674,6 +676,7 @@
 * [etesync/etesync-dav](https://github.com/etesync/etesync-dav): This is a CalDAV and CardDAV adapter for EteSync
 * [browserify/events](https://github.com/browserify/events): Node's event emitter for all engines.
 * [samyk/evercookie](https://github.com/samyk/evercookie): Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
+* [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
