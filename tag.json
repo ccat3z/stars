@@ -1448,6 +1448,9 @@
     "graphql/graphiql": [
         "Other"
     ],
+    "graphql/graphql-playground": [
+        "Other"
+    ],
     "greenrobot/greenDAO": [
         "Android"
     ],
@@ -2334,9 +2337,6 @@
         "Linux/GUI/Display Manager"
     ],
     "printempw/blessing-skin-server": [
-        "Other"
-    ],
-    "prisma-labs/graphql-playground": [
         "Other"
     ],
     "prisma-labs/graphql-request": [
