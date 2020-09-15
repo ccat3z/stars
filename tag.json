@@ -68,6 +68,9 @@
     "Blankj/awesome-comment": [
         "Other"
     ],
+    "Byron/gitoxide": [
+        "Other"
+    ],
     "C4ptainCrunch/ics.py": [
         "Other"
     ],
@@ -249,6 +252,9 @@
     ],
     "KSP-CKAN/CKAN": [
         "Game/KSP"
+    ],
+    "Kagami/go-face": [
+        "Other"
     ],
     "KaitoHH/AnyCodeToBmp": [
         "Other"
@@ -1169,6 +1175,9 @@
     "eli-schwartz/aurpublish": [
         "Other"
     ],
+    "elves/elvish": [
+        "Other"
+    ],
     "emasab/shelltile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -1305,6 +1314,9 @@
         "Other"
     ],
     "formium/tsdx": [
+        "Other"
+    ],
+    "foxcpp/maddy": [
         "Other"
     ],
     "frogatto/frogatto": [
@@ -1890,6 +1902,9 @@
     "lltcggie/waifu2x-caffe": [
         "Utility",
         "Machine Learning"
+    ],
+    "llvm/llvm-project": [
+        "Other"
     ],
     "lodash/lodash": [
         "Other"
