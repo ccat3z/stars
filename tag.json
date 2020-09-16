@@ -964,9 +964,6 @@
     "concourse/registry-image-resource": [
         "Other"
     ],
-    "containous/traefik": [
-        "Other"
-    ],
     "containrrr/watchtower": [
         "Other"
     ],
@@ -2797,6 +2794,9 @@
         "Other"
     ],
     "tqdm/tqdm": [
+        "Other"
+    ],
+    "traefik/traefik": [
         "Other"
     ],
     "trazyn/ieaseMusic": [
