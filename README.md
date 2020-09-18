@@ -935,6 +935,7 @@
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS.
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
+* [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
