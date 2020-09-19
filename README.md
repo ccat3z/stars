@@ -1024,7 +1024,7 @@
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
-* [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject zygote process by replace libmemtrack
+* [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [ifreund/river](https://github.com/ifreund/river): A dynamic tiling wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): Rofi Based Custom Applets And Menus.
