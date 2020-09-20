@@ -1229,6 +1229,9 @@
     "etesync/etesync-dav": [
         "Other"
     ],
+    "etesync/server": [
+        "Other"
+    ],
     "ety001/wx_msg": [
         "Chinese APP Hack/WeChat"
     ],
