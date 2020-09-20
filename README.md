@@ -1173,7 +1173,7 @@
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free
 * [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll): Infinite scroll component for Vue.js 2
-* [vuejs/vue-next](https://github.com/vuejs/vue-next): Repo for Vue 3.0 (currently in RC)
+* [vuejs/vue-next](https://github.com/vuejs/vue-next): Repo for Vue 3.0
 * [posva/vue-promised](https://github.com/posva/vue-promised): 💝 Promises as components
 * [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
