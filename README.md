@@ -233,7 +233,7 @@
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
 * [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
-* [portainer/portainer](https://github.com/portainer/portainer): Making Docker management easy.
+* [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
 
