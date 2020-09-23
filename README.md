@@ -1122,7 +1122,7 @@
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
-* [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Edge Router
+* [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
