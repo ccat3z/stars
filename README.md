@@ -618,7 +618,7 @@
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 一个到处借鉴得来的Java数据结构和算法的学习代码
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
-* [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+* [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 * [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
