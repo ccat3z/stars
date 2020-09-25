@@ -1993,9 +1993,6 @@
     "mayswind/AriaNg": [
         "Other"
     ],
-    "mcollina/fastify-gql": [
-        "Other"
-    ],
     "mcuadros/ofelia": [
         "Other"
     ],
@@ -2015,6 +2012,9 @@
         "Other"
     ],
     "menzi11/BullshitGenerator": [
+        "Other"
+    ],
+    "mercurius-graphql/fastify-gql": [
         "Other"
     ],
     "mesonbuild/meson": [

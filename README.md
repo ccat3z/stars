@@ -681,7 +681,7 @@
 * [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
 * [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
-* [mcollina/fastify-gql](https://github.com/mcollina/fastify-gql): Fastify GraphQL adapter
+* [mercurius-graphql/fastify-gql](https://github.com/mercurius-graphql/fastify-gql): Fastify GraphQL adapter
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
