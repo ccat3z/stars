@@ -1204,6 +1204,7 @@
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [microsoft/winget-cli](https://github.com/microsoft/winget-cli): Windows Package Manager CLI (aka winget)
 * [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs): The Microsoft community Windows Package Manager manifest repository
+* [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android): Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [kitten/wonka](https://github.com/kitten/wonka): 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
 * [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL

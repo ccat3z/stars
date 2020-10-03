@@ -523,6 +523,9 @@
     "Windos/BurntToast": [
         "Windows/PowerShell"
     ],
+    "WireGuard/wireguard-android": [
+        "Other"
+    ],
     "WrBug/dumpDex": [
         "Other"
     ],
