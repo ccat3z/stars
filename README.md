@@ -645,6 +645,7 @@
 * [wernight/docker-duplicity](https://github.com/wernight/docker-duplicity): Dockerize "duplicity" backup tool.
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
+* [theasp/docker-novnc](https://github.com/theasp/docker-novnc): noVNC Display Container for Docker
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
