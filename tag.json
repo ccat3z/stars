@@ -86,6 +86,9 @@
     "D4rCM4rC/MagiskSSH": [
         "Android/Magick"
     ],
+    "DIYgod/RSSHub": [
+        "Other"
+    ],
     "DaveGamble/cJSON": [
         "C/JSON",
         "JSON"
@@ -871,6 +874,9 @@
     "bytegust/spm": [
         "Linux/Utility"
     ],
+    "c-bata/go-prompt": [
+        "Other"
+    ],
     "caddy-dns/cloudflare": [
         "Other"
     ],
@@ -899,6 +905,9 @@
         "Other"
     ],
     "cbeust/klaxon": [
+        "Other"
+    ],
+    "cblp/yaml-sucks": [
         "Other"
     ],
     "cbrnix/Newaita": [

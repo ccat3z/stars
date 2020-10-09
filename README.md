@@ -740,6 +740,7 @@
 * [Kagami/go-face](https://github.com/Kagami/go-face): :mag: Face recognition with Go
 * [square/go-jose](https://github.com/square/go-jose): An implementation of JOSE standards (JWE, JWS, JWT) in Go
 * [sourcegraph/go-langserver](https://github.com/sourcegraph/go-langserver): Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
+* [c-bata/go-prompt](https://github.com/c-bata/go-prompt): Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray support for Android
@@ -1038,6 +1039,7 @@
 * [siger-young/ropez](https://github.com/siger-young/ropez): RopeZ
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite.
+* [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
@@ -1226,6 +1228,7 @@
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
+* [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
