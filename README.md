@@ -903,6 +903,7 @@
 * [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+* [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
 * [ImVexed/muon](https://github.com/ImVexed/muon): GPU based Electron on a diet
 * [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
 * [gorilla/mux](https://github.com/gorilla/mux): A powerful HTTP router and URL matcher for building Go web servers with 🦍
