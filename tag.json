@@ -2588,9 +2588,6 @@
     "sickcodes/Docker-OSX": [
         "Other"
     ],
-    "sickp/docker-alpine-sshd": [
-        "Docker"
-    ],
     "siger-young/ropez": [
         "Other"
     ],
@@ -2842,6 +2839,9 @@
         "Other"
     ],
     "traefik/traefik": [
+        "Other"
+    ],
+    "trashpanda-dj/docker-alpine-sshd": [
         "Other"
     ],
     "trazyn/ieaseMusic": [

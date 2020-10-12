@@ -228,7 +228,6 @@
 # Docker
 
 * [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
-* [sickp/docker-alpine-sshd](https://github.com/sickp/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
@@ -638,6 +637,7 @@
 * [docker/distribution](https://github.com/docker/distribution): The Docker toolset to pack, ship, store, and deliver content
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
+* [trashpanda-dj/docker-alpine-sshd](https://github.com/trashpanda-dj/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
 * [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp): 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
