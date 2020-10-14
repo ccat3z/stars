@@ -940,7 +940,7 @@
 * [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 * [themix-project/oomox](https://github.com/themix-project/oomox): Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
 * [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
-* [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS.
+* [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
