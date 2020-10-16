@@ -2068,6 +2068,9 @@
     "microsoft/winget-pkgs": [
         "Other"
     ],
+    "mitchellh/mapstructure": [
+        "Other"
+    ],
     "mitmproxy/mitmproxy": [
         "Other"
     ],
