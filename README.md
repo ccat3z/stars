@@ -1052,7 +1052,7 @@
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
-* [etesync/server](https://github.com/etesync/server): The EteSync server (so you can run your own)
+* [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed database middleware
