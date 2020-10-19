@@ -578,7 +578,7 @@
 * [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
-* [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple machines, securely.
+* [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
