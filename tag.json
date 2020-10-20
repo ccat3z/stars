@@ -2183,6 +2183,9 @@
     "nhaarman/mockito-kotlin": [
         "Other"
     ],
+    "nissl-lab/npoi": [
+        "Other"
+    ],
     "niudai/How-to-be-a-good-programmer": [
         "Other"
     ],
@@ -2833,9 +2836,6 @@
         "Other"
     ],
     "tonybeltramelli/pix2code": [
-        "Other"
-    ],
-    "tonyqus/npoi": [
         "Other"
     ],
     "tpope/vim-eunuch": [

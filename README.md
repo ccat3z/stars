@@ -929,7 +929,7 @@
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [qgaye/note](https://github.com/qgaye/note): just note
-* [tonyqus/npoi](https://github.com/tonyqus/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+* [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
 * [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
