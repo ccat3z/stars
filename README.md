@@ -900,6 +900,7 @@
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [moq/moq4](https://github.com/moq/moq4): Repo for managing Moq 4.x 
+* [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
 * [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
