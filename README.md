@@ -1238,6 +1238,7 @@
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): None
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
+* [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
