@@ -1848,6 +1848,9 @@
     "kvalo/ath10k-firmware": [
         "Linux/Kernel"
     ],
+    "kvalo/ath11k-firmware": [
+        "Other"
+    ],
     "kwk/docker-registry-setup": [
         "Other"
     ],
