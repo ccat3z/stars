@@ -11,6 +11,9 @@
     "39aldo39/Evolution-DecSync": [
         "Other"
     ],
+    "42wim/matterbridge": [
+        "Other"
+    ],
     "4Catalyzer/astroturf": [
         "Other"
     ],
@@ -566,6 +569,9 @@
         "Android/Xposed"
     ],
     "abiosoft/caddy-docker": [
+        "Other"
+    ],
+    "abraunegg/onedrive": [
         "Other"
     ],
     "acmesh-official/acme.sh": [
@@ -2381,6 +2387,9 @@
     "preservim/tagbar": [
         "Other"
     ],
+    "prettier/prettier": [
+        "Other"
+    ],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],
@@ -3004,6 +3013,9 @@
         "Other"
     ],
     "wetools/wept": [
+        "Other"
+    ],
+    "willdoescode/nat": [
         "Other"
     ],
     "wunderio/csi-rclone": [
