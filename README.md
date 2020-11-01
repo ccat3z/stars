@@ -463,6 +463,7 @@
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2020年研究生-408 
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
+* [c0re100/500](https://github.com/c0re100/500): Github Server Error 500
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
