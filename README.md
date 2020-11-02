@@ -661,6 +661,7 @@
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
+* [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android.
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [drone/drone-cli](https://github.com/drone/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
