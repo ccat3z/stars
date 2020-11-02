@@ -382,6 +382,9 @@
     "Phantas0s/devdash": [
         "Other"
     ],
+    "PipeWire/pipewire": [
+        "Other"
+    ],
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
