@@ -2264,6 +2264,9 @@
     "openSUSE/snapper": [
         "Other"
     ],
+    "openstack/stevedore": [
+        "Other"
+    ],
     "optimisme/gjs-examples": [
         "Other"
     ],
@@ -2289,6 +2292,12 @@
         "Other"
     ],
     "paperwm/PaperWM": [
+        "Other"
+    ],
+    "papis/papis": [
+        "Other"
+    ],
+    "papis/papis-zotero": [
         "Other"
     ],
     "paradoxxxzero/gnome-shell-system-monitor-applet": [

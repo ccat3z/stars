@@ -961,6 +961,8 @@
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 * [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for Gnome Shell
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
+* [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
+* [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatiblity scripts for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
@@ -1090,6 +1092,7 @@
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
+* [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
