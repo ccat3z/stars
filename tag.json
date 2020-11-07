@@ -2823,6 +2823,9 @@
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
+    "termux/termux-services": [
+        "Other"
+    ],
     "tesseract-ocr/tesseract": [
         "Other"
     ],
