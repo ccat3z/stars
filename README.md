@@ -972,6 +972,7 @@
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
+* [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
