@@ -1589,6 +1589,9 @@
     "huanghongxun/HMCL": [
         "Other"
     ],
+    "huggingface/transformers": [
+        "Other"
+    ],
     "huihut/interview": [
         "Other"
     ],
@@ -3055,6 +3058,9 @@
         "Other"
     ],
     "wetools/wept": [
+        "Other"
+    ],
+    "wgwoods/vim-systemd-syntax": [
         "Other"
     ],
     "willdoescode/nat": [

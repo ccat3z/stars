@@ -1151,6 +1151,7 @@
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
+* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
@@ -1188,6 +1189,7 @@
 * [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
+* [wgwoods/vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax): syntax highlighting and filetype detection for systemd unit files
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
