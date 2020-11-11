@@ -1183,7 +1183,7 @@
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-* [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security. 
+* [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
 * [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
 * [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger
