@@ -1499,6 +1499,9 @@
     "graphql/graphql-playground": [
         "Other"
     ],
+    "greenpau/caddy-auth-portal": [
+        "Other"
+    ],
     "greenrobot/greenDAO": [
         "Android"
     ],
