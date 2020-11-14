@@ -1583,6 +1583,9 @@
     "hrdwrrsk/adementary-theme": [
         "Other"
     ],
+    "hsxhr-10/scheduler": [
+        "Other"
+    ],
     "http-party/http-server": [
         "Other"
     ],
@@ -2445,9 +2448,6 @@
         "Other"
     ],
     "proxyee-down-org/proxyee-down": [
-        "Other"
-    ],
-    "prprprus/scheduler": [
         "Other"
     ],
     "psf/requests-html": [
