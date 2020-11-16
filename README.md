@@ -127,7 +127,7 @@
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
-* [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 10.0 in business version)
+* [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 11.0 in business version)
 
 ## APP
 
