@@ -1562,6 +1562,12 @@
     "hertogp/imagine": [
         "Other"
     ],
+    "hexsum/Mojo-Webqq": [
+        "Other"
+    ],
+    "hexsum/Mojo-Weixin": [
+        "Other"
+    ],
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
@@ -2668,12 +2674,6 @@
     ],
     "sitaramc/gitolite": [
         "Other"
-    ],
-    "sjdy521/Mojo-Webqq": [
-        "Chinese APP Hack/QQ"
-    ],
-    "sjdy521/Mojo-Weixin": [
-        "Chinese APP Hack/WeChat"
     ],
     "skilion/onedrive": [
         "Linux/Utility"
