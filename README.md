@@ -1168,7 +1168,7 @@
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
-* [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client.
+* [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 * [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
