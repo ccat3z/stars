@@ -1051,7 +1051,7 @@
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [ifreund/river](https://github.com/ifreund/river): A dynamic tiling wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
-* [adi1090x/rofi](https://github.com/adi1090x/rofi): Rofi Based Custom Applets And Menus.
+* [adi1090x/rofi](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
