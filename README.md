@@ -1022,6 +1022,7 @@
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
 * [hashicorp/raft](https://github.com/hashicorp/raft): Golang implementation of the Raft consensus protocol
+* [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG): 程序员要讲码德，耗子尾汁，好好反思！
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor): 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
