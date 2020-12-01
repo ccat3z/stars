@@ -1805,6 +1805,9 @@
     "k0shk0sh/FastHub": [
         "Android/APP"
     ],
+    "k3s-io/k3s": [
+        "Other"
+    ],
     "kamranahmedse/developer-roadmap": [
         "Other"
     ],
@@ -2502,9 +2505,6 @@
         "Other"
     ],
     "ramda/ramda": [
-        "Other"
-    ],
-    "rancher/k3s": [
         "Other"
     ],
     "rclone/rclone": [
