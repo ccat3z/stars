@@ -2372,12 +2372,6 @@
     "pimutils/khal": [
         "Other"
     ],
-    "pingcap-incubator/tinykv": [
-        "Other"
-    ],
-    "pingcap-incubator/tinysql": [
-        "Other"
-    ],
     "pingcap/awesome-database-learning": [
         "Other"
     ],
@@ -2857,6 +2851,12 @@
         "Other"
     ],
     "thestinger/termite": [
+        "Other"
+    ],
+    "tidb-incubator/tinykv": [
+        "Other"
+    ],
+    "tidb-incubator/tinysql": [
         "Other"
     ],
     "tikv/tikv": [

@@ -1140,8 +1140,8 @@
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
-* [pingcap-incubator/tinykv](https://github.com/pingcap-incubator/tinykv): A course to build distributed key-value service based on TiKV model
-* [pingcap-incubator/tinysql](https://github.com/pingcap-incubator/tinysql): A course to build the SQL layer of a distributed database.
+* [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv): A course to build distributed key-value service based on TiKV model
+* [tidb-incubator/tinysql](https://github.com/tidb-incubator/tinysql): A course to build the SQL layer of a distributed database.
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Persists tmux environment across system restarts.
 * [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
