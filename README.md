@@ -492,6 +492,7 @@
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
 * [jnsh/arc-theme](https://github.com/jnsh/arc-theme): A flat theme with transparent elements (actively maintained fork)
+* [RobertCsordas/arch-efiboot](https://github.com/RobertCsordas/arch-efiboot): Boot EFISTUB linux kernels on UEFI systems not supporting kernel command line
 * [berberman/arch-hs](https://github.com/berberman/arch-hs): Distribute hackage packages to archlinux
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
