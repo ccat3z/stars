@@ -541,6 +541,7 @@
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [aaron-williamson/base16-alacritty](https://github.com/aaron-williamson/base16-alacritty): Base16 for Alacritty
 * [khamer/base16-termite](https://github.com/khamer/base16-termite): None
+* [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set an animated battery as desktop wallpaper.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
@@ -930,6 +931,7 @@
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+* [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
