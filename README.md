@@ -871,7 +871,7 @@
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [axkibe/lsyncd](https://github.com/axkibe/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
-* [lutris/lutris](https://github.com/lutris/lutris): Lutris client - Open Source gaming platform for GNU/Linux
+* [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 * [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
 * [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server.
