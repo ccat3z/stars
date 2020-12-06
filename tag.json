@@ -2522,6 +2522,9 @@
     "realywithoutname/mini-program-webpack-loader": [
         "Other"
     ],
+    "redis/redis": [
+        "Other"
+    ],
     "remaxjs/remax": [
         "Other"
     ],
