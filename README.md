@@ -166,7 +166,6 @@
 # Arduino
 
 * [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
-* [z3t0/Arduino-IRremote](https://github.com/z3t0/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
 * [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
 * [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
@@ -496,6 +495,7 @@
 * [berberman/arch-hs](https://github.com/berberman/arch-hs): Distribute hackage packages to archlinux
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
+* [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹

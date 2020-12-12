@@ -44,6 +44,9 @@
     "AppImage/AppImageKit": [
         "Other"
     ],
+    "Arduino-IRremote/Arduino-IRremote": [
+        "Other"
+    ],
     "AutoMapper/AutoMapper": [
         "Other"
     ],
@@ -3164,9 +3167,6 @@
     ],
     "yunjey/pytorch-tutorial": [
         "Other"
-    ],
-    "z3t0/Arduino-IRremote": [
-        "Arduino"
     ],
     "zbezj/HEU_KMS_Activator": [
         "Other"
