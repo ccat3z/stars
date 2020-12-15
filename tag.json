@@ -1673,9 +1673,6 @@
     "imsun/gitment": [
         "Jekyll"
     ],
-    "inorichi/tachiyomi": [
-        "Other"
-    ],
     "int128/wslexec": [
         "Other"
     ],
@@ -2827,6 +2824,9 @@
     ],
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
+    ],
+    "tachiyomiorg/tachiyomi": [
+        "Other"
     ],
     "tadly/hideIt.sh": [
         "Other"
