@@ -364,6 +364,9 @@
     "NLog/NLog": [
         "Other"
     ],
+    "NLog/NLog.Extensions.Logging": [
+        "Other"
+    ],
     "Nanguage/Rainbow-Fart-MBG": [
         "Other"
     ],
