@@ -232,9 +232,6 @@
     "JeffreySu/WeiXinMPSDK": [
         "Other"
     ],
-    "JeziL/caj2pdf": [
-        "Other"
-    ],
     "Jguer/yay": [
         "Other"
     ],
@@ -932,6 +929,9 @@
         "Other"
     ],
     "caddyserver/xcaddy": [
+        "Other"
+    ],
+    "caj2pdf/caj2pdf": [
         "Other"
     ],
     "caldwell/daemon-manager": [
