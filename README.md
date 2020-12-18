@@ -840,6 +840,7 @@
 * [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
 * [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android): Native Android port of the KDE Connect Qt app
 * [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): Multi-platform app that allows your devices to communicate
+* [fgheng/keysound](https://github.com/fgheng/keysound): keyboard sound for linux
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
