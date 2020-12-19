@@ -735,7 +735,7 @@
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
-* [andyholmes/gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
+* [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
 * [wengxt/gnome-shell-extension-kimpanel](https://github.com/wengxt/gnome-shell-extension-kimpanel): KDE kimpanel protocol for gnome shell
 * [repsac-by/gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode): It's a GNOME Shell extension adds support quake-mode for any application

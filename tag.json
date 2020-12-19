@@ -181,6 +181,9 @@
     "GPGTools/pinentry-mac": [
         "Other"
     ],
+    "GSConnect/gnome-shell-extension-gsconnect": [
+        "Other"
+    ],
     "Genymobile/scrcpy": [
         "Other"
     ],
@@ -710,9 +713,6 @@
         "Other"
     ],
     "andsens/homeshick": [
-        "Other"
-    ],
-    "andyholmes/gnome-shell-extension-gsconnect": [
         "Other"
     ],
     "anirudhajith/process-wallpaper": [
