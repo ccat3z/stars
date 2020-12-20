@@ -1147,6 +1147,9 @@
     "desandro/masonry": [
         "Other"
     ],
+    "devlooped/GitInfo": [
+        "Other"
+    ],
     "dexidp/dex": [
         "Other"
     ],
@@ -1936,9 +1939,6 @@
         "Other"
     ],
     "kylemanna/docker-aosp": [
-        "Other"
-    ],
-    "kzu/GitInfo": [
         "Other"
     ],
     "l0o0/jasminum": [
