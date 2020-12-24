@@ -701,6 +701,7 @@
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
+* [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
 * [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK eBook reader
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
