@@ -162,6 +162,9 @@
     "EliverLara/Ant": [
         "Other"
     ],
+    "EmixamPP/linux-enable-ir-emitter": [
+        "Other"
+    ],
     "FasterXML/jackson": [
         "Java/JSON",
         "JSON"
