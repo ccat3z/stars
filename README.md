@@ -861,6 +861,7 @@
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
+* [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
 * [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
