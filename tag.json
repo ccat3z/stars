@@ -2855,6 +2855,9 @@
     "syntaxhighlighter/syntaxhighlighter": [
         "Web/JavaScript"
     ],
+    "systemd/systemd": [
+        "Other"
+    ],
     "tachiyomiorg/tachiyomi": [
         "Other"
     ],
