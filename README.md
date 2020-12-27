@@ -333,7 +333,7 @@
 * [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 * [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
-* [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  Static sites with superpowers
+* [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  User-generated content for Git-powered websites
 
 ## Theme
 
