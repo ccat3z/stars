@@ -470,7 +470,7 @@
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and Gtk
-* [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, GPU-accelerated terminal emulator
+* [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 * [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
