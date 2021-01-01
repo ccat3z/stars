@@ -340,6 +340,9 @@
     "Masterminds/sprig": [
         "Other"
     ],
+    "Matoking/protontricks": [
+        "Other"
+    ],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
     ],
@@ -2424,6 +2427,9 @@
         "Other"
     ],
     "pingcap/tidb": [
+        "Other"
+    ],
+    "pipxproject/pipx": [
         "Other"
     ],
     "pivotal-cf-experimental/cron-resource": [

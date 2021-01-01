@@ -996,6 +996,7 @@
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+* [pipxproject/pipx](https://github.com/pipxproject/pipx): Install and Run Python Applications in Isolated Environments
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 * [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
@@ -1017,6 +1018,7 @@
 * [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 * [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
+* [Matoking/protontricks](https://github.com/Matoking/protontricks): A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 * [csujedihy/proximac](https://github.com/csujedihy/proximac): An open-source alternative to proxifier
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
 * [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
