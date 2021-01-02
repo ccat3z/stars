@@ -1093,6 +1093,7 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
+* [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
