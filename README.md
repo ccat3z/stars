@@ -1165,6 +1165,7 @@
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv): A course to build distributed key-value service based on TiKV model
 * [tidb-incubator/tinysql](https://github.com/tidb-incubator/tinysql): A course to build the SQL layer of a distributed database.
+* [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Persists tmux environment across system restarts.
 * [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
