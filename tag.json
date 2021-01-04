@@ -1198,6 +1198,9 @@
     "dotnet-architecture/eShopOnWeb": [
         ".NET/.NET Core/ASP.NET Core"
     ],
+    "dotnet/BenchmarkDotNet": [
+        "Other"
+    ],
     "dotnet/Docker.DotNet": [
         "Other"
     ],
