@@ -2543,6 +2543,9 @@
     "python-pillow/Pillow": [
         "Other"
     ],
+    "python-poetry/poetry": [
+        "Other"
+    ],
     "qgaye/DataStructures": [
         "Other"
     ],
