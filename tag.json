@@ -2209,6 +2209,9 @@
     "mockito/mockito": [
         "Other"
     ],
+    "mockito/mockito-kotlin": [
+        "Other"
+    ],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
@@ -2292,9 +2295,6 @@
         "Other"
     ],
     "nginx-proxy/nginx-proxy": [
-        "Other"
-    ],
-    "nhaarman/mockito-kotlin": [
         "Other"
     ],
     "nissl-lab/npoi": [
