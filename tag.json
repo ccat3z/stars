@@ -2315,6 +2315,9 @@
     "nok/leap-motion-processing": [
         "Other"
     ],
+    "nreco/data": [
+        "Other"
+    ],
     "nsf/termbox-go": [
         "Other"
     ],
