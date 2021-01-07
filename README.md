@@ -749,6 +749,7 @@
 * [zhangkaizhao/gnome-shell-extension-tray-icons](https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons): GNOME shell extension - Tray icons
 * [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
+* [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms Implemented in GoLang
 * [alexflint/go-arg](https://github.com/alexflint/go-arg): Struct-based argument parsing in Go
 * [Kagami/go-face](https://github.com/Kagami/go-face): :mag: Face recognition with Go
