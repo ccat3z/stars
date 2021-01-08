@@ -885,6 +885,7 @@
 * [axkibe/lsyncd](https://github.com/axkibe/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
+* [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
 * [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server.
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
