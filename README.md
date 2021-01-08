@@ -1051,7 +1051,7 @@
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor): 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
-* [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+* [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
 * [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
