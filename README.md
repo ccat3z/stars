@@ -845,7 +845,7 @@
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
-* [skywind3000/kcp](https://github.com/skywind3000/kcp): KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)
+* [skywind3000/kcp](https://github.com/skywind3000/kcp): :zap: KCP - A Fast and Reliable ARQ Protocol
 * [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
 * [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android): Native Android port of the KDE Connect Qt app
 * [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde): Multi-platform app that allows your devices to communicate
