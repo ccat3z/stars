@@ -1213,7 +1213,7 @@
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
-* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐A lightweight private npm proxy registry
+* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐A lightweight private proxy registry build in Node.js
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
