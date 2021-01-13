@@ -1259,6 +1259,9 @@
     "egoist/vue-mugen-scroll": [
         "Other"
     ],
+    "egzosn/pay-java-parent": [
+        "Other"
+    ],
     "ekibun/QQNotfAndShare": [
         "Android/APP/Utility"
     ],
@@ -2348,6 +2351,9 @@
     "open-keychain/open-keychain": [
         "Other"
     ],
+    "open-source-translation/celery-cn": [
+        "Other"
+    ],
     "openSUSE/lftp-concourse-resource": [
         "Other"
     ],
@@ -2727,6 +2733,9 @@
         "Other"
     ],
     "sharkdp/hexyl": [
+        "Other"
+    ],
+    "sharkdp/vivid": [
         "Other"
     ],
     "shenfeng/tiny-web-server": [
