@@ -616,6 +616,7 @@
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [pivotal-cf-experimental/cron-resource](https://github.com/pivotal-cf-experimental/cron-resource): None
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
+* [dotnet/csharplang](https://github.com/dotnet/csharplang): The official repo for the design of the C# programming language
 * [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone): CSI driver for rclone
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript

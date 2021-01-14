@@ -1216,6 +1216,9 @@
     "dotnet/aspnetcore": [
         "Other"
     ],
+    "dotnet/csharplang": [
+        "Other"
+    ],
     "dotnet/dotnet-docker": [
         ".NET/.NET Core/ASP.NET Core"
     ],
