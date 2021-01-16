@@ -1218,6 +1218,7 @@
 * [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
 * [freesmartphone/vala-dbus-binding-tool](https://github.com/freesmartphone/vala-dbus-binding-tool): Create Vala DBus Interfaces from XML Specifications
 * [benwaffle/vala-language-server](https://github.com/benwaffle/vala-language-server): Code Intelligence for Vala & Genie
+* [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint): Check code-style of Vala code files
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.

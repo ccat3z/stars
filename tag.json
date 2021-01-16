@@ -3102,6 +3102,9 @@
     "v2ray/v2ray-core": [
         "GFW"
     ],
+    "vala-lang/vala-lint": [
+        "Other"
+    ],
     "verdaccio/verdaccio": [
         "Other"
     ],
