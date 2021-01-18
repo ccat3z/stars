@@ -2007,6 +2007,9 @@
     "labstack/echo": [
         "Other"
     ],
+    "labuladong/fucking-algorithm": [
+        "Other"
+    ],
     "lainsce/notejot": [
         "Other"
     ],
@@ -2279,6 +2282,9 @@
         "Other"
     ],
     "museui/muse-ui": [
+        "Other"
+    ],
+    "mwh/dragon": [
         "Other"
     ],
     "mysql-net/MySqlConnector": [
