@@ -3045,6 +3045,9 @@
     "tpope/vim-eunuch": [
         "Other"
     ],
+    "tpope/vim-speeddating": [
+        "Other"
+    ],
     "tqdm/tqdm": [
         "Other"
     ],

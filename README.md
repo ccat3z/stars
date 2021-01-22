@@ -1239,6 +1239,7 @@
 * [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode): UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
+* [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 * [wgwoods/vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax): syntax highlighting and filetype detection for systemd unit files
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
