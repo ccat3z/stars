@@ -71,9 +71,6 @@
     "BYVoid/OpenCC": [
         "Other"
     ],
-    "Bajoja/indicator-kdeconnect": [
-        "Other"
-    ],
     "BlackArch/blackarch": [
         "Other"
     ],
@@ -818,6 +815,9 @@
         "Other"
     ],
     "b3log/baidu-netdisk-downloaderx": [
+        "Other"
+    ],
+    "b4j4/indicator-kdeconnect": [
         "Other"
     ],
     "badges/shields": [
