@@ -1195,14 +1195,14 @@
     "discordianfish/docker-backup": [
         "Other"
     ],
+    "distribution/distribution": [
+        "Other"
+    ],
     "docker-library/haproxy": [
         "Docker"
     ],
     "docker-library/openjdk": [
         "Docker"
-    ],
-    "docker/distribution": [
-        "Other"
     ],
     "docopt/docopt.go": [
         "Other"

@@ -651,7 +651,7 @@
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2021
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend
-* [docker/distribution](https://github.com/docker/distribution): The toolkit to pack, ship, store, and deliver container content
+* [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
