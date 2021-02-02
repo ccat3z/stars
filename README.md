@@ -770,7 +770,7 @@
 * [c-bata/go-prompt](https://github.com/c-bata/go-prompt): Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
-* [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray support for Android
+* [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
 * [eycorsican/go-tun2socks-mobile](https://github.com/eycorsican/go-tun2socks-mobile): None
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
