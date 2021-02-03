@@ -2095,6 +2095,9 @@
     "lodash/lodash": [
         "Other"
     ],
+    "lofyer/spice-webdav": [
+        "Other"
+    ],
     "loomchild/volume-backup": [
         "Docker"
     ],
