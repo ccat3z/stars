@@ -828,7 +828,7 @@
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
-* [C4ptainCrunch/ics.py](https://github.com/C4ptainCrunch/ics.py): Pythonic and easy iCalendar library (rfc5545)
+* [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
 * [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 

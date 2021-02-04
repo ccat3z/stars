@@ -86,9 +86,6 @@
     "Byron/gitoxide": [
         "Other"
     ],
-    "C4ptainCrunch/ics.py": [
-        "Other"
-    ],
     "CTeX-org/ctex-kit": [
         "Other"
     ],
@@ -1731,6 +1728,9 @@
         "Other"
     ],
     "ibhagwan/picom": [
+        "Other"
+    ],
+    "ics-py/ics-py": [
         "Other"
     ],
     "ifreund/river": [
