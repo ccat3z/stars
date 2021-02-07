@@ -232,6 +232,9 @@
     "Ian2020/EasyScreenCast": [
         "Other"
     ],
+    "IlanCosman/tide": [
+        "Other"
+    ],
     "ImVexed/muon": [
         "Other"
     ],
@@ -1129,6 +1132,9 @@
     "danielquinn/Gentoo-Surface-Pro-3": [
         "Linux/Device/Surface"
     ],
+    "danistefanovic/build-your-own-x": [
+        "Other"
+    ],
     "darknessomi/musicbox": [
         "Utility"
     ],
@@ -1504,6 +1510,9 @@
     ],
     "gelstudios/gitfiti": [
         "GitHub"
+    ],
+    "getActivity/XXPermissions": [
+        "Other"
     ],
     "gfjaru/Kiko": [
         "Jekyll"
@@ -2387,6 +2396,9 @@
     "ohmyzsh/ohmyzsh": [
         "Other"
     ],
+    "olivierlacan/keep-a-changelog": [
+        "Other"
+    ],
     "oltpbenchmark/oltpbench": [
         "Other"
     ],
@@ -2637,6 +2649,9 @@
         "Other"
     ],
     "remaxjs/remax": [
+        "Other"
+    ],
+    "remjey/luaotp": [
         "Other"
     ],
     "replit-archive/repl.it": [
