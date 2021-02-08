@@ -3225,6 +3225,9 @@
     "wangyu-/udp2raw-tunnel": [
         "Other"
     ],
+    "weaveworks/weave": [
+        "Other"
+    ],
     "webpack-contrib/postcss-loader": [
         "Other"
     ],
