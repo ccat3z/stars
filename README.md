@@ -652,7 +652,7 @@
 * [denoland/deno](https://github.com/denoland/deno): A secure JavaScript and TypeScript runtime
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2021
-* [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
+* [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
