@@ -1435,7 +1435,7 @@
 * [vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax): pandoc markdown syntax, to be installed alongside vim-pandoc
 * [asins/vimcdoc](https://github.com/asins/vimcdoc): Vim Chinese Documentation
 * [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
-* [lervag/vimtex](https://github.com/lervag/vimtex): A modern Vim and neovim filetype plugin for LaTeX files.
+* [lervag/vimtex](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 # WeChat
 
