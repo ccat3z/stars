@@ -3198,6 +3198,9 @@
     "vmware-tanzu/carvel-kapp": [
         "Other"
     ],
+    "vmware-tanzu/velero": [
+        "Other"
+    ],
     "volatiletech/authboss": [
         "Other"
     ],
