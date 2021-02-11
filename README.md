@@ -924,6 +924,7 @@
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
+* [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
