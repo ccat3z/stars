@@ -1267,6 +1267,9 @@
     "duxingkei33/orangepi_PC_gpio_pyH3": [
         "SBC"
     ],
+    "dylanaraps/pure-bash-bible": [
+        "Other"
+    ],
     "dyweb/awesome-resume-for-chinese": [
         "Other"
     ],
@@ -2637,6 +2640,12 @@
         "Other"
     ],
     "quartznet/quartznet": [
+        "Other"
+    ],
+    "rafaelmardojai/firefox-gnome-scrollbars": [
+        "Other"
+    ],
+    "rafaelmardojai/firefox-gnome-theme": [
         "Other"
     ],
     "rakyll/statik": [
