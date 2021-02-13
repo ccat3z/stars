@@ -1308,7 +1308,7 @@
 * [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 * [Rucadi/wsld](https://github.com/Rucadi/wsld): WSLD is a tool for downloading and installing docker images into WSL1 or WSL2 directly. It also supports uploading WSL images into Docker Hub.
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
-* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python?
+* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server
