@@ -2504,9 +2504,6 @@
     "phw/peek": [
         "Other"
     ],
-    "pigigaldi/Pock": [
-        "Other"
-    ],
     "pimutils/khal": [
         "Other"
     ],
@@ -2541,6 +2538,9 @@
         "Web/JavaScript"
     ],
     "pnpm/pnpm": [
+        "Other"
+    ],
+    "pock/pock": [
         "Other"
     ],
     "polybar/polybar": [
