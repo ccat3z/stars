@@ -1116,6 +1116,7 @@
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
+* [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [hsxhr-10/scheduler](https://github.com/hsxhr-10/scheduler): Go Job Scheduler for Humans.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
