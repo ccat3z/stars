@@ -2663,6 +2663,9 @@
     "redis/redis": [
         "Other"
     ],
+    "reduxjs/redux": [
+        "Other"
+    ],
     "remaxjs/remax": [
         "Other"
     ],
