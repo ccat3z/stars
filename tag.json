@@ -2561,6 +2561,9 @@
     "posva/vue-promised": [
         "Other"
     ],
+    "pre-commit/pre-commit": [
+        "Other"
+    ],
     "preactjs/preact": [
         "Other"
     ],
