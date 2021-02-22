@@ -786,7 +786,7 @@
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
 * [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
-* [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 他妈的我终于能用谷歌搜中文了
+* [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
@@ -1199,7 +1199,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1164-Stars](https://github.com/RealPeha/This-Repo-Has-1164-Stars): Yes, it's true :orange_heart:
+* [RealPeha/This-Repo-Has-1171-Stars](https://github.com/RealPeha/This-Repo-Has-1171-Stars): Yes, it's true :orange_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
