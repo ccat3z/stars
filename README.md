@@ -629,6 +629,7 @@
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
+* [cuelang/cue](https://github.com/cuelang/cue): Validate and define text-based and dynamic configuration
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
 * [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
@@ -1199,7 +1200,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1423-Stars](https://github.com/RealPeha/This-Repo-Has-1423-Stars): Yes, it's true :orange_heart:
+* [RealPeha/This-Repo-Has-1425-Stars](https://github.com/RealPeha/This-Repo-Has-1425-Stars): Yes, it's true :orange_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
