@@ -669,7 +669,7 @@
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
 * [theasp/docker-novnc](https://github.com/theasp/docker-novnc): noVNC Display Container for Docker
-* [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!
+* [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
@@ -1201,7 +1201,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1515-Stars](https://github.com/RealPeha/This-Repo-Has-1515-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1516-Stars](https://github.com/RealPeha/This-Repo-Has-1516-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
