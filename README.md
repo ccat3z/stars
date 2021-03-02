@@ -477,7 +477,7 @@
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 * [imolorhe/altair](https://github.com/imolorhe/altair): ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-* [zealotCE/AmericaOpposeAmerica](https://github.com/zealotCE/AmericaOpposeAmerica): 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
+* [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America): 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
@@ -1201,7 +1201,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1551-Stars](https://github.com/RealPeha/This-Repo-Has-1551-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1553-Stars](https://github.com/RealPeha/This-Repo-Has-1553-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
