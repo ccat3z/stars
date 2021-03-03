@@ -1340,6 +1340,7 @@
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
 * [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
+* [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
