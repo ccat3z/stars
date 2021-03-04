@@ -598,7 +598,7 @@
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
 * [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc): 漫画阅读器
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
-* [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
+* [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
