@@ -985,6 +985,7 @@
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
+* [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
 * [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
@@ -1095,6 +1096,7 @@
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
 * [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
+* [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍
 * [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
 * [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data
 * [dotnet/reactive](https://github.com/dotnet/reactive): The Reactive Extensions for .NET

@@ -1769,6 +1769,9 @@
     "iamdanfox/typetype": [
         "Web/JavaScript"
     ],
+    "iamhosseindhv/notistack": [
+        "Other"
+    ],
     "iamkun/dayjs": [
         "Other"
     ],
@@ -3001,6 +3004,9 @@
         "Other"
     ],
     "stilliard/docker-pure-ftpd": [
+        "Other"
+    ],
+    "streamich/react-use": [
         "Other"
     ],
     "stretchr/testify": [
