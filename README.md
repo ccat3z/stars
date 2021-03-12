@@ -1283,6 +1283,7 @@
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
+* [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
