@@ -174,6 +174,9 @@
     "EmixamPP/linux-enable-ir-emitter": [
         "Other"
     ],
+    "FascodeNet/alterlinux": [
+        "Other"
+    ],
     "FasterXML/jackson": [
         "Java/JSON",
         "JSON"
@@ -376,7 +379,13 @@
     "MicheleBertoli/css-in-js": [
         "Other"
     ],
+    "MiguelRAvila/SimplerentFox": [
+        "Other"
+    ],
     "MopTym/vue-waterfall": [
+        "Other"
+    ],
+    "Morganamilo/paru": [
         "Other"
     ],
     "Mortennn/Dozer": [
@@ -1610,6 +1619,9 @@
     "gocd/gocd": [
         "Other"
     ],
+    "goessner/markdown-it-texmath": [
+        "Other"
+    ],
     "goessner/mdmath": [
         "VS Code"
     ],
@@ -1683,6 +1695,9 @@
         "Other"
     ],
     "hardpixel/unite-shell": [
+        "Other"
+    ],
+    "hashicorp/consul": [
         "Other"
     ],
     "hashicorp/nomad": [
@@ -2432,6 +2447,9 @@
     "nreco/data": [
         "Other"
     ],
+    "nschloe/blacktex": [
+        "Other"
+    ],
     "nsf/termbox-go": [
         "Other"
     ],
@@ -2962,6 +2980,9 @@
         "Other"
     ],
     "soruly/trace.moe": [
+        "Other"
+    ],
+    "soupi/learn-haskell-blog-generator": [
         "Other"
     ],
     "souporserious/react-measure": [

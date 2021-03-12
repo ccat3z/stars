@@ -477,6 +477,7 @@
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 * [imolorhe/altair](https://github.com/imolorhe/altair): ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+* [FascodeNet/alterlinux](https://github.com/FascodeNet/alterlinux): Alter Linux - ArchLinux-derived OS made in Japan aimed at being usable by anyone
 * [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America): 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
@@ -560,6 +561,7 @@
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
+* [nschloe/blacktex](https://github.com/nschloe/blacktex): Cleans up your LaTeX files.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [nsznsznjsz/blog](https://github.com/nsznsznjsz/blog): Celeste's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
@@ -612,6 +614,7 @@
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): A Compile time PCRE (almost) compatible regular expression matcher.
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go and Elm.
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
+* [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -883,6 +886,7 @@
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
+* [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learning Haskell by building a simple static blog generator, one commit at a time.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 * [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
@@ -919,6 +923,7 @@
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+* [goessner/markdown-it-texmath](https://github.com/goessner/markdown-it-texmath): Support TeX math equations with your Markdown documents.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [desandro/masonry](https://github.com/desandro/masonry): :love_hotel: Cascading grid layout plugin
 * [nana-4/materia-theme](https://github.com/nana-4/materia-theme): A Material Design theme for GNOME/GTK based desktop environments
@@ -1020,6 +1025,7 @@
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatiblity scripts for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
+* [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
 * [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent): 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
@@ -1154,6 +1160,7 @@
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [MiguelRAvila/SimplerentFox](https://github.com/MiguelRAvila/SimplerentFox): 🦊 A Userstyle theme for Firefox minimalist, transparent and Keyboard centered
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
