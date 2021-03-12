@@ -802,6 +802,7 @@
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 3.5 KB size limited) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
+* [getgridea/gridea](https://github.com/getgridea/gridea): ✍️A static blog writing client (一个静态博客写作客户端)
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
