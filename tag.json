@@ -379,9 +379,6 @@
     "MicheleBertoli/css-in-js": [
         "Other"
     ],
-    "MiguelRAvila/SimplerentFox": [
-        "Other"
-    ],
     "MopTym/vue-waterfall": [
         "Other"
     ],
@@ -2309,6 +2306,9 @@
         "Other"
     ],
     "microsoft/winget-pkgs": [
+        "Other"
+    ],
+    "migueravila/SimplerentFox": [
         "Other"
     ],
     "mitchellh/mapstructure": [
