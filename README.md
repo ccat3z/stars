@@ -667,7 +667,7 @@
 * [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp): 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose
-* [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated-server image.
+* [fairplay-zone/docker-dontstarvetogether](https://github.com/fairplay-zone/docker-dontstarvetogether): DEPRECATED and moved to https://github.com/yeetzone/
 * [wernight/docker-duplicity](https://github.com/wernight/docker-duplicity): Dockerize "duplicity" backup tool.
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
