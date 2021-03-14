@@ -1442,9 +1442,6 @@
     "facebook/zstd": [
         "Other"
     ],
-    "fairplay-zone/docker-dontstarvetogether": [
-        "Other"
-    ],
     "faressoft/terminalizer": [
         "Other"
     ],
@@ -3418,6 +3415,9 @@
         "Other"
     ],
     "ycm-core/YouCompleteMe": [
+        "Other"
+    ],
+    "yeetzone/docker-dontstarvetogether": [
         "Other"
     ],
     "yidao620c/python3-cookbook": [
