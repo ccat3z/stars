@@ -101,6 +101,9 @@
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
+    "ClosedXML/ClosedXML": [
+        "Other"
+    ],
     "D4rCM4rC/MagiskSSH": [
         "Android/Magick"
     ],

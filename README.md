@@ -603,6 +603,7 @@
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
+* [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
