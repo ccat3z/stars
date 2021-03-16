@@ -814,6 +814,7 @@
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
+* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [aoaojiang/HelloWorld](https://github.com/aoaojiang/HelloWorld): 测试Android Studio的VCS
@@ -1088,6 +1089,7 @@
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
+* [qgaye/qgaye.github.io](https://github.com/qgaye/qgaye.github.io): None
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
@@ -1180,6 +1182,7 @@
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
+* [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
