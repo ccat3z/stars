@@ -1349,7 +1349,7 @@
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server
-* [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar
+* [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
 * [ritave/xeventbind](https://github.com/ritave/xeventbind): A small utillity that runs your script on X11 events
 * [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
