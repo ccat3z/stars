@@ -613,7 +613,7 @@
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering tool library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): A Compile time PCRE (almost) compatible regular expression matcher.
-* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go and Elm.
+* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
