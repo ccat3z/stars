@@ -427,6 +427,9 @@
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
+    "OpenAPITools/openapi-generator": [
+        "Other"
+    ],
     "PapirusDevelopmentTeam/papirus-icon-theme": [
         "Other"
     ],
@@ -1299,6 +1302,9 @@
     ],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
+    ],
+    "drwpow/openapi-typescript": [
+        "Other"
     ],
     "duskwuff/Xilinx-ISE-Makefile": [
         "Other"

@@ -1013,6 +1013,8 @@
 * [themix-project/oomox](https://github.com/themix-project/oomox): Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
 * [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+* [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from Swagger OpenAPI specs
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
