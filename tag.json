@@ -2705,6 +2705,9 @@
     "pypa/pipenv": [
         "Python"
     ],
+    "pytest-dev/pytest-testinfra": [
+        "Other"
+    ],
     "python-mode/python-mode": [
         "Vim"
     ],
