@@ -957,6 +957,7 @@
 * [ilearnio/module-alias](https://github.com/ilearnio/module-alias): Register aliases of directories and custom module paths in Node
 * [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
+* [ansible-community/molecule](https://github.com/ansible-community/molecule): Molecule aids in the development and testing of Ansible roles
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [moq/moq4](https://github.com/moq/moq4): Repo for managing Moq 4.x 
@@ -1222,7 +1223,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1632-Stars](https://github.com/RealPeha/This-Repo-Has-1632-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1634-Stars](https://github.com/RealPeha/This-Repo-Has-1634-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
