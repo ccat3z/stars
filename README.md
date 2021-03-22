@@ -814,7 +814,7 @@
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
-* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
+* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [aoaojiang/HelloWorld](https://github.com/aoaojiang/HelloWorld): 测试Android Studio的VCS
