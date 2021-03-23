@@ -1694,6 +1694,9 @@
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
+    "handlebars-lang/handlebars.js": [
+        "Other"
+    ],
     "hanickadot/compile-time-regular-expressions": [
         "Other"
     ],
@@ -2371,6 +2374,9 @@
     "moq/moq4": [
         "Other"
     ],
+    "mozilla/nunjucks": [
+        "Other"
+    ],
     "mozillazg/python-pinyin": [
         "Other"
     ],
@@ -2911,6 +2917,9 @@
     ],
     "shadowsocksrr/shadowsocksr-csharp": [
         "GFW"
+    ],
+    "shannonmoeller/handlebars-layouts": [
+        "Other"
     ],
     "sharkdp/bat": [
         "Other"
