@@ -793,6 +793,9 @@
     "apache/shardingsphere": [
         "Other"
     ],
+    "aphyr/distsys-class": [
+        "Other"
+    ],
     "apollographql/subscriptions-transport-ws": [
         "Other"
     ],
@@ -1911,6 +1914,12 @@
         "Other"
     ],
     "jelmer/xandikos": [
+        "Other"
+    ],
+    "jepsen-io/jepsen": [
+        "Other"
+    ],
+    "jepsen-io/maelstrom": [
         "Other"
     ],
     "jergusg/k380-function-keys-conf": [

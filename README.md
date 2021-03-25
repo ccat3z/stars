@@ -662,6 +662,7 @@
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
+* [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
@@ -867,6 +868,7 @@
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 * [jekyll/jemoji](https://github.com/jekyll/jemoji): GitHub-flavored emoji plugin for Jekyll
+* [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen): A framework for distributed systems verification, with fault injection
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
@@ -923,6 +925,7 @@
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 * [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
 * [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server.
+* [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 * [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
@@ -977,7 +980,7 @@
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): Async MySQL Connector for .NET and .NET Core
-* [willdoescode/nat](https://github.com/willdoescode/nat): nat - the 'ls' replacement you never knew you needed
+* [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line and application launchers
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
