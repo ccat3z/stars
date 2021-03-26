@@ -232,6 +232,9 @@
     "HangfireIO/Hangfire": [
         "Other"
     ],
+    "HenryQW/Awesome-TTRSS": [
+        "Other"
+    ],
     "Himself65/OpenArkCompiler": [
         "Other"
     ],
@@ -2350,6 +2353,9 @@
     "migueravila/SimplerentFox": [
         "Other"
     ],
+    "miniflux/v2": [
+        "Other"
+    ],
     "mitchellh/mapstructure": [
         "Other"
     ],
@@ -2481,6 +2487,9 @@
         "Other"
     ],
     "nix-community/home-manager": [
+        "Other"
+    ],
+    "nkanaev/yarr": [
         "Other"
     ],
     "noctuid/tdrop": [
