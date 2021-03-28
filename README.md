@@ -1269,7 +1269,7 @@
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [sammydre/ts-for-gjs](https://github.com/sammydre/ts-for-gjs): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
-* [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): TypeScript preprocessor with sourcemap support for Jest
+* [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
 * [formium/tsdx](https://github.com/formium/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
