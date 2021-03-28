@@ -1002,6 +1002,7 @@
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
+* [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 * [qgaye/note](https://github.com/qgaye/note): just note
