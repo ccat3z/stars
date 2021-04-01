@@ -3429,6 +3429,9 @@
     "vuetifyjs/vuetify": [
         "Web/Vue"
     ],
+    "vueuse/vueuse": [
+        "Other"
+    ],
     "wangshub/wechat_jump_game": [
         "Chinese APP Hack/WeChat/Mini Program"
     ],
