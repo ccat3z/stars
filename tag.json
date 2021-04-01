@@ -535,6 +535,9 @@
     "SirVer/ultisnips": [
         "Vim"
     ],
+    "SortableJS/Sortable": [
+        "Other"
+    ],
     "StackExchange/Dapper": [
         "Other"
     ],
