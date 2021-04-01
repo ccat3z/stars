@@ -547,6 +547,9 @@
     "TablePlus/TablePlus-Linux": [
         "Other"
     ],
+    "Tarektouati/vue-use-web": [
+        "Other"
+    ],
     "TaylanTatli/Halve": [
         "Jekyll/Theme"
     ],
@@ -1067,6 +1070,9 @@
         "Other"
     ],
     "cesanta/docker_auth": [
+        "Other"
+    ],
+    "championswimmer/vuex-persist": [
         "Other"
     ],
     "checkpoint-restore/criu": [
@@ -1695,6 +1701,9 @@
         "Other"
     ],
     "gpakosz/.tmux": [
+        "Other"
+    ],
+    "grandchef/vuex-persistedstate-migrate": [
         "Other"
     ],
     "graphql/graphiql": [

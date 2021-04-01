@@ -1337,11 +1337,14 @@
 * [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
 * [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
+* [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web): 🕸 Web APIs implemented as Vue.js composition functions
 * [f/vue-wait](https://github.com/f/vue-wait): Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
+* [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist): A Vuex plugin to persist the store. (Fully Typescript enabled)
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
+* [grandchef/vuex-persistedstate-migrate](https://github.com/grandchef/vuex-persistedstate-migrate): Library to migrate vuex state using vuex-persistedstate
 * [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
 * [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.
