@@ -141,6 +141,9 @@
     "Docker-Hub-frolvlad/docker-alpine-glibc": [
         "Other"
     ],
+    "Dogfalo/materialize": [
+        "Other"
+    ],
     "Doreamonsky/CampusAdventure": [
         "Game"
     ],

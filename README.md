@@ -143,7 +143,7 @@
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
 * [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): (Deprecated)QQ通知增强+分享转发
-* [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
+* [termux/termux-app](https://github.com/termux/termux-app): Andwoid tewminaw and Winux enviwonment - app wepositowy.
 
 ## MIUI
 
@@ -946,6 +946,7 @@
 * [mui-org/material-ui](https://github.com/mui-org/material-ui): Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles): Material Design file manager for Android
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
+* [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
 * [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
