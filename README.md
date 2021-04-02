@@ -1338,6 +1338,7 @@
 * [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll): Infinite scroll component for Vue.js 2
 * [vuejs/vue-next](https://github.com/vuejs/vue-next): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [posva/vue-promised](https://github.com/posva/vue-promised): 💝 Composable Promises & Promises as components
+* [bhuh12/vue-router-tab](https://github.com/bhuh12/vue-router-tab): Vue.js tab components, based on Vue Router.
 * [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
 * [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
