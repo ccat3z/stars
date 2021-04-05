@@ -1073,7 +1073,7 @@
 * [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
-* [pnpm/pnpm](https://github.com/pnpm/pnpm): 📦🚀 Fast, disk space efficient package manager
+* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python dependency management and packaging made easy.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
