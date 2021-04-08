@@ -2130,9 +2130,6 @@
         "Kindle",
         "Android/APP"
     ],
-    "kouya/snownews": [
-        "Other"
-    ],
     "krhougs/mina-webpack-plugin": [
         "Other"
     ],
@@ -2453,6 +2450,9 @@
         "Other"
     ],
     "mrvautin/adminMongo": [
+        "Other"
+    ],
+    "msharov/snownews": [
         "Other"
     ],
     "mskyaxl/wsl-terminal": [
