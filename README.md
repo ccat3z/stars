@@ -411,7 +411,6 @@
 
 ## Utility
 
-* [aaron-williamson/base16-gnome-terminal](https://github.com/aaron-williamson/base16-gnome-terminal): Base16 for Gnome Terminal
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
@@ -548,7 +547,8 @@
 * [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
-* [aaron-williamson/base16-alacritty](https://github.com/aaron-williamson/base16-alacritty): Base16 for Alacritty
+* [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
+* [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
 * [khamer/base16-termite](https://github.com/khamer/base16-termite): None
 * [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
@@ -771,6 +771,7 @@
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
+* [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
 * [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
 * [wengxt/gnome-shell-extension-kimpanel](https://github.com/wengxt/gnome-shell-extension-kimpanel): KDE kimpanel protocol for gnome shell

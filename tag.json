@@ -604,6 +604,9 @@
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
     ],
+    "Tudmotu/gnome-shell-extension-clipboard-indicator": [
+        "Other"
+    ],
     "Ulauncher/Ulauncher": [
         "Other"
     ],
@@ -658,11 +661,11 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
-    "aaron-williamson/base16-alacritty": [
+    "aarowill/base16-alacritty": [
         "Other"
     ],
-    "aaron-williamson/base16-gnome-terminal": [
-        "Linux/Utility"
+    "aarowill/base16-gnome-terminal": [
+        "Other"
     ],
     "aaubry/YamlDotNet": [
         "Other"
