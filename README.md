@@ -1019,6 +1019,8 @@
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)

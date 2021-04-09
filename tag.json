@@ -1162,6 +1162,9 @@
     "coreos/license-bill-of-materials": [
         "Other"
     ],
+    "coreybutler/nvm-windows": [
+        "Other"
+    ],
     "creack/pty": [
         "Other"
     ],
@@ -2556,6 +2559,9 @@
         "Other"
     ],
     "numetriclabz/awesome-db": [
+        "Other"
+    ],
+    "nvm-sh/nvm": [
         "Other"
     ],
     "ochinchina/supervisord": [
