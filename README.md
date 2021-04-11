@@ -1199,7 +1199,7 @@
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
-* [msharov/snownews](https://github.com/msharov/snownews): Snownews is a command-line RSS feed reader.
+* [msharov/snownews](https://github.com/msharov/snownews): :snowman: Snownews is a text-mode RSS feed reader.
 * [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
