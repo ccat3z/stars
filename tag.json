@@ -1718,6 +1718,9 @@
     "gopasspw/gopass": [
         "Other"
     ],
+    "goplus/gop": [
+        "Other"
+    ],
     "gorilla/mux": [
         "Other"
     ],
@@ -3287,6 +3290,9 @@
     ],
     "tkem/cachetools": [
         "Python"
+    ],
+    "tldr-pages/tldr": [
+        "Other"
     ],
     "tleunen/babel-plugin-module-resolver": [
         "Other"
