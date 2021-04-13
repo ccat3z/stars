@@ -490,7 +490,7 @@
     "ReactiveX/RxKotlin": [
         "Other"
     ],
-    "RealPeha/This-Repo-Has-1649-Stars": [
+    "RealPeha/This-Repo-Has-1648-Stars": [
         "Other"
     ],
     "RelaxedJS/ReLaXed": [
@@ -808,7 +808,13 @@
     "ansible/ansible": [
         "Other"
     ],
+    "ant-design/ant-design-charts": [
+        "Other"
+    ],
     "antoniomika/sish": [
+        "Other"
+    ],
+    "antvis/G2Plot": [
         "Other"
     ],
     "anuraghazra/github-readme-stats": [
@@ -1695,6 +1701,9 @@
         "Other"
     ],
     "gogs/gogs": [
+        "Other"
+    ],
+    "gohugoio/hugo": [
         "Other"
     ],
     "gojek/awesome-distributed-systems": [
