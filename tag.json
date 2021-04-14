@@ -1964,6 +1964,9 @@
     "jceb/vim-orgmode": [
         "Other"
     ],
+    "jcjohnson/pytorch-examples": [
+        "Other"
+    ],
     "jcouyang/grokking-monad": [
         "Other"
     ],
@@ -3106,6 +3109,9 @@
         "Other"
     ],
     "soimort/translate-shell": [
+        "Other"
+    ],
+    "soimort/you-get": [
         "Other"
     ],
     "songgao/water": [
