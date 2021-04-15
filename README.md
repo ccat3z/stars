@@ -706,6 +706,7 @@
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
+* [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3.0 UI Library made by Element team
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
