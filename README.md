@@ -360,7 +360,6 @@
 ### Surface
 
 * [jimdigriz/debian-mssp4](https://github.com/jimdigriz/debian-mssp4): Installing Debian on the Microsoft Surface Pro 4
-* [danielquinn/Gentoo-Surface-Pro-3](https://github.com/danielquinn/Gentoo-Surface-Pro-3): Install Gentoo on your Surface Pro 3
 * [matthewwardrop/linux-surfacepro3](https://github.com/matthewwardrop/linux-surfacepro3): Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.
 * [AykoPoel/surface3-scripts](https://github.com/AykoPoel/surface3-scripts): None
 
