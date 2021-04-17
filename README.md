@@ -581,6 +581,7 @@
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
+* [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy): Caddy as a reverse proxy for Docker
