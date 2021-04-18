@@ -2594,7 +2594,7 @@
     "ocibuilder/ocibuilder": [
         "Other"
     ],
-    "octokit/rest.js": [
+    "octokit/octokit.js": [
         "Other"
     ],
     "oguimbal/pg-mem": [

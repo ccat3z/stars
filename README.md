@@ -1028,6 +1028,7 @@
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
+* [octokit/octokit.js](https://github.com/octokit/octokit.js): The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1156,7 +1157,6 @@
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
-* [octokit/rest.js](https://github.com/octokit/rest.js): GitHub REST API client for JavaScript
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
