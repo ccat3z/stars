@@ -661,6 +661,9 @@
     "Yinzo/SmartQQBot": [
         "Chinese APP Hack/QQ"
     ],
+    "YunYouJun/air-conditioner": [
+        "Other"
+    ],
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
@@ -1598,6 +1601,9 @@
     "fszymanski/deoplete-emoji": [
         "Vim"
     ],
+    "fthx/no-overview": [
+        "Other"
+    ],
     "fusepy/fusepy": [
         "Python"
     ],
@@ -2402,6 +2408,9 @@
         "Other"
     ],
     "microsoft/pyright": [
+        "Other"
+    ],
+    "microsoft/react-native-windows": [
         "Other"
     ],
     "microsoft/vscode": [
@@ -3418,6 +3427,9 @@
         "GFW"
     ],
     "vala-lang/vala-lint": [
+        "Other"
+    ],
+    "vercel/serve": [
         "Other"
     ],
     "verdaccio/verdaccio": [

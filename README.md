@@ -468,6 +468,7 @@
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
+* [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and GTK
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 * [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
@@ -1014,6 +1015,7 @@
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
+* [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
 * [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
@@ -1141,6 +1143,7 @@
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
+* [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React.
 * [capaj/react-promise](https://github.com/capaj/react-promise): a react.js hook for general promise in typescript
 * [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍
 * [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
@@ -1189,6 +1192,7 @@
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
+* [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
