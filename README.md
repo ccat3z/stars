@@ -1144,6 +1144,7 @@
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
 * [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
+* [flippingbitss/react-daterange-picker](https://github.com/flippingbitss/react-daterange-picker): A react date range picker to using @material-ui. Live Demo: https://flippingbitss.github.io/react-daterange-picker/
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
 * [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React.
