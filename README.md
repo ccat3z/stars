@@ -1128,6 +1128,7 @@
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Get and set values in your .env file in local and production servers. :tada:
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
+* [bartdegoede/python-searchengine](https://github.com/bartdegoede/python-searchengine): None
 * [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples): Simple examples to introduce PyTorch
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
