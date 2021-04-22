@@ -1350,6 +1350,7 @@
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
+* [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Fast Vue Language Support Extension
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
@@ -1368,6 +1369,8 @@
 * [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive): Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 * [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto): Adds a directive that listens for click events and scrolls to elements.
 * [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist): Created from react styleguidist for Vue Components with a living style guide
+* [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc): vue-tsc --noEmit && vite build
+* [wonderful-panda/vue-tsx-support](https://github.com/wonderful-panda/vue-tsx-support): TSX (JSX for TypeScript) support library for Vue
 * [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web): 🕸 Web APIs implemented as Vue.js composition functions
 * [f/vue-wait](https://github.com/f/vue-wait): Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js

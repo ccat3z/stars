@@ -2054,6 +2054,12 @@
     "johnfactotum/foliate": [
         "Other"
     ],
+    "johnsoncodehk/volar": [
+        "Other"
+    ],
+    "johnsoncodehk/vue-tsc": [
+        "Other"
+    ],
     "joonro/ConEmu-Color-Themes": [
         "Windows/Terminal/ConEmu"
     ],
@@ -3577,6 +3583,9 @@
         "Other"
     ],
     "willdoescode/nat": [
+        "Other"
+    ],
+    "wonderful-panda/vue-tsx-support": [
         "Other"
     ],
     "wunderio/csi-rclone": [
