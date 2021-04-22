@@ -965,6 +965,7 @@
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 * [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
+* [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
 * [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
