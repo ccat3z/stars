@@ -1245,6 +1245,7 @@
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
 * [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 * [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray): Tray application and Dolphin/Plasma integration for Syncthing
+* [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor): Windows tray utility / filesystem watcher / launcher for Syncthing
 * [akopytov/sysbench](https://github.com/akopytov/sysbench): Scriptable database and system performance benchmark
 * [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager 
 * [mono/t4](https://github.com/mono/t4): T4 text templating engine
