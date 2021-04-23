@@ -1390,6 +1390,7 @@
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
+* [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers
 * [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
