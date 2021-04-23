@@ -122,6 +122,9 @@
     "DIYgod/RSSHub-Radar": [
         "Other"
     ],
+    "DapperLib/Dapper": [
+        "Other"
+    ],
     "DaveGamble/cJSON": [
         "C/JSON",
         "JSON"
@@ -539,9 +542,6 @@
         "Vim"
     ],
     "SortableJS/Sortable": [
-        "Other"
-    ],
-    "StackExchange/Dapper": [
         "Other"
     ],
     "StackExchange/blackbox": [
