@@ -1301,6 +1301,7 @@
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [sammydre/ts-for-gjs](https://github.com/sammydre/ts-for-gjs): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+* [stephenh/ts-proto](https://github.com/stephenh/ts-proto): An idiomatic protobuf generator for TypeScript
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
 * [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest utility library
 * [formium/tsdx](https://github.com/formium/tsdx): Zero-config CLI for TypeScript package development
