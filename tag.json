@@ -475,6 +475,9 @@
     "PowerShell/PSReadLine": [
         "Other"
     ],
+    "Prince781/vala-language-server": [
+        "Other"
+    ],
     "PyCQA/pep8-naming": [
         "Python"
     ],
@@ -938,9 +941,6 @@
         "Other"
     ],
     "benoitgrelard/github-stars-tagger": [
-        "Other"
-    ],
-    "benwaffle/vala-language-server": [
         "Other"
     ],
     "berberman/arch-hs": [
