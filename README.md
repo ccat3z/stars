@@ -933,6 +933,7 @@
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
+* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [axkibe/lsyncd](https://github.com/axkibe/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
