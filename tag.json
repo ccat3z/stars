@@ -2780,6 +2780,9 @@
     "pingcap/tidb": [
         "Other"
     ],
+    "piotrwitek/utility-types": [
+        "Other"
+    ],
     "pipxproject/pipx": [
         "Other"
     ],
