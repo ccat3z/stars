@@ -1059,6 +1059,7 @@
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
+* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
