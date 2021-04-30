@@ -556,6 +556,7 @@
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set wallpaper according to battery percentage with charging animations.
 * [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system
 * [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
+* [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network

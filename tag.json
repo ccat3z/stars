@@ -1958,6 +1958,9 @@
     "int128/wslexec": [
         "Other"
     ],
+    "iovisor/bcc": [
+        "Other"
+    ],
     "isaacs/async-cache": [
         "Other"
     ],
