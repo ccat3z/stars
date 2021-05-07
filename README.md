@@ -1277,7 +1277,7 @@
 * [nsf/termbox-go](https://github.com/nsf/termbox-go): Pure Go termbox implementation
 * [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css): Modern and minimalistic CSS framework for terminal enthusiasts
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
-* [thestinger/termite](https://github.com/thestinger/termite): A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+* [thestinger/termite](https://github.com/thestinger/termite): Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 * [gizak/termui](https://github.com/gizak/termui): Golang terminal dashboard
 * [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux): You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 * [termux/termux-services](https://github.com/termux/termux-services): Scripts to handle services in termux.
