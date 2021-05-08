@@ -784,6 +784,9 @@
     "alfg/docker-nginx-rtmp": [
         "Other"
     ],
+    "alibaba/DataX": [
+        "Other"
+    ],
     "alibaba/serverless-vscode": [
         "Other"
     ],
