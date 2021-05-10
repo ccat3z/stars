@@ -1769,6 +1769,9 @@
     "google/yapf": [
         "Python"
     ],
+    "google/zx": [
+        "Other"
+    ],
     "gookit/color": [
         "Other"
     ],
@@ -2216,6 +2219,9 @@
     "koreader/koreader": [
         "Kindle",
         "Android/APP"
+    ],
+    "kovidgoyal/kitty": [
+        "Other"
     ],
     "krhougs/mina-webpack-plugin": [
         "Other"

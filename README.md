@@ -904,6 +904,7 @@
 * [fgheng/keysound](https://github.com/fgheng/keysound): keysound is keyboard sound software for Linux
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
+* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
@@ -1465,6 +1466,7 @@
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
+* [google/zx](https://github.com/google/zx): A tool for writing better scripts
 
 # Pandoc
 
