@@ -248,7 +248,7 @@
 * [n0wa11/gfw_whitelist](https://github.com/n0wa11/gfw_whitelist): A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
 * [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist): The one and only one gfwlist here
 * [snachx/gfwlist2privoxy](https://github.com/snachx/gfwlist2privoxy): Generate action file for privoxy from gfwlist, inspired by clowwindy's gfwlist and modified from it.
-* [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): Moved to https://github.com/Shadowsocks-NET/Shadowsocks.NET
+* [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows): A C# port of shadowsocks
 * [shadowsocksr-backup/shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr): Python port of ShadowsocksR
 * [shadowsocksrr/shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp): None
 * [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core): A platform for building proxies to bypass network restrictions.
