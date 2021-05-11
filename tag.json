@@ -2449,6 +2449,9 @@
     "mellow-io/mellow": [
         "Other"
     ],
+    "mendsley/bsdiff": [
+        "Other"
+    ],
     "menzi11/BullshitGenerator": [
         "Other"
     ],
@@ -3318,6 +3321,9 @@
         "Web/JavaScript"
     ],
     "systemd/systemd": [
+        "Other"
+    ],
+    "systemd/zram-generator": [
         "Other"
     ],
     "tachiyomiorg/tachiyomi": [

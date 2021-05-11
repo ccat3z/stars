@@ -577,6 +577,7 @@
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
+* [mendsley/bsdiff](https://github.com/mendsley/bsdiff): bsdiff and bspatch are libraries for building and applying patches to binary files.
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here)
@@ -1465,6 +1466,7 @@
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
+* [systemd/zram-generator](https://github.com/systemd/zram-generator): Systemd unit generator for zram devices
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts
 
