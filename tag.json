@@ -310,6 +310,9 @@
     "Jonno12345/TileIconifier": [
         "Windows/Utility"
     ],
+    "JoseExposito/touchegg": [
+        "Other"
+    ],
     "JulianChow94/Windows-screenFetch": [
         "Windows/PowerShell"
     ],
@@ -803,6 +806,9 @@
         "Windows/WSL"
     ],
     "amanusk/s-tui": [
+        "Other"
+    ],
+    "amezin/gnome-shell-extension-ddterm": [
         "Other"
     ],
     "anbox/anbox": [
