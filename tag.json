@@ -310,6 +310,9 @@
     "Jonno12345/TileIconifier": [
         "Windows/Utility"
     ],
+    "JoseExposito/gnome-shell-extension-x11gestures": [
+        "Other"
+    ],
     "JoseExposito/touchegg": [
         "Other"
     ],
@@ -517,7 +520,7 @@
     "ReactiveX/RxKotlin": [
         "Other"
     ],
-    "RealPeha/This-Repo-Has-1656-Stars": [
+    "RealPeha/This-Repo-Has-1657-Stars": [
         "Other"
     ],
     "RelaxedJS/ReLaXed": [
@@ -800,6 +803,9 @@
         "JavaScript"
     ],
     "alnorris/file-dialog": [
+        "Other"
+    ],
+    "alphapapa/org-ql": [
         "Other"
     ],
     "alwsl/alwsl": [
@@ -1894,6 +1900,9 @@
     ],
     "hmrc/service-manager": [
         "Linux/Utility"
+    ],
+    "hnrss/hnrss": [
+        "Other"
     ],
     "hollischuang/toBeTopJavaer": [
         "Other"

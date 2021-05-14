@@ -794,6 +794,7 @@
 * [jaystrictor/gnome-shell-extension-syncthing](https://github.com/jaystrictor/gnome-shell-extension-syncthing): None
 * [zhangkaizhao/gnome-shell-extension-tray-icons](https://github.com/zhangkaizhao/gnome-shell-extension-tray-icons): GNOME shell extension - Tray icons
 * [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
+* [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
 * [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms Implemented in GoLang
@@ -848,6 +849,7 @@
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
+* [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Moved
@@ -1065,6 +1067,7 @@
 * [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript): Generate TypeScript types from Swagger OpenAPI specs
 * [Himself65/OpenArkCompiler](https://github.com/Himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
+* [alphapapa/org-ql](https://github.com/alphapapa/org-ql): An Org-mode query language, including search commands and saved views
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available.
@@ -1295,7 +1298,7 @@
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1656-Stars](https://github.com/RealPeha/This-Repo-Has-1656-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1657-Stars](https://github.com/RealPeha/This-Repo-Has-1657-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
