@@ -907,6 +907,9 @@
     "asciinema/asciinema": [
         "Other"
     ],
+    "asg017/dataflow": [
+        "Other"
+    ],
     "asins/vimcdoc": [
         "Vim"
     ],
@@ -1163,6 +1166,9 @@
         "Other"
     ],
     "citusdata/citus": [
+        "Other"
+    ],
+    "claytongulick/bit-sync": [
         "Other"
     ],
     "cmhughes/latexindent.pl": [
