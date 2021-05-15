@@ -734,7 +734,7 @@
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
-* [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
+* [alisternorris/file-dialog](https://github.com/alisternorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
