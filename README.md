@@ -1244,7 +1244,7 @@
 * [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
-* [solidui/solid](https://github.com/solidui/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
@@ -1300,7 +1300,7 @@
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
