@@ -489,6 +489,7 @@
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings): Type definitions for APIs of Wechat Mini Program in TypeScript
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
@@ -987,6 +988,7 @@
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
+* [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): Mind-elixir is a framework agnostic mind map core
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
@@ -1018,6 +1020,7 @@
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): Async MySQL Connector for .NET and .NET Core
+* [tj/n](https://github.com/tj/n): Node version management
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1301,7 +1304,7 @@
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1660-Stars](https://github.com/RealPeha/This-Repo-Has-1660-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
@@ -1438,6 +1441,7 @@
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 * [kitten/wonka](https://github.com/kitten/wonka): 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
 * [susers/Writeups](https://github.com/susers/Writeups): 国内各大CTF赛题及writeup整理
+* [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
 * [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)

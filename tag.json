@@ -520,7 +520,7 @@
     "ReactiveX/RxKotlin": [
         "Other"
     ],
-    "RealPeha/This-Repo-Has-1660-Stars": [
+    "RealPeha/This-Repo-Has-1663-Stars": [
         "Other"
     ],
     "RelaxedJS/ReLaXed": [
@@ -3300,6 +3300,9 @@
     "square/retrofit": [
         "Other"
     ],
+    "ssshooter/mind-elixir-core": [
+        "Other"
+    ],
     "staticlibs/ccronexpr": [
         "Other"
     ],
@@ -3452,6 +3455,9 @@
     ],
     "tipsy/j2html": [
         "Java"
+    ],
+    "tj/n": [
+        "Other"
     ],
     "tkem/cachetools": [
         "Python"
@@ -3666,6 +3672,9 @@
     "websanova/vue-auth": [
         "Other"
     ],
+    "wechat-miniprogram/api-typings": [
+        "Other"
+    ],
     "wechatpy/wechatpy": [
         "Other"
     ],
@@ -3688,6 +3697,9 @@
         "Other"
     ],
     "wetools/wept": [
+        "Other"
+    ],
+    "wg/wrk": [
         "Other"
     ],
     "wgwoods/vim-systemd-syntax": [
