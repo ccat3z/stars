@@ -1210,7 +1210,7 @@
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin): RxJava bindings for Kotlin
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
-* [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android.
+* [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
