@@ -738,6 +738,7 @@
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alisternorris/file-dialog](https://github.com/alisternorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
@@ -876,6 +877,7 @@
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
 * [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
+* [RobThree/IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
 * [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"

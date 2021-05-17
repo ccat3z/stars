@@ -529,6 +529,9 @@
     "RikkaApps/Riru": [
         "Other"
     ],
+    "RobThree/IdGen": [
+        "Other"
+    ],
     "RobertCsordas/arch-efiboot": [
         "Other"
     ],
@@ -2501,6 +2504,9 @@
         "Other"
     ],
     "michael-rapp/gnome-shell-extension-hide-app-icon": [
+        "Other"
+    ],
+    "mickael-kerjean/filestash": [
         "Other"
     ],
     "microsoft/WSL": [
