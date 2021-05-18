@@ -764,6 +764,7 @@
 * [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
+* [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
 * [davidcarlisle/geometry](https://github.com/davidcarlisle/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
 * [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
