@@ -570,7 +570,7 @@
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
-* [nschloe/blacktex](https://github.com/nschloe/blacktex): Cleans up your LaTeX files.
+* [nschloe/blacktex](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [nsznsznjsz/blog](https://github.com/nsznsznjsz/blog): Celeste's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
@@ -995,6 +995,7 @@
 * [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): Mind-elixir is a framework agnostic mind map core
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
+* [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
