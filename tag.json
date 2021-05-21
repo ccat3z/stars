@@ -1243,6 +1243,12 @@
     "coreybutler/nvm-windows": [
         "Other"
     ],
+    "countstarlight/deepin-wine-qq-arch": [
+        "Other"
+    ],
+    "countstarlight/deepin-wine-wechat-arch": [
+        "Other"
+    ],
     "creack/pty": [
         "Other"
     ],
@@ -1268,6 +1274,9 @@
         "Other"
     ],
     "cvfosammmm/Setzer": [
+        "Other"
+    ],
+    "cweijan/vscode-database-client": [
         "Other"
     ],
     "cytle/wechat_web_devtools": [

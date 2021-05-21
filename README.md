@@ -669,6 +669,8 @@
 * [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars, tasks and more without a server
 * [39aldo39/DecSyncCC](https://github.com/39aldo39/DecSyncCC): Android app to sync contacts, calendars and tasks without a server using DecSync
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
+* [countstarlight/deepin-wine-qq-arch](https://github.com/countstarlight/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
+* [countstarlight/deepin-wine-wechat-arch](https://github.com/countstarlight/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
@@ -1395,6 +1397,7 @@
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Fast Vue Language Support Extension
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
+* [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
