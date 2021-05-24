@@ -1176,6 +1176,7 @@
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
 * [kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor): 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* [x0b/rcx](https://github.com/x0b/rcx): Rclone for Android
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
 * [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
@@ -1232,6 +1233,7 @@
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
+* [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
@@ -1313,7 +1315,7 @@
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
