@@ -1429,6 +1429,7 @@
 * [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web): 🕸 Web APIs implemented as Vue.js composition functions
 * [f/vue-wait](https://github.com/f/vue-wait): Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
+* [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next): Vue 3 compatible drag-and-drop component based on Sortable.js
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
 * [vueuse/vueuse](https://github.com/vueuse/vueuse): Collection of essential Vue Composition Utilities for Vue 2 and 3
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
