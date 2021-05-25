@@ -1,4 +1,7 @@
 {
+    "0xnr/awesome-bigdata": [
+        "Other"
+    ],
     "11ty/eleventy": [
         "Other"
     ],
@@ -1532,6 +1535,9 @@
     "eonpatapon/gnome-shell-extension-caffeine": [
         "Other"
     ],
+    "ept/crdt-website": [
+        "Other"
+    ],
     "equalsraf/win32yank": [
         "Windows/Utility"
     ],
@@ -1878,6 +1884,9 @@
         "Go"
     ],
     "hao14293/2021-Postgraduate-408": [
+        "Other"
+    ],
+    "happyfish100/fastdfs": [
         "Other"
     ],
     "hardcore-sushi/DroidFS": [
@@ -3588,6 +3597,9 @@
     "uber/AutoDispose": [
         "Other"
     ],
+    "uber/baseweb": [
+        "Other"
+    ],
     "ufoscout/docker-compose-wait": [
         "Other"
     ],
@@ -3814,6 +3826,9 @@
         "Other"
     ],
     "you-dont-need/You-Dont-Need-Momentjs": [
+        "Other"
+    ],
+    "youngwookim/awesome-hadoop": [
         "Other"
     ],
     "youzan/vant-weapp": [

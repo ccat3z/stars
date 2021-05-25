@@ -520,6 +520,7 @@
 * [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
 * [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
+* [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
@@ -531,6 +532,7 @@
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
+* [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop): A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 * [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): 用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -555,6 +557,7 @@
 * [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
 * [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
 * [khamer/base16-termite](https://github.com/khamer/base16-termite): None
+* [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
 * [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 * [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper): Simple bash script to set wallpaper according to battery percentage with charging animations.
@@ -634,6 +637,7 @@
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
+* [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
@@ -737,6 +741,7 @@
 * [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
 * [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
+* [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a user-friendly and hackable music player
 * [alisternorris/file-dialog](https://github.com/alisternorris/file-dialog): Trigger the upload file dialog directly from your code easily.
