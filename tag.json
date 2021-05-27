@@ -2900,9 +2900,6 @@
     "piotrwitek/utility-types": [
         "Other"
     ],
-    "pipxproject/pipx": [
-        "Other"
-    ],
     "pivotal-cf-experimental/cron-resource": [
         "Other"
     ],
@@ -3004,6 +3001,9 @@
     ],
     "pypa/pipenv": [
         "Python"
+    ],
+    "pypa/pipx": [
+        "Other"
     ],
     "pytest-dev/pytest-testinfra": [
         "Other"

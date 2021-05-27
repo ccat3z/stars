@@ -1124,7 +1124,7 @@
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
-* [pipxproject/pipx](https://github.com/pipxproject/pipx): Install and Run Python Applications in Isolated Environments
+* [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 * [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
