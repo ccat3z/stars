@@ -651,6 +651,7 @@
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
+* [hit-thusz-RookieCJ/CSSummerCamp2021](https://github.com/hit-thusz-RookieCJ/CSSummerCamp2021): 关于2021年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
 * [cuelang/cue](https://github.com/cuelang/cue): Validate and define text-based and dynamic configuration
@@ -913,6 +914,7 @@
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
+* [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
@@ -1241,6 +1243,7 @@
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
 * [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
+* [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
