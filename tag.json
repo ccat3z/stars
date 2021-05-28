@@ -3083,6 +3083,12 @@
     "restic/restic": [
         "Other"
     ],
+    "revolist/revogrid": [
+        "Other"
+    ],
+    "revolist/vue-datagrid": [
+        "Other"
+    ],
     "rfjakob/earlyoom": [
         "Other"
     ],
