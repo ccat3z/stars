@@ -1257,7 +1257,7 @@
 * [migueravila/SimplerentFox](https://github.com/migueravila/SimplerentFox): 🦊 A Userstyle theme for Firefox minimalist, transparent and Keyboard centered
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
-* [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉)
+* [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
 * [msharov/snownews](https://github.com/msharov/snownews): :snowman: Snownews is a text-mode RSS feed reader.
