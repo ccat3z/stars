@@ -689,6 +689,7 @@
 * [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 * [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
+* [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
 * [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
