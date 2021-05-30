@@ -853,6 +853,7 @@
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
+* [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [shannonmoeller/handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts): Handlebars helpers which implement layout blocks similar to Jinja, Nunjucks (Swig), Pug (Jade), and Twig.
 * [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): None
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
@@ -962,6 +963,7 @@
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+* [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator): Yet Another System Region and Language Simulator
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
@@ -1332,6 +1334,7 @@
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
+* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
 * [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv): A course to build distributed key-value service based on TiKV model

@@ -256,6 +256,9 @@
     "Haleydu/Cimoc": [
         "Other"
     ],
+    "HandBrake/HandBrake": [
+        "Other"
+    ],
     "HangfireIO/Hangfire": [
         "Other"
     ],
@@ -374,6 +377,9 @@
         "Other"
     ],
     "LeetCode-OpenSource/vscode-leetcode": [
+        "Other"
+    ],
+    "Leleat/Tiling-Assistant": [
         "Other"
     ],
     "LnL7/nix-darwin": [
@@ -3818,6 +3824,9 @@
     ],
     "xuhdev/vim-latex-live-preview": [
         "Vim"
+    ],
+    "xupefei/Locale-Emulator": [
+        "Other"
     ],
     "xxf098/go-tun2socks-build": [
         "Other"
