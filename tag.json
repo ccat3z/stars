@@ -718,6 +718,9 @@
     "YunYouJun/air-conditioner": [
         "Other"
     ],
+    "ZSaberLv0/ZFVimDirDiff": [
+        "Other"
+    ],
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
@@ -2410,6 +2413,9 @@
         "Android/Xposed"
     ],
     "liuchengxu/vim-clap": [
+        "Other"
+    ],
+    "livechat/octopus": [
         "Other"
     ],
     "ljharb/qs": [
