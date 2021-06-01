@@ -304,6 +304,9 @@
     "JeffreySu/WeiXinMPSDK": [
         "Other"
     ],
+    "JetBrains/JetBrainsMono": [
+        "Other"
+    ],
     "Jguer/yay": [
         "Other"
     ],
@@ -617,6 +620,9 @@
         "Jekyll/Theme"
     ],
     "Tencent/kbone": [
+        "Other"
+    ],
+    "Tencent/secguide": [
         "Other"
     ],
     "Tencent/vConsole": [
@@ -1473,6 +1479,9 @@
     ],
     "dropwizard/dropwizard": [
         "Java/Web/RESTful"
+    ],
+    "drudru/ansi_up": [
+        "Other"
     ],
     "drwpow/openapi-typescript": [
         "Other"
