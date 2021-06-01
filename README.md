@@ -1309,6 +1309,7 @@
 * [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray): Tray application and Dolphin/Plasma integration for Syncthing
 * [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor): Windows tray utility / filesystem watcher / launcher for Syncthing
 * [akopytov/sysbench](https://github.com/akopytov/sysbench): Scriptable database and system performance benchmark
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager 
 * [mono/t4](https://github.com/mono/t4): T4 text templating engine
 * [austinjones/tab-rs](https://github.com/austinjones/tab-rs): The intuitive, config-driven terminal multiplexer designed for software & systems engineers
@@ -1337,6 +1338,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
+* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [RealPeha/This-Repo-Has-1673-Stars](https://github.com/RealPeha/This-Repo-Has-1673-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions

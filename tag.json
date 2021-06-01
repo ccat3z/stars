@@ -1444,6 +1444,9 @@
     "domaindrivendev/Swashbuckle.AspNetCore": [
         "Other"
     ],
+    "donnemartin/system-design-primer": [
+        "Other"
+    ],
     "dotnet-architecture/eShopOnContainers": [
         ".NET/.NET Core/ASP.NET Core"
     ],
@@ -2185,6 +2188,9 @@
     ],
     "jimdigriz/debian-mssp4": [
         "Linux/Device/Surface"
+    ],
+    "jlevy/the-art-of-command-line": [
+        "Other"
     ],
     "jmblog/how-to-optimize-momentjs-with-webpack": [
         "Other"
