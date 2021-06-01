@@ -644,7 +644,9 @@
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
+* [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
 * [pivotal-cf-experimental/cron-resource](https://github.com/pivotal-cf-experimental/cron-resource): None
+* [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that converts CRON expressions into human readable descriptions
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
 * [dotnet/csharplang](https://github.com/dotnet/csharplang): The official repo for the design of the C# programming language
 * [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone): CSI driver for rclone
@@ -1178,6 +1180,7 @@
 * [bartdegoede/python-searchengine](https://github.com/bartdegoede/python-searchengine): None
 * [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples): Simple examples to introduce PyTorch
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
+* [bee-san/pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
 * [qgaye/qgaye.github.io](https://github.com/qgaye/qgaye.github.io): None
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
@@ -1308,6 +1311,7 @@
 * [austinjones/tab-rs](https://github.com/austinjones/tab-rs): The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 * [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
 * [TablePlus/TablePlus-Linux](https://github.com/TablePlus/TablePlus-Linux):  TablePlus Linux issue tracker
+* [chezou/tabula-py](https://github.com/chezou/tabula-py): Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 * [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
 * [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.
@@ -1453,6 +1457,7 @@
 * [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
 * [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR,  Anime4K, RIFE, CAIN, DAIN and ACNet.
 * [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan): waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
+* [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
 * [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.
 * [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:

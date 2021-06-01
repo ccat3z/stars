@@ -1009,6 +1009,9 @@
     "beaudar/beaudar": [
         "Other"
     ],
+    "bee-san/pyWhat": [
+        "Other"
+    ],
     "bencbartlett/Overmind": [
         "Other"
     ],
@@ -1076,6 +1079,12 @@
         "Other"
     ],
     "borntyping/python-colorlog": [
+        "Other"
+    ],
+    "bradymholt/cRonstrue": [
+        "Other"
+    ],
+    "bradymholt/cron-expression-descriptor": [
         "Other"
     ],
     "breakwa11/gfw_whitelist": [
@@ -1187,6 +1196,9 @@
         "Other"
     ],
     "chef/chef": [
+        "Other"
+    ],
+    "chezou/tabula-py": [
         "Other"
     ],
     "chkimes/graphql-net": [
@@ -3745,6 +3757,9 @@
         "Web/Vue"
     ],
     "vueuse/vueuse": [
+        "Other"
+    ],
+    "wal-g/wal-g": [
         "Other"
     ],
     "wangshub/wechat_jump_game": [
