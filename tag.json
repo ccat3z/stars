@@ -676,6 +676,9 @@
     "ValveSoftware/Proton": [
         "Other"
     ],
+    "VictoriaMetrics/fastcache": [
+        "Other"
+    ],
     "Volmarg/personal-management-system": [
         "Other"
     ],
@@ -2805,6 +2808,9 @@
         "Other"
     ],
     "nvm-sh/nvm": [
+        "Other"
+    ],
+    "oceanbase/oceanbase": [
         "Other"
     ],
     "ochinchina/supervisord": [
