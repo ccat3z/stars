@@ -1748,6 +1748,9 @@
     "fthx/no-overview": [
         "Other"
     ],
+    "fullstorydev/grpcurl": [
+        "Other"
+    ],
     "fusepy/fusepy": [
         "Python"
     ],
