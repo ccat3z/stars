@@ -2518,6 +2518,9 @@
     "maralla/completor.vim": [
         "Vim"
     ],
+    "marcopompili/docker-nginx-git": [
+        "Other"
+    ],
     "markdown-it/markdown-it": [
         "Other"
     ],
@@ -3180,6 +3183,9 @@
         "Other"
     ],
     "roncoo/roncoo-pay": [
+        "Other"
+    ],
+    "roryprimrose/Divergic.Logging.Xunit": [
         "Other"
     ],
     "rosghub/TLP-Switcher": [
