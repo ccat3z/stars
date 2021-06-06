@@ -571,6 +571,7 @@
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
+* [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
@@ -630,6 +631,7 @@
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 * [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for gnome shell
+* [Magisk-Modules-Repo/com.piyushgarg.rclone](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone): None
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): A Compile time PCRE (almost) compatible regular expression matcher.
@@ -1400,6 +1402,7 @@
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
 * [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
 * [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader
+* [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
 * [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG): None
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
@@ -1511,6 +1514,7 @@
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [florentc/xob](https://github.com/florentc/xob): A lightweight overlay volume (or anything) bar for the X Window System.
+* [WindySha/Xpatch](https://github.com/WindySha/Xpatch): 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.

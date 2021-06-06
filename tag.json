@@ -403,7 +403,13 @@
     "MadLittleMods/postcss-css-variables": [
         "Other"
     ],
+    "Magisk-Modules-Repo/com.piyushgarg.rclone": [
+        "Other"
+    ],
     "Magisk-Modules-Repo/mm": [
+        "Other"
+    ],
+    "Magisk-Modules-Repo/v2ray": [
         "Other"
     ],
     "MajsoulPlus/majsoul-plus": [
@@ -690,6 +696,9 @@
     ],
     "Windos/BurntToast": [
         "Windows/PowerShell"
+    ],
+    "WindySha/Xpatch": [
+        "Other"
     ],
     "Winetricks/winetricks": [
         "Other"
@@ -3932,6 +3941,9 @@
     ],
     "yudai/gotty": [
         "Utility"
+    ],
+    "yujincheng08/BiliRoaming": [
+        "Other"
     ],
     "yuk7/ArchWSL": [
         "Windows/WSL"
