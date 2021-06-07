@@ -1045,9 +1045,6 @@
     "berty/berty": [
         "Other"
     ],
-    "bestwu/docker-qq": [
-        "Chinese APP Hack/QQ"
-    ],
     "bettercap/bettercap": [
         "Other"
     ],
@@ -3628,6 +3625,9 @@
         "Other"
     ],
     "tonybeltramelli/pix2code": [
+        "Other"
+    ],
+    "top-bettercode/docker-qq": [
         "Other"
     ],
     "tpope/vim-eunuch": [
