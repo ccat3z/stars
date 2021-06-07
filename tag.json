@@ -3543,6 +3543,9 @@
     "termux/termux-services": [
         "Other"
     ],
+    "terser/terser": [
+        "Other"
+    ],
     "tesseract-ocr/tesseract": [
         "Other"
     ],
