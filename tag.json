@@ -1324,6 +1324,12 @@
     "cuelang/cue": [
         "Other"
     ],
+    "cup-of-tea-dot-be/entity-framework-core-mock": [
+        "Other"
+    ],
+    "cup-of-tea-dot-be/entity-framework-core3-mock": [
+        "Other"
+    ],
     "customd/jquery-visible": [
         "Other"
     ],
@@ -2043,6 +2049,9 @@
         "Other"
     ],
     "huihut/interview": [
+        "Other"
+    ],
+    "huysentruitw/entity-framework-mock": [
         "Other"
     ],
     "hwhw/kindlevncviewer": [
