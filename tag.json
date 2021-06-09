@@ -3071,6 +3071,9 @@
     "proxyee-down-org/proxyee-down": [
         "Other"
     ],
+    "prprprus/gscheduler": [
+        "Other"
+    ],
     "psf/requests-html": [
         "Other"
     ],
@@ -4000,9 +4003,6 @@
         "Other"
     ],
     "znck/vue-developer-experience": [
-        "Other"
-    ],
-    "zongzhenh/scheduler": [
         "Other"
     ],
     "zotero/zotero": [
