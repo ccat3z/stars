@@ -1234,6 +1234,9 @@
     "christo-pr/dangerously-set-html-content": [
         "Other"
     ],
+    "chubin/cheat.sh": [
+        "Other"
+    ],
     "citusdata/citus": [
         "Other"
     ],
@@ -1466,6 +1469,9 @@
         "Other"
     ],
     "donnemartin/system-design-primer": [
+        "Other"
+    ],
+    "dotenv-linter/dotenv-linter": [
         "Other"
     ],
     "dotnet-architecture/eShopOnContainers": [
@@ -3745,6 +3751,9 @@
         "GFW"
     ],
     "vala-lang/vala-lint": [
+        "Other"
+    ],
+    "vbauerster/mpb": [
         "Other"
     ],
     "vercel/serve": [
