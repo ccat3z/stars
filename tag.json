@@ -1844,6 +1844,9 @@
     "github-tools/github": [
         "GitHub"
     ],
+    "githubixx/ansible-role-wireguard": [
+        "Other"
+    ],
     "gizak/termui": [
         "Other"
     ],

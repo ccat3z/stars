@@ -486,6 +486,7 @@
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
 * [drudru/ansi_up](https://github.com/drudru/ansi_up): A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+* [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
