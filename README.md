@@ -867,7 +867,6 @@
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-* [prprprus/gscheduler](https://github.com/prprprus/gscheduler): Go Job Scheduler for Humans.
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
@@ -1268,6 +1267,7 @@
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
+* [prprus/scheduler](https://github.com/prprus/scheduler): Go Job Scheduler for Humans.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
@@ -1360,7 +1360,7 @@
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1670-Stars](https://github.com/RealPeha/This-Repo-Has-1670-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
