@@ -526,6 +526,9 @@
     "PyCQA/pep8-naming": [
         "Python"
     ],
+    "PyratLabs/ansible-role-k3s": [
+        "Other"
+    ],
     "QingdaoU/OnlineJudge": [
         "Other"
     ],
