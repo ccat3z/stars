@@ -1530,6 +1530,7 @@
 * [WindySha/Xpatch](https://github.com/WindySha/Xpatch): 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
+* [peng-zhihui/XUAN-Bike](https://github.com/peng-zhihui/XUAN-Bike): None
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
 * [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 11
