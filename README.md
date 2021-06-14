@@ -1196,6 +1196,7 @@
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Get and set values in your .env file in local and production servers. :tada:
+* [rytilahti/python-miio](https://github.com/rytilahti/python-miio): Python library & console tool for controlling Xiaomi smart appliances
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
 * [bartdegoede/python-searchengine](https://github.com/bartdegoede/python-searchengine): None
 * [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples): Simple examples to introduce PyTorch
