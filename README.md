@@ -642,6 +642,7 @@
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
+* [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
@@ -954,6 +955,7 @@
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
+* [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
