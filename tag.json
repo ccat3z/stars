@@ -104,6 +104,9 @@
     "Bumblebee-Project/Bumblebee": [
         "Other"
     ],
+    "BurntSushi/xsv": [
+        "Other"
+    ],
     "Byron/gitoxide": [
         "Other"
     ],
@@ -2989,6 +2992,9 @@
     ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
+    ],
+    "phodal/tangping": [
+        "Other"
     ],
     "phoronix-test-suite/phoronix-test-suite": [
         "Other"
