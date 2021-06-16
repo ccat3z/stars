@@ -1047,6 +1047,7 @@
 * [ansible-community/molecule](https://github.com/ansible-community/molecule): Molecule aids in the development and testing of Ansible roles
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
+* [monyhar/monyhar](https://github.com/monyhar/monyhar): 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 * [moq/moq4](https://github.com/moq/moq4): Repo for managing Moq 4.x 
 * [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
