@@ -1297,6 +1297,9 @@
     "concourse/git-resource": [
         "Other"
     ],
+    "concourse/oci-build-task": [
+        "Other"
+    ],
     "concourse/registry-image-resource": [
         "Other"
     ],
@@ -3835,9 +3838,6 @@
         "Other"
     ],
     "vitejs/vite": [
-        "Other"
-    ],
-    "vito/oci-build-task": [
         "Other"
     ],
     "vlang/v": [

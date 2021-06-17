@@ -1101,7 +1101,7 @@
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [machiav3lli/oandbackupx](https://github.com/machiav3lli/oandbackupx): backup manager for android
 * [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
-* [vito/oci-build-task](https://github.com/vito/oci-build-task): a Concourse task for building OCI images
+* [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
 * [octokit/octokit.js](https://github.com/octokit/octokit.js): The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
