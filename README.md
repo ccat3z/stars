@@ -940,6 +940,7 @@
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
+* [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
 * [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
