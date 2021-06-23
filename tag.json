@@ -1231,6 +1231,9 @@
     "championswimmer/vuex-persist": [
         "Other"
     ],
+    "cheat/cheat": [
+        "Other"
+    ],
     "checkpoint-restore/criu": [
         "Other"
     ],
@@ -2117,6 +2120,9 @@
     "ibhagwan/picom": [
         "Other"
     ],
+    "ibraheemdev/modern-unix": [
+        "Other"
+    ],
     "ics-py/ics-py": [
         "Other"
     ],
@@ -2780,6 +2786,9 @@
         "Other"
     ],
     "muckSponge/MaterialFox": [
+        "Other"
+    ],
+    "muesli/duf": [
         "Other"
     ],
     "muesli/gitomatic": [
@@ -3634,6 +3643,9 @@
         "Other"
     ],
     "themix-project/oomox": [
+        "Other"
+    ],
+    "theryangeary/choose": [
         "Other"
     ],
     "theskumar/python-dotenv": [
