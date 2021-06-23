@@ -874,6 +874,9 @@
     "alphapapa/org-ql": [
         "Other"
     ],
+    "altair-graphql/altair": [
+        "Other"
+    ],
     "alwsl/alwsl": [
         "Windows/WSL"
     ],
@@ -2148,9 +2151,6 @@
         "Other"
     ],
     "immutable-js/immutable-js": [
-        "Other"
-    ],
-    "imolorhe/altair": [
         "Other"
     ],
     "imsun/gitment": [
