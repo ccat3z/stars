@@ -757,6 +757,7 @@
 * [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
 * [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+* [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 * [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast JavaScript bundler and minifier
 * [future-architect/eslint-plugin-vue-scoped-css](https://github.com/future-architect/eslint-plugin-vue-scoped-css): ESLint plugin for Scoped CSS in Vue.js
 * [etcd-io/etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
@@ -1170,6 +1171,7 @@
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way
 * [plaintextaccounting/plaintextaccounting.github.io](https://github.com/plaintextaccounting/plaintextaccounting.github.io): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co.
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+* [microsoft/playwright](https://github.com/microsoft/playwright): Node.js library to automate Chromium, Firefox and WebKit with a single API
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar

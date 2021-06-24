@@ -180,6 +180,9 @@
     "EastWorld/wechat-app-mall": [
         "WeChat/Mini Program/Develop"
     ],
+    "Eastrall/EntityFrameworkCore.DataEncryption": [
+        "Other"
+    ],
     "EbookFoundation/free-programming-books": [
         "Other"
     ],
@@ -2693,6 +2696,9 @@
         "Other"
     ],
     "microsoft/monaco-editor": [
+        "Other"
+    ],
+    "microsoft/playwright": [
         "Other"
     ],
     "microsoft/pyright": [
