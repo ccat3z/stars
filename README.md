@@ -1028,6 +1028,7 @@
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
+* [novoid/Memacs](https://github.com/novoid/Memacs): What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 * [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 100+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
