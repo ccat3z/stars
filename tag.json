@@ -1811,6 +1811,12 @@
     "fthx/no-overview": [
         "Other"
     ],
+    "ful1e5/Bibata_Cursor": [
+        "Other"
+    ],
+    "ful1e5/Google_Cursor": [
+        "Other"
+    ],
     "fullstorydev/grpcurl": [
         "Other"
     ],
@@ -3862,6 +3868,9 @@
         "Vim"
     ],
     "vim/vim": [
+        "Other"
+    ],
+    "vinceliuice/Qogir-icon-theme": [
         "Other"
     ],
     "vincentbernat/hellogopher": [

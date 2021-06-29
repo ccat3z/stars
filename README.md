@@ -570,6 +570,7 @@
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Material Based Cursors 🚀
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
@@ -859,6 +860,7 @@
 * [eolinker/goku](https://github.com/eolinker/goku): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
+* [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): 🍭 Cursor theme inspired on Google
 * [goplus/gop](https://github.com/goplus/gop): GoPlus - The Go+ language for data science
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
@@ -1222,6 +1224,7 @@
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
 * [qgaye/qgaye.github.io](https://github.com/qgaye/qgaye.github.io): None
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+* [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme): A colorful design icon theme for linux desktops
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
