@@ -2725,6 +2725,9 @@
     "miniflux/v2": [
         "Other"
     ],
+    "mininet/mininet": [
+        "Other"
+    ],
     "mitchellh/mapstructure": [
         "Other"
     ],
@@ -2829,6 +2832,9 @@
         "Other"
     ],
     "natemcmaster/dotnet-tools": [
+        "Other"
+    ],
+    "nativefier/nativefier": [
         "Other"
     ],
     "nefe/iron-redux": [
@@ -3306,6 +3312,9 @@
         "Other"
     ],
     "ruffle-rs/ruffle": [
+        "Other"
+    ],
+    "rust-lang/mdBook": [
         "Other"
     ],
     "rxin/db-readings": [
