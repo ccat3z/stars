@@ -567,6 +567,7 @@
 * [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
 * [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+* [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
