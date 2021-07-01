@@ -1988,6 +1988,9 @@
     "greenrobot/greenDAO": [
         "Android"
     ],
+    "greensock/GSAP": [
+        "Other"
+    ],
     "gsterjov/openshift-nginx-cartridge": [
         "OpenShift"
     ],
@@ -3541,6 +3544,9 @@
         "Other"
     ],
     "square/retrofit": [
+        "Other"
+    ],
+    "srevinsaju/guiscrcpy": [
         "Other"
     ],
     "ssshooter/mind-elixir-core": [

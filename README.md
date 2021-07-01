@@ -877,9 +877,11 @@
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* [greensock/GSAP](https://github.com/greensock/GSAP): GreenSock's GSAP JavaScript animation library (including Draggable).
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
+* [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
