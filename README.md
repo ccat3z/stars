@@ -524,7 +524,7 @@
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
-* [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places in China.
+* [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
 * [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
