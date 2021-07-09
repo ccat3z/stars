@@ -3605,6 +3605,9 @@
     "sveltejs/svelte": [
         "Other"
     ],
+    "swagger-api/swagger-codegen": [
+        "Other"
+    ],
     "syncthing/syncthing": [
         "Other"
     ],
