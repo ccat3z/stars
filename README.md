@@ -903,7 +903,6 @@
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-* [KDE-mac/homebrew-kde](https://github.com/KDE-mac/homebrew-kde): Moved
 * [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 💀 Homebrew/homebrew-livecheck (deprecated)
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services with macOS' launchctl daemon manager
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
