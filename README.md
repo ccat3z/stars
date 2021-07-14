@@ -1338,6 +1338,7 @@
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
+* [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
