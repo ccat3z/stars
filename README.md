@@ -1293,7 +1293,7 @@
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
-* [prprus/scheduler](https://github.com/prprus/scheduler): Go Job Scheduler for Humans.
+* [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
