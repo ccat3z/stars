@@ -1229,7 +1229,7 @@
 * [bee-san/pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
 * [qgaye/qgaye.github.io](https://github.com/qgaye/qgaye.github.io): None
-* [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+* [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 * [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme): A colorful design icon theme for linux desktops
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
