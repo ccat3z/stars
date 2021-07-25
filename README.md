@@ -143,7 +143,7 @@
 * [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler): A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
 * [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub): An open source GitHub Android client app, faster and concise.
 * [ekibun/QQNotfAndShare](https://github.com/ekibun/QQNotfAndShare): (Deprecated)QQ通知增强+分享转发
-* [termux/termux-app](https://github.com/termux/termux-app): Android terminal and Linux environment - app repository.
+* [termux/termux-app](https://github.com/termux/termux-app): Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## MIUI
 
