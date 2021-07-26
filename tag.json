@@ -113,6 +113,9 @@
     "Byron/gitoxide": [
         "Other"
     ],
+    "CDDSCLab/Database-Optimization": [
+        "Other"
+    ],
     "CTeX-org/ctex-kit": [
         "Other"
     ],
@@ -3863,6 +3866,9 @@
     ],
     "v2ray/v2ray-core": [
         "GFW"
+    ],
+    "v8/v8": [
+        "Other"
     ],
     "vala-lang/vala-lint": [
         "Other"
