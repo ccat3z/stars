@@ -1170,6 +1170,7 @@
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data. <personal.management.system.pms@gmail.com>
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 5kb subset of Vue optimized for progressive enhancement
+* [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
