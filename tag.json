@@ -1507,6 +1507,9 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "docker/dockercraft": [
+        "Other"
+    ],
     "docopt/docopt.go": [
         "Other"
     ],
@@ -2015,6 +2018,9 @@
     "gusztavvargadr/packer": [
         "Other"
     ],
+    "gwsw/less": [
+        "Other"
+    ],
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
@@ -2404,6 +2410,9 @@
     ],
     "keybuk/libnih": [
         "C"
+    ],
+    "keylase/nvidia-patch": [
+        "Other"
     ],
     "kgco/RateMySupervisor": [
         "Other"

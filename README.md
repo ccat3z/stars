@@ -728,6 +728,7 @@
 * [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone): Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 * [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet): :whale: .NET (C#) Client Library for Docker API
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
+* [docker/dockercraft](https://github.com/docker/dockercraft): Docker + Minecraft = Dockercraft
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
 * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
@@ -984,6 +985,7 @@
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
+* [gwsw/less](https://github.com/gwsw/less): Less - text pager
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
@@ -1115,6 +1117,7 @@
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
+* [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
