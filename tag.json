@@ -829,6 +829,9 @@
     "aemkei/jsfuck": [
         "JavaScript"
     ],
+    "afloren/openconnect-socks-proxy": [
+        "Other"
+    ],
     "agalwood/Motrix": [
         "Other"
     ],
@@ -1244,6 +1247,9 @@
         "Other"
     ],
     "ceph/ceph": [
+        "Other"
+    ],
+    "cernekee/ocproxy": [
         "Other"
     ],
     "cesanta/docker_auth": [
