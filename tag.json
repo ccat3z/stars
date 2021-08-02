@@ -125,6 +125,9 @@
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
+    "Clansty/Icalingua": [
+        "Other"
+    ],
     "ClosedXML/ClosedXML": [
         "Other"
     ],
@@ -1582,6 +1585,9 @@
     "dustinkirkland/byobu": [
         "Other"
     ],
+    "dutchcoders/transfer.sh": [
+        "Other"
+    ],
     "duxingkei33/orangepi_PC_gpio_pyH3": [
         "SBC"
     ],
@@ -1707,6 +1713,9 @@
         "Web/Backend/REST"
     ],
     "ewlsh/dynamic-panel-transparency": [
+        "Other"
+    ],
+    "excalidraw/excalidraw": [
         "Other"
     ],
     "extrawurst/gitui": [
@@ -3125,6 +3134,9 @@
     "plaintextaccounting/plaintextaccounting.github.io": [
         "Other"
     ],
+    "plantuml/plantuml": [
+        "Other"
+    ],
     "plasma-disassembler/plasma": [
         "Other"
     ],
@@ -3952,6 +3964,9 @@
         "Other"
     ],
     "vmware-tanzu/velero": [
+        "Other"
+    ],
+    "vnotex/vnote": [
         "Other"
     ],
     "volatiletech/authboss": [
