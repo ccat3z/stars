@@ -873,6 +873,7 @@
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
+* [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
