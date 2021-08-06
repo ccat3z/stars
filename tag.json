@@ -919,6 +919,9 @@
     "andrewlock/NetEscapades.Configuration": [
         "Other"
     ],
+    "andrewrothstein/ansible-velero": [
+        "Other"
+    ],
     "andrey-pohilko/registry-cli": [
         "Other"
     ],
