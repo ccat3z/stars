@@ -1883,6 +1883,9 @@
     "gajus/flow-runtime": [
         "Other"
     ],
+    "gaul/s3proxy": [
+        "Other"
+    ],
     "gdiepen/docker-convenience-scripts": [
         "Docker"
     ],
@@ -2797,6 +2800,9 @@
     "mininet/mininet": [
         "Other"
     ],
+    "minio/minio": [
+        "Other"
+    ],
     "mitchellh/mapstructure": [
         "Other"
     ],
@@ -3318,6 +3324,9 @@
         "Other"
     ],
     "remjey/luaotp": [
+        "Other"
+    ],
+    "replicatedhq/local-volume-provider": [
         "Other"
     ],
     "replit-archive/repl.it": [
