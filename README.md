@@ -863,6 +863,7 @@
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
+* [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3): A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * [goccmack/gogll](https://github.com/goccmack/gogll): Generates generalised LL (GLL) and reduced size LR(1) parsers with matching lexers
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
