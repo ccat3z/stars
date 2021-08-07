@@ -1898,6 +1898,9 @@
     "geekplux/cv_resume": [
         "Other"
     ],
+    "geerlingguy/ansible-role-k8s_manifests": [
+        "Other"
+    ],
     "geerlingguy/macos-virtualbox-vm": [
         "Other"
     ],
