@@ -3044,6 +3044,9 @@
     "optimisme/gjs-examples": [
         "Other"
     ],
+    "oracle/graal": [
+        "Other"
+    ],
     "oracle/graaljs": [
         "Other"
     ],
@@ -4087,6 +4090,9 @@
         "Other"
     ],
     "willdoescode/nat": [
+        "Other"
+    ],
+    "woai3c/nand2tetris": [
         "Other"
     ],
     "wonderful-panda/vue-tsx-support": [
