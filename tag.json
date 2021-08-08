@@ -2508,6 +2508,9 @@
     "kronik3r/daktilo": [
         "Jekyll"
     ],
+    "kubernetes-sigs/kustomize": [
+        "Other"
+    ],
     "kubernetes/kompose": [
         "Other"
     ],
@@ -3312,6 +3315,9 @@
         "Other"
     ],
     "ramda/ramda": [
+        "Other"
+    ],
+    "rancher/local-path-provisioner": [
         "Other"
     ],
     "ranxian/xv6-chinese": [
