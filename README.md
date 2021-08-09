@@ -1544,7 +1544,7 @@
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
 * [grandchef/vuex-persistedstate-migrate](https://github.com/grandchef/vuex-persistedstate-migrate): Library to migrate vuex state using vuex-persistedstate
 * [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
-* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR,  Anime4K, RIFE, CAIN, DAIN and ACNet.
+* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN, Real-ESRGAN and ACNet.
 * [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan): waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 * [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
