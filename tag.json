@@ -391,6 +391,9 @@
     "Kong/insomnia": [
         "Other"
     ],
+    "Kong/kubernetes-ingress-controller": [
+        "Other"
+    ],
     "Kozea/Radicale": [
         "Other"
     ],
@@ -2761,6 +2764,9 @@
     "metafizzy/isotope": [
         "Other"
     ],
+    "metallb/metallb": [
+        "Other"
+    ],
     "mhinz/vim-signify": [
         "Other"
     ],
@@ -3236,6 +3242,9 @@
     "prisma-labs/graphql-request": [
         "Other"
     ],
+    "projectcontour/contour": [
+        "Other"
+    ],
     "prometheus/prometheus": [
         "Other"
     ],
@@ -3432,6 +3441,9 @@
         "Other"
     ],
     "rytilahti/python-miio": [
+        "Other"
+    ],
+    "saarasio/enroute": [
         "Other"
     ],
     "sabre-io/Baikal": [
@@ -4189,6 +4201,9 @@
         "Other"
     ],
     "zachleat/speedlify": [
+        "Other"
+    ],
+    "zalando/skipper": [
         "Other"
     ],
     "zbezj/HEU_KMS_Activator": [
