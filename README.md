@@ -762,6 +762,7 @@
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3.0 UI Library made by Element team
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
+* [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute One-Step Ingress - Connectivity and Security for your Microservice using one helm command

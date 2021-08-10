@@ -1676,6 +1676,9 @@
     "emicklei/go-restful": [
         "Other"
     ],
+    "emissary-ingress/emissary": [
+        "Other"
+    ],
     "emotion-js/emotion": [
         "Other"
     ],
