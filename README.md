@@ -971,6 +971,7 @@
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
+* [vshn/k8up](https://github.com/vshn/k8up): Kubernetes and OpenShift Backup Operator
 * [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [skywind3000/kcp](https://github.com/skywind3000/kcp): :zap: KCP - A Fast and Reliable ARQ Protocol
