@@ -1345,6 +1345,9 @@
     "concourse/concourse": [
         "Other"
     ],
+    "concourse/concourse-chart": [
+        "Other"
+    ],
     "concourse/git-resource": [
         "Other"
     ],
@@ -2693,6 +2696,9 @@
         "Other"
     ],
     "martanne/dvtm": [
+        "Other"
+    ],
+    "masonr/yet-another-bench-script": [
         "Other"
     ],
     "material-components/material-components-web": [
