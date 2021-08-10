@@ -1448,6 +1448,7 @@
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
+* [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 * [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
 * [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
