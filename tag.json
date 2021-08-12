@@ -1928,6 +1928,9 @@
     "gfwlist/gfwlist": [
         "GFW"
     ],
+    "ggandor/lightspeed.nvim": [
+        "Other"
+    ],
     "ghbhaha/JzApp": [
         "Android/APP"
     ],
@@ -3705,6 +3708,9 @@
     "stretchr/testify": [
         "Other"
     ],
+    "studentmain/censor": [
+        "Other"
+    ],
     "studyzy/imewlconverter": [
         "Utility"
     ],
@@ -3859,6 +3865,9 @@
         "Other"
     ],
     "tleunen/babel-plugin-module-resolver": [
+        "Other"
+    ],
+    "tmrts/go-patterns": [
         "Other"
     ],
     "tmux-plugins/tmux-resurrect": [
