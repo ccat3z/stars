@@ -2773,6 +2773,9 @@
     "mesonbuild/meson": [
         "Other"
     ],
+    "mesosphere/traefik-forward-auth": [
+        "Other"
+    ],
     "metafizzy/isotope": [
         "Other"
     ],
