@@ -4047,6 +4047,9 @@
     "vmware-tanzu/carvel-kapp": [
         "Other"
     ],
+    "vmware-tanzu/octant": [
+        "Other"
+    ],
     "vmware-tanzu/velero": [
         "Other"
     ],
@@ -4090,6 +4093,9 @@
         "Docker"
     ],
     "wangyu-/udp2raw-tunnel": [
+        "Other"
+    ],
+    "weaveworks/scope": [
         "Other"
     ],
     "weaveworks/weave": [
