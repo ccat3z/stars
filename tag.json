@@ -2520,6 +2520,9 @@
     "kronik3r/daktilo": [
         "Jekyll"
     ],
+    "kubenav/kubenav": [
+        "Other"
+    ],
     "kubernetes-sigs/kustomize": [
         "Other"
     ],
@@ -3580,6 +3583,9 @@
     ],
     "skilion/onedrive": [
         "Linux/Utility"
+    ],
+    "skooner-k8s/skooner": [
+        "Other"
     ],
     "skygragon/leetcode-cli": [
         "Other"
