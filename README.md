@@ -541,10 +541,12 @@
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+* [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
+* [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 * [desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala): A curated list of Vala libraries
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
@@ -820,6 +822,7 @@
 * [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
+* [laymonage/giscus](https://github.com/laymonage/giscus): A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [Kentzo/git-archive-all](https://github.com/Kentzo/git-archive-all): A python script wrapper for git-archive that archives a git superproject and its submodules, if it has any. Takes into account .gitattributes
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
