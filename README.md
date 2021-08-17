@@ -1511,7 +1511,7 @@
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐A lightweight private proxy registry build in Node.js
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
-* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker for Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 * [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
