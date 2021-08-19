@@ -752,7 +752,7 @@
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
-* [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。杭州有赞大量招聘Android、iOS工程师和实习生(22/23毕业)，有意向的可以加我联系方式 wx: iwrbug
+* [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [martanne/dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 * [ewlsh/dynamic-panel-transparency](https://github.com/ewlsh/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
