@@ -2523,6 +2523,9 @@
     "kovidgoyal/kitty": [
         "Other"
     ],
+    "krallin/tini": [
+        "Other"
+    ],
     "krhougs/mina-webpack-plugin": [
         "Other"
     ],
