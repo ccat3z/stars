@@ -1365,8 +1365,8 @@
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
+* [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-* [migueravila/SimplerentFox](https://github.com/migueravila/SimplerentFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
