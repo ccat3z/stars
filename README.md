@@ -626,6 +626,7 @@
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
+* [beiliangshizi/China_House](https://github.com/beiliangshizi/China_House): 中国买房相关资料和项目整理，方便查看，持续更新中...
 * [17mon/china_ip_list](https://github.com/17mon/china_ip_list): None
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
