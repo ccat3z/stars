@@ -1528,6 +1528,9 @@
     "dexidp/dex": [
         "Other"
     ],
+    "dgraph-io/badger": [
+        "Other"
+    ],
     "dgraph-io/dgraph": [
         "Other"
     ],

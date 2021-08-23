@@ -556,6 +556,7 @@
 * [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
 * [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other resources for Fish. 🐚
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
+* [dgraph-io/badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
 * [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 * [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
