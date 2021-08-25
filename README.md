@@ -742,6 +742,7 @@
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
 * [docker/dockercraft](https://github.com/docker/dockercraft): Docker + Minecraft = Dockercraft
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
+* [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
@@ -1375,6 +1376,7 @@
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Beta)
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
+* [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
 * [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
 * [msharov/snownews](https://github.com/msharov/snownews): :snowman: Snownews is a text-mode RSS feed reader.
 * [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
