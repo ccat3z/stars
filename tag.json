@@ -2923,6 +2923,9 @@
     "mozilla/nunjucks": [
         "Other"
     ],
+    "mozilla/pdf.js": [
+        "Other"
+    ],
     "mozillazg/python-pinyin": [
         "Other"
     ],
