@@ -1066,6 +1066,7 @@
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
 * [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+* [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit): Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
@@ -1553,7 +1554,6 @@
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
-* [mdbootstrap/Vue-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design): Vue Bootstrap with Material Design - Powerful and free UI KIT
 * [pikax/vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
 * [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Spreadsheet data grid component. Handles enormous data processing.
 * [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience): A collection of tools for vue ecosystem.
