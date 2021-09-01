@@ -1005,6 +1005,7 @@
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
+* [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for vue ecosystem.
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
@@ -1557,7 +1558,6 @@
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
 * [pikax/vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
 * [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Spreadsheet data grid component. Handles enormous data processing.
-* [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience): A collection of tools for vue ecosystem.
 * [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free

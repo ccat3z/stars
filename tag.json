@@ -4119,6 +4119,9 @@
     "vue-styleguidist/vue-styleguidist": [
         "Other"
     ],
+    "vuedx/languagetools": [
+        "Other"
+    ],
     "vuejs/awesome-vue": [
         "Other"
     ],
@@ -4333,9 +4336,6 @@
         "Other"
     ],
     "ziahamza/webui-aria2": [
-        "Other"
-    ],
-    "znck/vue-developer-experience": [
         "Other"
     ],
     "zotero/zotero": [
