@@ -645,7 +645,7 @@
 * [cdr/code-server](https://github.com/cdr/code-server): VS Code in the browser
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
-* [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for gnome shell
+* [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for gnome shell.
 * [Magisk-Modules-Repo/com.piyushgarg.rclone](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone): None
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
