@@ -1342,6 +1342,9 @@
     "cmhughes/latexindent.pl": [
         "LaTeX"
     ],
+    "cmu-db/bustub": [
+        "Other"
+    ],
     "cmu-db/noisepage": [
         "Other"
     ],
