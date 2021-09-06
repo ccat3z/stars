@@ -547,6 +547,9 @@
     "Prince781/vala-language-server": [
         "Other"
     ],
+    "PureDarwin/PureDarwin": [
+        "Other"
+    ],
     "PyCQA/pep8-naming": [
         "Python"
     ],
@@ -2652,6 +2655,9 @@
     "linux-surface/linux-surface": [
         "Other"
     ],
+    "liriliri/licia": [
+        "Other"
+    ],
     "littlecodersh/ItChat": [
         "Chinese APP Hack/WeChat"
     ],
@@ -3474,6 +3480,9 @@
         "Other"
     ],
     "roncoo/roncoo-pay": [
+        "Other"
+    ],
+    "ronv/lines": [
         "Other"
     ],
     "roryprimrose/Divergic.Logging.Xunit": [
