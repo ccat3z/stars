@@ -490,6 +490,7 @@
 * [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
 * [geerlingguy/ansible-role-k8s_manifests](https://github.com/geerlingguy/ansible-role-k8s_manifests): Ansible Role - K8s Manifests
 * [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+* [evrardjp/ansible-tinc](https://github.com/evrardjp/ansible-tinc): Role to install tinc in a star/ring topology (w/ leaf/spine) (based on your variables)
 * [andrewrothstein/ansible-velero](https://github.com/andrewrothstein/ansible-velero): None
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
@@ -818,6 +819,7 @@
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
+* [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder

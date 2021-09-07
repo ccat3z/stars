@@ -1775,6 +1775,9 @@
     "evilsocket/librestd": [
         "Web/Backend/REST"
     ],
+    "evrardjp/ansible-tinc": [
+        "Other"
+    ],
     "ewlsh/dynamic-panel-transparency": [
         "Other"
     ],
@@ -1818,6 +1821,9 @@
         "Other"
     ],
     "fastrizwaan/flatpak-wine": [
+        "Other"
+    ],
+    "fatedier/frp": [
         "Other"
     ],
     "fcitx/fcitx": [
