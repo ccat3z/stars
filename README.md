@@ -634,6 +634,7 @@
 * [beiliangshizi/China_House](https://github.com/beiliangshizi/China_House): 中国买房相关资料和项目整理，方便查看，持续更新中...
 * [17mon/china_ip_list](https://github.com/17mon/china_ip_list): None
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
+* [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite): 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
 * [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut and (sometimes) awk
 * [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc): 漫画阅读器
@@ -820,6 +821,7 @@
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
@@ -839,6 +841,7 @@
 * [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes
 * [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
+* [banga/git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
@@ -924,6 +927,7 @@
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
+* [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
 * [aoaojiang/HelloWorld](https://github.com/aoaojiang/HelloWorld): 测试Android Studio的VCS
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
@@ -1059,6 +1063,7 @@
 * [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm): Instructions and script to help you create a VirtualBox VM running macOS.
 * [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server.
 * [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
+* [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 * [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
