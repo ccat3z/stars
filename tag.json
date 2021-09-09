@@ -2495,6 +2495,9 @@
     "k0shk0sh/FastHub": [
         "Android/APP"
     ],
+    "k3s-io/helm-controller": [
+        "Other"
+    ],
     "k3s-io/k3s": [
         "Other"
     ],
