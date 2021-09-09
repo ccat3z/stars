@@ -778,7 +778,7 @@
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
-* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute One-Step Ingress - Connectivity and Security for your Microservice using one helm command
+* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute One-Step Ingress - Connectivity and Security for your Microservice at Kubernetes Ingress using one helm command. Built on Envoy Proxy.
 * [cup-of-tea-dot-be/entity-framework-core-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
@@ -908,7 +908,7 @@
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
-* [getgridea/gridea](https://github.com/getgridea/gridea): ✍️A static blog writing client (一个静态博客写作客户端)
+* [getgridea/gridea](https://github.com/getgridea/gridea): ✍️ A static blog writing client (一个静态博客写作客户端)
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
