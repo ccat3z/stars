@@ -1312,6 +1312,9 @@
     "championswimmer/vuex-persist": [
         "Other"
     ],
+    "chaos-mesh/chaos-mesh": [
+        "Other"
+    ],
     "cheat/cheat": [
         "Other"
     ],
@@ -1493,6 +1496,9 @@
         "Utility"
     ],
     "darlinghq/darling": [
+        "Other"
+    ],
+    "datawhalechina/daily-interview": [
         "Other"
     ],
     "datawhalechina/pumpkin-book": [
@@ -2513,6 +2519,9 @@
     "karlstav/cava": [
         "Other"
     ],
+    "kcp-dev/kcp": [
+        "Other"
+    ],
     "keeferrourke/capitaine-cursors": [
         "Other"
     ],
@@ -2599,6 +2608,9 @@
         "Other"
     ],
     "kubernetes/kompose": [
+        "Other"
+    ],
+    "kubernetes/kubernetes": [
         "Other"
     ],
     "kulshekhar/ts-jest": [
@@ -2754,6 +2766,9 @@
     ],
     "m13253/BiliDan": [
         "Utility"
+    ],
+    "m8/refined.blog": [
+        "Other"
     ],
     "machiav3lli/oandbackupx": [
         "Other"
@@ -3341,6 +3356,9 @@
     "preservim/tagbar": [
         "Other"
     ],
+    "presslabs/gitfs": [
+        "Other"
+    ],
     "prettier/prettier": [
         "Other"
     ],
@@ -3647,6 +3665,9 @@
     "shengxinjing/programmer-job-blacklist": [
         "Other"
     ],
+    "shenzhengfang/kkndme_tianya": [
+        "Other"
+    ],
     "shimohq/chinese-programmer-wrong-pronunciation": [
         "Other"
     ],
@@ -3931,6 +3952,9 @@
         "Other"
     ],
     "thestinger/termite": [
+        "Other"
+    ],
+    "thetirefire/badidea": [
         "Other"
     ],
     "thomseddon/traefik-forward-auth": [
@@ -4399,6 +4423,9 @@
         "Other"
     ],
     "zotero/zotero": [
+        "Other"
+    ],
+    "zricethezav/gitleaks": [
         "Other"
     ],
     "zsxsoft/libfprint-fprintd": [
