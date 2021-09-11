@@ -622,6 +622,7 @@
 * [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
+* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
