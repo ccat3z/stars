@@ -1021,6 +1021,7 @@
 * [kubenav/kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 * [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller): :gorilla: Kong for Kubernetes: the official Ingress Controller for Kubernetes.
+* [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart): 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 * [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
@@ -1393,7 +1394,7 @@
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
-* [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed Database Ecosphere
+* [apache/shardingsphere](https://github.com/apache/shardingsphere): Build criterion and ecosystem above multi-model databases
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
