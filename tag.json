@@ -1000,6 +1000,9 @@
     "apache/buildstream": [
         "Other"
     ],
+    "apache/hadoop": [
+        "Other"
+    ],
     "apache/shardingsphere": [
         "Other"
     ],
