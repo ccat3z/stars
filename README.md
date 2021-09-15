@@ -973,6 +973,7 @@
 * [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
+* [imba/imba](https://github.com/imba/imba): 🐤 The friendly full-stack language
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, and gRPC.
