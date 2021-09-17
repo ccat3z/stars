@@ -2519,6 +2519,9 @@
     "k3s-io/k3s": [
         "Other"
     ],
+    "k8up-io/k8up": [
+        "Other"
+    ],
     "kamranahmedse/developer-roadmap": [
         "Other"
     ],
@@ -4210,9 +4213,6 @@
         "Other"
     ],
     "volatiletech/authboss": [
-        "Other"
-    ],
-    "vshn/k8up": [
         "Other"
     ],
     "vshn/wrestic": [
