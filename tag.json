@@ -2510,6 +2510,9 @@
     "jwadhams/json-logic-js": [
         "Other"
     ],
+    "jwasham/coding-interview-university": [
+        "Other"
+    ],
     "k0shk0sh/FastHub": [
         "Android/APP"
     ],
@@ -3683,6 +3686,9 @@
     "sharkdp/vivid": [
         "Other"
     ],
+    "shelljs/shx": [
+        "Other"
+    ],
     "shenfeng/tiny-web-server": [
         "C"
     ],
@@ -3921,6 +3927,9 @@
         "Other"
     ],
     "takluyver/flit": [
+        "Other"
+    ],
+    "taowen/modularization-examples": [
         "Other"
     ],
     "tclem/vim-arduino": [
@@ -4180,6 +4189,9 @@
         "Vim"
     ],
     "vim/vim": [
+        "Other"
+    ],
+    "vinceliuice/Graphite-gtk-theme": [
         "Other"
     ],
     "vinceliuice/Qogir-icon-theme": [
