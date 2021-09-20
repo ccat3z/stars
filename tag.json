@@ -1904,9 +1904,6 @@
     "formium/formik": [
         "Other"
     ],
-    "formium/tsdx": [
-        "Other"
-    ],
     "foxcpp/maddy": [
         "Other"
     ],
@@ -2355,6 +2352,9 @@
         "Utility"
     ],
     "jantimon/iconfont-webpack-plugin": [
+        "Other"
+    ],
+    "jaredpalmer/tsdx": [
         "Other"
     ],
     "jasonlvhit/gocron": [
