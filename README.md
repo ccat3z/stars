@@ -751,6 +751,7 @@
 * [top-bettercode/docker-qq](https://github.com/top-bettercode/docker-qq): 提供一种在linux下运行QQ的方式
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Docker images for the Selenium Grid Server
 * [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone): Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 * [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet): :whale: .NET (C#) Client Library for Docker API
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
