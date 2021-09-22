@@ -619,6 +619,7 @@
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
+* [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
 * [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
@@ -768,6 +769,7 @@
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [drone/drone-cli](https://github.com/drone/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
+* [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. go分布式事务管理器。
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
@@ -1339,6 +1341,7 @@
 * [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
 * [flippingbitss/react-daterange-picker](https://github.com/flippingbitss/react-daterange-picker): A react date range picker to using @material-ui. Live Demo: https://flippingbitss.github.io/react-daterange-picker/
+* [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series): 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 * [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): A React component for building Web forms from JSON Schema.
 * [souporserious/react-measure](https://github.com/souporserious/react-measure): 📏 Compute measurements of a React component.
 * [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React.
@@ -1513,6 +1516,7 @@
 * [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
 * [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree): Use ripgrep to find TODO tags and display the results in a tree view
+* [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 * [danielnixon/total-functions](https://github.com/danielnixon/total-functions): A collection of total functions to replace TypeScript's built-in partial functions.
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
