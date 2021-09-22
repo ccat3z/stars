@@ -4275,7 +4275,7 @@
     "wangxian/alpine-mysql": [
         "Docker"
     ],
-    "wangyu-/udp2raw-tunnel": [
+    "wangyu-/udp2raw": [
         "Other"
     ],
     "weaveworks/scope": [
