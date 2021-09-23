@@ -1285,6 +1285,7 @@
 * [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 * [postcss/postcss-custom-properties](https://github.com/postcss/postcss-custom-properties): Use Custom Properties in CSS
 * [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader): PostCSS loader for webpack
+* [postgres/postgres](https://github.com/postgres/postgres): Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit): A framework for managing and maintaining multi-language pre-commit hooks.
 * [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.

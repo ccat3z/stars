@@ -3371,6 +3371,9 @@
     "postcss/postcss-custom-properties": [
         "Other"
     ],
+    "postgres/postgres": [
+        "Other"
+    ],
     "posva/vim-vue": [
         "Other"
     ],
