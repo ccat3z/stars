@@ -907,7 +907,7 @@
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): 🍭 Cursor theme inspired on Google
-* [goplus/gop](https://github.com/goplus/gop): GoPlus - The Go+ language for data science
+* [goplus/gop](https://github.com/goplus/gop): GoPlus - The Go+ language for engineering, STEM education, and data science
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
@@ -1232,6 +1232,7 @@
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
+* [cmu-db/ottertune](https://github.com/cmu-db/ottertune): The automatic DBMS configuration tool
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
