@@ -4458,6 +4458,9 @@
     "yuk7/ArchWSL": [
         "Windows/WSL"
     ],
+    "yuk7/wsldl": [
+        "Other"
+    ],
     "yunjey/pytorch-tutorial": [
         "Other"
     ],
