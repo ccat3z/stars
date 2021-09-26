@@ -640,6 +640,9 @@
     "SeleniumHQ/docker-selenium": [
         "Other"
     ],
+    "SeleniumHQ/selenium": [
+        "Other"
+    ],
     "SheetJS/sheetjs": [
         "Other"
     ],
