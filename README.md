@@ -1658,6 +1658,7 @@
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
 * [microsoft/winget-cli](https://github.com/microsoft/winget-cli): Windows Package Manager CLI (aka winget)
 * [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs): The Microsoft community Windows Package Manager manifest repository
+* [google/wire](https://github.com/google/wire): Compile-time Dependency Injection for Go
 * [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android): Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 * [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB): A Microsoft Windows® USB installation media preparer for GNU+Linux
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.

@@ -2105,6 +2105,9 @@
     "google/sanitizers": [
         "Other"
     ],
+    "google/wire": [
+        "Other"
+    ],
     "google/xsecurelock": [
         "Other"
     ],
