@@ -3620,6 +3620,9 @@
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
     ],
+    "rpardini/docker-registry-proxy": [
+        "Other"
+    ],
     "rprichard/wslbridge": [
         "Windows/WSL"
     ],

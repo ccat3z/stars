@@ -752,6 +752,7 @@
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [top-bettercode/docker-qq](https://github.com/top-bettercode/docker-qq): 提供一种在linux下运行QQ的方式
+* [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
 * [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Docker images for the Selenium Grid Server
