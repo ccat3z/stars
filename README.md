@@ -591,7 +591,7 @@
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [nschloe/blacktex](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
 * [printempw/blessing-skin-server](https://github.com/printempw/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
-* [nsznsznjsz/blog](https://github.com/nsznsznjsz/blog): Celeste's blog.
+* [yzx9/blog](https://github.com/yzx9/blog): Celeste's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
 * [jumper149/blugon](https://github.com/jumper149/blugon): simple and configurable Blue Light Filter for X
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -1638,6 +1638,7 @@
 * [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
 * [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN, Real-ESRGAN and ACNet.
 * [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan): waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
+* [CoeJoder/waitForKeyElements.js](https://github.com/CoeJoder/waitForKeyElements.js): A utility function for userscripts that detects and handles AJAXed content. 
 * [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for Postgres
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
 * [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.

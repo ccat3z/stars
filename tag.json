@@ -140,6 +140,9 @@
     "ClosedXML/ClosedXML": [
         "Other"
     ],
+    "CoeJoder/waitForKeyElements.js": [
+        "Other"
+    ],
     "D4rCM4rC/MagiskSSH": [
         "Android/Magick"
     ],
@@ -3182,9 +3185,6 @@
     "nsf/termbox-go": [
         "Other"
     ],
-    "nsznsznjsz/blog": [
-        "Other"
-    ],
     "numetriclabz/awesome-db": [
         "Other"
     ],
@@ -4465,6 +4465,9 @@
         "Other"
     ],
     "yunjey/pytorch-tutorial": [
+        "Other"
+    ],
+    "yzx9/blog": [
         "Other"
     ],
     "zachleat/speedlify": [
