@@ -1410,6 +1410,7 @@
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
 * [Tencent/secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南
 * [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
+* [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
