@@ -401,7 +401,7 @@
 ### Windows Manager
 
 * [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
-* [Airblader/i3](https://github.com/Airblader/i3): i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+* [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features
 
 ## Kernel
 
@@ -725,7 +725,7 @@
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [denoland/deno](https://github.com/denoland/deno): A secure JavaScript and TypeScript runtime
-* [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn): 🎉 Design patterns for humans 中文版
+* [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn):  Design patterns for humans 中文版 - 对设计模式的超简单解释
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2021
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
