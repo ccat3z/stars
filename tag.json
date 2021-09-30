@@ -3266,6 +3266,9 @@
     "p-e-w/argos": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
+    "pacien/tincapp": [
+        "Other"
+    ],
     "pallets/click": [
         "Python"
     ],
