@@ -2045,6 +2045,9 @@
     "giorginolab/zotfile_doctor": [
         "Other"
     ],
+    "giscus/giscus": [
+        "Other"
+    ],
     "git/git": [
         "Other"
     ],
@@ -2717,9 +2720,6 @@
     ],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
-    ],
-    "laymonage/giscus": [
-        "Other"
     ],
     "leachim6/hello-world": [
         "Other"

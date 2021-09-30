@@ -848,7 +848,7 @@
 * [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
-* [laymonage/giscus](https://github.com/laymonage/giscus): A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+* [giscus/giscus](https://github.com/giscus/giscus): A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [Kentzo/git-archive-all](https://github.com/Kentzo/git-archive-all): A python script wrapper for git-archive that archives a git superproject and its submodules, if it has any. Takes into account .gitattributes
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
