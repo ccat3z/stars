@@ -134,9 +134,6 @@
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
-    "Clansty/Icalingua": [
-        "Other"
-    ],
     "ClosedXML/ClosedXML": [
         "Other"
     ],
@@ -326,6 +323,9 @@
         "Other"
     ],
     "Ian2020/EasyScreenCast": [
+        "Other"
+    ],
+    "Icalingua/Icalingua": [
         "Other"
     ],
     "IlanCosman/tide": [
