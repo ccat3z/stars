@@ -2718,9 +2718,6 @@
     "lanceliao/china-holiday-calender": [
         "Other"
     ],
-    "laoshenkaopu/kkndme_tianya": [
-        "Other"
-    ],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
     ],
@@ -3751,6 +3748,9 @@
     ],
     "shenfeng/tiny-web-server": [
         "C"
+    ],
+    "shengcaishizhan/kkndme_tianya": [
+        "Other"
     ],
     "shengxinjing/programmer-job-blacklist": [
         "Other"
