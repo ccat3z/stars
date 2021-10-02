@@ -499,7 +499,7 @@
 * [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings): Type definitions for APIs of Wechat Mini Program in TypeScript
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
-* [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
+* [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
