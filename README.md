@@ -579,6 +579,7 @@
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
+* [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 * [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Material Based Cursors 🚀
@@ -826,6 +827,7 @@
 * [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
 * [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
+* [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
 * [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK eBook reader
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)

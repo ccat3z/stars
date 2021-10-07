@@ -1937,6 +1937,9 @@
     "fluentscheduler/FluentScheduler": [
         "Other"
     ],
+    "foambubble/foam": [
+        "Other"
+    ],
     "foreversd/forever": [
         "Other"
     ],
@@ -3357,6 +3360,9 @@
         "Other"
     ],
     "pingcap/awesome-database-learning": [
+        "Other"
+    ],
+    "pingcap/benchmarksql": [
         "Other"
     ],
     "pingcap/tidb": [
