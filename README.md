@@ -824,6 +824,7 @@
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
+* [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme): Fluent icon theme for linux desktops
 * [fluent/fluentd](https://github.com/fluent/fluentd): Fluentd: Unified Logging Layer (project under CNCF)
 * [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
@@ -1177,6 +1178,7 @@
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
+* [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
@@ -1248,6 +1250,7 @@
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
+* [refi64/pakitheme](https://github.com/refi64/pakitheme): Automatically install your host GTK+ theme as a Flatpak
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [tomduck/pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos): A pandoc filter for numbering equations and equation references.
 * [Rupan/paperbak](https://github.com/Rupan/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps

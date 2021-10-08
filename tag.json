@@ -3182,6 +3182,9 @@
     "nondanee/UnblockNeteaseMusic": [
         "Other"
     ],
+    "nondanee/ncmdump": [
+        "Other"
+    ],
     "novoid/Memacs": [
         "Other"
     ],
@@ -3558,6 +3561,9 @@
         "Other"
     ],
     "reduxjs/redux": [
+        "Other"
+    ],
+    "refi64/pakitheme": [
         "Other"
     ],
     "remaxjs/remax": [
@@ -4264,6 +4270,9 @@
         "Vim"
     ],
     "vim/vim": [
+        "Other"
+    ],
+    "vinceliuice/Fluent-icon-theme": [
         "Other"
     ],
     "vinceliuice/Graphite-gtk-theme": [
