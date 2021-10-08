@@ -542,6 +542,7 @@
 * [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop): A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 * [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): 用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。
 * [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview): 剑指前端 Offer
+* [bamtercelboo/Awesome-Law-NLP-Research-Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
