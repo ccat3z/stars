@@ -283,6 +283,9 @@
     "Gioni06/terminal.css": [
         "Other"
     ],
+    "GitJournal/GitJournal": [
+        "Other"
+    ],
     "Gruntfuggly/todo-tree": [
         "Other"
     ],
@@ -1090,6 +1093,9 @@
     "astralapp/astral": [
         "GitHub"
     ],
+    "atlassian/yarn-deduplicate": [
+        "Other"
+    ],
     "atmoz/sftp": [
         "Other"
     ],
@@ -1586,6 +1592,9 @@
         "Other"
     ],
     "dell/dkms": [
+        "Other"
+    ],
+    "dendronhq/dendron": [
         "Other"
     ],
     "denisidoro/navi": [
@@ -2752,6 +2761,9 @@
         "Vim"
     ],
     "lesspass/lesspass": [
+        "Other"
+    ],
+    "lewis6991/impatient.nvim": [
         "Other"
     ],
     "libfuse/python-fuse": [

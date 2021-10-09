@@ -725,6 +725,7 @@
 * [countstarlight/deepin-wine-wechat-arch](https://github.com/countstarlight/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
+* [dendronhq/dendron](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [denoland/deno](https://github.com/denoland/deno): A secure JavaScript and TypeScript runtime
 * [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn):  Design patterns for humans 中文版 - 对设计模式超简单的解释
@@ -870,6 +871,7 @@
 * [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 * [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 * [devlooped/GitInfo](https://github.com/devlooped/GitInfo): Git and SemVer Info from MSBuild, C# and VB
+* [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
 * [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks): Scan git repos (or files) for secrets using regex and entropy 🔑
 * [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
@@ -990,6 +992,7 @@
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [imba/imba](https://github.com/imba/imba): 🐤 The friendly full-stack language
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+* [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
@@ -1714,6 +1717,7 @@
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
 * [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
+* [atlassian/yarn-deduplicate](https://github.com/atlassian/yarn-deduplicate): Deduplication tool for yarn.lock files
 * [nkanaev/yarr](https://github.com/nkanaev/yarr): yet another rss reader
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
