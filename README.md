@@ -775,7 +775,7 @@
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [drone/drone-cli](https://github.com/drone/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
-* [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. go分布式事务管理器
+* [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
@@ -1374,6 +1374,7 @@
 * [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise): React hook for handling promises.
 * [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data
 * [dotnet/reactive](https://github.com/dotnet/reactive): The Reactive Extensions for .NET
+* [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
 * [kirsch33/realip](https://github.com/kirsch33/realip): realip module for Caddy v2
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * [reduxjs/redux](https://github.com/reduxjs/redux): Predictable state container for JavaScript apps
