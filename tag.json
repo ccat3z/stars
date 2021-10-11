@@ -1468,12 +1468,6 @@
     "coreybutler/nvm-windows": [
         "Other"
     ],
-    "countstarlight/deepin-wine-qq-arch": [
-        "Other"
-    ],
-    "countstarlight/deepin-wine-wechat-arch": [
-        "Other"
-    ],
     "creack/pty": [
         "Other"
     ],
@@ -4354,6 +4348,12 @@
         "Web/Vue"
     ],
     "vueuse/vueuse": [
+        "Other"
+    ],
+    "vufa/deepin-wine-qq-arch": [
+        "Other"
+    ],
+    "vufa/deepin-wine-wechat-arch": [
         "Other"
     ],
     "wal-g/wal-g": [
