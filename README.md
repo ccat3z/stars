@@ -775,7 +775,7 @@
 * [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [drone/drone-cli](https://github.com/drone/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
-* [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 
+* [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. go分布式事务管理器
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
