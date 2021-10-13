@@ -1570,6 +1570,7 @@
 * [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [apognu/tuigreet](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
+* [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack
 * [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet): .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
@@ -1714,7 +1715,7 @@
 * [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
-* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 11
+* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 12
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
