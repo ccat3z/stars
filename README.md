@@ -511,6 +511,7 @@
 * [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [ALawating-Rex/AreaAndBanks](https://github.com/ALawating-Rex/AreaAndBanks): 中国省市区以及银行和银行支行等数据
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
+* [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): Better dates & times for Python
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
