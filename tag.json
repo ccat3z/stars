@@ -2138,6 +2138,9 @@
     "golang-standards/project-layout": [
         "Other"
     ],
+    "google/googletest": [
+        "Other"
+    ],
     "google/sanitizers": [
         "Other"
     ],
