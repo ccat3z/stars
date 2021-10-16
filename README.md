@@ -802,7 +802,7 @@
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
 * [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
 * [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
-* [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast JavaScript bundler and minifier
+* [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast JavaScript and CSS bundler and minifier
 * [future-architect/eslint-plugin-vue-scoped-css](https://github.com/future-architect/eslint-plugin-vue-scoped-css): ESLint plugin for Scoped CSS in Vue.js
 * [etcd-io/etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
 * [etesync/etesync-dav](https://github.com/etesync/etesync-dav): This is a CalDAV and CardDAV adapter for EteSync
