@@ -2141,6 +2141,9 @@
     "google/googletest": [
         "Other"
     ],
+    "google/pprof": [
+        "Other"
+    ],
     "google/sanitizers": [
         "Other"
     ],
