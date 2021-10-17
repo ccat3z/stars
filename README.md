@@ -846,6 +846,7 @@
 * [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
+* [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
