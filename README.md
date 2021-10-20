@@ -532,6 +532,7 @@
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
+* [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
 * [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
@@ -654,6 +655,7 @@
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
+* [idealvin/co](https://github.com/idealvin/co): A go-style coroutine library in C++11 and more.
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
