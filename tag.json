@@ -1360,6 +1360,9 @@
     "cesanta/docker_auth": [
         "Other"
     ],
+    "cginternals/cppfs": [
+        "Other"
+    ],
     "championswimmer/vuex-persist": [
         "Other"
     ],
@@ -2202,6 +2205,9 @@
         "OpenShift"
     ],
     "guanguans/design-patterns-for-humans-cn": [
+        "Other"
+    ],
+    "gulrak/filesystem": [
         "Other"
     ],
     "guren-cloud/v-request": [
