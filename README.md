@@ -1636,7 +1636,7 @@
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
-* [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance Vue language support in some aspects
+* [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance tooling for Vue
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
