@@ -913,6 +913,7 @@
 * [tmrts/go-patterns](https://github.com/tmrts/go-patterns): Curated list of Go design patterns, recipes and idioms
 * [c-bata/go-prompt](https://github.com/c-bata/go-prompt): Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 * [emicklei/go-restful](https://github.com/emicklei/go-restful): package for building REST-style Web Services using Go
+* [datawhalechina/go-talent](https://github.com/datawhalechina/go-talent): Go天才小队
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
@@ -1277,6 +1278,7 @@
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
+* [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 * [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
