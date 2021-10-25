@@ -86,6 +86,9 @@
     "AppImage/AppImageKit": [
         "Other"
     ],
+    "ApsaraDB/galaxysql": [
+        "Other"
+    ],
     "Arduino-IRremote/Arduino-IRremote": [
         "Other"
     ],
