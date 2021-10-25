@@ -649,6 +649,9 @@
     "SagerNet/SagerNet": [
         "Other"
     ],
+    "ScoopInstaller/scoop": [
+        "Other"
+    ],
     "SeaDve/Kooha": [
         "Other"
     ],
@@ -2886,9 +2889,6 @@
     ],
     "lucaslorentz/caddy-docker-proxy": [
         "Other"
-    ],
-    "lukesampson/scoop": [
-        "Windows/Utility"
     ],
     "lutris/lutris": [
         "Other"

@@ -1432,6 +1432,7 @@
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
+* [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop): A command-line installer for Windows.
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
@@ -1935,7 +1936,6 @@
 
 ## Utility
 
-* [lukesampson/scoop](https://github.com/lukesampson/scoop): A command-line installer for Windows.
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
 * [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
