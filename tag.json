@@ -2159,6 +2159,9 @@
     "golang-standards/project-layout": [
         "Other"
     ],
+    "google/autocxx": [
+        "Other"
+    ],
     "google/googletest": [
         "Other"
     ],
