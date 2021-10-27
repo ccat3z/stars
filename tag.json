@@ -1720,9 +1720,6 @@
     "drone/drone": [
         "Other"
     ],
-    "drone/drone-cli": [
-        "Other"
-    ],
     "dront78/PulseDroid": [
         "Other"
     ],
@@ -2262,6 +2259,9 @@
         "Other"
     ],
     "hardpixel/unite-shell": [
+        "Other"
+    ],
+    "harness/drone-cli": [
         "Other"
     ],
     "hashicorp/consul": [
