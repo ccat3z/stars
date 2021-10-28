@@ -593,7 +593,6 @@
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
-* [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [nschloe/blacktex](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
@@ -1339,6 +1338,7 @@
 * [Matoking/protontricks](https://github.com/Matoking/protontricks): A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 * [csujedihy/proximac](https://github.com/csujedihy/proximac): An open-source alternative to proxifier
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
+* [davidquinn/psi-header](https://github.com/davidquinn/psi-header): Configurable file header and changes tracking extension for VSCode
 * [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
 * [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): None
@@ -1516,6 +1516,7 @@
 * [austinjones/tab-rs](https://github.com/austinjones/tab-rs): The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 * [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
 * [TablePlus/TablePlus-Linux](https://github.com/TablePlus/TablePlus-Linux):  TablePlus Linux issue tracker
+* [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode): Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 * [chezou/tabula-py](https://github.com/chezou/tabula-py): Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 * [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
 * [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
@@ -1648,6 +1649,7 @@
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
+* [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin): Kite Autocomplete Plugin for Visual Studio Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.

@@ -1450,6 +1450,9 @@
     "coderstory/Mi-Purify": [
         "Android/Xposed"
     ],
+    "codota/tabnine-vscode": [
+        "Other"
+    ],
     "coldfix/udiskie": [
         "Other"
     ],
@@ -1590,6 +1593,9 @@
     ],
     "davidhalter/jedi-vim": [
         "Vim"
+    ],
+    "davidquinn/psi-header": [
+        "Other"
     ],
     "dbader/schedule": [
         "Other"
@@ -2688,6 +2694,9 @@
         "Other"
     ],
     "kirsch33/realip": [
+        "Other"
+    ],
+    "kiteco/vscode-plugin": [
         "Other"
     ],
     "kitian616/jekyll-TeXt-theme": [
