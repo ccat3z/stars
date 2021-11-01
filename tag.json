@@ -2393,9 +2393,6 @@
     "idealvin/co": [
         "Other"
     ],
-    "ifreund/river": [
-        "Other"
-    ],
     "iggredible/Learn-Vim": [
         "Other"
     ],
@@ -3693,6 +3690,9 @@
         "Other"
     ],
     "ritz078/transform": [
+        "Other"
+    ],
+    "riverwm/river": [
         "Other"
     ],
     "rjsf-team/react-jsonschema-form": [
