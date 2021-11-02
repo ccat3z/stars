@@ -1345,7 +1345,7 @@
 * [davidquinn/psi-header](https://github.com/davidquinn/psi-header): Configurable file header and changes tracking extension for VSCode
 * [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
-* [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): None
+* [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language
 * [dront78/PulseDroid](https://github.com/dront78/PulseDroid): Android network audio player
 * [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 * [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
