@@ -140,6 +140,9 @@
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
+    "ClickHouse/ClickHouse": [
+        "Other"
+    ],
     "ClosedXML/ClosedXML": [
         "Other"
     ],
