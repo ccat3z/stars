@@ -1352,7 +1352,7 @@
 * [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Headless Chrome Node.js API
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
-* [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source operating system from Apple that forms the basis for OS X, and PureDarwin is a community project to make Darwin more usable. See the Wiki for more information.
+* [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
