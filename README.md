@@ -583,6 +583,7 @@
 * [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
+* [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 * [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -723,6 +724,7 @@
 * [date-fns/date-fns](https://github.com/date-fns/date-fns): ⏳ Modern JavaScript date utility library ⌛️
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
+* [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io): The On-line Database of Databases
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
@@ -977,7 +979,7 @@
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [sharkdp/hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [simonmichael/hledger](https://github.com/simonmichael/hledger): easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
+* [simonmichael/hledger](https://github.com/simonmichael/hledger): A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 

@@ -1432,7 +1432,13 @@
     "cmhughes/latexindent.pl": [
         "LaTeX"
     ],
+    "cmu-db/benchbase": [
+        "Other"
+    ],
     "cmu-db/bustub": [
+        "Other"
+    ],
+    "cmu-db/dbdb.io": [
         "Other"
     ],
     "cmu-db/noisepage": [
