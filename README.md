@@ -936,7 +936,7 @@
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
-* [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): 🍭 Cursor theme inspired on Google
+* [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
 * [goplus/gop](https://github.com/goplus/gop): GoPlus - The Go+ language for engineering, STEM education, and data science
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
