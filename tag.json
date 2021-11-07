@@ -2426,6 +2426,9 @@
     "imsun/gitment": [
         "Jekyll"
     ],
+    "include-what-you-use/include-what-you-use": [
+        "Other"
+    ],
     "inspircd/inspircd": [
         "Other"
     ],
