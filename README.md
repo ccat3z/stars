@@ -1323,7 +1323,7 @@
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [microsoft/playwright](https://github.com/microsoft/playwright): Node.js library to automate Chromium, Firefox and WebKit with a single API
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
-* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager. 快速的，节省磁盘空间的包管理工具
+* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python dependency management and packaging made easy.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
