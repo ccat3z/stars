@@ -1656,6 +1656,7 @@
 * [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
 * [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance tooling for Vue
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
+* [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
 * [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin): Kite Autocomplete Plugin for Visual Studio Code
