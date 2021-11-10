@@ -1163,7 +1163,6 @@
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
 * [minio/minio](https://github.com/minio/minio): High Performance, Kubernetes Native Object Storage
-* [OceanBase-Partner/miniob](https://github.com/OceanBase-Partner/miniob): None
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
