@@ -2090,6 +2090,9 @@
     "gelstudios/gitfiti": [
         "GitHub"
     ],
+    "georgemandis/jekyll-rss-feeds": [
+        "Other"
+    ],
     "getActivity/XXPermissions": [
         "Other"
     ],
@@ -3962,9 +3965,6 @@
     ],
     "snachx/gfwlist2privoxy": [
         "GFW"
-    ],
-    "snaptortoise/jekyll-rss-feeds": [
-        "Jekyll"
     ],
     "snwh/paper-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"

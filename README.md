@@ -329,7 +329,6 @@
 * [egoist/hack](https://github.com/egoist/hack): ⛷ Dead simple CSS framework.
 * [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [jekyll/jekyll-paginate](https://github.com/jekyll/jekyll-paginate): NO LONGER UNDER ACTIVE DEVELOPMENT as of Jekyll 3: Pagination Generator for Jekyll
-* [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 * [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
 * [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  User-generated content for Git-powered websites
@@ -1033,6 +1032,7 @@
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
+* [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 * [jekyll/jemoji](https://github.com/jekyll/jemoji): GitHub-flavored emoji plugin for Jekyll
 * [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen): A framework for distributed systems verification, with fault injection
