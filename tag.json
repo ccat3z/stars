@@ -1348,6 +1348,9 @@
     "canonical/dqlite": [
         "Other"
     ],
+    "canonical/multipass": [
+        "Other"
+    ],
     "canton7/SyncTrayzor": [
         "Other"
     ],
@@ -4345,6 +4348,9 @@
         "Other"
     ],
     "upptime/upptime": [
+        "Other"
+    ],
+    "utmapp/UTM": [
         "Other"
     ],
     "utterance/utterances": [
