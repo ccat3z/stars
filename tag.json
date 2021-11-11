@@ -436,6 +436,9 @@
     "Kozea/wdb": [
         "Web"
     ],
+    "LSPosed/MagiskOnWSA": [
+        "Other"
+    ],
     "LaTeX-Package-Repositories/geometry": [
         "Other"
     ],
@@ -539,6 +542,9 @@
         "Java/Web"
     ],
     "NervJS/taro": [
+        "Other"
+    ],
+    "NicoleMayer/zotero-save-with-tag": [
         "Other"
     ],
     "NixOS/patchelf": [
@@ -709,6 +715,9 @@
     "Swordfish90/cool-retro-term": [
         "Other"
     ],
+    "TGSAN/CMWTAT_Digital_Edition": [
+        "Other"
+    ],
     "TablePlus/TablePlus": [
         "Other"
     ],
@@ -797,6 +806,9 @@
         "Other"
     ],
     "Vonng/ddia": [
+        "Other"
+    ],
+    "WayfireWM/wayfire": [
         "Other"
     ],
     "WickyNilliams/headroom.js": [
@@ -2095,6 +2107,9 @@
     ],
     "gilbarbara/logos": [
         "Resource"
+    ],
+    "gilbertchen/duplicacy": [
+        "Other"
     ],
     "ginuerzh/gost": [
         "Other"
@@ -4008,6 +4023,9 @@
     "square/go-jose": [
         "Other"
     ],
+    "square/logcat": [
+        "Other"
+    ],
     "square/moshi": [
         "Other"
     ],
@@ -4200,6 +4218,9 @@
     "tinajs/tina": [
         "Other"
     ],
+    "tindy2013/subconverter": [
+        "Other"
+    ],
     "tipsy/j2html": [
         "Java"
     ],
@@ -4315,6 +4336,9 @@
         "Other"
     ],
     "unchase/Unchase.Swashbuckle.AspNetCore.Extensions": [
+        "Other"
+    ],
+    "undergroundwires/privacy.sexy": [
         "Other"
     ],
     "unknwon/the-way-to-go_ZH_CN": [
