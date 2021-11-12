@@ -899,6 +899,7 @@
 * [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
+* [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
 * [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
 * [amezin/gnome-shell-extension-ddterm](https://github.com/amezin/gnome-shell-extension-ddterm): Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively
