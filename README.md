@@ -1409,6 +1409,7 @@
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 * [reduxjs/redux](https://github.com/reduxjs/redux): Predictable state container for JavaScript apps
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
+* [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [m8/refined.blog](https://github.com/m8/refined.blog): curated list of personal blogs
 * [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts)
 * [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
