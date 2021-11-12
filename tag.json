@@ -1504,6 +1504,9 @@
     "concourse/registry-image-resource": [
         "Other"
     ],
+    "containers/podman": [
+        "Other"
+    ],
     "containrrr/watchtower": [
         "Other"
     ],
