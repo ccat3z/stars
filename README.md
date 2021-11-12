@@ -1601,7 +1601,7 @@
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [stephenh/ts-proto](https://github.com/stephenh/ts-proto): An idiomatic protobuf generator for TypeScript
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
-* [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest utility library
+* [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest type utility library
 * [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [apognu/tuigreet](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
