@@ -1237,6 +1237,8 @@
 * [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+* [Magisk-Modules-Repo/noneDisplayCutout](https://github.com/Magisk-Modules-Repo/noneDisplayCutout): None
+* [MlgmXyysd/NoneDisplayCutout](https://github.com/MlgmXyysd/NoneDisplayCutout): Kill the display cutout
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
 * [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other

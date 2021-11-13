@@ -478,6 +478,9 @@
     "Magisk-Modules-Repo/mm": [
         "Other"
     ],
+    "Magisk-Modules-Repo/noneDisplayCutout": [
+        "Other"
+    ],
     "Magisk-Modules-Repo/v2ray": [
         "Other"
     ],
@@ -515,6 +518,9 @@
         "Other"
     ],
     "MicheleBertoli/css-in-js": [
+        "Other"
+    ],
+    "MlgmXyysd/NoneDisplayCutout": [
         "Other"
     ],
     "MopTym/vue-waterfall": [
