@@ -784,7 +784,7 @@
 * [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android.
-* [drone/drone](https://github.com/drone/drone): Drone is a Container-Native, Continuous Delivery Platform
+* [harness/drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [yedf/dtm](https://github.com/yedf/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器

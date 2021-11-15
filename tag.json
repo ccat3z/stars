@@ -1756,9 +1756,6 @@
     "dotnet/reactive": [
         "Other"
     ],
-    "drone/drone": [
-        "Other"
-    ],
     "dront78/PulseDroid": [
         "Other"
     ],
@@ -2307,6 +2304,9 @@
         "Other"
     ],
     "hardpixel/unite-shell": [
+        "Other"
+    ],
+    "harness/drone": [
         "Other"
     ],
     "harness/drone-cli": [
