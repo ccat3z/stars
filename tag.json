@@ -104,6 +104,9 @@
     "AykoPoel/surface3-scripts": [
         "Linux/Device/Surface"
     ],
+    "BDZNH/MIUI-Theme-Download-Link-Generator": [
+        "Other"
+    ],
     "BUPT-HJM/fun-photo-combine": [
         "Chinese APP Hack/QQ"
     ],
@@ -4387,6 +4390,9 @@
         "Other"
     ],
     "vbauerster/mpb": [
+        "Other"
+    ],
+    "vcheckzen/MIUIThemeDownloader": [
         "Other"
     ],
     "vercel/serve": [

@@ -1173,6 +1173,8 @@
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [BDZNH/MIUI-Theme-Download-Link-Generator](https://github.com/BDZNH/MIUI-Theme-Download-Link-Generator): A tiny tool for generating MIUI direct link.
+* [vcheckzen/MIUIThemeDownloader](https://github.com/vcheckzen/MIUIThemeDownloader): [ MIUI 主题下载器 ] Recover the Download Button on Details Page at http://zhuti.xiaomi.com
 * [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list): Papers for database systems powered by artificial intelligence (machine learning for database)
 * [zehome/MLVPN](https://github.com/zehome/MLVPN): Multi-link VPN (ADSL/SDSL/xDSL/Network aggregation / bonding)
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
