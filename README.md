@@ -1833,6 +1833,7 @@
 
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
 * [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
+* [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
 
 # SQLite
 
