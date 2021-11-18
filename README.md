@@ -1373,6 +1373,7 @@
 * [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
+* [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
