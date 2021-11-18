@@ -577,6 +577,9 @@
     "OpenAPITools/openapi-generator": [
         "Other"
     ],
+    "P0WEX/Gesko": [
+        "Other"
+    ],
     "PapirusDevelopmentTeam/papirus-icon-theme": [
         "Other"
     ],
@@ -1526,6 +1529,9 @@
         "Other"
     ],
     "corbindavenport/creative-cloud-linux": [
+        "Other"
+    ],
+    "corellium/usbfluxd": [
         "Other"
     ],
     "coreos/license-bill-of-materials": [
@@ -3455,6 +3461,9 @@
     "peaceiris/actions-gh-pages": [
         "Other"
     ],
+    "pemistahl/grex": [
+        "Other"
+    ],
     "peng-zhihui/XUAN": [
         "Other"
     ],
@@ -4105,6 +4114,9 @@
     "sudar/vim-arduino-syntax": [
         "Vim",
         "Arduino"
+    ],
+    "sunym1993/flash-linux0.11-talk": [
+        "Other"
     ],
     "superwf/vuex-cache": [
         "Other"

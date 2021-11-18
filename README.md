@@ -835,6 +835,7 @@
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
+* [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine build with runtime 20.08 i386, provides wine to Centos like distros
 * [takluyver/flit](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -866,6 +867,7 @@
 * [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
 * [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
 * [LaTeX-Package-Repositories/geometry](https://github.com/LaTeX-Package-Repositories/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
+* [P0WEX/Gesko](https://github.com/P0WEX/Gesko): Gesko is a simple and minimalistic jekyll blogging theme.
 * [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): BDD Testing Framework for Go
@@ -955,6 +957,7 @@
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
 * [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
+* [pemistahl/grex](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases
 * [getgridea/gridea](https://github.com/getgridea/gridea): ✍️ A static blog writing client (一个静态博客写作客户端)
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
@@ -1628,6 +1631,7 @@
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+* [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 * [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
@@ -1832,7 +1836,6 @@
 # SBC
 
 * [justind000/nRF-IoT](https://github.com/justind000/nRF-IoT): RF24 based sensor-mesh (flood, addressless) network
-* [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
 * [duxingkei33/orangepi_PC_gpio_pyH3](https://github.com/duxingkei33/orangepi_PC_gpio_pyH3): python control orangepi_PC ext GPIO ALLwinner H3  base on  pyA20 0.2.1
 
 # SQLite
