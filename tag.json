@@ -3202,6 +3202,9 @@
     "moq/moq4": [
         "Other"
     ],
+    "mozilla-services/syncserver": [
+        "Other"
+    ],
     "mozilla/nunjucks": [
         "Other"
     ],
