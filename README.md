@@ -588,7 +588,7 @@
 * [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-* [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Material Based Cursors.
+* [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Opensource, compact, and material-designed cursor set.
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
@@ -1631,6 +1631,7 @@
 * [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
 * [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
+* [YuKongA/Unlock_MIUI_ThemeManager](https://github.com/YuKongA/Unlock_MIUI_ThemeManager): [Magisk]Unlock MIUI ThemeManager/MIUI主题破解
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
