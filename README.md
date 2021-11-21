@@ -1119,6 +1119,7 @@
 * [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator): Yet Another System Region and Language Simulator
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [square/logcat](https://github.com/square/logcat): I CAN HAZ LOGZ?
+* [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader): A simple app for viewing logs on an android device.
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
