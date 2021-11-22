@@ -736,6 +736,9 @@
     "TGSAN/CMWTAT_Digital_Edition": [
         "Other"
     ],
+    "TaKO8Ki/gobang": [
+        "Other"
+    ],
     "TablePlus/TablePlus": [
         "Other"
     ],
@@ -3106,6 +3109,9 @@
     "mesosphere/traefik-forward-auth": [
         "Other"
     ],
+    "messense/aliyundrive-webdav": [
+        "Other"
+    ],
     "metafizzy/isotope": [
         "Other"
     ],
@@ -3351,6 +3357,9 @@
         "Other"
     ],
     "numetriclabz/awesome-db": [
+        "Other"
+    ],
+    "nusr/hacker-laws-zh": [
         "Other"
     ],
     "nvm-sh/nvm": [
@@ -4540,6 +4549,9 @@
         "Docker"
     ],
     "wangyu-/udp2raw": [
+        "Other"
+    ],
+    "waydroid/waydroid": [
         "Other"
     ],
     "weaveworks/scope": [

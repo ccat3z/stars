@@ -475,6 +475,7 @@
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+* [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav): 阿里云盘 WebDAV 服务
 * [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS): A list of RSS related stuff: tools, services, communities and tutorials, etc.
 * [altair-graphql/altair](https://github.com/altair-graphql/altair): ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 * [FascodeNet/alterlinux](https://github.com/FascodeNet/alterlinux): Alter Linux - ArchLinux-derived OS made in Japan aimed at being usable by anyone
@@ -930,6 +931,7 @@
 * [datawhalechina/go-talent](https://github.com/datawhalechina/go-talent): Go天才小队
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
+* [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
@@ -970,6 +972,7 @@
 * [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
+* [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [apache/hadoop](https://github.com/apache/hadoop): Apache Hadoop
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
@@ -1511,7 +1514,6 @@
 * [soduto/Soduto](https://github.com/soduto/Soduto): None
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
-* [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+ (DOES NOT CURRENTLY SUPPORT M1)
@@ -1725,6 +1727,7 @@
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. 
 * [songgao/water](https://github.com/songgao/water): A simple TUN/TAP library written in native Go.
 * [Alexays/Waybar](https://github.com/Alexays/Waybar): Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
+* [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 * [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire): A modular and extensible wayland compositor
 * [weaveworks/weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
