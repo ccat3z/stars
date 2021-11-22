@@ -1453,7 +1453,13 @@
     "chubin/cheat.sh": [
         "Other"
     ],
+    "chyyuu/os_kernel_lab": [
+        "Other"
+    ],
     "citusdata/citus": [
+        "Other"
+    ],
+    "ckissane/blur-me": [
         "Other"
     ],
     "claytongulick/bit-sync": [
@@ -1772,6 +1778,9 @@
         ".NET/.NET Core/ASP.NET Core"
     ],
     "dotnet/reactive": [
+        "Other"
+    ],
+    "dreamhead/patterns-of-distributed-systems": [
         "Other"
     ],
     "dront78/PulseDroid": [
@@ -4609,6 +4618,9 @@
         "Other"
     ],
     "xdanaux/moderncv": [
+        "Other"
+    ],
+    "xiangmingzhe0928/hpv4g": [
         "Other"
     ],
     "xiaods/k8e": [
