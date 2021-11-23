@@ -1003,6 +1003,7 @@
 * [boltgolt/howdy](https://github.com/boltgolt/howdy): 🛡️ Windows Hello™ style facial authentication for Linux
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 * [xiangmingzhe0928/hpv4g](https://github.com/xiangmingzhe0928/hpv4g): hpv seckill 约苗 九价 疫苗秒杀 :girl: :syringe:
+* [draivin/hsnips](https://github.com/draivin/hsnips): HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
 * [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react): A lightweight library that converts raw HTML to a React DOM structure.
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
 * [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
