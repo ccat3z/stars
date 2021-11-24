@@ -998,6 +998,7 @@
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services with macOS' launchctl daemon manager
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
+* [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 * [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer): I'm here to tell you some amazing stuff which teacher would never tell you.
 * [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack): Explaining how to optimize the large bundle size of moment.js with webpack
 * [boltgolt/howdy](https://github.com/boltgolt/howdy): 🛡️ Windows Hello™ style facial authentication for Linux
