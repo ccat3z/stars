@@ -1177,9 +1177,6 @@
     "awesome-selfhosted/awesome-selfhosted": [
         "Other"
     ],
-    "axkibe/lsyncd": [
-        "Other"
-    ],
     "aymericdamien/TensorFlow-Examples": [
         "Other"
     ],
@@ -2984,6 +2981,9 @@
         "Other"
     ],
     "lrsjng/h5ai": [
+        "Other"
+    ],
+    "lsyncd/lsyncd": [
         "Other"
     ],
     "lucaslorentz/caddy-docker-proxy": [

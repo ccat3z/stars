@@ -1130,7 +1130,7 @@
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-* [axkibe/lsyncd](https://github.com/axkibe/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+* [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
 * [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。
