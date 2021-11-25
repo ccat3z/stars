@@ -152,6 +152,9 @@
     "CoeJoder/waitForKeyElements.js": [
         "Other"
     ],
+    "CrowCpp/Crow": [
+        "Other"
+    ],
     "D4rCM4rC/MagiskSSH": [
         "Android/Magick"
     ],
@@ -430,6 +433,9 @@
     "KhaosT/tb3-enabler": [
         "Other"
     ],
+    "KittyKatt/screenFetch": [
+        "Other"
+    ],
     "Kkevsterrr/geneva": [
         "Other"
     ],
@@ -543,6 +549,9 @@
     ],
     "MrKiven/PyZh": [
         "Python/Tutorial"
+    ],
+    "Mrs4s/go-cqhttp": [
+        "Other"
     ],
     "N-Yuki/gnome-shell-extension-workspace-isolated-dash": [
         "Other"
@@ -668,6 +677,9 @@
         "Other"
     ],
     "Rupan/paperbak": [
+        "Other"
+    ],
+    "S-1-T/miniob": [
         "Other"
     ],
     "SDRausty/TermuxArch": [
@@ -3073,6 +3085,9 @@
     "mayswind/AriaNg": [
         "Other"
     ],
+    "mbbill/undotree": [
+        "Other"
+    ],
     "mchehab/zbar": [
         "Other"
     ],
@@ -3348,6 +3363,9 @@
         "Other"
     ],
     "nondanee/ncmdump": [
+        "Other"
+    ],
+    "nonebot/nonebot2": [
         "Other"
     ],
     "novoid/Memacs": [
@@ -4363,6 +4381,9 @@
         "Other"
     ],
     "tuberry/light-dict": [
+        "Other"
+    ],
+    "tuplex/tuplex": [
         "Other"
     ],
     "tusdotnet/tusdotnet": [
