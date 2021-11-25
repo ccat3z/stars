@@ -1483,6 +1483,7 @@
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
+* [seata/seata](https://github.com/seata/seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [Tencent/secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南
 * [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
 * [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
