@@ -1304,6 +1304,7 @@
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
 * [cmu-db/ottertune](https://github.com/cmu-db/ottertune): The automatic DBMS configuration tool
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
+* [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and templates for Docker, IIS, SQL Server and Visual Studio on Windows and Ubuntu
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
