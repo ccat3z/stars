@@ -1651,6 +1651,7 @@
 * [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
 * [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
+* [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music): Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 * [YuKongA/Unlock_MIUI_ThemeManager](https://github.com/YuKongA/Unlock_MIUI_ThemeManager): [Magisk]Unlock MIUI ThemeManager/MIUI主题破解
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
