@@ -839,7 +839,7 @@
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
 * [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-* [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine build with runtime 20.08 i386, provides wine to Centos like distros
+* [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 21.08), provides wine to Centos like distros (https://flatpak.org/setup/)
 * [takluyver/flit](https://github.com/takluyver/flit): Simplified packaging of Python modules
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
