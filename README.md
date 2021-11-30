@@ -1249,6 +1249,7 @@
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET (Core) applications
+* [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
 * [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
