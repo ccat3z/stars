@@ -3692,6 +3692,9 @@
     "pygments/pygments": [
         "Other"
     ],
+    "pypa/flit": [
+        "Other"
+    ],
     "pypa/pipenv": [
         "Python"
     ],
@@ -4233,9 +4236,6 @@
         "Other"
     ],
     "taki0112/UGATIT": [
-        "Other"
-    ],
-    "takluyver/flit": [
         "Other"
     ],
     "taowen/modularization-examples": [
