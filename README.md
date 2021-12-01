@@ -1352,6 +1352,7 @@
 * [plantuml/plantuml](https://github.com/plantuml/plantuml): Generate diagrams from textual description
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [microsoft/playwright](https://github.com/microsoft/playwright): Node.js library to automate Chromium, Firefox and WebKit with a single API
+* [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
@@ -1367,6 +1368,7 @@
 * [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
 * [prettier/prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
+* [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
@@ -1820,7 +1822,9 @@
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
+* [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm): Zpm— Zsh Plugin Manager
 * [systemd/zram-generator](https://github.com/systemd/zram-generator): Systemd unit generator for zram devices
+* [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! The fast & light-weight Zsh plugin manager that's easy to grok. Also functions as a generic Git repo manager.
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts

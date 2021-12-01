@@ -3049,6 +3049,9 @@
     "marktext/marktext": [
         "Other"
     ],
+    "marlonrichert/zsh-snap": [
+        "Other"
+    ],
     "martanne/dvtm": [
         "Other"
     ],
@@ -3902,6 +3905,9 @@
     "samyk/evercookie": [
         "Other"
     ],
+    "sansquoi/PlushCV": [
+        "Other"
+    ],
     "sapk/docker-volume-rclone": [
         "Other"
     ],
@@ -4081,6 +4087,9 @@
         "Other"
     ],
     "songgao/water": [
+        "Other"
+    ],
+    "sorin-ionescu/prezto": [
         "Other"
     ],
     "soruly/trace.moe": [
@@ -4819,6 +4828,9 @@
         "Other"
     ],
     "zotero/zotero": [
+        "Other"
+    ],
+    "zpm-zsh/zpm": [
         "Other"
     ],
     "zricethezav/gitleaks": [
