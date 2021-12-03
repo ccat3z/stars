@@ -1629,7 +1629,7 @@
 * [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt): transparently encrypt files within a git repository
 * [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
-* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+* [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
