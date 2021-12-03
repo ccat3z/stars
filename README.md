@@ -1529,6 +1529,7 @@
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
+* [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): Sourcetrail - free and open-source interactive source explorer
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+ (DOES NOT CURRENTLY SUPPORT M1)
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
 * [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
