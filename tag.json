@@ -1327,6 +1327,9 @@
     "breakwa11/gfw_whitelist": [
         "GFW"
     ],
+    "brendangregg/FlameGraph": [
+        "Other"
+    ],
     "brick-design/brick-design": [
         "Other"
     ],
@@ -1661,6 +1664,9 @@
         "Other"
     ],
     "datawhalechina/pumpkin-book": [
+        "Other"
+    ],
+    "datawhalechina/statistical-learning-method-solutions-manual": [
         "Other"
     ],
     "date-fns/date-fns": [
@@ -3873,6 +3879,9 @@
         "Other"
     ],
     "rs/zerolog": [
+        "Other"
+    ],
+    "rtyley/bfg-repo-cleaner": [
         "Other"
     ],
     "ruffle-rs/ruffle": [
