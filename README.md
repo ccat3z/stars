@@ -981,7 +981,7 @@
 * [apache/hadoop](https://github.com/apache/hadoop): Apache Hadoop
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [shannonmoeller/handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts): Handlebars helpers which implement layout blocks similar to Jinja, Nunjucks (Swig), Pug (Jade), and Twig.
-* [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): None
+* [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): Minimal templating on steroids.
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
