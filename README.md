@@ -1301,6 +1301,7 @@
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): An Org-mode query language, including search commands and saved views
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
+* [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 * [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
 * [X-lab2017/OSSDevGov2021](https://github.com/X-lab2017/OSSDevGov2021): Open Source Software Development and Community Governance (开源软件开发与社区治理)
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
