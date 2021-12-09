@@ -2072,9 +2072,6 @@
     "foreversd/forever": [
         "Other"
     ],
-    "formium/formik": [
-        "Other"
-    ],
     "formulahendry/vscode-code-runner": [
         "Other"
     ],
@@ -2556,6 +2553,9 @@
         "Utility"
     ],
     "jantimon/iconfont-webpack-plugin": [
+        "Other"
+    ],
+    "jaredpalmer/formik": [
         "Other"
     ],
     "jaredpalmer/tsdx": [
