@@ -4244,6 +4244,9 @@
     "systemd/zram-generator": [
         "Other"
     ],
+    "szimek/sharedrop": [
+        "Other"
+    ],
     "tachiyomiorg/tachiyomi": [
         "Other"
     ],
