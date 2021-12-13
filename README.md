@@ -1708,6 +1708,7 @@
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
+* [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
 * [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance tooling for Vue
