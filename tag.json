@@ -1129,6 +1129,9 @@
     "apollographql/subscriptions-transport-ws": [
         "Other"
     ],
+    "apple/foundationdb": [
+        "Other"
+    ],
     "apple/sourcekit-lsp": [
         "Other"
     ],

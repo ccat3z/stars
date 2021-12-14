@@ -859,6 +859,7 @@
 * [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
 * [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): None
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+* [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
