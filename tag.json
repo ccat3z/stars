@@ -4155,6 +4155,9 @@
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],
+    "sqlparser-rs/sqlparser-rs": [
+        "Other"
+    ],
     "square/go-jose": [
         "Other"
     ],
