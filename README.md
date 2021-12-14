@@ -740,6 +740,7 @@
 * [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 * [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
+* [delta-io/delta](https://github.com/delta-io/delta): An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
 * [dendronhq/dendron](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
