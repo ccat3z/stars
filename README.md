@@ -514,6 +514,7 @@
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): Better dates & times for Python
+* [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 * [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
@@ -870,6 +871,7 @@
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
 * [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
+* [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
@@ -1322,6 +1324,7 @@
 * [Rupan/paperbak](https://github.com/Rupan/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 * [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for Gnome Shell
+* [openpaperwork/paperwork](https://github.com/openpaperwork/paperwork): Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatiblity scripts for papis 
@@ -1454,6 +1457,7 @@
 * [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
+* [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Create videos programmatically in React
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
 * [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™

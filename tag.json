@@ -92,6 +92,9 @@
     "Arduino-IRremote/Arduino-IRremote": [
         "Other"
     ],
+    "AsahiLinux/AsahiLinux.github.io": [
+        "Other"
+    ],
     "AutoMapper/AutoMapper": [
         "Other"
     ],
@@ -632,6 +635,9 @@
         "Python"
     ],
     "PyratLabs/ansible-role-k3s": [
+        "Other"
+    ],
+    "QianMo/Game-Programmer-Study-Notes": [
         "Other"
     ],
     "QingdaoU/OnlineJudge": [
@@ -3470,6 +3476,9 @@
     "openSUSE/snapper": [
         "Other"
     ],
+    "openpaperwork/paperwork": [
+        "Other"
+    ],
     "openstack/stevedore": [
         "Other"
     ],
@@ -3810,6 +3819,9 @@
         "Other"
     ],
     "remjey/luaotp": [
+        "Other"
+    ],
+    "remotion-dev/remotion": [
         "Other"
     ],
     "replicatedhq/local-volume-provider": [
