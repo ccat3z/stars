@@ -3752,6 +3752,9 @@
     "python-poetry/poetry": [
         "Other"
     ],
+    "pytorch/vision": [
+        "Other"
+    ],
     "qgaye/DataStructures": [
         "Other"
     ],
