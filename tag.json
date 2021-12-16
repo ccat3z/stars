@@ -1435,6 +1435,9 @@
     "ccfddl/ccf-deadlines": [
         "Other"
     ],
+    "cdr/code-server": [
+        "Other"
+    ],
     "celery/celery": [
         "Other"
     ],
@@ -1526,9 +1529,6 @@
         "Other"
     ],
     "cockroachdb/cockroach": [
-        "Other"
-    ],
-    "coder/code-server": [
         "Other"
     ],
     "coder2gwy/coder2gwy": [
