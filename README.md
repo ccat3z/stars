@@ -635,6 +635,7 @@
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
 * [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+* [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
 * [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
