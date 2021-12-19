@@ -1699,6 +1699,7 @@
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [logaretm/vee-validate](https://github.com/logaretm/vee-validate): ✅  Form Validation for Vue.js
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐 A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
