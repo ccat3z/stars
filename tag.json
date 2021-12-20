@@ -1030,6 +1030,9 @@
     "alexflint/go-arg": [
         "Other"
     ],
+    "alexlenail/NN-SVG": [
+        "Other"
+    ],
     "alexzielenski/Mousecape": [
         "Other"
     ],
@@ -3044,6 +3047,9 @@
         "Other"
     ],
     "lutris/lutris": [
+        "Other"
+    ],
+    "lutzroeder/netron": [
         "Other"
     ],
     "lxgw/LxgwWenKai": [

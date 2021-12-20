@@ -1251,6 +1251,7 @@
 * [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
+* [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning, and machine learning models
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [37Rb/nextcloud-hledger](https://github.com/37Rb/nextcloud-hledger): Plain Text Accounting on Nextcloud
@@ -1261,6 +1262,7 @@
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET (Core) applications
+* [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG): Publication-ready NN-architecture schematics. 
 * [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
