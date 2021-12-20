@@ -1637,6 +1637,7 @@
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
 * [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree): Use ripgrep to find TODO tags and display the results in a tree view
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
+* [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo): View model summaries in PyTorch!
 * [danielnixon/total-functions](https://github.com/danielnixon/total-functions): A collection of total functions to replace TypeScript's built-in partial functions.
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
