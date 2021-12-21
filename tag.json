@@ -95,6 +95,9 @@
     "AsahiLinux/AsahiLinux.github.io": [
         "Other"
     ],
+    "AsahiLinux/linux": [
+        "Other"
+    ],
     "AutoMapper/AutoMapper": [
         "Other"
     ],
@@ -4597,6 +4600,9 @@
         "Vim"
     ],
     "vim/vim": [
+        "Other"
+    ],
+    "vinceliuice/Fluent-gtk-theme": [
         "Other"
     ],
     "vinceliuice/Fluent-icon-theme": [
