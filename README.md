@@ -897,7 +897,7 @@
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
-* [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，分离中文/英文、软件/资料项目，精准挖掘优秀中文项目，高效吸收优秀经验成果。
+* [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，设立各语言 软件 / 资料 项目榜单，让大家精准发现各自所需的中文好项目。
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [ad-m/github-push-action](https://github.com/ad-m/github-push-action): GitHub actions to push back to repository eg. updated code
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
