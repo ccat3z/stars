@@ -868,6 +868,7 @@
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [bit-kitchen/frpc](https://github.com/bit-kitchen/frpc): Ansible Role for installing and configuring frp client.
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
