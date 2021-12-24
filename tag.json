@@ -1861,6 +1861,9 @@
     "drwpow/openapi-typescript": [
         "Other"
     ],
+    "dtm-labs/dtm": [
+        "Other"
+    ],
     "duskwuff/Xilinx-ISE-Makefile": [
         "Other"
     ],
@@ -4831,9 +4834,6 @@
         "Other"
     ],
     "ycm-core/YouCompleteMe": [
-        "Other"
-    ],
-    "yedf/dtm": [
         "Other"
     ],
     "yeetzone/docker-dontstarvetogether": [
