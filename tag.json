@@ -2753,6 +2753,9 @@
     "junegunn/vim-plug": [
         "Other"
     ],
+    "just-containers/s6-overlay": [
+        "Other"
+    ],
     "justind000/nRF-IoT": [
         "SBC"
     ],

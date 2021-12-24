@@ -1496,6 +1496,7 @@
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin): RxJava bindings for Kotlin
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
+* [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
