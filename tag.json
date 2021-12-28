@@ -319,6 +319,9 @@
     "GitJournal/GitJournal": [
         "Other"
     ],
+    "GoogleContainerTools/skaffold": [
+        "Other"
+    ],
     "Gruntfuggly/todo-tree": [
         "Other"
     ],
@@ -3043,6 +3046,9 @@
     "lodash/lodash": [
         "Other"
     ],
+    "loft-sh/devspace": [
+        "Other"
+    ],
     "lofyer/spice-webdav": [
         "Other"
     ],
@@ -4353,6 +4359,9 @@
     "teejee2008/timeshift": [
         "Other"
     ],
+    "telepresenceio/telepresence": [
+        "Other"
+    ],
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
@@ -4402,6 +4411,9 @@
         "Other"
     ],
     "tikv/tikv": [
+        "Other"
+    ],
+    "tilt-dev/tilt": [
         "Other"
     ],
     "timarney/react-app-rewired": [
