@@ -164,6 +164,9 @@
     "CoeJoder/waitForKeyElements.js": [
         "Other"
     ],
+    "ContainerSolutions/trow": [
+        "Other"
+    ],
     "CrowCpp/Crow": [
         "Other"
     ],
@@ -2297,6 +2300,9 @@
     "gogs/gogs": [
         "Other"
     ],
+    "goharbor/harbor": [
+        "Other"
+    ],
     "gohugoio/hugo": [
         "Other"
     ],
@@ -3840,6 +3846,9 @@
         "Other"
     ],
     "rami3l/pacaptr": [
+        "Other"
+    ],
+    "rancher/k3d": [
         "Other"
     ],
     "rancher/local-path-provisioner": [
