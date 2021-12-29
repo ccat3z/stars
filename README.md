@@ -1530,7 +1530,7 @@
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-* [apache/shardingsphere](https://github.com/apache/shardingsphere): Build criterion and ecosystem above multi-model databases
+* [apache/shardingsphere](https://github.com/apache/shardingsphere): Building a Standard Layer & Ecosystem Above Heterogeneous Databases
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
