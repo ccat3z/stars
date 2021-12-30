@@ -89,6 +89,9 @@
     "AppImage/AppImageKit": [
         "Other"
     ],
+    "ApsaraDB/PolarDB-for-PostgreSQL": [
+        "Other"
+    ],
     "ApsaraDB/galaxysql": [
         "Other"
     ],
