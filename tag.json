@@ -2459,9 +2459,6 @@
     "hellocodeM/baidu-wenku": [
         "Other"
     ],
-    "hemashushu/yu-writer.site": [
-        "Other"
-    ],
     "henrysher/duplicity": [
         "Other"
     ],
@@ -2598,6 +2595,9 @@
         "Web/Tutorial"
     ],
     "itchyny/lightline.vim": [
+        "Other"
+    ],
+    "ivarptr/yu-writer.site": [
         "Other"
     ],
     "ivmech/ivPID": [
