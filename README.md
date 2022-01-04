@@ -810,7 +810,7 @@
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
-* [edgedb/edgedb](https://github.com/edgedb/edgedb): The next generation relational database.
+* [edgedb/edgedb](https://github.com/edgedb/edgedb): A next-generation graph-relational database.
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
@@ -835,7 +835,6 @@
 * [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
 * [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
-* [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
