@@ -750,7 +750,7 @@
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn):  Design patterns for humans 中文版 - 对设计模式超简单的解释
-* [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): Indulge in nostalgia with useless 3D effects.
+* [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a developer in 2022
 * [loft-sh/devspace](https://github.com/loft-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
