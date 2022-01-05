@@ -668,10 +668,10 @@
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
-* [idealvin/co](https://github.com/idealvin/co): Art of C++. Flag, logging, unit-test, json, go-style coroutine and more.
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
+* [idealvin/cocoyaxi](https://github.com/idealvin/cocoyaxi): A C++ library by an alien from the Namake planet. (go-style coroutine, flag, logging, unit-test, and more)
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
