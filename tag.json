@@ -1579,6 +1579,9 @@
     "coleifer/peewee": [
         "Python"
     ],
+    "colin-kyang/reverse-interview-zh": [
+        "Other"
+    ],
     "commitizen/cz-cli": [
         "Other"
     ],
@@ -3085,6 +3088,9 @@
     "lutzroeder/netron": [
         "Other"
     ],
+    "lwouis/alt-tab-macos": [
+        "Other"
+    ],
     "lxgw/LxgwWenKai": [
         "Other"
     ],
@@ -3996,6 +4002,9 @@
         "Other"
     ],
     "sabre-io/Baikal": [
+        "Other"
+    ],
+    "saeziae/manjaro2archlinux": [
         "Other"
     ],
     "saltstack/salt": [
