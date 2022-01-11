@@ -1976,6 +1976,9 @@
     "eonpatapon/gnome-shell-extension-caffeine": [
         "Other"
     ],
+    "epasveer/seer": [
+        "Other"
+    ],
     "ept/crdt-website": [
         "Other"
     ],
@@ -3388,6 +3391,9 @@
     "nagadomi/waifu2x": [
         "Utility",
         "Machine Learning"
+    ],
+    "nakst/gf": [
+        "Other"
     ],
     "nana-4/materia-theme": [
         "Other"
