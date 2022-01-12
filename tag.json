@@ -874,6 +874,9 @@
     "ValveSoftware/Proton": [
         "Other"
     ],
+    "VcDevel/Vc": [
+        "Other"
+    ],
     "VictoriaMetrics/fastcache": [
         "Other"
     ],
@@ -1613,6 +1616,9 @@
         "Other"
     ],
     "conventional-changelog/commitlint": [
+        "Other"
+    ],
+    "conwnet/github1s": [
         "Other"
     ],
     "corbindavenport/creative-cloud-linux": [
@@ -4536,6 +4542,9 @@
     "tuberry/color-picker": [
         "Other"
     ],
+    "tuberry/ibus-tweaker": [
+        "Other"
+    ],
     "tuberry/light-dict": [
         "Other"
     ],
@@ -4594,6 +4603,9 @@
         "Other"
     ],
     "unlock-music/unlock-music": [
+        "Other"
+    ],
+    "up9inc/mizu": [
         "Other"
     ],
     "upptime/upptime": [
@@ -4666,6 +4678,9 @@
         "Other"
     ],
     "vinceliuice/Graphite-gtk-theme": [
+        "Other"
+    ],
+    "vinceliuice/Orchis-theme": [
         "Other"
     ],
     "vinceliuice/Qogir-icon-theme": [
@@ -4960,6 +4975,9 @@
         "Other"
     ],
     "zhangkaizhao/gnome-shell-extension-tray-icons": [
+        "Other"
+    ],
+    "zhangysh1995/awesome-database-testing": [
         "Other"
     ],
     "zhblue/hustoj": [

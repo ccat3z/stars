@@ -541,6 +541,7 @@
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 * [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books): 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
+* [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing): 数据库测试资料 This repo is a collection of resources on testing database systems
 * [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
 * [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
@@ -909,6 +910,7 @@
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 * [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
+* [conwnet/github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 * [devlooped/GitInfo](https://github.com/devlooped/GitInfo): Git and SemVer Info from MSBuild, C# and VB
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
 * [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks): Scan git repos (or files) for secrets using regex and entropy 🔑
@@ -1036,6 +1038,7 @@
 * [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 * [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria): Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
+* [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for orientation, theme, font, input mode and clipboard history.
 * [Icalingua/Icalingua](https://github.com/Icalingua/Icalingua): A Linux client for QQ and more :electron:
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
 * [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
@@ -1215,6 +1218,7 @@
 * [BDZNH/MIUI-Theme-Download-Link-Generator](https://github.com/BDZNH/MIUI-Theme-Download-Link-Generator): A tiny tool for generating MIUI direct link.
 * [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox): Miui EU 本地化项目工具箱app
 * [vcheckzen/MIUIThemeDownloader](https://github.com/vcheckzen/MIUIThemeDownloader): [ MIUI 主题下载器 ] Recover the Download Button on Details Page at http://zhuti.xiaomi.com
+* [up9inc/mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 * [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list): Papers for database systems powered by artificial intelligence (machine learning for database)
 * [zehome/MLVPN](https://github.com/zehome/MLVPN): Multi-link VPN (ADSL/SDSL/xDSL/Network aggregation / bonding)
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
@@ -1323,6 +1327,7 @@
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
+* [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): An Org-mode query language, including search commands and saved views
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
@@ -1720,6 +1725,7 @@
 * [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint): Check code-style of Vala code files
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
+* [VcDevel/Vc](https://github.com/VcDevel/Vc): SIMD Vector Classes for C++
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [logaretm/vee-validate](https://github.com/logaretm/vee-validate): ✅  Form Validation for Vue.js
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
