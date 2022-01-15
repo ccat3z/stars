@@ -798,6 +798,7 @@
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
 * [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android.
+* [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
 * [harness/drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
