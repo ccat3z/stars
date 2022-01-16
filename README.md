@@ -1397,7 +1397,7 @@
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python dependency management and packaging made easy.
-* [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): The "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
+* [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 * [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 * [postcss/postcss-custom-properties](https://github.com/postcss/postcss-custom-properties): Use Custom Properties in CSS
