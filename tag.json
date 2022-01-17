@@ -2720,6 +2720,9 @@
     "jgraph/drawio": [
         "Utility"
     ],
+    "jgraph/drawio-desktop": [
+        "Other"
+    ],
     "jhspetersson/fselect": [
         "Other"
     ],

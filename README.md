@@ -798,6 +798,7 @@
 * [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
+* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of diagrams.net
 * [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android.
 * [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
 * [harness/drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform
