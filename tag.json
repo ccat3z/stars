@@ -4743,10 +4743,10 @@
     "vuejs/awesome-vue": [
         "Other"
     ],
-    "vuejs/petite-vue": [
+    "vuejs/core": [
         "Other"
     ],
-    "vuejs/vue-next": [
+    "vuejs/petite-vue": [
         "Other"
     ],
     "vuematerial/vue-material": [
