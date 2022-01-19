@@ -3021,6 +3021,9 @@
     "lilydjwg/nvchecker": [
         "Other"
     ],
+    "lima-vm/lima": [
+        "Other"
+    ],
     "lingfengsan/MillionHero": [
         "Utility"
     ],
@@ -3235,6 +3238,9 @@
     "mercurius-js/mercurius": [
         "Other"
     ],
+    "mermaid-js/mermaid": [
+        "Other"
+    ],
     "mesonbuild/meson": [
         "Other"
     ],
@@ -3388,6 +3394,9 @@
     "mui-org/material-ui": [
         "Other"
     ],
+    "multiprocessio/dsq": [
+        "Other"
+    ],
     "mumoshu/variant": [
         "Other"
     ],
@@ -3423,6 +3432,9 @@
         "Other"
     ],
     "nativefier/nativefier": [
+        "Other"
+    ],
+    "ned14/outcome": [
         "Other"
     ],
     "nefe/iron-redux": [
@@ -3618,6 +3630,9 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "paramiko/paramiko": [
+        "Other"
+    ],
+    "parcel-bundler/parcel-css": [
         "Other"
     ],
     "pattex/jekyll-tagging": [
@@ -4720,6 +4735,9 @@
         "Other"
     ],
     "vlang/v": [
+        "Other"
+    ],
+    "vldbss-2021/vldb-2021-labs": [
         "Other"
     ],
     "vmware-tanzu/carvel-kapp": [

@@ -804,6 +804,7 @@
 * [harness/drone](https://github.com/harness/drone): Drone is a Container-Native, Continuous Delivery Platform
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
+* [multiprocessio/dsq](https://github.com/multiprocessio/dsq): Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [dtm-labs/dtm](https://github.com/dtm-labs/dtm): 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
@@ -1142,6 +1143,7 @@
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): 🌌 Next-generation motion plugin with incremental input processing, allowing for unparalleled speed with near-zero cognitive effort
 * [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
+* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, typically on macOS, for running containerd
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [ronv/lines](https://github.com/ronv/lines): Minimalist and simple theme for Hugo
 * [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
@@ -1201,6 +1203,7 @@
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 * [novoid/Memacs](https://github.com/novoid/Memacs): What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 * [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
+* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
 * [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1344,6 +1347,7 @@
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
 * [cmu-db/ottertune](https://github.com/cmu-db/ottertune): The automatic DBMS configuration tool
+* [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helper tools and sample templates
@@ -1358,6 +1362,7 @@
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatiblity scripts for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
+* [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css): A CSS parser, transformer, and minifier written in Rust.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
@@ -1759,6 +1764,7 @@
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
+* [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs): Labs on distributed transaction
 * [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
 * [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance tooling for Vue
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
