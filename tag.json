@@ -3018,6 +3018,9 @@
     "libfuse/python-fuse": [
         "Python"
     ],
+    "libvips/libvips": [
+        "Other"
+    ],
     "ligurio/awesome-ci": [
         "Other"
     ],
@@ -3903,6 +3906,9 @@
         "Other"
     ],
     "ranxian/xv6-chinese": [
+        "Other"
+    ],
+    "ray-project/ray": [
         "Other"
     ],
     "rclone/rclone": [
