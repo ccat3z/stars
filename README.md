@@ -1533,6 +1533,7 @@
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
+* [SCons/scons](https://github.com/SCons/scons): SCons - a software construction tool
 * [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop): A command-line installer for Windows.
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device

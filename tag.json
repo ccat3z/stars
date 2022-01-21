@@ -721,6 +721,9 @@
     "S-1-T/miniob": [
         "Other"
     ],
+    "SCons/scons": [
+        "Other"
+    ],
     "SDRausty/TermuxArch": [
         "Other"
     ],
