@@ -394,6 +394,9 @@
     "ImVexed/muon": [
         "Other"
     ],
+    "Immediate-Mode-UI/Nuklear": [
+        "Other"
+    ],
     "Inokinoki/kde-blog": [
         "Other"
     ],
@@ -3543,6 +3546,9 @@
         "Other"
     ],
     "ocibuilder/ocibuilder": [
+        "Other"
+    ],
+    "ocornut/imgui": [
         "Other"
     ],
     "octokit/octokit.js": [

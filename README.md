@@ -1055,6 +1055,7 @@
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [imba/imba](https://github.com/imba/imba): 🐤 The friendly full-stack language
+* [ocornut/imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
@@ -1304,6 +1305,7 @@
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
 * [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+* [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
