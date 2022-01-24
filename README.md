@@ -996,7 +996,7 @@
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
-* [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+* [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
 * [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
