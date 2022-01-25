@@ -890,6 +890,7 @@
 * [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): An app to manage settings (including theme and background) of GNOME's Login Manager (GDM)
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
+* [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin gacha history analyzer
 * [sunfkny/genshin-gacha-export](https://github.com/sunfkny/genshin-gacha-export): 原神抽卡记录导出
 * [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
 * [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
