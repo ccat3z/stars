@@ -634,6 +634,9 @@
     "P0WEX/Gesko": [
         "Other"
     ],
+    "PGYER/codefever": [
+        "Other"
+    ],
     "PapirusDevelopmentTeam/papirus-icon-theme": [
         "Other"
     ],
@@ -1210,6 +1213,9 @@
     "argenos/zotero-mdnotes": [
         "Other"
     ],
+    "ariga/atlas": [
+        "Other"
+    ],
     "arkane-systems/genie": [
         "Other"
     ],
@@ -1480,6 +1486,9 @@
     "carbon-app/carbon": [
         "Other"
     ],
+    "catppuccin/catppuccin": [
+        "Other"
+    ],
     "cbeust/klaxon": [
         "Other"
     ],
@@ -1505,6 +1514,9 @@
         "Other"
     ],
     "cesanta/docker_auth": [
+        "Other"
+    ],
+    "cezanne/usbip-win": [
         "Other"
     ],
     "cginternals/cppfs": [

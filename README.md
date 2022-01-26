@@ -524,6 +524,7 @@
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [kvalo/ath11k-firmware](https://github.com/kvalo/ath11k-firmware): Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies 802.11ax devices
+* [ariga/atlas](https://github.com/ariga/atlas): A database toolkit
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
@@ -639,6 +640,7 @@
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
 * [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
+* [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
@@ -675,6 +677,7 @@
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
 * [idealvin/cocoyaxi](https://github.com/idealvin/cocoyaxi): The best C++ library on the Namake planet.
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
+* [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever Community Edition (A Self-hosted Git Services)
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
@@ -1733,6 +1736,7 @@
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 * [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
+* [cezanne/usbip-win](https://github.com/cezanne/usbip-win): USB/IP for Windows
 * [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
