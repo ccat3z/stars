@@ -1588,7 +1588,7 @@
 * [msharov/snownews](https://github.com/msharov/snownews): :snowman: Snownews is a text-mode RSS feed reader.
 * [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
-* [soduto/Soduto](https://github.com/soduto/Soduto): None
+* [soduto/Soduto](https://github.com/soduto/Soduto): Soduto is a KDEConnect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
