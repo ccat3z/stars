@@ -1717,6 +1717,8 @@
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw): A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+* [wangyu-/udp2raw-multiplatform](https://github.com/wangyu-/udp2raw-multiplatform): multi-platform(cross-platform) version of udp2raw-tunnel, which supports Windows/Mac/BSD natively. Client-Only at the moment.
+* [astroza/udptunnel](https://github.com/astroza/udptunnel): It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions.
 * [taki0112/UGATIT](https://github.com/taki0112/UGATIT): Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games

@@ -1240,6 +1240,9 @@
     "astralapp/astral": [
         "GitHub"
     ],
+    "astroza/udptunnel": [
+        "Other"
+    ],
     "atlassian/yarn-deduplicate": [
         "Other"
     ],
@@ -4825,6 +4828,9 @@
         "Docker"
     ],
     "wangyu-/udp2raw": [
+        "Other"
+    ],
+    "wangyu-/udp2raw-multiplatform": [
         "Other"
     ],
     "waydroid/waydroid": [
