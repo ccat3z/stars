@@ -884,6 +884,7 @@
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform file system notifications for Go.
 * [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
+* [nolanlawson/fuite](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
 * [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
