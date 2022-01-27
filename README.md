@@ -675,7 +675,7 @@
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
-* [idealvin/cocoyaxi](https://github.com/idealvin/cocoyaxi): The best C++ library on the Namake planet.
+* [idealvin/cocoyaxi](https://github.com/idealvin/cocoyaxi): A go-style coroutine library in C++11 and more.
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever Community Edition (A Self-hosted Git Services)
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
