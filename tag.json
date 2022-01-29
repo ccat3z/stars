@@ -1297,6 +1297,9 @@
     "banga/git-split-diffs": [
         "Other"
     ],
+    "barbalion/usbip-win-client": [
+        "Other"
+    ],
     "bartdegoede/python-searchengine": [
         "Other"
     ],
@@ -1730,6 +1733,9 @@
         "Windows/PowerShell"
     ],
     "daliansky/Hackintosh": [
+        "Other"
+    ],
+    "dandavison/delta": [
         "Other"
     ],
     "daniellandau/switcher": [

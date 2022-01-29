@@ -750,6 +750,7 @@
 * [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 * [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
+* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [delta-io/delta](https://github.com/delta-io/delta): An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
 * [dendronhq/dendron](https://github.com/dendronhq/dendron): The personal knowledge management (PKM) tool that grows as you do!
@@ -1740,6 +1741,7 @@
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 * [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 * [cezanne/usbip-win](https://github.com/cezanne/usbip-win): USB/IP for Windows
+* [barbalion/usbip-win-client](https://github.com/barbalion/usbip-win-client): USBIP 2.0 windows client files with service scripts
 * [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
