@@ -488,6 +488,8 @@
 * [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
 * [xiaomi-sdm660/android_device_xiaomi_clover](https://github.com/xiaomi-sdm660/android_device_xiaomi_clover): None
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
+* [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
+* [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3): Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
 * [drudru/ansi_up](https://github.com/drudru/ansi_up): A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
