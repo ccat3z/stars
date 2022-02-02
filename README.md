@@ -728,7 +728,7 @@
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
-* [christo-pr/dangerously-set-html-content](https://github.com/christo-pr/dangerously-set-html-content): Render raw html on your own risk!
+* [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
 * [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
