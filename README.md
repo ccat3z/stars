@@ -1180,6 +1180,7 @@
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
+* [yued-fe/lulu](https://github.com/yued-fe/lulu): LuLu UI for PC web
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
 * [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
