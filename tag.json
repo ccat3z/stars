@@ -1357,6 +1357,9 @@
     "bilelmoussaoui/Hardcode-Tray": [
         "Linux/Utility"
     ],
+    "bilelmoussaoui/flatpak-vscode": [
+        "Other"
+    ],
     "billziss-gh/sshfs-win": [
         "Other"
     ],
@@ -3448,7 +3451,7 @@
     "muesli/gitomatic": [
         "Other"
     ],
-    "mui-org/material-ui": [
+    "mui/material-ui": [
         "Other"
     ],
     "multiprocessio/dsq": [
