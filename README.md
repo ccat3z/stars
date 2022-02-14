@@ -1102,7 +1102,7 @@
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
-* [rancher/k3d](https://github.com/rancher/k3d): Little helper to run Rancher Lab's k3s in Docker
+* [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
 * [xiaods/k8e](https://github.com/xiaods/k8e): k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
 * [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator

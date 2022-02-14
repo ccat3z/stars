@@ -2876,6 +2876,9 @@
     "k0shk0sh/FastHub": [
         "Android/APP"
     ],
+    "k3d-io/k3d": [
+        "Other"
+    ],
     "k3s-io/helm-controller": [
         "Other"
     ],
@@ -3960,9 +3963,6 @@
         "Other"
     ],
     "rami3l/pacaptr": [
-        "Other"
-    ],
-    "rancher/k3d": [
         "Other"
     ],
     "rancher/local-path-provisioner": [
