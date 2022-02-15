@@ -1615,6 +1615,7 @@
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 * [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
+* [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
