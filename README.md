@@ -506,6 +506,7 @@
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 * [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): An android sample app of detecting suspicious apps like magisk manager
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
+* [dginev/ar5iv](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
 * [jnsh/arc-theme](https://github.com/jnsh/arc-theme): A flat theme with transparent elements (actively maintained fork)
@@ -1135,6 +1136,7 @@
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for vue ecosystem.
+* [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
@@ -1576,6 +1578,7 @@
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+* [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge): 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
 * [apache/shardingsphere](https://github.com/apache/shardingsphere): Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit

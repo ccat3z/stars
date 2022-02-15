@@ -1285,6 +1285,9 @@
     "aymericdamien/TensorFlow-Examples": [
         "Other"
     ],
+    "ayuer/shanghai_house_knowledge": [
+        "Other"
+    ],
     "b3log/baidu-netdisk-downloaderx": [
         "Other"
     ],
@@ -1442,6 +1445,9 @@
         "Other"
     ],
     "browserpass/browserpass-native": [
+        "Other"
+    ],
+    "brucemiller/LaTeXML": [
         "Other"
     ],
     "bsonntag/react-use-promise": [
@@ -1850,6 +1856,9 @@
         "Other"
     ],
     "dexidp/dex": [
+        "Other"
+    ],
+    "dginev/ar5iv": [
         "Other"
     ],
     "dgraph-io/badger": [
