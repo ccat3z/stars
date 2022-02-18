@@ -2420,6 +2420,9 @@
     "google/googletest": [
         "Other"
     ],
+    "google/leveldb": [
+        "Other"
+    ],
     "google/pprof": [
         "Other"
     ],
