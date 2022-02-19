@@ -3096,6 +3096,9 @@
     "lewis6991/impatient.nvim": [
         "Other"
     ],
+    "lework/kainstall": [
+        "Other"
+    ],
     "libfuse/python-fuse": [
         "Python"
     ],
