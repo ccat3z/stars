@@ -493,6 +493,9 @@
     "Kozea/wdb": [
         "Web"
     ],
+    "LSPosed/LSPosed.github.io": [
+        "Other"
+    ],
     "LSPosed/MagiskOnWSA": [
         "Other"
     ],
@@ -614,6 +617,9 @@
         "Java/Web"
     ],
     "NervJS/taro": [
+        "Other"
+    ],
+    "NetApp/beegfs-csi-driver": [
         "Other"
     ],
     "NicklasTegner/pypandoc": [
@@ -2876,6 +2882,9 @@
     "juicedata/juicefs": [
         "Other"
     ],
+    "juicedata/juicefs-csi-driver": [
+        "Other"
+    ],
     "julio641742/gnome-shell-extension-reference": [
         "Other"
     ],
@@ -2937,6 +2946,9 @@
         "Other"
     ],
     "kcp-dev/kcp": [
+        "Other"
+    ],
+    "kdrag0n/safetynet-fix": [
         "Other"
     ],
     "keeferrourke/capitaine-cursors": [
@@ -3200,6 +3212,9 @@
         "Other"
     ],
     "lucaslorentz/caddy-docker-proxy": [
+        "Other"
+    ],
+    "luk1337/ih8sn": [
         "Other"
     ],
     "lutris/lutris": [

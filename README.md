@@ -591,6 +591,7 @@
 * [etcd-io/bbolt](https://github.com/etcd-io/bbolt): An embedded key/value database for Go.
 * [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+* [NetApp/beegfs-csi-driver](https://github.com/NetApp/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
@@ -1069,6 +1070,7 @@
 * [RobThree/IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
 * [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
+* [luk1337/ih8sn](https://github.com/luk1337/ih8sn): None
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded): :camera: JavaScript is all like "You images done yet or what?"
 * [hertogp/imagine](https://github.com/hertogp/imagine): A pandoc-filter for images
 * [imba/imba](https://github.com/imba/imba): 🐤 The friendly full-stack language
@@ -1105,6 +1107,7 @@
 * [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+* [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
@@ -1187,6 +1190,7 @@
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
+* [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io): None
 * [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
 * [yued-fe/lulu](https://github.com/yued-fe/lulu): LuLu UI for PC web
@@ -1555,6 +1559,7 @@
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
 * [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+* [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix): Google SafetyNet attestation workarounds for Magisk
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
@@ -1769,7 +1774,7 @@
 * [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader
 * [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
 * [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
-* [2dust/v2rayNG](https://github.com/2dust/v2rayNG): None
+* [2dust/v2rayNG](https://github.com/2dust/v2rayNG): https://1.2345345.xyz/ads.html
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
