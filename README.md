@@ -1647,6 +1647,7 @@
 * [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
+* [lazyparser/survivial-manual-for-interns](https://github.com/lazyparser/survivial-manual-for-interns): 给新员工和实习生的生存指南。 Good Luck and Survive!
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen): swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
@@ -1697,6 +1698,7 @@
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+* [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL): PgSQL compatible on distributed database TiDB
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
 * [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
@@ -2028,7 +2030,6 @@
 * [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim): Using the jedi autocompletion library for VIM.
 * [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 * [vim-python/python-syntax](https://github.com/vim-python/python-syntax): Python syntax highlighting for Vim
-* [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 * [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide): use vim as IDE
 * [skywind3000/vim](https://github.com/skywind3000/vim): Personal Vim Profile

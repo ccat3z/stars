@@ -225,6 +225,9 @@
     "Dev-XYS/Algorithms": [
         "Other"
     ],
+    "DigitalChinaOpenSource/TiDB-for-PostgreSQL": [
+        "Other"
+    ],
     "Dimsmary/OpenSTM": [
         "Other"
     ],
@@ -3086,6 +3089,9 @@
     ],
     "lauritzsh/pandoc-markdown-template": [
         "Pandoc"
+    ],
+    "lazyparser/survivial-manual-for-interns": [
+        "Other"
     ],
     "leachim6/hello-world": [
         "Other"
