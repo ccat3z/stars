@@ -1777,7 +1777,7 @@
 * [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader
 * [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
 * [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
-* [2dust/v2rayNG](https://github.com/2dust/v2rayNG): https://1.2345345.xyz/ads.html
+* [2dust/v2rayNG](https://github.com/2dust/v2rayNG): A V2Ray client for Android, support Xray core and v2fly core
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
