@@ -1469,7 +1469,7 @@
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
 * [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language
 * [dront78/PulseDroid](https://github.com/dront78/PulseDroid): Android network audio player
-* [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+* [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book ，配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU
 * [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Headless Chrome Node.js API
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
