@@ -1393,12 +1393,6 @@
     "bilelmoussaoui/flatpak-vscode": [
         "Other"
     ],
-    "billziss-gh/sshfs-win": [
-        "Other"
-    ],
-    "billziss-gh/winfsp": [
-        "Windows/Utility"
-    ],
     "binux/ThunderLixianExporter": [
         "Utility"
     ],
@@ -5017,6 +5011,12 @@
         "Other"
     ],
     "win0err/gnome-runcat": [
+        "Other"
+    ],
+    "winfsp/sshfs-win": [
+        "Other"
+    ],
+    "winfsp/winfsp": [
         "Other"
     ],
     "woai3c/nand2tetris": [

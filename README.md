@@ -1633,7 +1633,7 @@
 * [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
-* [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win): SSHFS For Windows
+* [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
@@ -1880,6 +1880,7 @@
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
+* [winfsp/winfsp](https://github.com/winfsp/winfsp): Windows File System Proxy - FUSE for Windows
 * [microsoft/winget-cli](https://github.com/microsoft/winget-cli): Windows Package Manager CLI (aka winget)
 * [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs): The Microsoft community Windows Package Manager manifest repository
 * [google/wire](https://github.com/google/wire): Compile-time Dependency Injection for Go
@@ -2127,7 +2128,6 @@
 
 * [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier): Creates tiles for most Windows 8.1 and 10 start menu icons
 * [equalsraf/win32yank](https://github.com/equalsraf/win32yank): Windows clipboard tool
-* [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp): Windows File System Proxy - FUSE for Windows
 
 ## WSL
 
