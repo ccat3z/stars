@@ -3030,6 +3030,9 @@
         "Kindle",
         "Android/APP"
     ],
+    "koutheir/libcxx-pretty-printers": [
+        "Other"
+    ],
     "kovidgoyal/kitty": [
         "Other"
     ],
