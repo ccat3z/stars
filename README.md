@@ -1503,6 +1503,8 @@
 * [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup): QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
+* [quip/quip-api](https://github.com/quip/quip-api): Quip Automation REST API for editing documents, folders, and users
+* [coxley/quip2md](https://github.com/coxley/quip2md): Library and CLI to convert Quip HTML to Markdown
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
 * [hashicorp/raft](https://github.com/hashicorp/raft): Golang implementation of the Raft consensus protocol
 * [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG): 程序员要讲码德，耗子尾汁，好好反思！

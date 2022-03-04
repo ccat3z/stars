@@ -1726,6 +1726,9 @@
     "coreybutler/nvm-windows": [
         "Other"
     ],
+    "coxley/quip2md": [
+        "Other"
+    ],
     "creack/pty": [
         "Other"
     ],
@@ -4032,6 +4035,9 @@
         "Other"
     ],
     "quartznet/quartznet": [
+        "Other"
+    ],
+    "quip/quip-api": [
         "Other"
     ],
     "rafaelmardojai/firefox-gnome-scrollbars": [
