@@ -1749,7 +1749,7 @@
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow): Container Registry and Image Management for Kubernetes Clusters
-* [sammydre/ts-for-gjs](https://github.com/sammydre/ts-for-gjs): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
+* [sammydre/ts-for-gir](https://github.com/sammydre/ts-for-gir): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [stephenh/ts-proto](https://github.com/stephenh/ts-proto): An idiomatic protobuf generator for TypeScript
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
