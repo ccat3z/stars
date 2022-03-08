@@ -821,6 +821,7 @@
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [multiprocessio/dsq](https://github.com/multiprocessio/dsq): Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [dtm-labs/dtm](https://github.com/dtm-labs/dtm): 此仓库应常青藤爸爸要求，已停止维护，请移步 https://github.com/dtm-labs/dtf
+* [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
