@@ -1123,7 +1123,7 @@
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
 * [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
-* [kcp-dev/kcp](https://github.com/kcp-dev/kcp): kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters.
+* [kcp-dev/kcp](https://github.com/kcp-dev/kcp): kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
 * [skywind3000/kcp](https://github.com/skywind3000/kcp): :zap: KCP - A Fast and Reliable ARQ Protocol
 * [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
 * [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android): Native Android port of the KDE Connect Qt app
