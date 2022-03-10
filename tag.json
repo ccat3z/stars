@@ -1291,9 +1291,6 @@
     "astroza/udptunnel": [
         "Other"
     ],
-    "atlassian/yarn-deduplicate": [
-        "Other"
-    ],
     "atmoz/sftp": [
         "Other"
     ],
@@ -1844,6 +1841,9 @@
         "Other"
     ],
     "dbeaver/dbeaver": [
+        "Other"
+    ],
+    "dberrueta-atlassian/yarn-deduplicate": [
         "Other"
     ],
     "dbgate/dbgate": [
