@@ -1843,9 +1843,6 @@
     "dbeaver/dbeaver": [
         "Other"
     ],
-    "dberrueta-atlassian/yarn-deduplicate": [
-        "Other"
-    ],
     "dbgate/dbgate": [
         "Other"
     ],
@@ -4248,6 +4245,9 @@
         "Other"
     ],
     "schollz/croc": [
+        "Other"
+    ],
+    "scinos/yarn-deduplicate": [
         "Other"
     ],
     "screepers/screeps-multimeter": [

@@ -1933,7 +1933,7 @@
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
 * [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
-* [dberrueta-atlassian/yarn-deduplicate](https://github.com/dberrueta-atlassian/yarn-deduplicate): Deduplication tool for yarn.lock files
+* [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate): Deduplication tool for yarn.lock files
 * [nkanaev/yarr](https://github.com/nkanaev/yarr): yet another rss reader
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
