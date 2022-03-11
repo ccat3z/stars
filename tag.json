@@ -322,6 +322,9 @@
     "FormidableLabs/urql": [
         "Other"
     ],
+    "FoundationDB/fdb-kubernetes-operator": [
+        "Other"
+    ],
     "FreshRSS/FreshRSS": [
         "Other"
     ],

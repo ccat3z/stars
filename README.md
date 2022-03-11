@@ -864,6 +864,7 @@
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
 * [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd):  ETCD layer on top of FoundationDB
+* [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
 * [pH14/fdb-zk](https://github.com/pH14/fdb-zk): ZooKeeper server on top of FoundationDB
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
