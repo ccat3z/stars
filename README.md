@@ -1962,7 +1962,7 @@
 * [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! The fast & light-weight Zsh plugin manager that's easy to grok. Also functions as a generic Git repo manager.
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
-* [google/zx](https://github.com/google/zx): Replace Bash with JavaScript
+* [google/zx](https://github.com/google/zx): A tool for writing better scripts 🐚🔥🔥
 
 # Pandoc
 
