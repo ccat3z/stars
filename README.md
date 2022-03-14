@@ -752,6 +752,7 @@
 * [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io): The On-line Database of Databases
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+* [yingjunwu/DBMS-Indexology](https://github.com/yingjunwu/DBMS-Indexology): A Collection of Papers on Database Index Structures
 * [DBOS-project/dbos-project.github.io](https://github.com/DBOS-project/dbos-project.github.io): A Database-oriented Operating System
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
@@ -1635,6 +1636,7 @@
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
+* [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
 * [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): Sourcetrail - free and open-source interactive source explorer
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+ (DOES NOT CURRENTLY SUPPORT M1)
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.

@@ -4437,6 +4437,9 @@
     "sourcegraph/go-langserver": [
         "Other"
     ],
+    "sourcery-ai/sourcery": [
+        "Other"
+    ],
     "sparksuite/simplemde-markdown-editor": [
         "Other"
     ],
@@ -5134,6 +5137,9 @@
         "Python/Tutorial"
     ],
     "yifeikong/reverse-interview-zh": [
+        "Other"
+    ],
+    "yingjunwu/DBMS-Indexology": [
         "Other"
     ],
     "yoda-pa/yoda": [
