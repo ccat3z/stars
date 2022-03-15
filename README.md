@@ -608,7 +608,7 @@
 * [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
-* [nschloe/blacktex](https://github.com/nschloe/blacktex): :black_heart: Cleans up your LaTeX files.
+* [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
 * [prinsss/blessing-skin-server](https://github.com/prinsss/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [yzx9/blog](https://github.com/yzx9/blog): Celeste's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog

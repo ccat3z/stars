@@ -3659,9 +3659,6 @@
     "nreco/data": [
         "Other"
     ],
-    "nschloe/blacktex": [
-        "Other"
-    ],
     "nsf/termbox-go": [
         "Other"
     ],
@@ -4612,6 +4609,9 @@
         "Other"
     ],
     "tesseract-ocr/tesseract": [
+        "Other"
+    ],
+    "texworld/blacktex": [
         "Other"
     ],
     "thangchung/awesome-dotnet-core": [
