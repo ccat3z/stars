@@ -834,6 +834,7 @@
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
+* [SignorMercurio/ECNU-Forum](https://github.com/SignorMercurio/ECNU-Forum): ECNU Forum based on Flarum
 * [edgedb/edgedb](https://github.com/edgedb/edgedb): A next-generation graph-relational database.
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
