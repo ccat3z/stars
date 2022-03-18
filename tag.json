@@ -261,6 +261,9 @@
     "Dreamacro/clash": [
         "Other"
     ],
+    "ECNU-Forum/ECNU-Forum": [
+        "Other"
+    ],
     "EastWorld/wechat-app-mall": [
         "WeChat/Mini Program/Develop"
     ],
@@ -813,9 +816,6 @@
     ],
     "Shougo/vimshell.vim": [
         "Vim"
-    ],
-    "SignorMercurio/ECNU-Forum": [
-        "Other"
     ],
     "SirVer/ultisnips": [
         "Vim"
