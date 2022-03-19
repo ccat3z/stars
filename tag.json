@@ -631,6 +631,9 @@
     "NanoHttpd/nanohttpd": [
         "Java/Web"
     ],
+    "NeoApplications/neo-backup": [
+        "Other"
+    ],
     "NervJS/taro": [
         "Other"
     ],
@@ -3275,9 +3278,6 @@
         "Utility"
     ],
     "m8/refined.blog": [
-        "Other"
-    ],
-    "machiav3lli/oandbackupx": [
         "Other"
     ],
     "machyve/xhyve": [
