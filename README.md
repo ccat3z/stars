@@ -869,6 +869,7 @@
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
 * [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd):  ETCD layer on top of FoundationDB
 * [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
+* [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer): A record-oriented store built on FoundationDB
 * [pH14/fdb-zk](https://github.com/pH14/fdb-zk): ZooKeeper server on top of FoundationDB
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.

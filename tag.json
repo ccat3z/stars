@@ -328,6 +328,9 @@
     "FoundationDB/fdb-kubernetes-operator": [
         "Other"
     ],
+    "FoundationDB/fdb-record-layer": [
+        "Other"
+    ],
     "FreshRSS/FreshRSS": [
         "Other"
     ],
