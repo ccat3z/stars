@@ -575,6 +575,7 @@
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 * [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
 * [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other resources for Fish. 🐚
+* [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
 * [dgraph-io/badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
 * [thetirefire/badidea](https://github.com/thetirefire/badidea): None
