@@ -720,6 +720,7 @@
 * [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that converts CRON expressions into human readable descriptions
 * [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
+* [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): 计算机自学指南
 * [dotnet/csharplang](https://github.com/dotnet/csharplang): The official repo for the design of the C# programming language
 * [diseq/csi-rclone](https://github.com/diseq/csi-rclone): CSI driver for rclone
 * [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone): CSI driver for rclone
