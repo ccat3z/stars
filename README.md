@@ -778,6 +778,7 @@
 * [loft-sh/devspace](https://github.com/loft-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): Native GraphQL Database with graph backend
+* [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus.
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 * [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 * [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
