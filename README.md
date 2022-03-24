@@ -1318,7 +1318,7 @@
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
-* [NeoApplications/neo-backup](https://github.com/NeoApplications/neo-backup): backup manager for android
+* [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
