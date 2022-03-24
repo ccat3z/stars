@@ -3893,9 +3893,6 @@
     "piotrwitek/utility-types": [
         "Other"
     ],
-    "pivotal-cf-experimental/cron-resource": [
-        "Other"
-    ],
     "pixel-saver/pixel-saver": [
         "Other"
     ],
@@ -4948,6 +4945,9 @@
         "Other"
     ],
     "vldbss-2021/vldb-2021-labs": [
+        "Other"
+    ],
+    "vmware-archive/cron-resource": [
         "Other"
     ],
     "vmware-tanzu/carvel-kapp": [
