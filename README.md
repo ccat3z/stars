@@ -839,6 +839,7 @@
 * [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text content without CA cert by eBPF.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum
+* [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
 * [edgedb/edgedb](https://github.com/edgedb/edgedb): A next-generation graph-relational database.
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
