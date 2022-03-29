@@ -3514,6 +3514,9 @@
     "modern-js-dev/modern.js": [
         "Other"
     ],
+    "modulz/stitches": [
+        "Other"
+    ],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
@@ -4632,6 +4635,9 @@
     "telepresenceio/telepresence": [
         "Other"
     ],
+    "tensorbase/tensorbase": [
+        "Other"
+    ],
     "termux/termux-app": [
         "Android/APP/Utility"
     ],
@@ -5101,6 +5107,9 @@
         "Other"
     ],
     "wormtql/yas": [
+        "Other"
+    ],
+    "wubaiqing/zaobao": [
         "Other"
     ],
     "wunderio/csi-rclone": [
