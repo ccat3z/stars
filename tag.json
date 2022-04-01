@@ -1654,9 +1654,6 @@
     "claytongulick/bit-sync": [
         "Other"
     ],
-    "cloudhut/kowl": [
-        "Other"
-    ],
     "cmhughes/latexindent.pl": [
         "LaTeX"
     ],
@@ -4112,6 +4109,9 @@
     "redis/redis": [
         "Other"
     ],
+    "redpanda-data/kowl": [
+        "Other"
+    ],
     "reduxjs/redux": [
         "Other"
     ],
@@ -4224,6 +4224,9 @@
         "Other"
     ],
     "ruffle-rs/ruffle": [
+        "Other"
+    ],
+    "rui314/chibicc": [
         "Other"
     ],
     "rui314/mold": [
