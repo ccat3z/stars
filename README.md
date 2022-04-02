@@ -1799,7 +1799,7 @@
 * [YuKongA/UnlockMiuiThemeManager](https://github.com/YuKongA/UnlockMiuiThemeManager): [Magisk] Unlock Miui Theme Manager / Miui 主题破解
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 * [BishopFox/unredacter](https://github.com/BishopFox/unredacter): Never ever ever use pixelation as a redaction technique
-* [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+* [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Uptime monitor & status page powered by GitHub Actions, Issues, and Pages
 * [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 * [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 * [cezanne/usbip-win](https://github.com/cezanne/usbip-win): USB/IP for Windows
