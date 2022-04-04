@@ -709,6 +709,7 @@
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》翻译
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
@@ -906,6 +907,7 @@
 * [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): Import images into Forza
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
+* [wader/fq](https://github.com/wader/fq): jq for binary formats
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
@@ -1694,6 +1696,7 @@
 * [akopytov/sysbench](https://github.com/akopytov/sysbench): Scriptable database and system performance benchmark
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 * [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager 
+* [getlantern/systray](https://github.com/getlantern/systray): a cross platfrom Go library to place an icon and menu in the notification area
 * [mono/t4](https://github.com/mono/t4): T4 text templating engine
 * [austinjones/tab-rs](https://github.com/austinjones/tab-rs): The intuitive, config-driven terminal multiplexer designed for software & systems engineers
 * [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
