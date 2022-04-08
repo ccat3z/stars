@@ -865,6 +865,7 @@
 * [future-architect/eslint-plugin-vue-scoped-css](https://github.com/future-architect/eslint-plugin-vue-scoped-css): ESLint plugin for Scoped CSS in Vue.js
 * [etcd-io/etcd](https://github.com/etcd-io/etcd): Distributed reliable key-value store for the most critical data of a distributed system
 * [etesync/etesync-dav](https://github.com/etesync/etesync-dav): This is a CalDAV and CardDAV adapter for EteSync
+* [ramottamado/eval-gjs](https://github.com/ramottamado/eval-gjs): Evaluate GJS script through DBus
 * [browserify/events](https://github.com/browserify/events): Node's event emitter for all engines.
 * [samyk/evercookie](https://github.com/samyk/evercookie): Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 * [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
