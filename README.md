@@ -828,7 +828,7 @@
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
 * [multiprocessio/dsq](https://github.com/multiprocessio/dsq): Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-* [dtm-labs/dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
+* [dtm-labs/dtm](https://github.com/dtm-labs/dtm): A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
 * [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
@@ -1521,7 +1521,6 @@
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): PyTorch Tutorial for Deep Learning Researchers
 * [bee-san/pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 * [qgaye/qgaye](https://github.com/qgaye/qgaye): None
-* [qgaye/qgaye.github.io](https://github.com/qgaye/qgaye.github.io): None
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 * [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme): A colorful design icon theme for linux desktops
 * [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup): QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
