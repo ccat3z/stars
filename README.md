@@ -1573,6 +1573,7 @@
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
+* [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
@@ -1946,6 +1947,7 @@
 * [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
+* [jotaen/xit](https://github.com/jotaen/xit): A plain-text file format for todos and check lists
 * [florentc/xob](https://github.com/florentc/xob): A lightweight overlay volume (or anything) bar for the X Window System.
 * [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp): Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css): A CSS framework for building faithful recreations of operating system GUIs.
