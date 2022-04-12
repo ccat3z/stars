@@ -841,7 +841,7 @@
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 * [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text content without CA cert by eBPF.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
-* [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum
+* [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
 * [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
 * [ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers): ECNU CS & SE 信息收集; 华师大计软院友墙
 * [edgedb/edgedb](https://github.com/edgedb/edgedb): A next-generation graph-relational database.
