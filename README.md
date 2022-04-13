@@ -1157,7 +1157,7 @@
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [redpanda-data/kowl](https://github.com/redpanda-data/kowl): Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+* [redpanda-data/kowl](https://github.com/redpanda-data/kowl): Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
 * [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone): kube-rclone is a rclone mount solution for Kubernetes
 * [kubenav/kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
