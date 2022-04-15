@@ -715,9 +715,6 @@
     "PowerShell/PSReadLine": [
         "Other"
     ],
-    "Prince781/vala-language-server": [
-        "Other"
-    ],
     "PureDarwin/PureDarwin": [
         "Other"
     ],
@@ -4915,6 +4912,9 @@
         "GFW"
     ],
     "v8/v8": [
+        "Other"
+    ],
+    "vala-lang/vala-language-server": [
         "Other"
     ],
     "vala-lang/vala-lint": [
