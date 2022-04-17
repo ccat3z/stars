@@ -3502,6 +3502,9 @@
     "minio/minio": [
         "Other"
     ],
+    "mipmip/gnome-shell-extensions-useless-gaps": [
+        "Other"
+    ],
     "mitchellh/mapstructure": [
         "Other"
     ],

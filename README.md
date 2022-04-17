@@ -986,6 +986,7 @@
 * [N-Yuki/gnome-shell-extension-workspace-isolated-dash](https://github.com/N-Yuki/gnome-shell-extension-workspace-isolated-dash): Isolate workspaces in Gnome Shell
 * [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
+* [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
 * [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms implemented in Go for beginners, following best practices.
 * [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
