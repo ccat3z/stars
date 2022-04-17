@@ -1516,7 +1516,7 @@
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
-* [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Get and set values in your .env file in local and production servers. :tada:
+* [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 * [rytilahti/python-miio](https://github.com/rytilahti/python-miio): Python library & console tool for controlling Xiaomi smart appliances
 * [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn): 📖《Python Parallel Programming Cookbook》中文版
 * [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin): 汉字转拼音(pypinyin)
