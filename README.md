@@ -1405,6 +1405,7 @@
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 * [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
+* [djyde/ossart](https://github.com/djyde/ossart): Print your GitHub activity as an artwork
 * [X-lab2017/OSSDevGov2021](https://github.com/X-lab2017/OSSDevGov2021): Open Source Software Development and Community Governance (开源软件开发与社区治理)
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
