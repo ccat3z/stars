@@ -411,7 +411,6 @@
 * [XuShaohua/bcloud](https://github.com/XuShaohua/bcloud): 百度网盘的linux桌面客户端
 * [gliffy/canvas2svg](https://github.com/gliffy/canvas2svg): Translates HTML5 Canvas draw commands to SVG
 * [caldwell/daemon-manager](https://github.com/caldwell/daemon-manager): Manage Daemons run and controlled by non root users
-* [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray): Fixes Hardcoded tray icons in Linux
 * [skilion/onedrive](https://github.com/skilion/onedrive): Free Client for OneDrive on Linux
 * [mk-fg/onedrive-fuse-fs](https://github.com/mk-fg/onedrive-fuse-fs): Script to mount Microsoft OneDrive (formerly known as SkyDrive) folder as a FUSE filesystem
@@ -1008,6 +1007,7 @@
 * [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
 * [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3): A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
+* [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh): Color Scheme for Gnome Terminal and Pantheon Terminal
 * [goccmack/gogll](https://github.com/goccmack/gogll): Generates generalised LL (GLL) and reduced size LR(1) parsers with matching lexers
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
 * [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service

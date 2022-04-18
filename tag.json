@@ -367,6 +367,9 @@
     "GitJournal/GitJournal": [
         "Other"
     ],
+    "Gogh-Co/Gogh": [
+        "Other"
+    ],
     "GoogleContainerTools/skaffold": [
         "Other"
     ],
@@ -591,9 +594,6 @@
     ],
     "Maximus5/ConEmu": [
         "Windows/Terminal/ConEmu"
-    ],
-    "Mayccoll/Gogh": [
-        "Linux/Utility"
     ],
     "Meituan-Dianping/mpvue": [
         "Other"
