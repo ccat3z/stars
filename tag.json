@@ -2510,6 +2510,9 @@
     "google/autocxx": [
         "Other"
     ],
+    "google/bbr": [
+        "Other"
+    ],
     "google/googletest": [
         "Other"
     ],
