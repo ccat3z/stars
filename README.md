@@ -706,7 +706,7 @@
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
-* [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！
+* [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
