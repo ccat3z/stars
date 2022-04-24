@@ -1090,6 +1090,9 @@
     "adafruit/Adafruit_NeoPixel": [
         "Arduino"
     ],
+    "adah1972/output_container": [
+        "Other"
+    ],
     "adapta-project/adapta-gtk-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
@@ -2304,6 +2307,9 @@
         "Other"
     ],
     "foreversd/forever": [
+        "Other"
+    ],
+    "formulahendry/944.Life": [
         "Other"
     ],
     "formulahendry/vscode-code-runner": [
