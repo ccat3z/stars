@@ -1864,6 +1864,7 @@
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
+* [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux): Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
 * [pytorch/vision](https://github.com/pytorch/vision): Datasets, Transforms and Models specific to Computer Vision
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
