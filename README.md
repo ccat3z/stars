@@ -842,7 +842,7 @@
 * [ewlsh/dynamic-panel-transparency](https://github.com/ewlsh/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
-* [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text content without CA cert by eBPF.
+* [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text content without CA cert using eBPF.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
 * [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
