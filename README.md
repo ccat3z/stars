@@ -726,6 +726,7 @@
 * [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that converts CRON expressions into human readable descriptions
 * [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
+* [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): 计算机自学指南
 * [dotnet/csharplang](https://github.com/dotnet/csharplang): The official repo for the design of the C# programming language
 * [diseq/csi-rclone](https://github.com/diseq/csi-rclone): CSI driver for rclone
@@ -840,6 +841,7 @@
 * [henrysher/duplicity](https://github.com/henrysher/duplicity): mirror of duplicity: https://code.launchpad.net/duplicity
 * [martanne/dvtm](https://github.com/martanne/dvtm): dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 * [ewlsh/dynamic-panel-transparency](https://github.com/ewlsh/dynamic-panel-transparency): Adds Transparency To The Gnome Shell Panel
+* [dusansimic/dynamic-wallpaper](https://github.com/dusansimic/dynamic-wallpaper): Dynamic wallpaper maker for Gnome 42
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 * [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text content without CA cert using eBPF.
