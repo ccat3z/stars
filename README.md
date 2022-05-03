@@ -714,6 +714,7 @@
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》翻译
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
+* [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide): C/C++学习，后端开发进阶指南。
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
