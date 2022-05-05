@@ -630,7 +630,7 @@
 * [maharmstone/btrfs](https://github.com/maharmstone/btrfs): WinBtrfs - an open-source btrfs driver for Windows
 * [bloom-lang/bud](https://github.com/bloom-lang/bud): Prototype Bud runtime (Bloom Under Development)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
-* [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 🤓 Build your own (insert technology here)
+* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): 🤓 Build your own (insert technology here)
 * [ngaut/builddatabase](https://github.com/ngaut/builddatabase): Build a distributed SQL database from the ground up
 * [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
