@@ -1286,7 +1286,7 @@
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): High Performance, Kubernetes Native Object Storage
+* [minio/minio](https://github.com/minio/minio): Multi-Cloud Object Storage
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): 2021 OceanBase 数据库大赛初赛赛题
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
@@ -1754,7 +1754,7 @@
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1701-Stars](https://github.com/RealPeha/This-Repo-Has-1701-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1702-Stars](https://github.com/RealPeha/This-Repo-Has-1702-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol 
