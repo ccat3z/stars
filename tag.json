@@ -2828,6 +2828,9 @@
     "itchyny/lightline.vim": [
         "Other"
     ],
+    "itdevbooks/pdf": [
+        "Other"
+    ],
     "ivarptr/yu-writer.site": [
         "Other"
     ],
@@ -3707,6 +3710,9 @@
     "neuland/micro-frontends": [
         "Other"
     ],
+    "neurosnap/lists.sh": [
+        "Other"
+    ],
     "newren/git-filter-repo": [
         "Other"
     ],
@@ -3972,6 +3978,9 @@
         "Other"
     ],
     "plaintextaccounting/plaintextaccounting": [
+        "Other"
+    ],
+    "plantuml-stdlib/C4-PlantUML": [
         "Other"
     ],
     "plantuml/plantuml": [
