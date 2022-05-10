@@ -664,6 +664,7 @@
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 * [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
 * [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh): A Chaos Engineering Platform for Kubernetes.
+* [bitnami/charts](https://github.com/bitnami/charts): Bitnami Helm Charts
 * [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
