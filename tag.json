@@ -640,6 +640,9 @@
     "NLog/NLog.Extensions.Logging": [
         "Other"
     ],
+    "NVIDIA/open-gpu-kernel-modules": [
+        "Other"
+    ],
     "Nanguage/Rainbow-Fart-MBG": [
         "Other"
     ],
