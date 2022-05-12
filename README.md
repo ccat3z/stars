@@ -1608,7 +1608,7 @@
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
 * [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Yet another remote desktop software
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone!
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
