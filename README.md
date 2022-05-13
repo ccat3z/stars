@@ -1581,7 +1581,7 @@
 * [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts)
 * [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
-* [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
+* [remaxjs/remax](https://github.com/remaxjs/remax): 【不再维护】使用真正的 React 构建跨平台小程序
 * [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china): 支持远程办公的中国公司
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Create videos programmatically in React
 * [replit-archive/repl.it](https://github.com/replit-archive/repl.it): https://repl.it/feedback Online REPL for 15+ languages.
