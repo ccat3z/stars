@@ -1021,6 +1021,9 @@
     "XAMPPRocky/tokei": [
         "Other"
     ],
+    "XIU2/CloudflareSpeedTest": [
+        "Other"
+    ],
     "XTLS/Xray-core": [
         "Other"
     ],
@@ -1373,6 +1376,9 @@
         "Other"
     ],
     "babysor/MockingBird": [
+        "Other"
+    ],
+    "badafans/better-cloudflare-ip": [
         "Other"
     ],
     "badges/shields": [
