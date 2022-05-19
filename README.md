@@ -1765,7 +1765,7 @@
 * [RealPeha/This-Repo-Has-1709-Stars](https://github.com/RealPeha/This-Repo-Has-1709-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
-* [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol 
+* [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 * [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL): PgSQL compatible on distributed database TiDB
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
