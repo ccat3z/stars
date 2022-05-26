@@ -973,7 +973,7 @@
 * [conwnet/github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 * [devlooped/GitInfo](https://github.com/devlooped/GitInfo): Git and SemVer Info from MSBuild, C# and VB
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks): Scan git repos (or files) for secrets using regex and entropy 🔑
+* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑
 * [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
 * [Byron/gitoxide](https://github.com/Byron/gitoxide): An idiomatic, lean, fast & safe pure Rust implementation of Git
