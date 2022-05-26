@@ -2,9 +2,6 @@
     "0voice/kernel_new_features": [
         "Other"
     ],
-    "0xnr/awesome-bigdata": [
-        "Other"
-    ],
     "11ty/eleventy": [
         "Other"
     ],
@@ -3732,6 +3729,9 @@
         "Other"
     ],
     "neurosnap/lists.sh": [
+        "Other"
+    ],
+    "newTendermint/awesome-bigdata": [
         "Other"
     ],
     "newren/git-filter-repo": [
