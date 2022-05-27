@@ -536,6 +536,7 @@
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
 * [keratin/authn-server](https://github.com/keratin/authn-server): Authentication service that keeps you in control without forcing you to be an expert in web security.
+* [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi): AutoBangumi - 全自动追番工具，节约时间创造价值
 * [google/autocxx](https://github.com/google/autocxx): Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 * [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
 * [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
@@ -756,6 +757,7 @@
 * [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel): An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
+* [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
@@ -1667,6 +1669,7 @@
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books.
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
