@@ -776,6 +776,7 @@
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in go
 * [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars, tasks and more without a server
 * [39aldo39/DecSyncCC](https://github.com/39aldo39/DecSyncCC): Android app to sync contacts, calendars and tasks without a server using DecSync
+* [mashirozx/deemo](https://github.com/mashirozx/deemo): Deemo（古树旋律）曲绘集复刻
 * [Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 * [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
@@ -1228,6 +1229,7 @@
 * [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
 * [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh): a microblog for lists
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+* [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.x kernels)
 * [kelthuzadx/llmd](https://github.com/kelthuzadx/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
