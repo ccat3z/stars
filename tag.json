@@ -3616,9 +3616,6 @@
     "modern-js-dev/modern.js": [
         "Other"
     ],
-    "modulz/stitches": [
-        "Other"
-    ],
     "mojombo/mojombo.github.io": [
         "Blog"
     ],
@@ -4657,6 +4654,9 @@
         "Other"
     ],
     "stilliard/docker-pure-ftpd": [
+        "Other"
+    ],
+    "stitchesjs/stitches": [
         "Other"
     ],
     "streamich/react-use": [

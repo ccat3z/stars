@@ -1710,7 +1710,7 @@
 * [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 《统计学习方法》（第二版）习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 * [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
-* [modulz/stitches](https://github.com/modulz/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+* [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
