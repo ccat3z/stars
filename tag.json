@@ -149,6 +149,9 @@
     "BurntSushi/xsv": [
         "Other"
     ],
+    "Byron/dua-cli": [
+        "Other"
+    ],
     "Byron/gitoxide": [
         "Other"
     ],
@@ -368,6 +371,9 @@
         "Other"
     ],
     "Gogh-Co/Gogh": [
+        "Other"
+    ],
+    "GoogleChromeLabs/squoosh": [
         "Other"
     ],
     "GoogleContainerTools/skaffold": [
