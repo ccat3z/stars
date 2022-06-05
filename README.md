@@ -1082,7 +1082,7 @@
 * [sharkdp/hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
 * [jeffshee/hidamari](https://github.com/jeffshee/hidamari): Video wallpaper for Linux. Minimal and written in Python.
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [simonmichael/hledger](https://github.com/simonmichael/hledger): A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
+* [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
