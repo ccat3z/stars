@@ -1299,7 +1299,7 @@
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): Multi-Cloud Object Storage
+* [minio/minio](https://github.com/minio/minio): Multi-Cloud :cloud: Object Storage 
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): 2021 OceanBase 数据库大赛初赛赛题
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
