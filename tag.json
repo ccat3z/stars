@@ -985,6 +985,9 @@
     "VcDevel/Vc": [
         "Other"
     ],
+    "ViRb3/magisk-frida": [
+        "Other"
+    ],
     "VictoriaMetrics/fastcache": [
         "Other"
     ],
@@ -4716,6 +4719,9 @@
         "Other"
     ],
     "sveltejs/svelte": [
+        "Other"
+    ],
+    "svengong/xcubebase": [
         "Other"
     ],
     "swagger-api/swagger-codegen": [
