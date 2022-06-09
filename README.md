@@ -485,6 +485,7 @@
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [Rprop/And64InlineHook](https://github.com/Rprop/And64InlineHook): Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
+* [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
 * [ele7enxxh/Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook): thumb16 thumb32 arm32 inlineHook in Android
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
 * [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
@@ -608,6 +609,7 @@
 * [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip): 查找适合自己当前网络环境的优选cloudflare anycast IP
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 * [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+* [bytedance/bhook](https://github.com/bytedance/bhook): :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 * [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Opensource, compact, and material-designed cursor set.
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
@@ -1779,7 +1781,7 @@
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1714-Stars](https://github.com/RealPeha/This-Repo-Has-1714-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1715-Stars](https://github.com/RealPeha/This-Repo-Has-1715-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
