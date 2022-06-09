@@ -2041,6 +2041,7 @@
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts
+* [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper): Using Zygisk to dump il2cpp data at runtime
 
 # Pandoc
 
