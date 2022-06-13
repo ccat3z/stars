@@ -715,6 +715,7 @@
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
+* [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -1184,7 +1185,6 @@
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
-* [redpanda-data/kowl](https://github.com/redpanda-data/kowl): Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
 * [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone): kube-rclone is a rclone mount solution for Kubernetes
 * [kubenav/kubenav](https://github.com/kubenav/kubenav): kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -1679,6 +1679,7 @@
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
+* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery): Browse your memories without any interruptions with this photo and video gallery
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.

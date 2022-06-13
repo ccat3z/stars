@@ -859,6 +859,9 @@
     "Shougo/vimshell.vim": [
         "Vim"
     ],
+    "SimpleMobileTools/Simple-Gallery": [
+        "Other"
+    ],
     "SirVer/ultisnips": [
         "Vim"
     ],
@@ -4256,7 +4259,7 @@
     "redis/redis": [
         "Other"
     ],
-    "redpanda-data/kowl": [
+    "redpanda-data/console": [
         "Other"
     ],
     "reduxjs/redux": [
