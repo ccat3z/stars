@@ -1797,9 +1797,9 @@
 * [gsliepen/tinc](https://github.com/gsliepen/tinc): a VPN daemon
 * [pacien/tincapp](https://github.com/pacien/tincapp): Android binding and user interface for the tinc mesh VPN daemon.
 * [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
-* [tidb-incubator/tinykv](https://github.com/tidb-incubator/tinykv): A course to build distributed key-value service based on TiKV model
+* [talent-plan/tinykv](https://github.com/talent-plan/tinykv): A course to build distributed key-value service based on TiKV model
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
-* [tidb-incubator/tinysql](https://github.com/tidb-incubator/tinysql): A course to build the SQL layer of a distributed database.
+* [talent-plan/tinysql](https://github.com/talent-plan/tinysql): A course to build the SQL layer of a distributed database.
 * [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands

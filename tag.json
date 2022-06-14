@@ -4781,6 +4781,12 @@
     "taki0112/UGATIT": [
         "Other"
     ],
+    "talent-plan/tinykv": [
+        "Other"
+    ],
+    "talent-plan/tinysql": [
+        "Other"
+    ],
     "tangwz/db-monthly": [
         "Other"
     ],
@@ -4852,12 +4858,6 @@
         "Other"
     ],
     "thomseddon/traefik-forward-auth": [
-        "Other"
-    ],
-    "tidb-incubator/tinykv": [
-        "Other"
-    ],
-    "tidb-incubator/tinysql": [
         "Other"
     ],
     "tikv/tikv": [
