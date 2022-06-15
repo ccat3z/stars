@@ -1210,7 +1210,7 @@
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
-* [lerna/lerna](https://github.com/lerna/lerna): :dragon: A tool for managing JavaScript projects with multiple packages.
+* [lerna/lerna](https://github.com/lerna/lerna): :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [google/leveldb](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
