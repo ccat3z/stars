@@ -1658,7 +1658,7 @@
 * [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
 * [epasveer/seer](https://github.com/epasveer/seer): Seer - a gui frontend to gdb
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
-* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): A modern, comprehensive, flexible design system and React UI library
+* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
