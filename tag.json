@@ -697,6 +697,9 @@
     "OpenAPITools/openapi-generator": [
         "Other"
     ],
+    "OpenIntelWireless/itlwm": [
+        "Other"
+    ],
     "P0WEX/Gesko": [
         "Other"
     ],
@@ -4840,6 +4843,9 @@
         "Other"
     ],
     "the-cavalry/light-locker": [
+        "Other"
+    ],
+    "theQuert/XPS-9360-macOS": [
         "Other"
     ],
     "theanalyst/awesome-distributed-systems": [

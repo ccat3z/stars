@@ -1143,6 +1143,7 @@
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
+* [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm): Intel Wi-Fi Drivers for macOS
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
 * [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and biblatex (.bib) databases
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
@@ -2004,6 +2005,7 @@
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css): A CSS framework for building faithful recreations of operating system GUIs.
 * [WindySha/Xpatch](https://github.com/WindySha/Xpatch): 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 * [Xpra-org/xpra](https://github.com/Xpra-org/xpra): Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+* [theQuert/XPS-9360-macOS](https://github.com/theQuert/XPS-9360-macOS): XPS 13 (9360) with macOS Big Sur
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv): A fast CSV command line toolkit written in Rust.
