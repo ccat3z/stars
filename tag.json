@@ -191,6 +191,9 @@
     "CrowCpp/Crow": [
         "Other"
     ],
+    "CyC2018/CS-Notes": [
+        "Other"
+    ],
     "D4rCM4rC/MagiskSSH": [
         "Android/Magick"
     ],
@@ -3870,6 +3873,9 @@
         "Other"
     ],
     "octokit/octokit.js": [
+        "Other"
+    ],
+    "odziom91/libadwaita-theme-changer": [
         "Other"
     ],
     "oguimbal/pg-mem": [
