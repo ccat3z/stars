@@ -469,7 +469,7 @@
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
-* [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+* [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and GTK
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 * [albertlauncher/albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
@@ -950,7 +950,7 @@
 * [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.online
-* [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): An app to manage settings (including theme and background) of GNOME's Login Manager (GDM)
+* [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): A settings app for GNOME's Login Manager, GDM
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin gacha history analyzer
