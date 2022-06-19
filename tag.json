@@ -1306,6 +1306,9 @@
     "apache/cassandra": [
         "Other"
     ],
+    "apache/druid": [
+        "Other"
+    ],
     "apache/hadoop": [
         "Other"
     ],
