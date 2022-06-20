@@ -2040,6 +2040,7 @@
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): vim script to diff two directories like BeyondCompare by using `diff`
 * [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
+* [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
@@ -2112,7 +2113,7 @@
 * [jgraph/drawio](https://github.com/jgraph/drawio): Source to app.diagrams.net
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 * [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
-* [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): 一款开源免费的输入法词库转换程序
+* [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 * [ledger/ledger](https://github.com/ledger/ledger): Double-entry accounting system with a command-line reporting interface
 * [lingfengsan/MillionHero](https://github.com/lingfengsan/MillionHero): 百万英雄/冲顶大会答题助手 
 * [darknessomi/musicbox](https://github.com/darknessomi/musicbox): 网易云音乐命令行版本

@@ -1315,6 +1315,9 @@
     "apache/shardingsphere": [
         "Other"
     ],
+    "apache/zookeeper": [
+        "Other"
+    ],
     "aphyr/distsys-class": [
         "Other"
     ],
