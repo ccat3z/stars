@@ -2672,6 +2672,9 @@
     "greenpau/caddy-auth-portal": [
         "Other"
     ],
+    "greenplum-db/gpdb": [
+        "Other"
+    ],
     "greenrobot/greenDAO": [
         "Android"
     ],

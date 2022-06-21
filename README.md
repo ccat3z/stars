@@ -1048,6 +1048,7 @@
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
+* [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb): Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * [oracle/graal](https://github.com/oracle/graal): GraalVM: Run Programs Faster Anywhere :rocket:
 * [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
