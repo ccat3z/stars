@@ -2045,6 +2045,7 @@
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
+* [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub): A plugin that will automatically download PDFs of zotero items from sci-hub
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm): Zpm— Zsh Plugin Manager
 * [systemd/zram-generator](https://github.com/systemd/zram-generator): Systemd unit generator for zram devices
