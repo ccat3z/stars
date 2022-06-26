@@ -1269,7 +1269,7 @@
 * [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
 * [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
 * [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
-* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Now also works with Magisk v23.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop you can just disable the module from recovery! Saved me many times! Flash this in TWRP each time you want to use it, not in Magisk itself.
+* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v25.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop you can just disable the module from recovery! Saved me many times! Flash this in TWRP each time you want to use it, not in Magisk itself.
 * [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA): Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
