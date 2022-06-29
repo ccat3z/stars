@@ -661,6 +661,9 @@
     "NanoHttpd/nanohttpd": [
         "Java/Web"
     ],
+    "Neilpang/wgcf-docker": [
+        "Other"
+    ],
     "NeoApplications/Neo-Backup": [
         "Other"
     ],
