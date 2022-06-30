@@ -185,6 +185,9 @@
     "CoeJoder/waitForKeyElements.js": [
         "Other"
     ],
+    "CollegesChat/university-information": [
+        "Other"
+    ],
     "ContainerSolutions/trow": [
         "Other"
     ],
@@ -1239,6 +1242,9 @@
     ],
     "alwsl/alwsl": [
         "Windows/WSL"
+    ],
+    "alyssaxuu/omni": [
+        "Other"
     ],
     "amanusk/s-tui": [
         "Other"
@@ -2687,6 +2693,9 @@
     "greensock/GSAP": [
         "Other"
     ],
+    "greycodee/wechat-backup": [
+        "Other"
+    ],
     "gsliepen/tinc": [
         "Other"
     ],
@@ -3843,6 +3852,9 @@
         "Other"
     ],
     "nndl/nndl.github.io": [
+        "Other"
+    ],
+    "nocodb/nocodb": [
         "Other"
     ],
     "noctuid/tdrop": [

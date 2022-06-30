@@ -1393,6 +1393,7 @@
 * [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
+* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 * [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
@@ -1424,6 +1425,7 @@
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * [DDoSolitary/OkcAgent](https://github.com/DDoSolitary/OkcAgent): A utility that makes OpenKeychain available in your Termux shell
 * [oltpbenchmark/oltpbench](https://github.com/oltpbenchmark/oltpbench): Database Benchmarking Framework
+* [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 * [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode): Official C# support for Visual Studio Code (powered by OmniSharp)
 * [abraunegg/onedrive](https://github.com/abraunegg/onedrive): #1 Free OneDrive Client for Linux
@@ -1858,6 +1860,7 @@
 * [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
+* [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 * [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music): Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 * [YuKongA/UnlockMiuiThemeManager](https://github.com/YuKongA/UnlockMiuiThemeManager): [Magisk] Unlock Miui Theme Manager / Miui 主题破解
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
@@ -1960,6 +1963,7 @@
 * [weaveworks/weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
+* [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup): 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 * [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump): Cracking encrypted wechat message history from android
 * [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux): 微信开发者工具 纯Linux版 微信小程序
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
