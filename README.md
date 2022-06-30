@@ -852,6 +852,7 @@
 * [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast.
 * [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
+* [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
 * [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex): 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy): A new generation cloud backup tool 
@@ -1211,6 +1212,7 @@
 * [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - a book about Haskell.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 * [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+* [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol): KCP协议基本数据结构和算法介绍
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
@@ -1638,6 +1640,7 @@
 * [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 * [WayneD/rsync](https://github.com/WayneD/rsync): An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
+* [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022): [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.

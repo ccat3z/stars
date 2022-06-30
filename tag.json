@@ -544,6 +544,9 @@
     "LaTeX-Package-Repositories/geometry": [
         "Other"
     ],
+    "LearningOS/rust-based-os-comp2022": [
+        "Other"
+    ],
     "LeetCode-OpenSource/rxjs-hooks": [
         "Other"
     ],
@@ -2445,6 +2448,9 @@
         "Other"
     ],
     "frida/frida": [
+        "Other"
+    ],
+    "frimin/learning-kcp-protocol": [
         "Other"
     ],
     "frogatto/frogatto": [
@@ -4573,6 +4579,9 @@
     ],
     "sigmavirus24/github3.py": [
         "GitHub"
+    ],
+    "sigoden/dufs": [
+        "Other"
     ],
     "simonmichael/hledger": [
         "Other"
