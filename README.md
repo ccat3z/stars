@@ -787,6 +787,7 @@
 * [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 * [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
+* [SummerEmber/DELL-XPS13-9360](https://github.com/SummerEmber/DELL-XPS13-9360): Hackintosh OpenCore EFI for DELL XPS13 9360
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, and grep output
 * [delta-io/delta](https://github.com/delta-io/delta): An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 * [go-delve/delve](https://github.com/go-delve/delve): Delve is a debugger for the Go programming language.
