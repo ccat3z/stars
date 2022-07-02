@@ -1876,7 +1876,7 @@
 * [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
-* [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+* [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 * [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
 * [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader
 * [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
