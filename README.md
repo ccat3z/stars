@@ -2043,6 +2043,7 @@
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
+* [fankes/YukiHookAPI](https://github.com/fankes/YukiHookAPI): ⛱️ An efficient Kotlin version of the Xposed Hook API.  这是一个使用 Kotlin 重新构建的高效 Xposed Hook API
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 * [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo): 同步语雀的文章到你的 Hexo 项目吧！
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
