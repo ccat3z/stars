@@ -476,6 +476,7 @@
 * [dense-analysis/ale](https://github.com/dense-analysis/ale): Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+* [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse): 阿里云盘 FUSE 磁盘挂载
 * [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav): 阿里云盘 WebDAV 服务
 * [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS): A list of RSS related stuff: tools, services, communities and tutorials, etc.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 

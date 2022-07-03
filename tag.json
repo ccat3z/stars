@@ -3607,6 +3607,9 @@
     "mesosphere/traefik-forward-auth": [
         "Other"
     ],
+    "messense/aliyundrive-fuse": [
+        "Other"
+    ],
     "messense/aliyundrive-webdav": [
         "Other"
     ],
