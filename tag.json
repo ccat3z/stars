@@ -3282,6 +3282,9 @@
     "kubernetes-sigs/kustomize": [
         "Other"
     ],
+    "kubernetes-sigs/sig-storage-local-static-provisioner": [
+        "Other"
+    ],
     "kubernetes/kompose": [
         "Other"
     ],

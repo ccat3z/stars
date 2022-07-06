@@ -1411,7 +1411,6 @@
 * [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
-* [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1694,6 +1693,7 @@
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
+* [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
 * [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery): A premium app for managing and editing your photos, videos, GIFs without ads
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
