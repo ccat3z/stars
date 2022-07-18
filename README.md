@@ -882,7 +882,7 @@
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
-* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute One-Step Ingress - Connectivity and Security for your Microservice at Kubernetes Ingress using one helm command. Built on Envoy Proxy.
+* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Connectivity and Security for your Microservice at Kubernetes Ingress using one helm command. Built on Envoy Proxy.
 * [cup-of-tea-dot-be/entity-framework-core-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
