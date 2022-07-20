@@ -1224,6 +1224,7 @@
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [google/leveldb](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
 * [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
 * [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
@@ -1387,6 +1388,7 @@
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning, and machine learning models
 * [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code samples for my book "Neural Networks and Deep Learning"
+* [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions): 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [37Rb/nextcloud-hledger](https://github.com/37Rb/nextcloud-hledger): Plain Text Accounting on Nextcloud
 * [ipr-cnrs/nftables](https://github.com/ipr-cnrs/nftables): Ansible role to manage Nftables rules and packages.
