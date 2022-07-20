@@ -645,7 +645,7 @@
 * [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database schema change and version control for DevOps teams. Public demo: https://demo.bytebase.com
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
@@ -1805,7 +1805,7 @@
 * [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [RealPeha/This-Repo-Has-1745-Stars](https://github.com/RealPeha/This-Repo-Has-1745-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1746-Stars](https://github.com/RealPeha/This-Repo-Has-1746-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
