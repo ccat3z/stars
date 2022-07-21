@@ -774,7 +774,7 @@
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * [tangwz/db-monthly](https://github.com/tangwz/db-monthly): 阿里云数据库内核月报分类整理（定时更新）。
 * [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
-* [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial): 💾 db-tutorial 是一个数据库教程。
+* [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial): 📚 db-tutorial 是一个数据库教程。
 * [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io): The On-line Database of Databases
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
