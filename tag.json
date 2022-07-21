@@ -1036,6 +1036,9 @@
     "WayneD/rsync": [
         "Other"
     ],
+    "WebFreak001/code-debug": [
+        "Other"
+    ],
     "WickyNilliams/headroom.js": [
         "Web/JavaScript"
     ],
@@ -5158,6 +5161,9 @@
         "GFW"
     ],
     "v8/v8": [
+        "Other"
+    ],
+    "vadimcn/vscode-lldb": [
         "Other"
     ],
     "vala-lang/vala-language-server": [
