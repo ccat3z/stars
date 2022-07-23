@@ -555,6 +555,7 @@
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
 * [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing): 数据库测试资料 This repo is a collection of resources on testing database systems
 * [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
+* [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev): Awesome materials about database development.
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
 * [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -573,6 +574,7 @@
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
+* [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
 * [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 * [desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala): A curated list of Vala libraries
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
