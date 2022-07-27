@@ -1,12 +1,16 @@
 #! env python3
 
-from github3 import GitHub
-from functools import total_ordering
+from github3.github import GitHub
+from github3.repos.repo import ShortRepository
+from functools import total_ordering, lru_cache
 import json
 import argparse
 from collections import defaultdict
 import os
 import textwrap
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
 
 
 class Tree(dict):
@@ -34,29 +38,34 @@ class Tree(dict):
 
 
 @total_ordering
-class Repo(object):
+class Repo(dict):
     def __init__(self, repo):
-        self.repo = repo
+        if isinstance(repo, ShortRepository):
+            super().__init__(repo.as_dict())
+        elif isinstance(repo, dict):
+            super().__init__(repo)
+        else:
+            raise Exception('repo should be a ShortRepository or dict, but repo is {}'.format(type(self.repo)))
 
     @property
     def full_name(self):
-        return str(self.repo)
+        return self['full_name']
 
     @property
     def owner(self):
-        return self.repo.owner.login
+        return self['owner']['login']
 
     @property
     def name(self):
-        return self.repo.name
+        return self['name']
 
     @property
     def url(self):
-        return self.repo.html_url
+        return self['html_url']
 
     @property
     def description(self):
-        return self.repo.description
+        return self['description']
 
     def __eq__(self, other):
         return (self.name.lower(), self.owner) \
@@ -70,112 +79,128 @@ class Repo(object):
         return self.full_name
 
 
-def get_star_repos(user):
-    gh = GitHub()
-    stars = gh.starred_by(user)
-    return list(map(Repo, stars))
+class StarRepoCollector:
+    def __init__(self, gh, user):
+        self.gh = gh
+        self.user = user
 
+    @lru_cache()
+    def star_repos(self):
+        if os.path.isfile('repos.json'):
+            logging.debug('loading star repos from repos.json...')
+            with open('repos.json', 'r') as f:
+                return json.load(f, object_hook=Repo)
 
-def get_alias_converter():
-    if os.path.isfile('alias.json'):
-        with open('alias.json', 'r') as alias_config:
-            alias = json.load(alias_config, object_hook=dict)
-    else:
-        alias = {}
+        logging.debug('loading star repos from github...')
+        stars = self.gh.starred_by(self.user)
 
-    def f(tag):
-        for before, after in alias.items():
-            if tag.startswith(before):
-                tag = tag.replace(before, after, 1)
-        return tag
-    return f
+        repos = list(map(Repo, stars))
+        with open('repos.json', 'w+') as f:
+            json.dump(repos, f)
+        return repos
 
-
-def get_tag_getter():
-    tag_dict = {}
-    try:
-        with open('tag.json', 'r') as tag_file:
-            tag_dict = json.load(tag_file, object_hook=dict)
-    except FileNotFoundError:
-        pass
-
-    def f(repo_name):
-        if repo_name in tag_dict and len(tag_dict[repo_name]) > 0:
-            return tag_dict[repo_name]
+    @property
+    @lru_cache()
+    def resolve_alias(self):
+        if os.path.isfile('alias.json'):
+            logging.debug('load tag alias from alias.json...')
+            with open('alias.json', 'r') as alias_config:
+                alias = json.load(alias_config, object_hook=dict)
         else:
-            return ['Other']
-    return f
+            alias = {}
+
+        def f(tag):
+            for before, after in alias.items():
+                if tag.startswith(before):
+                    tag = tag.replace(before, after, 1)
+            return tag
+        return f
+
+    @property
+    @lru_cache()
+    def get_repo_tags(self):
+        tag_dict = {}
+        try:
+            logging.debug('try to load tag.json...')
+            with open('tag.json', 'r') as tag_file:
+                tag_dict = json.load(tag_file, object_hook=dict)
+        except FileNotFoundError:
+            pass
+
+        def f(repo_name):
+            if repo_name in tag_dict and len(tag_dict[repo_name]) > 0:
+                return tag_dict[repo_name]
+            else:
+                return ['Other']
+        return f
 
 
-def gen(user):
-    get_tag_of_repo = get_tag_getter()
-    convert_alias = get_alias_converter()
+    def gen_markdown(self):
+        # build repo tree and repo tags
+        repo_tree = Tree()
+        repo_tag = {}
+        for repo in self.star_repos():
+            tags = list(map(self.resolve_alias, self.get_repo_tags(repo.full_name)))
+            repo_tag[repo.full_name] = tags
+            for tag in tags:
+                repo_tree[tag].nodes.append(repo)
 
-    # build repo tree and repo tags
-    repo_tree = Tree()
-    repo_tag = {}
-    for repo in get_star_repos(user):
-        tags = list(map(convert_alias, get_tag_of_repo(repo.full_name)))
-        repo_tag[repo.full_name] = tags
-        for tag in tags:
-            repo_tree[tag].nodes.append(repo)
+        # overwrite tag.json
+        with open('tag.json', 'w+') as tag_file:
+            json.dump(repo_tag, tag_file, indent='    ', sort_keys=True)
 
-    # overwrite tag.json
-    with open('tag.json', 'w+') as tag_file:
-        json.dump(repo_tag, tag_file, indent='    ', sort_keys=True)
+        # print .md file
+        used_id_counter = defaultdict(lambda: -1)
 
-    # print .md file
-    used_id_counter = defaultdict(lambda: -1)
+        def use_id(name):
+            name_id = name.lower().replace(' ', '-')
+            used_id_counter[name_id] += 1
+            suffix = ('-' + str(used_id_counter[name_id])) \
+                if used_id_counter[name_id] != 0 \
+                else ""
+            return f'{name_id}{suffix}'
 
-    def use_id(name):
-        name_id = name.lower().replace(' ', '-')
-        used_id_counter[name_id] += 1
-        suffix = ('-' + str(used_id_counter[name_id])) \
-            if used_id_counter[name_id] != 0 \
-            else ""
-        return f'{name_id}{suffix}'
+        print(textwrap.dedent("""\
+            # Usage
 
-    print(textwrap.dedent("""\
-        # Usage
+            1. generate a new repository from this template
+            1. trigger github action
 
-        1. generate a new repository from this template
-        1. trigger github action
+            # Inspiration
 
-        # Inspiration
+            * [maguowei/starred](https://github.com/maguowei/starred):
+            creating your own Awesome List by GitHub stars!
+        """))
+        use_id('Usage')
+        use_id('Inspiration')
 
-        * [maguowei/starred](https://github.com/maguowei/starred):
-          creating your own Awesome List by GitHub stars!
-    """))
-    use_id('Usage')
-    use_id('Inspiration')
+        print("# Contents")
+        use_id('Contents')
+        print()
+        for name, dep, item in repo_tree.walk():
+            if dep == 0:
+                continue
 
-    print("# Contents")
-    use_id('Contents')
-    print()
-    for name, dep, item in repo_tree.walk():
-        if dep == 0:
-            continue
-
-        print('{}* [{}](#{})'.format(
-            '  ' * (dep - 1),
-            name,
-            use_id(name))
-        )
-    print()
-
-    for name, dep, item in repo_tree.walk():
-        if dep == 0:
-            continue
-
-        print('{} {}'.format('#' * dep, name))
+            print('{}* [{}](#{})'.format(
+                '  ' * (dep - 1),
+                name,
+                use_id(name))
+            )
         print()
 
-        for node in sorted(item.nodes):
-            print('* [{}]({}): {}'.format(
-                str(node), node.url, node.description
-            ))
+        for name, dep, item in repo_tree.walk():
+            if dep == 0:
+                continue
+
+            print('{} {}'.format('#' * dep, name))
+            print()
+
+            for node in sorted(item.nodes):
+                print('* [{}]({}): {}'.format(
+                    str(node), node.url, node.description
+                ))
+            print()
         print()
-    print()
 
 
 if __name__ == '__main__':
@@ -184,4 +209,5 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    gen(**args.__dict__)
+    collector = StarRepoCollector(gh=GitHub(), **args.__dict__)
+    collector.gen_markdown()
