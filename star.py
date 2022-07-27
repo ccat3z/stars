@@ -80,10 +80,11 @@ class Repo(dict):
 
 
 class StarRepoCollector:
-    def __init__(self, gh, user, use_cache):
+    def __init__(self, gh, user, use_cache, no_banner):
         self.gh = gh
         self.user = user
         self.use_cache = use_cache
+        self.no_banner = no_banner
 
     @lru_cache()
     def star_repos(self):
@@ -161,20 +162,22 @@ class StarRepoCollector:
                 else ""
             return f'{name_id}{suffix}'
 
-        print(textwrap.dedent("""\
-            # Usage
+        if not self.no_banner:
+            print(textwrap.dedent("""\
+                # Usage
 
-            1. generate a new repository from this template
-            1. trigger github action
+                1. generate a new repository from this template
+                1. trigger github action
 
-            # Inspiration
+                # Inspiration
 
-            * [maguowei/starred](https://github.com/maguowei/starred):
-            creating your own Awesome List by GitHub stars!
-        """))
+                * [maguowei/starred](https://github.com/maguowei/starred):
+                creating your own Awesome List by GitHub stars!
+            """))
 
-        print("# Contents")
-        print()
+            print("# Contents")
+            print()
+
         for name, dep, item in repo_tree.walk():
             if dep == 0:
                 continue
@@ -205,6 +208,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='star')
     parser.add_argument('-u', '--user', help='GitHub user', required=True)
     parser.add_argument('--use-cache', action='store_true', help='Use local cache of github api')
+    parser.add_argument('--no-banner', action='store_true')
 
     args = parser.parse_args()
 
