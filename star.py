@@ -153,7 +153,7 @@ class StarRepoCollector:
         # print .md file
         used_id_counter = defaultdict(lambda: -1)
 
-        def use_id(name):
+        def id_of_name(name):
             name_id = name.lower().replace(' ', '-')
             used_id_counter[name_id] += 1
             suffix = ('-' + str(used_id_counter[name_id])) \
@@ -172,11 +172,8 @@ class StarRepoCollector:
             * [maguowei/starred](https://github.com/maguowei/starred):
             creating your own Awesome List by GitHub stars!
         """))
-        use_id('Usage')
-        use_id('Inspiration')
 
         print("# Contents")
-        use_id('Contents')
         print()
         for name, dep, item in repo_tree.walk():
             if dep == 0:
@@ -185,7 +182,7 @@ class StarRepoCollector:
             print('{}* [{}](#{})'.format(
                 '  ' * (dep - 1),
                 name,
-                use_id(name))
+                id_of_name(name))
             )
         print()
 
