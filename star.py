@@ -80,13 +80,14 @@ class Repo(dict):
 
 
 class StarRepoCollector:
-    def __init__(self, gh, user):
+    def __init__(self, gh, user, use_cache):
         self.gh = gh
         self.user = user
+        self.use_cache = use_cache
 
     @lru_cache()
     def star_repos(self):
-        if os.path.isfile('repos.json'):
+        if self.use_cache and os.path.isfile('repos.json'):
             logging.debug('loading star repos from repos.json...')
             with open('repos.json', 'r') as f:
                 return json.load(f, object_hook=Repo)
@@ -206,6 +207,7 @@ class StarRepoCollector:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='star')
     parser.add_argument('-u', '--user', help='GitHub user', required=True)
+    parser.add_argument('--use-cache', action='store_true', help='Use local cache of github api')
 
     args = parser.parse_args()
 
