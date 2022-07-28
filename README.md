@@ -656,6 +656,7 @@
 * [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf): Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 * [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ operator precedence parser
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
+* [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
@@ -1521,6 +1522,7 @@
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
 * [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 * [plantuml/plantuml](https://github.com/plantuml/plantuml): Generate diagrams from textual description
+* [sindresorhus/Plash](https://github.com/sindresorhus/Plash): 💦 Make any website your Mac desktop wallpaper
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
