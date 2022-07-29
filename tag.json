@@ -3475,6 +3475,9 @@
     "loopeer/code-reader": [
         "Android/APP"
     ],
+    "losfair/mvsqlite": [
+        "Other"
+    ],
     "louisdx/cxx-prettyprint": [
         "Other"
     ],
