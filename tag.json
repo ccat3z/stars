@@ -2083,6 +2083,9 @@
     "docker-library/openjdk": [
         "Docker"
     ],
+    "docker-slim/docker-slim": [
+        "Other"
+    ],
     "docker/dockercraft": [
         "Other"
     ],
