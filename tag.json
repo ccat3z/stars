@@ -472,6 +472,9 @@
     "JeffreySu/WeiXinMPSDK": [
         "Other"
     ],
+    "JessicaTegner/pypandoc": [
+        "Other"
+    ],
     "JetBrains/JetBrainsMono": [
         "Other"
     ],
@@ -692,9 +695,6 @@
         "Other"
     ],
     "NetApp/beegfs-csi-driver": [
-        "Other"
-    ],
-    "NicklasTegner/pypandoc": [
         "Other"
     ],
     "NicoleMayer/zotero-save-with-tag": [

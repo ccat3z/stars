@@ -1577,7 +1577,7 @@
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
 * [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
-* [NicklasTegner/pypandoc](https://github.com/NicklasTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
+* [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
