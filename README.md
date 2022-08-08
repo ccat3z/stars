@@ -511,7 +511,7 @@
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
-* [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): An android sample app of detecting suspicious apps like magisk manager
+* [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): A library to detect suspicious apps like Magisk
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [dginev/ar5iv](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
