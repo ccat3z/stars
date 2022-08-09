@@ -1132,6 +1132,9 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
+    "aaronleopold/stump": [
+        "Other"
+    ],
     "aarowill/base16-alacritty": [
         "Other"
     ],
@@ -2137,6 +2140,9 @@
     "dotnet/reactive": [
         "Other"
     ],
+    "dragoonDorise/EmuDeck": [
+        "Other"
+    ],
     "draivin/hsnips": [
         "Other"
     ],
@@ -2675,6 +2681,9 @@
     "google/bbr": [
         "Other"
     ],
+    "google/git-appraise": [
+        "Other"
+    ],
     "google/googletest": [
         "Other"
     ],
@@ -3147,6 +3156,9 @@
         "Other"
     ],
     "jquense/yup": [
+        "Other"
+    ],
+    "jrnl-org/jrnl": [
         "Other"
     ],
     "jroimartin/gocui": [
