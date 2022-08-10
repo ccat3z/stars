@@ -1230,7 +1230,7 @@
 * [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 * [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol): KCP协议基本数据结构和算法图文介绍
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
-* [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版
+* [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
