@@ -526,6 +526,7 @@
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
+* [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
 * [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
 * [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site): Django website for generating ASCII-arts out of images or text 🎨
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
