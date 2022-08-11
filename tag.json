@@ -1006,9 +1006,6 @@
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
     ],
-    "TuSimple/naive-ui": [
-        "Other"
-    ],
     "Tudmotu/gnome-shell-extension-clipboard-indicator": [
         "Other"
     ],
@@ -5125,6 +5122,9 @@
         "Other"
     ],
     "tusdotnet/tusdotnet": [
+        "Other"
+    ],
+    "tusen-ai/naive-ui": [
         "Other"
     ],
     "tvfe/wxpage": [
