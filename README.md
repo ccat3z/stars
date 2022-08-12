@@ -2023,7 +2023,7 @@
 * [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android): Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 * [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB): A Microsoft Windows® USB installation media preparer for GNU+Linux
 * [slacka/WoeUSB](https://github.com/slacka/WoeUSB):  WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
-* [kitten/wonka](https://github.com/kitten/wonka): 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
+* [0no-co/wonka](https://github.com/0no-co/wonka): 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
 * [k8up-io/wrestic](https://github.com/k8up-io/wrestic): Restic Backup Kubernetes and OpenShift Wrapper - Part of K8up
 * [susers/Writeups](https://github.com/susers/Writeups): 国内各大CTF赛题及writeup整理
 * [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool

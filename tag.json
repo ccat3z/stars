@@ -1,4 +1,7 @@
 {
+    "0no-co/wonka": [
+        "Other"
+    ],
     "0voice/kernel_new_features": [
         "Other"
     ],
@@ -3282,9 +3285,6 @@
         "Other"
     ],
     "kitian616/jekyll-TeXt-theme": [
-        "Other"
-    ],
-    "kitten/wonka": [
         "Other"
     ],
     "kizzx2/docker-openvpn-client-socks": [
