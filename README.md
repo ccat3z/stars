@@ -1653,7 +1653,7 @@
 * [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
-* [adi1090x/rofi](https://github.com/adi1090x/rofi): A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+* [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
