@@ -1321,6 +1321,9 @@
     "antfu/ni": [
         "Other"
     ],
+    "antirez/sds": [
+        "Other"
+    ],
     "antoniomika/sish": [
         "Other"
     ],
@@ -2463,6 +2466,9 @@
         "Other"
     ],
     "forza-painter/forza-painter": [
+        "Other"
+    ],
+    "fosslife/awesome-ricing": [
         "Other"
     ],
     "foxcpp/maddy": [
@@ -5632,6 +5638,9 @@
         "Other"
     ],
     "zotero/zotero": [
+        "Other"
+    ],
+    "zouxiaohang/TinySTL": [
         "Other"
     ],
     "zpm-zsh/zpm": [
