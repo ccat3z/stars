@@ -652,7 +652,7 @@
 * [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
-* [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase): Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
@@ -1761,7 +1761,7 @@
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
-* [Bytebase/star-history](https://github.com/Bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
+* [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
