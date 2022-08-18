@@ -821,6 +821,7 @@
 * [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
 * [roryprimrose/Divergic.Logging.Xunit](https://github.com/roryprimrose/Divergic.Logging.Xunit): A Microsoft.Extensions.Logging provider for xUnit test output
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
+* [jmpews/Dobby](https://github.com/jmpews/Dobby): a lightweight, multi-platform, multi-architecture hook framework.
 * [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
@@ -1525,6 +1526,7 @@
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
+* [photondb/photondb](https://github.com/photondb/photondb): An experimental project to build a high performance data store in Rust.
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language

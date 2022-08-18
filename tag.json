@@ -3128,6 +3128,9 @@
     "jmoiron/sqlx": [
         "Other"
     ],
+    "jmpews/Dobby": [
+        "Other"
+    ],
     "jnsh/arc-theme": [
         "Other"
     ],
@@ -4164,6 +4167,9 @@
         "Other"
     ],
     "phoronix-test-suite/phoronix-test-suite": [
+        "Other"
+    ],
+    "photondb/photondb": [
         "Other"
     ],
     "phuhl/linux_notification_center": [
