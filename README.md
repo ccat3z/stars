@@ -550,6 +550,7 @@
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra): 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【每周末更新】
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
