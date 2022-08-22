@@ -2717,6 +2717,9 @@
     "google/yapf": [
         "Python"
     ],
+    "google/zetasql": [
+        "Other"
+    ],
     "google/zx": [
         "Other"
     ],
@@ -4161,6 +4164,9 @@
         "Other"
     ],
     "petoolse/petools": [
+        "Other"
+    ],
+    "pganalyze/libpg_query": [
         "Other"
     ],
     "phocean/TopIcons-plus": [

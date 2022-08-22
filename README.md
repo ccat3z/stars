@@ -1248,6 +1248,7 @@
 * [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
 * [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
+* [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 * [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
@@ -2091,6 +2092,7 @@
 * [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 * [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel): Zen Patched Kernel Sources
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
+* [google/zetasql](https://github.com/google/zetasql): ZetaSQL - Analyzer Framework for SQL
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
 * [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
 * [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
