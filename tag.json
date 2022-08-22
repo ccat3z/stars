@@ -4893,6 +4893,9 @@
     "styled-components/styled-components": [
         "Other"
     ],
+    "substrait-io/substrait": [
+        "Other"
+    ],
     "sudar/vim-arduino-snippets": [
         "Vim",
         "Arduino"
