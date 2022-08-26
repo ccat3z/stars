@@ -700,6 +700,7 @@
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a free analytics DBMS for big data
+* [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): The Altinity Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
