@@ -3998,6 +3998,9 @@
     "nvm-sh/nvm": [
         "Other"
     ],
+    "oap-project/gluten": [
+        "Other"
+    ],
     "oceanbase/oceanbase": [
         "Other"
     ],
@@ -4599,6 +4602,9 @@
         "Other"
     ],
     "sboli/twmn": [
+        "Other"
+    ],
+    "scala/scala": [
         "Other"
     ],
     "schollz/croc": [
