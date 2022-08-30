@@ -1158,6 +1158,7 @@
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
+* [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
@@ -1660,7 +1661,7 @@
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): RisingWave: the next-generation streaming database in the cloud.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.

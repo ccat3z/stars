@@ -2984,6 +2984,9 @@
     "include-what-you-use/include-what-you-use": [
         "Other"
     ],
+    "input-leap/input-leap": [
+        "Other"
+    ],
     "inspircd/inspircd": [
         "Other"
     ],
@@ -4481,6 +4484,9 @@
     "rime/rime-emoji": [
         "Other"
     ],
+    "risingwavelabs/risingwave": [
+        "Other"
+    ],
     "ritave/xeventbind": [
         "Other"
     ],
@@ -4725,9 +4731,6 @@
         "Other"
     ],
     "sindresorhus/github-markdown-css": [
-        "Other"
-    ],
-    "singularity-data/risingwave": [
         "Other"
     ],
     "sirredbeard/Awesome-WSL": [
