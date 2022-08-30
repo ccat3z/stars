@@ -2119,6 +2119,9 @@
     "doocs/advanced-java": [
         "Other"
     ],
+    "doocs/jvm": [
+        "Other"
+    ],
     "doocs/source-code-hunter": [
         "Other"
     ],
@@ -2906,6 +2909,9 @@
     "http-party/http-server": [
         "Other"
     ],
+    "httpie/httpie": [
+        "Other"
+    ],
     "huachaohuang/awesome-dbdev": [
         "Other"
     ],
@@ -3009,6 +3015,9 @@
         "Other"
     ],
     "itdevbooks/pdf": [
+        "Other"
+    ],
+    "itorr/sakana": [
         "Other"
     ],
     "ivarptr/yu-writer.site": [
@@ -4002,6 +4011,9 @@
         "Other"
     ],
     "nvm-sh/nvm": [
+        "Other"
+    ],
+    "oae/gnome-shell-pano": [
         "Other"
     ],
     "oap-project/gluten": [
@@ -5403,6 +5415,9 @@
     "wal-g/wal-g": [
         "Other"
     ],
+    "wanghenshui/cppweeklynews": [
+        "Other"
+    ],
     "wangshub/wechat_jump_game": [
         "Chinese APP Hack/WeChat/Mini Program"
     ],
@@ -5587,6 +5602,9 @@
         "Other"
     ],
     "yilozt/mutter-rounded": [
+        "Other"
+    ],
+    "yilozt/rounded-window-corners": [
         "Other"
     ],
     "yingjunwu/DBMS-Indexology": [

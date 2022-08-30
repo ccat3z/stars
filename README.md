@@ -741,6 +741,7 @@
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
 * [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide): C/C++学习，后端开发进阶指南。
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
+* [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews): c++中文周刊
 * [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
@@ -1036,6 +1037,7 @@
 * [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures): Enable GNOME Shell multi-touch gestures on X11 with this extension
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
 * [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
+* [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
 * [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms implemented in Go for beginners, following best practices.
 * [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
@@ -1136,6 +1138,7 @@
 * [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react): A lightweight library that converts raw HTML to a React DOM structure.
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
 * [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
+* [httpie/httpie](https://github.com/httpie/httpie): 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
@@ -1191,6 +1194,7 @@
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
+* [doocs/jvm](https://github.com/doocs/jvm): 🤗 JVM 底层原理最全知识总结
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
@@ -1673,6 +1677,7 @@
 * [sigeryang/ropez](https://github.com/sigeryang/ropez): RopeZ
 * [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
+* [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
 * [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite
 * [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy): RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
@@ -1690,6 +1695,7 @@
 * [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 * [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix): Google SafetyNet attestation workarounds for Magisk
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
+* [itorr/sakana](https://github.com/itorr/sakana): 🐟「Sakana!」石蒜模拟器
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
