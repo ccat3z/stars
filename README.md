@@ -580,7 +580,7 @@
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
-* [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+* [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 * [desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala): A curated list of Vala libraries
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
