@@ -1863,6 +1863,7 @@
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 * [talent-plan/tinysql](https://github.com/talent-plan/tinysql): A course to build the SQL layer of a distributed database.
 * [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL): TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms)
+* [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer): :fire: Linux下C++轻量级Web服务器学习
 * [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
