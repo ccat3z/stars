@@ -1665,7 +1665,7 @@
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave): RisingWave: the next-generation streaming database in the cloud.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): RisingWave: the next-generation streaming database in the cloud.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
