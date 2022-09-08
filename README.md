@@ -1263,6 +1263,7 @@
 * [tuberry/light-dict](https://github.com/tuberry/light-dict): Lightweight extension for on-the-fly manipulation to primary selections, especially optimized for Dictionary lookups.
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
+* [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
 * [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
 * [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, typically on macOS, for running containerd
@@ -1512,7 +1513,6 @@
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatiblity scripts for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
-* [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css): A CSS parser, transformer, and minifier written in Rust.
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～

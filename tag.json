@@ -4142,7 +4142,7 @@
     "paramiko/paramiko": [
         "Other"
     ],
-    "parcel-bundler/parcel-css": [
+    "parcel-bundler/lightningcss": [
         "Other"
     ],
     "pattex/jekyll-tagging": [
