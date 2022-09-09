@@ -887,7 +887,7 @@
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
 * [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
 * [ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers): ECNU CS & SE 信息收集; 华师大计软院友墙
-* [edgedb/edgedb](https://github.com/edgedb/edgedb): A next-generation graph-relational database.
+* [edgedb/edgedb](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
