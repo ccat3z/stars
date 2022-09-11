@@ -1198,7 +1198,7 @@
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
-* [xiaods/k8e](https://github.com/xiaods/k8e): k8e - Simple Enterprise Kubernetes. I would like to adopt more enterprise features in a lightweight distribution, a binary component, k8e to provide all the k8s components.
+* [xiaods/k8e](https://github.com/xiaods/k8e): k8e - Simple Enterprise Kubernetes
 * [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
