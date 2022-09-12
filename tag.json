@@ -1486,6 +1486,9 @@
     "bartdegoede/python-searchengine": [
         "Other"
     ],
+    "base16-project/base16-termite": [
+        "Other"
+    ],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -3300,9 +3303,6 @@
         "Other"
     ],
     "kgshank/gse-sound-output-device-chooser": [
-        "Other"
-    ],
-    "khamer/base16-termite": [
         "Other"
     ],
     "kholia/OSX-KVM": [
