@@ -1342,6 +1342,7 @@
 * [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
+* [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for scalable similarity search and AI applications.
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): ⚗ Mind-elixir is a framework agnostic mind map core.
