@@ -5286,9 +5286,6 @@
     "vala-lang/vala-lint": [
         "Other"
     ],
-    "vant-ui/vant-weapp": [
-        "Other"
-    ],
     "vbauerster/mpb": [
         "Other"
     ],
@@ -5626,6 +5623,9 @@
         "Other"
     ],
     "youngwookim/awesome-hadoop": [
+        "Other"
+    ],
+    "youzan/vant-weapp": [
         "Other"
     ],
     "yshui/picom": [

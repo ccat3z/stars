@@ -1942,7 +1942,7 @@
 * [freesmartphone/vala-dbus-binding-tool](https://github.com/freesmartphone/vala-dbus-binding-tool): Create Vala DBus Interfaces from XML Specifications
 * [vala-lang/vala-language-server](https://github.com/vala-lang/vala-language-server): Code Intelligence for Vala & Genie
 * [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint): Check code-style of Vala code files
-* [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp): 轻量、可靠的小程序 UI 组件库
+* [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
 * [VcDevel/Vc](https://github.com/VcDevel/Vc): SIMD Vector Classes for C++
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
