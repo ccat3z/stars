@@ -1560,7 +1560,7 @@
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
-* [python-poetry/poetry](https://github.com/python-poetry/poetry): Python dependency management and packaging made easy.
+* [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 * [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
