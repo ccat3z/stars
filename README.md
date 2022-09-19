@@ -726,7 +726,7 @@
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X (and other things, too)
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
