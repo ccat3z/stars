@@ -5076,6 +5076,9 @@
     "thomseddon/traefik-forward-auth": [
         "Other"
     ],
+    "tidb-incubator/tidis": [
+        "Other"
+    ],
     "tikv/tikv": [
         "Other"
     ],

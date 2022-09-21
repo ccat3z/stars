@@ -1853,6 +1853,7 @@
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 * [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL): PgSQL compatible on distributed database TiDB
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
+* [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis): A distributed transactional large-scale NoSQL database powered by TiKV
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
 * [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
