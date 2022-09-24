@@ -977,7 +977,7 @@
 * [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): A settings app for GNOME's Login Manager, GDM
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
-* [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin gacha history analyzer
+* [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
 * [sunfkny/genshin-gacha-export](https://github.com/sunfkny/genshin-gacha-export): 原神抽卡记录导出
 * [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact): 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 * [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
