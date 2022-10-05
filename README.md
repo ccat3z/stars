@@ -417,7 +417,7 @@
 * [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 * [hmrc/service-manager](https://github.com/hmrc/service-manager): A python tool to manage developing and testing with lots of microservices
 * [bytegust/spm](https://github.com/bytegust/spm): A process manager similar to systemd and foreman with stop feature, written in Go.
-* [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for UNIX
+* [Supervisor/supervisor](https://github.com/Supervisor/supervisor): Supervisor process control system for Unix (supervisord)
 * [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI): A GTK user interface for TLP written in Python
 
 # Machine Learning
