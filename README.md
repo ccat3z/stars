@@ -575,6 +575,7 @@
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
+* [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume): Resume，Resume Templates，程序员简历例句，简历模版，
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
@@ -736,6 +737,7 @@
 * [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
 * [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》翻译
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
@@ -2022,6 +2024,7 @@
 * [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 * [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire): A modular and extensible wayland compositor
 * [weaveworks/weave](https://github.com/weaveworks/weave): Simple, resilient multi-host containers networking and more.
+* [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java): Java 开发相关技术栈（大中厂）高频面试问题收录。
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup): 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
