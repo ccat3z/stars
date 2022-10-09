@@ -1437,7 +1437,7 @@
 * [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
-* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+* [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 * [danmactough/node-feedparser](https://github.com/danmactough/node-feedparser): Robust RSS, Atom, and RDF feed parsing in Node.js
 * [cmu-db/noisepage](https://github.com/cmu-db/noisepage): Self-Driving Database Management System from Carnegie Mellon University
 * [hashicorp/nomad](https://github.com/hashicorp/nomad): Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
