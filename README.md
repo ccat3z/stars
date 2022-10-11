@@ -1779,6 +1779,7 @@
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
+* [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
