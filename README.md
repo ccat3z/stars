@@ -1337,7 +1337,7 @@
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 * [novoid/Memacs](https://github.com/novoid/Memacs): What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 * [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
-* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagram and flowchart from text in a similar manner as markdown
+* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
 * [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
