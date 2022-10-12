@@ -1492,9 +1492,6 @@
     "bartdegoede/python-searchengine": [
         "Other"
     ],
-    "base16-project/base16-termite": [
-        "Other"
-    ],
     "baskerville/bspwm": [
         "Linux/GUI/Windows Manager"
     ],
@@ -5116,6 +5113,9 @@
         "Other"
     ],
     "tindy2013/subconverter": [
+        "Other"
+    ],
+    "tinted-theming/base16-termite": [
         "Other"
     ],
     "tinysearch/tinysearch": [

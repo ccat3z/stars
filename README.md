@@ -599,7 +599,7 @@
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
 * [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
-* [base16-project/base16-termite](https://github.com/base16-project/base16-termite): None
+* [tinted-theming/base16-termite](https://github.com/tinted-theming/base16-termite): None
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
 * [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
