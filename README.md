@@ -2075,6 +2075,7 @@
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [jotaen/xit](https://github.com/jotaen/xit): A plain-text file format for todos and check lists
+* [xmake-io/xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build utility based on Lua
 * [florentc/xob](https://github.com/florentc/xob): A lightweight overlay volume (or anything) bar for the X Window System.
 * [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp): Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css): A CSS framework for building faithful recreations of operating system GUIs.
