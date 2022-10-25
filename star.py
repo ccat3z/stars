@@ -21,16 +21,12 @@ class Tree(dict):
         else:
             value = self[key]
 
-        if len(keys) > 1:
-            return value['/'.join(keys[1:])]
-        else:
-            return value
+        return value['/'.join(keys[1:])] if len(keys) > 1 else value
 
     def walk(self, dep=0, name='ROOT'):
         yield (name, dep, self)
         for tree_name, tree in sorted(self.items()):
-            for item in tree.walk(dep + 1, tree_name):
-                yield item
+            yield from tree.walk(dep + 1, tree_name)
 
 
 @total_ordering
@@ -130,9 +126,12 @@ def gen(user):
     def use_id(name):
         name_id = name.lower().replace(' ', '-')
         used_id_counter[name_id] += 1
-        suffix = ('-' + str(used_id_counter[name_id])) \
-            if used_id_counter[name_id] != 0 \
+        suffix = (
+            f'-{str(used_id_counter[name_id])}'
+            if used_id_counter[name_id] != 0
             else ""
+        )
+
         return f'{name_id}{suffix}'
 
     print(textwrap.dedent("""\
