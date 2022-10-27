@@ -1497,7 +1497,7 @@
 * [djyde/ossart](https://github.com/djyde/ossart): Print your GitHub activity as an artwork
 * [X-lab2017/OSSDevGov2021](https://github.com/X-lab2017/OSSDevGov2021): Open Source Software Development and Community Governance (开源软件开发与社区治理)
 * [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades
-* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM): Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 * [restic/others](https://github.com/restic/others): Exhaustive list of backup solutions for Linux
 * [cmu-db/ottertune](https://github.com/cmu-db/ottertune): The automatic DBMS configuration tool
 * [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
