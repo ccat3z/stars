@@ -1434,7 +1434,7 @@
 * [antfu/ni](https://github.com/antfu/ni): 💡 Use the right package manager
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
-* [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET (Core) applications
+* [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog as LoggingProvider for Microsoft Extension Logging
 * [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG): Publication-ready NN-architecture schematics. 
 * [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
