@@ -400,7 +400,7 @@
 ### Windows Manager
 
 * [baskerville/bspwm](https://github.com/baskerville/bspwm): A tiling window manager based on binary space partitioning
-* [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features
+* [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3. 
 
 ## Kernel
 
