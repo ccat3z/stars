@@ -1540,7 +1540,7 @@
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
-* [photondb/photondb](https://github.com/photondb/photondb): A storage engine for modern hardware, built from scratch in Rust.
+* [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
