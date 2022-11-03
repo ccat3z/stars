@@ -1504,7 +1504,7 @@
 * [adah1972/output_container](https://github.com/adah1972/output_container): Automatic output function for STL containers
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
-* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer helpers and samples
+* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer samples
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
