@@ -1929,7 +1929,7 @@
 * [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 * [BishopFox/unredacter](https://github.com/BishopFox/unredacter): Never ever ever use pixelation as a redaction technique
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor and status page powered by GitHub
-* [FormidableLabs/urql](https://github.com/FormidableLabs/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+* [urql-graphql/urql](https://github.com/urql-graphql/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 * [corellium/usbfluxd](https://github.com/corellium/usbfluxd): Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 * [cezanne/usbip-win](https://github.com/cezanne/usbip-win): USB/IP for Windows
 * [barbalion/usbip-win-client](https://github.com/barbalion/usbip-win-client): USBIP 2.0 windows client files with service scripts

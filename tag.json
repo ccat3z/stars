@@ -364,9 +364,6 @@
     "ForbesLindesay/throat": [
         "Other"
     ],
-    "FormidableLabs/urql": [
-        "Other"
-    ],
     "FoundationDB/fdb-kubernetes-operator": [
         "Other"
     ],
@@ -5278,6 +5275,9 @@
         "Other"
     ],
     "upupming/new-grad-positions": [
+        "Other"
+    ],
+    "urql-graphql/urql": [
         "Other"
     ],
     "utmapp/UTM": [
