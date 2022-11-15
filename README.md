@@ -2037,7 +2037,7 @@
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
 * [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers
 * [ascoders/weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
-* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
