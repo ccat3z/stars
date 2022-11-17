@@ -451,9 +451,6 @@
     "HowardHinnant/date": [
         "Other"
     ],
-    "HyNetwork/hysteria": [
-        "Other"
-    ],
     "Ian2020/EasyScreenCast": [
         "Other"
     ],
@@ -1364,6 +1361,9 @@
         "Other"
     ],
     "apache/zookeeper": [
+        "Other"
+    ],
+    "apernet/hysteria": [
         "Other"
     ],
     "aphyr/distsys-class": [
