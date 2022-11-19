@@ -1230,6 +1230,7 @@
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller): :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
+* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 * [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart): 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 * [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
@@ -1364,7 +1365,6 @@
 * [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox): Miui EU 本地化项目工具箱app
 * [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon): Fix the native notification bar icon function abandoned by the MIUI development team.
 * [vcheckzen/MIUIThemeDownloader](https://github.com/vcheckzen/MIUIThemeDownloader): [ MIUI 主题下载器 ] Recover the Download Button on Details Page at http://zhuti.xiaomi.com
-* [up9inc/mizu](https://github.com/up9inc/mizu): API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 * [LumingSun/ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list): Papers for database systems powered by artificial intelligence (machine learning for database)
 * [zehome/MLVPN](https://github.com/zehome/MLVPN): Multi-link VPN (ADSL/SDSL/xDSL/Network aggregation / bonding)
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm

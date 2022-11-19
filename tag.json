@@ -3381,6 +3381,9 @@
     "kubernetes/kubernetes": [
         "Other"
     ],
+    "kubeshark/kubeshark": [
+        "Other"
+    ],
     "kulshekhar/ts-jest": [
         "Other"
     ],
@@ -5269,9 +5272,6 @@
         "Other"
     ],
     "unlock-music/unlock-music": [
-        "Other"
-    ],
-    "up9inc/mizu": [
         "Other"
     ],
     "upptime/upptime": [
