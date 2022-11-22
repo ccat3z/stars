@@ -612,6 +612,7 @@
 * [NetApp/beegfs-csi-driver](https://github.com/NetApp/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
+* [google/benchmark](https://github.com/google/benchmark): A microbenchmark support library
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 * [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network

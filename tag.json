@@ -2711,6 +2711,9 @@
     "google/bbr": [
         "Other"
     ],
+    "google/benchmark": [
+        "Other"
+    ],
     "google/git-appraise": [
         "Other"
     ],
