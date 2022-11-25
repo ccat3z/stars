@@ -3296,9 +3296,6 @@
     "kekru/docker-remote-api-tls": [
         "Other"
     ],
-    "kelthuzadx/llmd": [
-        "Other"
-    ],
     "keratin/authn-server": [
         "Other"
     ],
@@ -5611,6 +5608,9 @@
         "Other"
     ],
     "xxf098/go-tun2socks-build": [
+        "Other"
+    ],
+    "y1yang0/llmd": [
         "Other"
     ],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [
