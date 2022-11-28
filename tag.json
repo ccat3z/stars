@@ -2246,9 +2246,6 @@
     "egzosn/pay-java-parent": [
         "Other"
     ],
-    "ehids/ecapture": [
-        "Other"
-    ],
     "ekibun/QQNotfAndShare": [
         "Android/APP/Utility"
     ],
@@ -2703,6 +2700,9 @@
         "Other"
     ],
     "gojek/awesome-distributed-systems": [
+        "Other"
+    ],
+    "gojue/ecapture": [
         "Other"
     ],
     "golang-standards/project-layout": [
