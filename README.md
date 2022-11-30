@@ -2282,7 +2282,7 @@
 ## Vue
 
 * [vuematerial/vue-material](https://github.com/vuematerial/vue-material): Material design for Vue.js
-* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): 🐉 Material Component Framework for Vue
+* [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify): 🐉 Vue Component Framework
 
 # Windows
 
