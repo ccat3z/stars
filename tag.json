@@ -3781,6 +3781,9 @@
     "microsoft/react-native-windows": [
         "Other"
     ],
+    "microsoft/vcpkg": [
+        "Other"
+    ],
     "microsoft/vscode": [
         "Other"
     ],
