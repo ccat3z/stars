@@ -727,9 +727,11 @@
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
 * [Suzie97/Communique](https://github.com/Suzie97/Communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
+* [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C/C++ package manager
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
+* [conda-incubator/conda-lock](https://github.com/conda-incubator/conda-lock): Lightweight lockfile for conda environments
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X (and other things, too)
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -1322,6 +1324,7 @@
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 * [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
+* [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
 * [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps

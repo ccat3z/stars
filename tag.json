@@ -1846,6 +1846,9 @@
     "commitizen/cz-cli": [
         "Other"
     ],
+    "conan-io/conan": [
+        "Other"
+    ],
     "conanhujinming/tips_for_interview": [
         "Other"
     ],
@@ -1862,6 +1865,9 @@
         "Other"
     ],
     "concourse/registry-image-resource": [
+        "Other"
+    ],
+    "conda-incubator/conda-lock": [
         "Other"
     ],
     "containers/podman": [
@@ -3611,6 +3617,9 @@
         "GitHub"
     ],
     "maharmstone/btrfs": [
+        "Other"
+    ],
+    "mamba-org/mamba": [
         "Other"
     ],
     "mamoe/mirai": [
