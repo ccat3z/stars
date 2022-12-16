@@ -1051,7 +1051,7 @@
 * [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
 * [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
 * [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
-* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms implemented in Go for beginners, following best practices.
+* [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
 * [alexflint/go-arg](https://github.com/alexflint/go-arg): Struct-based argument parsing in Go
 * [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp): cqhttp的golang实现，轻量、原生跨平台.
