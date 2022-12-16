@@ -101,9 +101,6 @@
     "ApsaraDB/PolarDB-for-PostgreSQL": [
         "Other"
     ],
-    "ApsaraDB/galaxysql": [
-        "Other"
-    ],
     "Arduino-IRremote/Arduino-IRremote": [
         "Other"
     ],
@@ -4308,6 +4305,9 @@
         "Other"
     ],
     "pocoproject/poco": [
+        "Other"
+    ],
+    "polardb/polardbx-sql": [
         "Other"
     ],
     "polybar/polybar": [
