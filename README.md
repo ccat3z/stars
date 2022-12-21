@@ -1796,6 +1796,7 @@
 * [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
+* [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 《统计学习方法》（第二版）习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 * [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
