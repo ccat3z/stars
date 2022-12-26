@@ -1911,6 +1911,7 @@
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
+* [osfans/trime](https://github.com/osfans/trime): 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 * [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow): Container Registry and Image Management for Kubernetes Clusters
 * [sammydre/ts-for-gir](https://github.com/sammydre/ts-for-gir): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
