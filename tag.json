@@ -4796,6 +4796,9 @@
     "sigoden/dufs": [
         "Other"
     ],
+    "simdjson/simdjson": [
+        "Other"
+    ],
     "simonmichael/hledger": [
         "Other"
     ],
