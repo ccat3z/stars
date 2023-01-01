@@ -946,7 +946,7 @@
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
 * [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
-* [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+* [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * [bilelmoussaoui/flatpak-vscode](https://github.com/bilelmoussaoui/flatpak-vscode): Integrate Flatpak with VSCode 
 * [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 22.08), provides wine to Centos like distros (https://flatpak.org/setup/)
 * [pypa/flit](https://github.com/pypa/flit): Simplified packaging of Python modules
