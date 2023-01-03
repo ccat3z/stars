@@ -1771,7 +1771,7 @@
 * [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
-* [slimtoolkit/slim](https://github.com/slimtoolkit/slim): SlimToolkit (slim): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [RimoChan/smoke_of_deceit](https://github.com/RimoChan/smoke_of_deceit): 把代码藏起来！
 * [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
