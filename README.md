@@ -646,6 +646,7 @@
 * [mendsley/bsdiff](https://github.com/mendsley/bsdiff): bsdiff and bspatch are libraries for building and applying patches to binary files.
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [maharmstone/btrfs](https://github.com/maharmstone/btrfs): WinBtrfs - an open-source btrfs driver for Windows
+* [containers/bubblewrap](https://github.com/containers/bubblewrap): Unprivileged sandboxing tool
 * [bloom-lang/bud](https://github.com/bloom-lang/bud): Prototype Bud runtime (Bloom Under Development)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
@@ -943,6 +944,7 @@
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
+* [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
 * [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
 * [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码

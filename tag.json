@@ -1873,6 +1873,9 @@
     "conda-incubator/conda-lock": [
         "Other"
     ],
+    "containers/bubblewrap": [
+        "Other"
+    ],
     "containers/podman": [
         "Other"
     ],
@@ -3975,6 +3978,9 @@
         "Other"
     ],
     "neovimhaskell/haskell-vim": [
+        "Other"
+    ],
+    "netblue30/firejail": [
         "Other"
     ],
     "netbootxyz/netboot.xyz": [
