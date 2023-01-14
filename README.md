@@ -1559,7 +1559,7 @@
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2): A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
-* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
+* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
