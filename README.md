@@ -969,7 +969,7 @@
 * [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): Import images into Forza
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
-* [wader/fq](https://github.com/wader/fq): jq for binary formats
+* [wader/fq](https://github.com/wader/fq): jq for binary formats - Tool, language and decoders for working with binary data
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable aggregator…
