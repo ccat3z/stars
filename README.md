@@ -428,7 +428,6 @@
 # Nextcloud
 
 * [DecaTec/Nextcloud-Backup-Restore](https://github.com/DecaTec/Nextcloud-Backup-Restore): Moved to codeberg.org - https://codeberg.org/DecaTec/Nextcloud-Backup-Restore - Bash scripts for backup/restore of Nextcloud
-* [stefan-niedermann/nextcloud-notes](https://github.com/stefan-niedermann/nextcloud-notes): ✎ Android client for Nextcloud Notes app.
 
 # Node.js
 
@@ -1462,6 +1461,7 @@
 * [MlgmXyysd/NoneDisplayCutout](https://github.com/MlgmXyysd/NoneDisplayCutout): Kill the display cutout
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
+* [nextcloud/notes-android](https://github.com/nextcloud/notes-android): ✎ Android client for Nextcloud Notes app.
 * [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library

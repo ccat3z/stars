@@ -4007,6 +4007,9 @@
     "newren/git-filter-repo": [
         "Other"
     ],
+    "nextcloud/notes-android": [
+        "Other"
+    ],
     "ngaut/builddatabase": [
         "Other"
     ],
@@ -4964,9 +4967,6 @@
     ],
     "staticlibs/ccronexpr": [
         "Other"
-    ],
-    "stefan-niedermann/nextcloud-notes": [
-        "Nextcloud"
     ],
     "stephenh/mirror": [
         "Other"
