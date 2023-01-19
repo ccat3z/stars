@@ -1705,6 +1705,9 @@
     "carbon-app/carbon": [
         "Other"
     ],
+    "carvel-dev/kapp": [
+        "Other"
+    ],
     "cat-milk/Anime-Girls-Holding-Programming-Books": [
         "Other"
     ],
@@ -5446,9 +5449,6 @@
         "Other"
     ],
     "vmware-archive/cron-resource": [
-        "Other"
-    ],
-    "vmware-tanzu/carvel-kapp": [
         "Other"
     ],
     "vmware-tanzu/octant": [

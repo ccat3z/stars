@@ -670,7 +670,6 @@
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
-* [vmware-tanzu/carvel-kapp](https://github.com/vmware-tanzu/carvel-kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
 * [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
@@ -1216,6 +1215,7 @@
 * [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
+* [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [kcp-dev/kcp](https://github.com/kcp-dev/kcp): kcp is a Kubernetes-like control plane for workloads on many clusters
