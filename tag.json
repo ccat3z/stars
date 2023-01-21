@@ -3676,6 +3676,9 @@
     "material-components/material-components-web": [
         "Other"
     ],
+    "material-foundation/material-theme-builder": [
+        "Other"
+    ],
     "material-shell/material-shell": [
         "Other"
     ],
