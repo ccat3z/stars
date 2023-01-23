@@ -2080,6 +2080,9 @@
     "devoxx/JavaRoadmap2022": [
         "Other"
     ],
+    "devspace-sh/devspace": [
+        "Other"
+    ],
     "dexidp/dex": [
         "Other"
     ],
@@ -3560,9 +3563,6 @@
         "Other"
     ],
     "lodash/lodash": [
-        "Other"
-    ],
-    "loft-sh/devspace": [
         "Other"
     ],
     "lofyer/spice-webdav": [
