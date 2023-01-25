@@ -3095,6 +3095,9 @@
     "jaredpalmer/tsdx": [
         "Other"
     ],
+    "jasonkuhrt/graphql-request": [
+        "Other"
+    ],
     "jasonlvhit/gocron": [
         "Other"
     ],
@@ -4398,9 +4401,6 @@
         "Linux/GUI/Display Manager"
     ],
     "prinsss/blessing-skin-server": [
-        "Other"
-    ],
-    "prisma-labs/graphql-request": [
         "Other"
     ],
     "projectcontour/contour": [

@@ -1094,7 +1094,7 @@
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
-* [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
+* [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request): Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
 * [pemistahl/grex](https://github.com/pemistahl/grex): A command-line tool and Rust library for generating regular expressions from user-provided test cases
 * [getgridea/gridea](https://github.com/getgridea/gridea): ✍️ A static blog writing client (一个静态博客写作客户端)
