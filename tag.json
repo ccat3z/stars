@@ -2675,6 +2675,9 @@
     "gizak/termui": [
         "Other"
     ],
+    "gjsify/ts-for-gir": [
+        "Other"
+    ],
     "gliffy/canvas2svg": [
         "Linux/Utility"
     ],
@@ -4689,9 +4692,6 @@
         "Other"
     ],
     "saltstack/salt": [
-        "Other"
-    ],
-    "sammydre/ts-for-gir": [
         "Other"
     ],
     "samsheff/Amazon-Kindle-Cross-Toolchain": [

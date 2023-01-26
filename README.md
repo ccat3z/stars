@@ -1920,7 +1920,7 @@
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [osfans/trime](https://github.com/osfans/trime): 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 * [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow): Container Registry and Image Management for Kubernetes Clusters
-* [sammydre/ts-for-gir](https://github.com/sammydre/ts-for-gir): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
+* [gjsify/ts-for-gir](https://github.com/gjsify/ts-for-gir): TypeScript definition generator for GObject introspection interfaces, e.g. GTK
 * [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest): A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [stephenh/ts-proto](https://github.com/stephenh/ts-proto): An idiomatic protobuf generator for TypeScript
 * [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime): Runtime Type Checks for TypeScript
