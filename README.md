@@ -745,6 +745,7 @@
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
 * [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》- 翻译中
+* [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
 * [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide): C/C++学习，后端开发进阶指南。
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
