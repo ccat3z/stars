@@ -1873,7 +1873,7 @@
     "concourse/registry-image-resource": [
         "Other"
     ],
-    "conda-incubator/conda-lock": [
+    "conda/conda-lock": [
         "Other"
     ],
     "containers/bubblewrap": [
