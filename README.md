@@ -671,6 +671,7 @@
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
 * [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
+* [woutervdijke/CatGPT](https://github.com/woutervdijke/CatGPT): What if ChatGPT were a cat?
 * [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
