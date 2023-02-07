@@ -568,7 +568,7 @@
 * [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop): A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 * [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧
 * [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview): 剑指前端 Offer
-* [bamtercelboo/Awesome-Law-NLP-Research-Work](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
+* [dalinvip/Awesome-Law-NLP-Research-Work](https://github.com/dalinvip/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -1804,7 +1804,7 @@
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
-* [bytebase/star-history](https://github.com/bytebase/star-history): The missing star history graph of GitHub repos - https://star-history.com
+* [github-star-history/star-history](https://github.com/github-star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
