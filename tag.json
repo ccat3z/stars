@@ -3227,9 +3227,6 @@
     "johnfactotum/foliate": [
         "Other"
     ],
-    "johnsoncodehk/volar": [
-        "Other"
-    ],
     "johnsoncodehk/vue-tsc": [
         "Other"
     ],
@@ -5485,6 +5482,9 @@
         "Other"
     ],
     "vuejs/core": [
+        "Other"
+    ],
+    "vuejs/language-tools": [
         "Other"
     ],
     "vuejs/petite-vue": [

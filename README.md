@@ -1247,6 +1247,7 @@
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS): lakeFS - Data version control for your data lake | Git for data
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
+* [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ Explore high-performance tooling for Vue
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
 * [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
@@ -2006,7 +2007,6 @@
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs): Labs on distributed transaction
 * [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
-* [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar): ⚡ Explore high-performance tooling for Vue
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
