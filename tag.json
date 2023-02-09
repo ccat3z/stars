@@ -2498,6 +2498,9 @@
     "fluentscheduler/FluentScheduler": [
         "Other"
     ],
+    "fmtlib/fmt": [
+        "Other"
+    ],
     "foambubble/foam": [
         "Other"
     ],
