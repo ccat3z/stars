@@ -536,7 +536,7 @@
 * [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [kvalo/ath11k-firmware](https://github.com/kvalo/ath11k-firmware): Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies 802.11ax devices
-* [ariga/atlas](https://github.com/ariga/atlas): Atlas: A modern tool for managing database schemas
+* [ariga/atlas](https://github.com/ariga/atlas): A modern tool for managing database schemas
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
