@@ -1233,7 +1233,7 @@
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
-* [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
+* [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
 * [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone): kube-rclone is a rclone mount solution for Kubernetes
