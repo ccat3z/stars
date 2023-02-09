@@ -1998,7 +1998,7 @@
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
 * [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
 * [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger
-* [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode): UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
+* [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode): Text outlining and task management for Vim based on Emacs' Org-Mode
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
 * [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
