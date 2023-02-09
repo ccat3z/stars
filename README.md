@@ -551,6 +551,7 @@
 * [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra): 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【每周末更新】
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
@@ -1037,6 +1038,7 @@
 * [oap-project/gluten](https://github.com/oap-project/gluten): None
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
+* [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi): Live Wallpaper for GNOME
 * [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
 * [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
@@ -1969,6 +1971,7 @@
 * [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG): A V2Ray client for Android, support Xray core and v2fly core
 * [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+* [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
 * [freesmartphone/vala-dbus-binding-tool](https://github.com/freesmartphone/vala-dbus-binding-tool): Create Vala DBus Interfaces from XML Specifications

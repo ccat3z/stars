@@ -763,6 +763,9 @@
     "PipeWire/pipewire": [
         "Other"
     ],
+    "PlexPt/awesome-chatgpt-prompts-zh": [
+        "Other"
+    ],
     "PomeloFoundation/Pomelo.EntityFrameworkCore.MySql": [
         ".NET/.NET Core/EF Core"
     ],
@@ -3143,6 +3146,9 @@
     "jeffreytse/zsh-vi-mode": [
         "Other"
     ],
+    "jeffshee/gnome-ext-hanabi": [
+        "Other"
+    ],
     "jeffshee/hidamari": [
         "Other"
     ],
@@ -5363,6 +5369,9 @@
     ],
     "v2ray/v2ray-core": [
         "GFW"
+    ],
+    "v6d-io/v6d": [
+        "Other"
     ],
     "v8/v8": [
         "Other"
