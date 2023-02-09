@@ -1261,6 +1261,9 @@
     "alibaba/serverless-vscode": [
         "Other"
     ],
+    "aljazceru/awesome-nostr": [
+        "Other"
+    ],
     "almende/vis": [
         "JavaScript"
     ],
@@ -4083,6 +4086,9 @@
         "Other"
     ],
     "nonebot/nonebot2": [
+        "Other"
+    ],
+    "nostr-protocol/nostr": [
         "Other"
     ],
     "novoid/Memacs": [

@@ -573,6 +573,7 @@
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+* [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr): A curated list of nostr projects and resources  
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
@@ -1467,6 +1468,7 @@
 * [nonebot/nonebot2](https://github.com/nonebot/nonebot2): 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 * [Magisk-Modules-Repo/noneDisplayCutout](https://github.com/Magisk-Modules-Repo/noneDisplayCutout): None
 * [MlgmXyysd/NoneDisplayCutout](https://github.com/MlgmXyysd/NoneDisplayCutout): Kill the display cutout
+* [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr): a truly censorship-resistant alternative to Twitter that has a chance of working
 * [qgaye/note](https://github.com/qgaye/note): just note
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
 * [nextcloud/notes-android](https://github.com/nextcloud/notes-android): ✎ Android client for Nextcloud Notes app.
