@@ -1016,6 +1016,7 @@
 * [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 * [banga/git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
+* [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
