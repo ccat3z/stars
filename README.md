@@ -1727,6 +1727,7 @@
 * [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 * [gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
 * [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+* [Qihoo360/safe-rules](https://github.com/Qihoo360/safe-rules): 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。
 * [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix): Google SafetyNet attestation workarounds for Magisk
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [itorr/sakana](https://github.com/itorr/sakana): 🐟「Sakana!」石蒜模拟器
