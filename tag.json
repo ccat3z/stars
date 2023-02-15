@@ -2675,9 +2675,6 @@
     "gitalk/gitalk": [
         "Other"
     ],
-    "github-star-history/star-history": [
-        "Other"
-    ],
     "github-tools/github": [
         "GitHub"
     ],
@@ -4990,6 +4987,9 @@
         "Other"
     ],
     "ssshooter/mind-elixir-core": [
+        "Other"
+    ],
+    "star-history/star-history": [
         "Other"
     ],
     "stashed/stash": [
