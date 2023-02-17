@@ -4968,6 +4968,9 @@
     "spwhitton/git-remote-gcrypt": [
         "Other"
     ],
+    "sqlancer/sqlancer": [
+        "Other"
+    ],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
     ],

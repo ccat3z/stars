@@ -1808,6 +1808,7 @@
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
 * [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
 * [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
+* [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic bugs in database systems
 * [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
