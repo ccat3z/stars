@@ -1129,6 +1129,7 @@
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
+* [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
 * [jwuensche/heic-to-dynamic-gnome-wallpaper](https://github.com/jwuensche/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
 * [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
