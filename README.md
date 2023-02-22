@@ -677,7 +677,7 @@ creating your own Awesome List by GitHub stars!
 * [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF / Please star this project, thanks~
+* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli)/ Please star this project, thanks~
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
@@ -704,6 +704,7 @@ creating your own Awesome List by GitHub stars!
 * [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc): 漫画阅读器
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
+* [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a free analytics DBMS for big data
@@ -1255,7 +1256,7 @@ creating your own Awesome List by GitHub stars!
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS): lakeFS - Data version control for your data lake | Git for data
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
-* [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling base-on Volar.js
+* [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
 * [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
