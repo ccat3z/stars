@@ -657,6 +657,7 @@ creating your own Awesome List by GitHub stars!
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
+* [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud-native data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
 * [bytebase/bytebase](https://github.com/bytebase/bytebase): Database CI/CD for DevOps teams. https://www.bytebase.com
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
