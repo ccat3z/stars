@@ -2600,6 +2600,9 @@
     "fxsjy/jieba": [
         "Other"
     ],
+    "fzwoch/obs-gnome-screencast": [
+        "Other"
+    ],
     "gTile/gTile": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
@@ -4669,6 +4672,9 @@
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
+    ],
+    "royshil/obs-backgroundremoval": [
+        "Other"
     ],
     "rpardini/docker-registry-proxy": [
         "Other"
