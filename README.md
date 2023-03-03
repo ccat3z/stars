@@ -678,11 +678,12 @@ creating your own Awesome List by GitHub stars!
 * [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli)/ Please star this project, thanks~
+* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)/ Please star this project, thanks~
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
 * [studentmain/censor](https://github.com/studentmain/censor): 最好的敏感词过滤库
+* [google/centipede](https://github.com/google/centipede): None
 * [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 * [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree): File manager for Neovim. Better than NERDTree.
@@ -935,7 +936,7 @@ creating your own Awesome List by GitHub stars!
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
 * [Marak/faker.js](https://github.com/Marak/faker.js): generate massive amounts of realistic fake data in Node.js and the browser
-* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 4x faster than strtod, part of GCC 12
+* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 10x faster than strtod, part of GCC 12 and WebKit/Safari
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
@@ -1398,7 +1399,7 @@ creating your own Awesome List by GitHub stars!
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js): A Progressive React Framework for modern web development.
+* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): A Progressive React Framework for modern web development.
 * [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 * [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
 * [taowen/modularization-examples](https://github.com/taowen/modularization-examples): 代码防腐实用技术
@@ -1900,7 +1901,7 @@ creating your own Awesome List by GitHub stars!
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis): A distributed transactional large-scale NoSQL database powered by TiKV
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
-* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): A GNOME extension which adds a Windows-like snap assist to the GNOME desktop environment. It also expands the 2x2 grid design.
+* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
@@ -2033,6 +2034,7 @@ creating your own Awesome List by GitHub stars!
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 * [thisboyiscrazy/vscode-rsync](https://github.com/thisboyiscrazy/vscode-rsync): rsync extension for visual studio code
 * [Jomik/vscode-search-provider](https://github.com/Jomik/vscode-search-provider): GNOME Search Provider for recent VS Code projects.
+* [augustocdias/vscode-shell-command](https://github.com/augustocdias/vscode-shell-command): A task helper to use system commands as input
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
 * [pikax/vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
 * [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Spreadsheet data grid component. Handles enormous data processing.
