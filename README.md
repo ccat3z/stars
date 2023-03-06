@@ -678,7 +678,7 @@ creating your own Awesome List by GitHub stars!
 * [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin): 😸 Soothing pastel theme for the high-spirited!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet)/ Please star this project, thanks~
+* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
@@ -722,6 +722,7 @@ creating your own Awesome List by GitHub stars!
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
 * [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug): Native debugging for VSCode
+* [VaibhavAcharya/code-gpt](https://github.com/VaibhavAcharya/code-gpt): Make sense of any code, anytime. 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
@@ -1935,7 +1936,7 @@ creating your own Awesome List by GitHub stars!
 * [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter.
 * [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-* [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取插件
+* [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [osfans/trime](https://github.com/osfans/trime): 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 * [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow): Container Registry and Image Management for Kubernetes Clusters
