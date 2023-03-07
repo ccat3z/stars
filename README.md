@@ -735,7 +735,7 @@ creating your own Awesome List by GitHub stars!
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
 * [Suzie97/Communique](https://github.com/Suzie97/Communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
-* [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C/C++ package manager
+* [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
@@ -1638,7 +1638,7 @@ creating your own Awesome List by GitHub stars!
 * [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
-* [microsoft/pyright](https://github.com/microsoft/pyright): Static type checker for Python
+* [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
