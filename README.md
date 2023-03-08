@@ -626,6 +626,7 @@ creating your own Awesome List by GitHub stars!
 * [plk/biber](https://github.com/plk/biber): Backend processor for BibLaTeX
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+* [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): A simple extension that enables Bing ChatGPT on Chrome and Firefox.
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
@@ -778,7 +779,7 @@ creating your own Awesome List by GitHub stars!
 * [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js): React: CSS in JS techniques comparison
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
-* [hit-thusz-RookieCJ/CSSummerCamp2021](https://github.com/hit-thusz-RookieCJ/CSSummerCamp2021): 关于2021年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？
+* [RookieJunChen/CSSummerCamp2021](https://github.com/RookieJunChen/CSSummerCamp2021): 关于2021年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
@@ -953,6 +954,7 @@ creating your own Awesome List by GitHub stars!
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
+* [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations): Firefox Translations is a webextension that enables client side translations for web browsers.
 * [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish.
 * [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
@@ -1034,7 +1036,7 @@ creating your own Awesome List by GitHub stars!
 * [conwnet/github1s](https://github.com/conwnet/github1s): One second to read GitHub code with VS Code.
 * [devlooped/GitInfo](https://github.com/devlooped/GitInfo): Git and SemVer Info from MSBuild, C# and VB
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑
+* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑
 * [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
 * [Byron/gitoxide](https://github.com/Byron/gitoxide): An idiomatic, lean, fast & safe pure Rust implementation of Git
