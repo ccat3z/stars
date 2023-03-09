@@ -1387,6 +1387,9 @@
     "apache/shardingsphere": [
         "Other"
     ],
+    "apache/spark": [
+        "Other"
+    ],
     "apache/zookeeper": [
         "Other"
     ],
