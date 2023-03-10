@@ -506,6 +506,7 @@ creating your own Awesome List by GitHub stars!
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
+* [japila-books/apache-spark-internals](https://github.com/japila-books/apache-spark-internals): The Internals of Apache Spark
 * [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings): Type definitions for APIs of Wechat Mini Program in TypeScript
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
@@ -1402,7 +1403,7 @@ creating your own Awesome List by GitHub stars!
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): A Progressive React Framework for modern web development.
+* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 * [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 * [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
 * [taowen/modularization-examples](https://github.com/taowen/modularization-examples): 代码防腐实用技术
@@ -1816,6 +1817,7 @@ creating your own Awesome List by GitHub stars!
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
 * [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
+* [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles.
 * [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
 * [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic bugs in database systems

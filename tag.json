@@ -3140,6 +3140,9 @@
     "jantimon/iconfont-webpack-plugin": [
         "Other"
     ],
+    "japila-books/apache-spark-internals": [
+        "Other"
+    ],
     "jaredpalmer/formik": [
         "Other"
     ],
@@ -3246,6 +3249,9 @@
         "Linux/Device/Surface"
     ],
     "jlevy/the-art-of-command-line": [
+        "Other"
+    ],
+    "jlfwong/speedscope": [
         "Other"
     ],
     "jmblog/how-to-optimize-momentjs-with-webpack": [
