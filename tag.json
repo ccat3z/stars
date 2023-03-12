@@ -5442,7 +5442,7 @@
     "v8/v8": [
         "Other"
     ],
-    "vadimcn/vscode-lldb": [
+    "vadimcn/codelldb": [
         "Other"
     ],
     "vala-lang/vala-language-server": [

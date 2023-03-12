@@ -727,6 +727,7 @@ creating your own Awesome List by GitHub stars!
 * [VaibhavAcharya/code-gpt](https://github.com/VaibhavAcharya/code-gpt): Make sense of any code, anytime. 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+* [vadimcn/codelldb](https://github.com/vadimcn/codelldb): A native debugger extension for VSCode based on LLDB
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
@@ -976,7 +977,7 @@ creating your own Awesome List by GitHub stars!
 * [fmtlib/fmt](https://github.com/fmtlib/fmt): A modern formatting library
 * [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
-* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK eBook reader
+* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK e-book reader
 * [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * [jmmaranan/forge](https://github.com/jmmaranan/forge): Forge - Tiling and Window Manager for Gnome-Shell
@@ -1000,7 +1001,7 @@ creating your own Awesome List by GitHub stars!
 * [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
-* [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.online
+* [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
 * [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): A settings app for GNOME's Login Manager, GDM
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
@@ -1229,7 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [jergusg/k380-function-keys-conf](https://github.com/jergusg/k380-function-keys-conf): Make function keys default on Logitech k380 bluetooth keyboard
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
-* [xiaods/k8e](https://github.com/xiaods/k8e): k8e - Simple Enterprise Kubernetes
+* [xiaods/k8e](https://github.com/xiaods/k8e): k8e - Kubernetes Enterprise Edition that is ready to use immediately.
 * [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
@@ -2035,7 +2036,6 @@ creating your own Awesome List by GitHub stars!
 * [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
-* [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb): A native debugger extension for VSCode based on LLDB
 * [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin): Kite Autocomplete Plugin for Visual Studio Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
