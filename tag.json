@@ -2,6 +2,9 @@
     "0no-co/wonka": [
         "Other"
     ],
+    "0voice/interview_internal_reference": [
+        "Other"
+    ],
     "0voice/kernel_new_features": [
         "Other"
     ],
@@ -3845,6 +3848,9 @@
         "Other"
     ],
     "mickael-kerjean/filestash": [
+        "Other"
+    ],
+    "microsoft/GSL": [
         "Other"
     ],
     "microsoft/WSL": [
