@@ -406,6 +406,9 @@
     "Gogh-Co/Gogh": [
         "Other"
     ],
+    "GoogleChromeLabs/picture-in-picture-chrome-extension": [
+        "Other"
+    ],
     "GoogleChromeLabs/squoosh": [
         "Other"
     ],
@@ -1385,6 +1388,9 @@
         "Other"
     ],
     "apache/hawq": [
+        "Other"
+    ],
+    "apache/incubator-opendal": [
         "Other"
     ],
     "apache/shardingsphere": [
@@ -3146,6 +3152,9 @@
     "japila-books/apache-spark-internals": [
         "Other"
     ],
+    "japila-books/spark-sql-internals": [
+        "Other"
+    ],
     "jaredpalmer/formik": [
         "Other"
     ],
@@ -3806,6 +3815,9 @@
         "Other"
     ],
     "megastep/makeself": [
+        "Other"
+    ],
+    "mehyaa/vscode-workspace-storage-cleanup": [
         "Other"
     ],
     "mellow-io/mellow": [
