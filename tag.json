@@ -3928,6 +3928,9 @@
     "mk-fg/onedrive-fuse-fs": [
         "Linux/Utility"
     ],
+    "mk-fg/systemd-cgroup-nftables-policy-manager": [
+        "Other"
+    ],
     "mlouielu/cn_constitution_2018": [
         "Gov"
     ],
@@ -5335,6 +5338,9 @@
         "Other"
     ],
     "traefik/traefik": [
+        "Other"
+    ],
+    "transitive-bullshit/bing-chat": [
         "Other"
     ],
     "trashpanda001/docker-alpine-sshd": [
