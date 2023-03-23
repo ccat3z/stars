@@ -227,7 +227,7 @@ creating your own Awesome List by GitHub stars!
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
-* [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for Java (openJDK)
+* [docker-library/openjdk](https://github.com/docker-library/openjdk): Docker Official Image packaging for EA builds of OpenJDK from Oracle
 * [portainer/portainer](https://github.com/portainer/portainer): Making Docker and Kubernetes management easy.
 * [loomchild/volume-backup](https://github.com/loomchild/volume-backup): docker volume backup & restore utility
 * [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize): Docker Volume Backups Multiple Backends
@@ -518,6 +518,7 @@ creating your own Awesome List by GitHub stars!
 * [arc-design/arc-theme](https://github.com/arc-design/arc-theme): A flat theme with transparent elements
 * [jnsh/arc-theme](https://github.com/jnsh/arc-theme): A flat theme with transparent elements (actively maintained fork)
 * [RobertCsordas/arch-efiboot](https://github.com/RobertCsordas/arch-efiboot): Boot EFISTUB linux kernels on UEFI systems not supporting kernel command line
+* [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide): ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 * [berberman/arch-hs](https://github.com/berberman/arch-hs): Distribute hackage packages to archlinux
 * [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
