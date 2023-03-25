@@ -569,7 +569,7 @@ creating your own Awesome List by GitHub stars!
 * [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome): A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 * [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
 * [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop): A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
-* [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧
+* [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA): None
 * [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview): 剑指前端 Offer
 * [dalinvip/Awesome-Law-NLP-Research-Work](https://github.com/dalinvip/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
@@ -592,7 +592,7 @@ creating your own Awesome List by GitHub stars!
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 * [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
-* [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other resources for Fish. 🐚
+* [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other Fish treasures. 🐚
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
 * [dgraph-io/badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
@@ -1385,7 +1385,7 @@ creating your own Awesome List by GitHub stars!
 * [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
-* [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database with high-performance and high scalability.
+* [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database, storage for next generation AI applications
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): ⚗ Mind-elixir is a framework agnostic mind map core.
