@@ -1604,7 +1604,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
 * [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
-* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+* [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
