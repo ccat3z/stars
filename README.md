@@ -694,7 +694,7 @@ creating your own Awesome List by GitHub stars!
 * [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh): A Chaos Engineering Platform for Kubernetes.
 * [bitnami/charts](https://github.com/bitnami/charts): Bitnami Helm Charts
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension): ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
-* [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers.
+* [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
 * [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
@@ -943,7 +943,7 @@ creating your own Awesome List by GitHub stars!
 * [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
-* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 10x faster than strtod, part of GCC 12 and WebKit/Safari
+* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
@@ -1030,7 +1030,7 @@ creating your own Awesome List by GitHub stars!
 * [banga/git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
 * [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
-* [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea, painless self-hosted git service
+* [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
 * [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
