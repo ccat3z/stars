@@ -748,6 +748,9 @@
     "OpenIntelWireless/itlwm": [
         "Other"
     ],
+    "P3TERX/warp.sh": [
+        "Other"
+    ],
     "PGYER/codefever": [
         "Other"
     ],
@@ -1013,6 +1016,9 @@
         "Other"
     ],
     "TheLocehiliosan/yadm": [
+        "Other"
+    ],
+    "TheR1D/shell_gpt": [
         "Other"
     ],
     "ThirtyDegreesRay/OpenHub": [
@@ -1373,6 +1379,9 @@
         "Other"
     ],
     "apache/arrow": [
+        "Other"
+    ],
+    "apache/arrow-datafusion": [
         "Other"
     ],
     "apache/buildstream": [
@@ -5062,6 +5071,9 @@
         "Other"
     ],
     "star-history/star-history": [
+        "Other"
+    ],
+    "stascorp/rdpwrap": [
         "Other"
     ],
     "stashed/stash": [
