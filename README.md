@@ -1674,6 +1674,7 @@ creating your own Awesome List by GitHub stars!
 * [coxley/quip2md](https://github.com/coxley/quip2md): Library and CLI to convert Quip HTML to Markdown
 * [Kozea/Radicale](https://github.com/Kozea/Radicale): A simple CalDAV (calendar) and CardDAV (contact) server.
 * [hashicorp/raft](https://github.com/hashicorp/raft): Golang implementation of the Raft consensus protocol
+* [JDRaftKeeper/RaftKeeper](https://github.com/JDRaftKeeper/RaftKeeper): RaftKeeper is a high-performance distributed consensus service.
 * [ongardie/raftscope](https://github.com/ongardie/raftscope): super hacky visualization of Raft
 * [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG): 程序员要讲码德，耗子尾汁，好好反思！
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
