@@ -1957,6 +1957,9 @@
     "coxley/quip2md": [
         "Other"
     ],
+    "cpm-cmake/CPM.cmake": [
+        "Other"
+    ],
     "crate-ci/typos": [
         "Other"
     ],

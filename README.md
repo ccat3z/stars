@@ -758,6 +758,7 @@ creating your own Awesome List by GitHub stars!
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
+* [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
 * [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》- 翻译中
 * [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
