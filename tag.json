@@ -1288,6 +1288,9 @@
     "alibaba/DataX": [
         "Other"
     ],
+    "alibaba/async_simple": [
+        "Other"
+    ],
     "alibaba/serverless-vscode": [
         "Other"
     ],
@@ -1974,6 +1977,9 @@
     ],
     "cs01/gdbgui": [
         "C/Utility"
+    ],
+    "csguide-dabai/Programmer-look-at-China": [
+        "Other"
     ],
     "csujedihy/proximac": [
         "Other"
