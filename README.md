@@ -657,6 +657,7 @@ creating your own Awesome List by GitHub stars!
 * [bloom-lang/bud](https://github.com/bloom-lang/bud): Prototype Bud runtime (Bloom Under Development)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
+* [build2/build2](https://github.com/build2/build2): build2 build system
 * [ngaut/builddatabase](https://github.com/ngaut/builddatabase): Build a distributed SQL database from the ground up
 * [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -1178,6 +1179,7 @@ creating your own Awesome List by GitHub stars!
 * [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
 * [httpie/httpie](https://github.com/httpie/httpie): 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
+* [cpp-pm/hunter](https://github.com/cpp-pm/hunter): CMake driven cross-platform package manager for C/C++.
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
@@ -1976,6 +1978,7 @@ creating your own Awesome List by GitHub stars!
 * [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [crate-ci/typos](https://github.com/crate-ci/typos): Source code spell checker
+* [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn.
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw): A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * [wangyu-/udp2raw-multiplatform](https://github.com/wangyu-/udp2raw-multiplatform): multi-platform(cross-platform) version of udp2raw-tunnel, which supports Windows/Mac/BSD natively. Client-Only at the moment.

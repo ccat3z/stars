@@ -1693,6 +1693,9 @@
     "budtmo/docker-android": [
         "Other"
     ],
+    "build2/build2": [
+        "Other"
+    ],
     "buildfoundation/mainframer": [
         "Other"
     ],
@@ -1961,6 +1964,9 @@
         "Other"
     ],
     "cpm-cmake/CPM.cmake": [
+        "Other"
+    ],
+    "cpp-pm/hunter": [
         "Other"
     ],
     "crate-ci/typos": [
@@ -5422,6 +5428,9 @@
         "Other"
     ],
     "typicode/husky": [
+        "Other"
+    ],
+    "typst/typst": [
         "Other"
     ],
     "tyru/caw.vim": [
