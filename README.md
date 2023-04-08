@@ -858,7 +858,7 @@ creating your own Awesome List by GitHub stars!
 * [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
 * [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp): 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
-* [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose
+* [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
 * [yeetzone/docker-dontstarvetogether](https://github.com/yeetzone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated server image.
 * [Jamesits/docker-dst-server](https://github.com/Jamesits/docker-dst-server): Don't Starve Together dedicated server in Docker!
 * [wernight/docker-duplicity](https://github.com/wernight/docker-duplicity): Dockerize "duplicity" backup tool.
@@ -1220,7 +1220,7 @@ creating your own Awesome List by GitHub stars!
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-* [devoxx/JavaRoadmap2022](https://github.com/devoxx/JavaRoadmap2022): The 2022 Java Developers Roadmap 
+* [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap): The 2022 Java Developers Roadmap 
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -2189,7 +2189,7 @@ creating your own Awesome List by GitHub stars!
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
 * [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
 * [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
-* [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+* [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
 * [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub): A plugin that will automatically download PDFs of zotero items from sci-hub
