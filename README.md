@@ -503,6 +503,7 @@ creating your own Awesome List by GitHub stars!
 * [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 * [evrardjp/ansible-tinc](https://github.com/evrardjp/ansible-tinc): Role to install tinc in a star/ring topology (w/ leaf/spine) (based on your variables)
 * [andrewrothstein/ansible-velero](https://github.com/andrewrothstein/ansible-velero): None
+* [sleighzy/ansible-zookeeper](https://github.com/sleighzy/ansible-zookeeper): Ansible role for installing and configuring Apache ZooKeeper
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
 * [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
