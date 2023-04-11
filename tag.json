@@ -2483,6 +2483,9 @@
     "facebook/zstd": [
         "Other"
     ],
+    "facebookincubator/velox": [
+        "Other"
+    ],
     "fankes/AndroidNotifyIconAdapt": [
         "Other"
     ],
