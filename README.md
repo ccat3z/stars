@@ -1009,7 +1009,7 @@ creating your own Awesome List by GitHub stars!
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
-* [realmazharhussain/gdm-settings](https://github.com/realmazharhussain/gdm-settings): A settings app for GNOME's Login Manager, GDM
+* [gdm-settings/gdm-settings](https://github.com/gdm-settings/gdm-settings): A settings app for GNOME's Login Manager, GDM
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
@@ -1635,6 +1635,7 @@ creating your own Awesome List by GitHub stars!
 * [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
 * [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
+* [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
 * [xhawk18/promise-cpp](https://github.com/xhawk18/promise-cpp): C++ promise/A+ library in Javascript style.
 * [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
@@ -2087,7 +2088,7 @@ creating your own Awesome List by GitHub stars!
 * [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist): A Vuex plugin to persist the store. (Fully Typescript enabled)
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
 * [grandchef/vuex-persistedstate-migrate](https://github.com/grandchef/vuex-persistedstate-migrate): Library to migrate vuex state using vuex-persistedstate
-* [DukeLuo/wai](https://github.com/DukeLuo/wai): 一款可以预防颈椎病的新标签页扩展
+* [DukeLuo/wai](https://github.com/DukeLuo/wai): 一款可以预防颈椎病的新标签页扩展。
 * [DeadSix27/waifu2x-converter-cpp](https://github.com/DeadSix27/waifu2x-converter-cpp): Improved fork of Waifu2X C++ using OpenCL and OpenCV
 * [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
 * [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan): waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan

@@ -2669,6 +2669,9 @@
     "gdiepen/docker-convenience-scripts": [
         "Docker"
     ],
+    "gdm-settings/gdm-settings": [
+        "Other"
+    ],
     "gedzeppelin/monitor-window-switcher": [
         "Other"
     ],
@@ -4631,9 +4634,6 @@
     "rclone/rclone": [
         "Other"
     ],
-    "realmazharhussain/gdm-settings": [
-        "Other"
-    ],
     "realywithoutname/mini-program-webpack-loader": [
         "Other"
     ],
@@ -5521,6 +5521,9 @@
         "Other"
     ],
     "vcheckzen/MIUIThemeDownloader": [
+        "Other"
+    ],
+    "vegasbrianc/prometheus": [
         "Other"
     ],
     "ventoy/Ventoy": [
