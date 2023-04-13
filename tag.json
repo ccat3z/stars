@@ -1324,6 +1324,9 @@
     "anbox/anbox": [
         "Other"
     ],
+    "andreasfertig/cppinsights": [
+        "Other"
+    ],
     "andrewlock/NetEscapades.Configuration": [
         "Other"
     ],
@@ -2703,6 +2706,9 @@
         "Other"
     ],
     "getActivity/XXPermissions": [
+        "Other"
+    ],
+    "getdozer/dozer": [
         "Other"
     ],
     "getgridea/gridea": [
