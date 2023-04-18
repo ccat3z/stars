@@ -923,7 +923,7 @@ creating your own Awesome List by GitHub stars!
 * [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 * [ktprime/emhash](https://github.com/ktprime/emhash): a very fast and memory efficient c++ flat hash map/set
@@ -1401,7 +1401,7 @@ creating your own Awesome List by GitHub stars!
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): Multi-Cloud :cloud: Object Storage 
+* [minio/minio](https://github.com/minio/minio): High Performance Object Storage for AI
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, SEE THE LINK FOR FORK] Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
