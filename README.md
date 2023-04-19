@@ -555,6 +555,7 @@ creating your own Awesome List by GitHub stars!
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra): 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【每周末更新】
+* [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
@@ -1450,7 +1451,7 @@ creating your own Awesome List by GitHub stars!
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-* [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): Async MySQL Connector for .NET
+* [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
 * [tj/n](https://github.com/tj/n): Node version management
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
