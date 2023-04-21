@@ -113,9 +113,6 @@
     "Arduino-IRremote/Arduino-IRremote": [
         "Other"
     ],
-    "Arsen6331/lure": [
-        "Other"
-    ],
     "ArthurSonzogni/Diagon": [
         "Other"
     ],
@@ -322,6 +319,9 @@
         "Other"
     ],
     "ElaWorkshop/awesome-cn-cafe": [
+        "Other"
+    ],
+    "Elara6331/lure": [
         "Other"
     ],
     "ElderDrivers/EdXposed": [
@@ -4040,9 +4040,6 @@
         "Other"
     ],
     "ms-jpq/chadtree": [
-        "Other"
-    ],
-    "msharov/snownews": [
         "Other"
     ],
     "mskyaxl/wsl-terminal": [
