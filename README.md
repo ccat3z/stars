@@ -750,6 +750,7 @@ creating your own Awesome List by GitHub stars!
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
+* [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
 * [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
@@ -1233,6 +1234,7 @@ creating your own Awesome List by GitHub stars!
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
+* [gregrahn/join-order-benchmark](https://github.com/gregrahn/join-order-benchmark): Join Order Benchmark (JOB)
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
 * [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
 * [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
@@ -1304,6 +1306,7 @@ creating your own Awesome List by GitHub stars!
 * [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
 * [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
+* [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
@@ -1529,6 +1532,7 @@ creating your own Awesome List by GitHub stars!
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 * [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode): Official C# support for Visual Studio Code (powered by OmniSharp)
+* [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
 * [abraunegg/onedrive](https://github.com/abraunegg/onedrive): #1 Free OneDrive Client for Linux
 * [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 * [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
@@ -1837,6 +1841,7 @@ creating your own Awesome List by GitHub stars!
 * [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server Protocol implementation for Swift and C-based languages
 * [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
 * [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): Sourcetrail - free and open-source interactive source explorer
+* [christopher-l/space-bar](https://github.com/christopher-l/space-bar): GNOME Shell extension that shows workspaces buttons in top panel
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
 * [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
 * [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals): The Internals of Spark SQL
@@ -1943,7 +1948,7 @@ creating your own Awesome List by GitHub stars!
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 * [talent-plan/tinysql](https://github.com/talent-plan/tinysql): A course to build the SQL layer of a distributed database.
 * [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL): TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms)
-* [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer): :fire: Linux下C++轻量级WebServer服务器学习
+* [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer): :fire: Linux下C++轻量级WebServer服务器
 * [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
