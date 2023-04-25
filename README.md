@@ -762,6 +762,7 @@ creating your own Awesome List by GitHub stars!
 * [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
@@ -2001,6 +2002,7 @@ creating your own Awesome List by GitHub stars!
 * [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
 * [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
 * [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
+* [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard): A lightweight virtual keyboard for developers.
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
 * [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节

@@ -526,6 +526,9 @@
     "JulianChow94/Windows-screenFetch": [
         "Windows/PowerShell"
     ],
+    "Julow/Unexpected-Keyboard": [
+        "Other"
+    ],
     "JumboInteractiveLimited/redux-cache": [
         "Other"
     ],
@@ -1964,6 +1967,9 @@
         "Other"
     ],
     "coreybutler/nvm-windows": [
+        "Other"
+    ],
+    "corrosion-rs/corrosion": [
         "Other"
     ],
     "coxley/quip2md": [
