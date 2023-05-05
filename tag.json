@@ -2597,6 +2597,9 @@
     "foreversd/forever": [
         "Other"
     ],
+    "forge-ext/forge": [
+        "Other"
+    ],
     "formulahendry/944.Life": [
         "Other"
     ],
@@ -3321,9 +3324,6 @@
         "Other"
     ],
     "jmblog/how-to-optimize-momentjs-with-webpack": [
-        "Other"
-    ],
-    "jmmaranan/forge": [
         "Other"
     ],
     "jmoiron/sqlx": [

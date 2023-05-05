@@ -929,7 +929,7 @@ creating your own Awesome List by GitHub stars!
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Elvish = Expressive Programming Language + Versatile Interactive Shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
-* [ktprime/emhash](https://github.com/ktprime/emhash): a very fast and memory efficient c++ flat hash map/set
+* [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -992,7 +992,7 @@ creating your own Awesome List by GitHub stars!
 * [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK e-book reader
 * [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
-* [jmmaranan/forge](https://github.com/jmmaranan/forge): Forge - Tiling and Window Manager for Gnome-Shell
+* [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
 * [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
 * [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): Import images into Forza
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
