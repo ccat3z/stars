@@ -547,7 +547,7 @@ creating your own Awesome List by GitHub stars!
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [volatiletech/authboss](https://github.com/volatiletech/authboss): The boss of http auth.
 * [keratin/authn-server](https://github.com/keratin/authn-server): Authentication service that keeps you in control without forcing you to be an expert in web security.
-* [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi): AutoBangumi - 全自动追番工具，节约时间创造价值
+* [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi): AutoBangumi - 全自动追番工具
 * [google/autocxx](https://github.com/google/autocxx): Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 * [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
 * [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
