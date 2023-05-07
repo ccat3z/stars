@@ -850,6 +850,9 @@
     "RimoChan/smoke_of_deceit": [
         "Other"
     ],
+    "RoaringBitmap/CRoaring": [
+        "Other"
+    ],
     "RobThree/IdGen": [
         "Other"
     ],
@@ -4631,6 +4634,9 @@
     "qrohlf/trianglify": [
         "Other"
     ],
+    "quantum5/win2xcur": [
+        "Other"
+    ],
     "quartznet/quartznet": [
         "Other"
     ],
@@ -5761,6 +5767,9 @@
         "Other"
     ],
     "whitequark/python-itanium_demangler": [
+        "Other"
+    ],
+    "whoiskatrin/sql-translator": [
         "Other"
     ],
     "will-ww/IntroDaSE": [

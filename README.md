@@ -777,6 +777,7 @@ creating your own Awesome List by GitHub stars!
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
+* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
@@ -810,7 +811,7 @@ creating your own Awesome List by GitHub stars!
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com
+* [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.com 🧠 
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
@@ -1851,11 +1852,12 @@ creating your own Awesome List by GitHub stars!
 * [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles.
 * [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
 * [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
+* [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator): SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic bugs in database systems
 * [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
-* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简易脚本
+* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
@@ -2131,6 +2133,7 @@ creating your own Awesome List by GitHub stars!
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker): CloudFlare warp in docker
+* [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
 * [winfsp/winfsp](https://github.com/winfsp/winfsp): Windows File System Proxy - FUSE for Windows
