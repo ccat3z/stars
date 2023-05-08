@@ -453,7 +453,7 @@ creating your own Awesome List by GitHub stars!
 
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2021年研究生-408 
-* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short JavaScript code snippets for all your development needs
+* [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short code snippets for all your development needs
 * [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 * [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
 * [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
@@ -700,6 +700,7 @@ creating your own Awesome List by GitHub stars!
 * [bitnami/charts](https://github.com/bitnami/charts): Bitnami Helm Charts
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension): ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 * [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded SQL Engine powered by ClickHouse
 * [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
