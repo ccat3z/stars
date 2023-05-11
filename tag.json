@@ -3164,6 +3164,9 @@
     "int128/wslexec": [
         "Other"
     ],
+    "intel/x86-simd-sort": [
+        "Other"
+    ],
     "iovisor/bcc": [
         "Other"
     ],
@@ -4881,6 +4884,9 @@
         "Other"
     ],
     "scinos/yarn-deduplicate": [
+        "Other"
+    ],
+    "sciunto-org/python-bibtexparser": [
         "Other"
     ],
     "screepers/screeps-multimeter": [

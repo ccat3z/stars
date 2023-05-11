@@ -633,7 +633,7 @@ creating your own Awesome List by GitHub stars!
 * [plk/biblatex](https://github.com/plk/biblatex): biblatex is a sophisticated bibliography system for LaTeX users. It has considerably more features than traditional bibtex and supports UTF-8
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming): 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 * [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat): Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
-* [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): A simple extension that enables Bing ChatGPT on Chrome and Firefox.
+* [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): ✅ A simple extension that enables Bing ChatGPT on Chrome and Firefox
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
@@ -1673,6 +1673,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
+* [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser): Bibtex parser for Python 3
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 * [whitequark/python-itanium_demangler](https://github.com/whitequark/python-itanium_demangler): Pure Python Itanium C++ ABI demangler
@@ -2157,6 +2158,7 @@ creating your own Awesome List by GitHub stars!
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
+* [intel/x86-simd-sort](https://github.com/intel/x86-simd-sort): C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes
 * [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server
 * [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
