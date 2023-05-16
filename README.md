@@ -886,6 +886,7 @@ creating your own Awesome List by GitHub stars!
 * [cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
 * [docker/dockercraft](https://github.com/docker/dockercraft): Docker + Minecraft = Dockercraft
 * [docopt/docopt.go](https://github.com/docopt/docopt.go): A command-line arguments parser that will make you smile.
+* [tobya/DocTo](https://github.com/tobya/DocTo): Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF
 * [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
@@ -1655,6 +1656,7 @@ creating your own Awesome List by GitHub stars!
 * [Matoking/protontricks](https://github.com/Matoking/protontricks): A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 * [csujedihy/proximac](https://github.com/csujedihy/proximac): An open-source alternative to proxifier
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down): http下载工具，基于http代理，支持多连接分块下载
+* [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE): Module to compile powershell scripts to executables
 * [davidquinn/psi-header](https://github.com/davidquinn/psi-header): Configurable file header and changes tracking extension for VSCode
 * [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
@@ -1825,7 +1827,7 @@ creating your own Awesome List by GitHub stars!
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): Build Your Eternal Digital Garden
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
