@@ -1813,7 +1813,7 @@ creating your own Awesome List by GitHub stars!
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
+* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
