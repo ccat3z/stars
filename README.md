@@ -688,6 +688,7 @@ creating your own Awesome List by GitHub stars!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+* [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp): Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 * [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
@@ -2215,6 +2216,7 @@ creating your own Awesome List by GitHub stars!
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
+* [SiriusXT/Zotero-Scholar-Rank](https://github.com/SiriusXT/Zotero-Scholar-Rank): Zotero显示CCF分区，JCR分区，影响因子, 中科院分区。
 * [ethanwillis/zotero-scihub](https://github.com/ethanwillis/zotero-scihub): A plugin that will automatically download PDFs of zotero items from sci-hub
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm): Zpm— Zsh Plugin Manager
