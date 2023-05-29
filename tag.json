@@ -1090,6 +1090,9 @@
     "VictoriaMetrics/fastcache": [
         "Other"
     ],
+    "Vishram1123/gjs-osk": [
+        "Other"
+    ],
     "Volmarg/personal-management-system": [
         "Other"
     ],
@@ -3000,6 +3003,12 @@
         "Other"
     ],
     "harness/drone-cli": [
+        "Other"
+    ],
+    "harshadgavali/gnome-gesture-improvements": [
+        "Other"
+    ],
+    "harshadgavali/gnome-x11-gesture-daemon": [
         "Other"
     ],
     "hashicorp/consul": [

@@ -1062,6 +1062,7 @@ creating your own Awesome List by GitHub stars!
 * [Byron/gitoxide](https://github.com/Byron/gitoxide): An idiomatic, lean, fast & safe pure Rust implementation of Git
 * [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [optimisme/gjs-examples](https://github.com/optimisme/gjs-examples): GJS examples showing how to build Gtk javascript applications
+* [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 43+
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [solo-io/gloo](https://github.com/solo-io/gloo): The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
@@ -1070,6 +1071,7 @@ creating your own Awesome List by GitHub stars!
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 * [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi): Live Wallpaper for GNOME
+* [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
 * [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
@@ -1087,6 +1089,7 @@ creating your own Awesome List by GitHub stars!
 * [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
 * [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
 * [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
+* [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
 * [alexflint/go-arg](https://github.com/alexflint/go-arg): Struct-based argument parsing in Go
