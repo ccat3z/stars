@@ -748,9 +748,6 @@
     "OmniSharp/omnisharp-roslyn": [
         "Other"
     ],
-    "OmniSharp/omnisharp-vscode": [
-        "Other"
-    ],
     "OneDrive/onedrive-sdk-python": [
         "Python/API"
     ],
@@ -2285,6 +2282,9 @@
         ".NET/.NET Core/ASP.NET Core"
     ],
     "dotnet/reactive": [
+        "Other"
+    ],
+    "dotnet/vscode-csharp": [
         "Other"
     ],
     "dragoonDorise/EmuDeck": [
