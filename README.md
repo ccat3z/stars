@@ -728,7 +728,7 @@ creating your own Awesome List by GitHub stars!
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
-* [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
+* [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -939,7 +939,7 @@ creating your own Awesome List by GitHub stars!
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck): Emulator configurator for Steam Deck
-* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Connectivity and Security for your Microservice at Kubernetes Ingress using one helm command. Built on Envoy Proxy.
+* [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
 * [cup-of-tea-dot-be/entity-framework-core-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
@@ -2207,7 +2207,7 @@ creating your own Awesome List by GitHub stars!
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
-* [fankes/YukiHookAPI](https://github.com/fankes/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+* [fankes/YukiHookAPI](https://github.com/fankes/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin. / 一个使用 Kotlin 构建的高效 Hook API 与 Xposed 模块解决方案。
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 * [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo): 同步语雀的文章到你的 Hexo 项目吧！
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
