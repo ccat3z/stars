@@ -1189,9 +1189,6 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
-    "aaronleopold/stump": [
-        "Other"
-    ],
     "aarowill/base16-alacritty": [
         "Other"
     ],
@@ -1217,6 +1214,9 @@
         "Other"
     ],
     "ad-m/github-push-action": [
+        "Other"
+    ],
+    "ada-url/ada": [
         "Other"
     ],
     "adafruit/Adafruit_NeoPixel": [
@@ -4859,6 +4859,9 @@
     "rustdesk/rustdesk": [
         "Other"
     ],
+    "rustlang-cn/rust-weekly": [
+        "Other"
+    ],
     "rxin/db-readings": [
         "Other"
     ],
@@ -5205,6 +5208,9 @@
     "studyzy/imewlconverter": [
         "Utility"
     ],
+    "stumpapp/stump": [
+        "Other"
+    ],
     "stv0g/stm32cube-gcc": [
         "Other"
     ],
@@ -5395,6 +5401,9 @@
         "Other"
     ],
     "tinysearch/tinysearch": [
+        "Other"
+    ],
+    "tip-of-the-week/cpp": [
         "Other"
     ],
     "tipsy/j2html": [

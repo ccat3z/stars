@@ -462,6 +462,7 @@ creating your own Awesome List by GitHub stars!
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
+* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++
 * [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard): Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
@@ -768,6 +769,7 @@ creating your own Awesome List by GitHub stars!
 * [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+* [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
 * [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》- 翻译中
 * [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
@@ -1768,6 +1770,7 @@ creating your own Awesome List by GitHub stars!
 * [WayneD/rsync](https://github.com/WayneD/rsync): An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023春夏季开源操作系统训练营
+* [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -1879,7 +1882,7 @@ creating your own Awesome List by GitHub stars!
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 * [stv0g/stm32cube-gcc](https://github.com/stv0g/stm32cube-gcc): A developement environment for projects based on the STM32Cube firmware.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
-* [aaronleopold/stump](https://github.com/aaronleopold/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
+* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 * [refi64/stylepak](https://github.com/refi64/stylepak): Automatically install your host GTK+ theme as a Flatpak
