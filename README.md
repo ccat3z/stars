@@ -667,8 +667,9 @@ creating your own Awesome List by GitHub stars!
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
-* [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud-native data warehouse
+* [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
+* [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
 * [bytebase/bytebase](https://github.com/bytebase/bytebase): Database DevOps and CI/CD for teams. https://www.bytebase.com
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
@@ -975,6 +976,7 @@ creating your own Awesome List by GitHub stars!
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
+* [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations): Firefox Translations is a webextension that enables client side translations for web browsers.
@@ -1286,7 +1288,7 @@ creating your own Awesome List by GitHub stars!
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller): :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
-* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
+* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
 * [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart): 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 * [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE

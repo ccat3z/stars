@@ -1540,6 +1540,9 @@
     "awesome-selfhosted/awesome-selfhosted": [
         "Other"
     ],
+    "axboe/fio": [
+        "Other"
+    ],
     "axios/axios": [
         "Other"
     ],
@@ -3486,6 +3489,9 @@
         "Other"
     ],
     "kcp-dev/kcp": [
+        "Other"
+    ],
+    "kdlucas/byte-unixbench": [
         "Other"
     ],
     "kdrag0n/safetynet-fix": [
