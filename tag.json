@@ -1066,6 +1066,9 @@
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
     ],
+    "TsinghuaDatabaseGroup/AIDB": [
+        "Other"
+    ],
     "Tudmotu/gnome-shell-extension-clipboard-indicator": [
         "Other"
     ],

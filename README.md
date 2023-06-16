@@ -469,6 +469,7 @@ creating your own Awesome List by GitHub stars!
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [avanisubbiah/adwaita-materialu](https://github.com/avanisubbiah/adwaita-materialu): Utility to generate adwaita presets for use with AdwCustomizer from images using Google's MaterialU color generator.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
+* [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
 * [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and GTK
