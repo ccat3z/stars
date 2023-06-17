@@ -2185,9 +2185,6 @@
     "desandro/masonry": [
         "Other"
     ],
-    "desiderantes/awesome-vala": [
-        "Other"
-    ],
     "devlooped/GitInfo": [
         "Other"
     ],
@@ -5610,6 +5607,9 @@
     "vadimcn/codelldb": [
         "Other"
     ],
+    "vala-lang/awesome-vala": [
+        "Other"
+    ],
     "vala-lang/vala-language-server": [
         "Other"
     ],
@@ -5824,6 +5824,9 @@
         "Other"
     ],
     "wgwoods/vim-systemd-syntax": [
+        "Other"
+    ],
+    "wheybags/glibc_version_header": [
         "Other"
     ],
     "whitequark/python-itanium_demangler": [
