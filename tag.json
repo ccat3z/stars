@@ -2020,6 +2020,9 @@
     "crossoverJie/JCSprout": [
         "Other"
     ],
+    "crosstool-ng/crosstool-ng": [
+        "Other"
+    ],
     "cryptomator/cryptomator": [
         "Other"
     ],
@@ -2889,6 +2892,9 @@
         "Other"
     ],
     "google/googletest": [
+        "Other"
+    ],
+    "google/highway": [
         "Other"
     ],
     "google/leveldb": [

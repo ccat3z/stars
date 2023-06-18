@@ -791,6 +791,7 @@ creating your own Awesome List by GitHub stars!
 * [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
 * [vmware-archive/cron-resource](https://github.com/vmware-archive/cron-resource): None
 * [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions
+* [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng): A versatile (cross-)toolchain generator.
 * [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
 * [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
@@ -1177,6 +1178,7 @@ creating your own Awesome List by GitHub stars!
 * [sharkdp/hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
 * [jeffshee/hidamari](https://github.com/jeffshee/hidamari): Video wallpaper for Linux. Written in Python. 🐍
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
+* [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 * [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
