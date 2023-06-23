@@ -1271,7 +1271,7 @@ creating your own Awesome List by GitHub stars!
 * [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 * [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
-* [kcp-dev/kcp](https://github.com/kcp-dev/kcp): kcp is a Kubernetes-like control plane for workloads on many clusters
+* [kcp-dev/kcp](https://github.com/kcp-dev/kcp): Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 * [skywind3000/kcp](https://github.com/skywind3000/kcp): :zap: KCP - A Fast and Reliable ARQ Protocol
 * [Inokinoki/kde-blog](https://github.com/Inokinoki/kde-blog): None
 * [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android): Native Android port of the KDE Connect Qt app
