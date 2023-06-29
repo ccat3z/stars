@@ -706,7 +706,7 @@ creating your own Awesome List by GitHub stars!
 * [bitnami/charts](https://github.com/bitnami/charts): Bitnami Helm Charts
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension): ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 * [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
-* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded SQL Engine powered by ClickHouse
+* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powered by ClickHouse
 * [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
@@ -1794,6 +1794,7 @@ creating your own Awesome List by GitHub stars!
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: 
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
+* [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)
 * [scala/scala](https://github.com/scala/scala): Scala 2 compiler and standard library. For bugs, see scala/bug
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
@@ -1842,7 +1843,7 @@ creating your own Awesome List by GitHub stars!
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
