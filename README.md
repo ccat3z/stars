@@ -770,6 +770,7 @@ creating your own Awesome List by GitHub stars!
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+* [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 * [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
@@ -1547,6 +1548,7 @@ creating your own Awesome List by GitHub stars!
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * [DDoSolitary/OkcAgent](https://github.com/DDoSolitary/OkcAgent): A utility that makes OpenKeychain available in your Termux shell
+* [kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance): OLAP Database Performance Tuning Guide
 * [oltpbenchmark/oltpbench](https://github.com/oltpbenchmark/oltpbench): Database Benchmarking Framework
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
@@ -1568,7 +1570,7 @@ creating your own Awesome List by GitHub stars!
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): An Org-mode query language, including search commands and saved views
-* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.7+.
+* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.8+.
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 * [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
@@ -1630,6 +1632,7 @@ creating your own Awesome List by GitHub stars!
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
 * [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
+* [Freed-Wu/pkgbuild-language-server](https://github.com/Freed-Wu/pkgbuild-language-server): PKGBUILD language server
 * [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting): The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 * [plantuml/plantuml](https://github.com/plantuml/plantuml): Generate diagrams from textual description
 * [sindresorhus/Plash](https://github.com/sindresorhus/Plash): 💦 Make any website your Mac desktop wallpaper
@@ -1881,6 +1884,8 @@ creating your own Awesome List by GitHub stars!
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
+* [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
+* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
@@ -2213,11 +2218,13 @@ creating your own Awesome List by GitHub stars!
 * [wormtql/yas](https://github.com/wormtql/yas): Superfast Genshin Impact artifacts scanner
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
+* [3Shain/yet-another-anime-game-launcher](https://github.com/3Shain/yet-another-anime-game-launcher): Believe me it's just a playcover launcher. Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
+* [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform.
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
 * [fankes/YukiHookAPI](https://github.com/fankes/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
