@@ -454,6 +454,7 @@ creating your own Awesome List by GitHub stars!
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2021年研究生-408 
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code): Short code snippets for all your development needs
+* [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one): 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
 * [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 * [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
 * [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
