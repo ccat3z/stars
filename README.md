@@ -1763,7 +1763,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): 🚀 SQL stream processing with Postgres-like experience. 🪄 10X faster and more cost-efficient than Apache Flink.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -1829,7 +1829,7 @@ creating your own Awesome List by GitHub stars!
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 * [shanghai2022/shanghai2022](https://github.com/shanghai2022/shanghai2022): 上海2022抗疫互助
 * [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge): 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
-* [apache/shardingsphere](https://github.com/apache/shardingsphere): Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
+* [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
