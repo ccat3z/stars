@@ -1212,6 +1212,7 @@ creating your own Awesome List by GitHub stars!
 * [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
 * [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for orientation, theme, font, input mode and clipboard history.
+* [icelake-io/icelake](https://github.com/icelake-io/icelake): Pure Rust Iceberg Implementation
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
 * [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
@@ -1824,6 +1825,7 @@ creating your own Awesome List by GitHub stars!
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
+* [horshack-dpreview/setPL](https://github.com/horshack-dpreview/setPL): Set PL1 and PL2 power limits for modern Intel processors running on Linux
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
@@ -2237,6 +2239,7 @@ creating your own Awesome List by GitHub stars!
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [google/zetasql](https://github.com/google/zetasql): ZetaSQL - Analyzer Framework for SQL
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
+* [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao): 知乎去广告Xposed模块
 * [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
 * [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
