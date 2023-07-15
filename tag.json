@@ -2549,6 +2549,9 @@
     "facebookincubator/velox": [
         "Other"
     ],
+    "facebookresearch/faiss": [
+        "Other"
+    ],
     "fankes/AndroidNotifyIconAdapt": [
         "Other"
     ],
