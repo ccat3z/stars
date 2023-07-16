@@ -1496,7 +1496,7 @@ creating your own Awesome List by GitHub stars!
 * [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
 * [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): Real-time performance monitoring, done right! https://www.netdata.cloud
+* [netdata/netdata](https://github.com/netdata/netdata): Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning, and machine learning models
