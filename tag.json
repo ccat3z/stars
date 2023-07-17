@@ -691,6 +691,9 @@
     "MicheleBertoli/css-in-js": [
         "Other"
     ],
+    "Mikubill/sd-webui-controlnet": [
+        "Other"
+    ],
     "MinaMichita/MiuiEULocalizationToolsBox": [
         "Other"
     ],
@@ -1263,6 +1266,9 @@
     ],
     "aemkei/jsfuck": [
         "JavaScript"
+    ],
+    "afatcoder/LeetcodeTop": [
+        "Other"
     ],
     "afloren/openconnect-socks-proxy": [
         "Other"
@@ -6109,6 +6115,9 @@
         "Other"
     ],
     "ziahamza/webui-aria2": [
+        "Other"
+    ],
+    "zizifn/edgetunnel": [
         "Other"
     ],
     "zotero/zotero": [
