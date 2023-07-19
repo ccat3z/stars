@@ -969,6 +969,7 @@ creating your own Awesome List by GitHub stars!
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
+* [markusressel/fan2go](https://github.com/markusressel/fan2go): A simple daemon providing dynamic fan speed control based on temperature sensors.
 * [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for float and double types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
@@ -1498,7 +1499,7 @@ creating your own Awesome List by GitHub stars!
 * [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
 * [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+* [netdata/netdata](https://github.com/netdata/netdata): Monitor your servers, containers, and applications, in high-resolution and in real-time!
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning, and machine learning models
