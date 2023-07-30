@@ -1466,7 +1466,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
 * [monyhar/monyhar](https://github.com/monyhar/monyhar): 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
-* [moq/moq](https://github.com/moq/moq): Repo for managing Moq 4.x 
+* [moq/moq](https://github.com/moq/moq): The most popular and friendly mocking framework for .NET
 * [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
 * [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
