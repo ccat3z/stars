@@ -728,6 +728,7 @@ creating your own Awesome List by GitHub stars!
 * [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
 * [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
+* [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
@@ -1208,7 +1209,6 @@ creating your own Awesome List by GitHub stars!
 * [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react): A lightweight library that converts raw HTML to a React DOM structure.
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
 * [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
-* [httpie/httpie](https://github.com/httpie/httpie): 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [cpp-pm/hunter](https://github.com/cpp-pm/hunter): CMake driven cross-platform package manager for C/C++.
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!

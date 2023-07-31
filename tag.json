@@ -3146,7 +3146,7 @@
     "http-party/http-server": [
         "Other"
     ],
-    "httpie/httpie": [
+    "httpie/cli": [
         "Other"
     ],
     "huachaohuang/awesome-dbdev": [
