@@ -687,6 +687,7 @@ creating your own Awesome List by GitHub stars!
 * [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
 * [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
+* [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library
 * [carbon-app/carbon](https://github.com/carbon-app/carbon): :black_heart: Create and share beautiful images of your source code
 * [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
 * [apache/cassandra](https://github.com/apache/cassandra): Mirror of Apache Cassandra
