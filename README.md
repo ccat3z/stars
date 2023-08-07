@@ -1237,6 +1237,7 @@ creating your own Awesome List by GitHub stars!
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
 * [apache/incubator-opendal](https://github.com/apache/incubator-opendal): Apache OpenDAL: access data freely.
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
+* [xorbitsai/inference](https://github.com/xorbitsai/inference): Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
