@@ -1405,10 +1405,10 @@
     "anntzer/pypi2pkgbuild": [
         "Other"
     ],
-    "ansible-community/molecule": [
+    "ansible/ansible": [
         "Other"
     ],
-    "ansible/ansible": [
+    "ansible/molecule": [
         "Other"
     ],
     "ant-design/ant-design-charts": [
@@ -1916,6 +1916,9 @@
         "Other"
     ],
     "claytongulick/bit-sync": [
+        "Other"
+    ],
+    "cloudberrydb/cloudberrydb": [
         "Other"
     ],
     "cloudreve/Cloudreve": [
@@ -6001,6 +6004,9 @@
         "Other"
     ],
     "xournalpp/xournalpp": [
+        "Other"
+    ],
+    "xtermjs/xterm.js": [
         "Other"
     ],
     "xuhdev/vim-latex-live-preview": [
