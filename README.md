@@ -1328,7 +1328,7 @@ creating your own Awesome List by GitHub stars!
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
-* [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-codetop
+* [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥
 * [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
 * [lerna/lerna](https://github.com/lerna/lerna): :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
@@ -2009,7 +2009,7 @@ creating your own Awesome List by GitHub stars!
 * [danielnixon/total-functions](https://github.com/danielnixon/total-functions): A collection of total functions to replace TypeScript's built-in partial functions.
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
-* [tqdm/tqdm](https://github.com/tqdm/tqdm): A Fast, Extensible Progress Bar for Python and CLI
+* [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
 * [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth): None
