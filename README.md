@@ -116,7 +116,7 @@ creating your own Awesome List by GitHub stars!
 
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET and the .NET Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
-* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 7.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
 ### EF Core
 
@@ -2043,7 +2043,7 @@ creating your own Awesome List by GitHub stars!
 * [wangyu-/udp2raw-multiplatform](https://github.com/wangyu-/udp2raw-multiplatform): multi-platform(cross-platform) version of udp2raw-tunnel, which supports Windows/Mac/BSD natively. Client-Only at the moment.
 * [astroza/udptunnel](https://github.com/astroza/udptunnel): It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions.
 * [taki0112/UGATIT](https://github.com/taki0112/UGATIT): Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-* [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Linux Application Launcher 🇺🇦
+* [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher): Feature rich application Launcher for Linux
 * [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Lightweight, high-performance HTML renderer for game and app developers.
 * [umdjs/umd](https://github.com/umdjs/umd): UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 * [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
