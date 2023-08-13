@@ -1352,7 +1352,7 @@ creating your own Awesome List by GitHub stars!
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 * [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
-* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, typically on macOS, for running containerd
+* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [ronv/lines](https://github.com/ronv/lines): Minimalist and simple theme for Hugo
 * [bjcull/LinqExpander](https://github.com/bjcull/LinqExpander): A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions.
@@ -1797,7 +1797,7 @@ creating your own Awesome List by GitHub stars!
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023春夏季开源操作系统训练营
 * [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source alternative to TeamViewer.
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
