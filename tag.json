@@ -1285,6 +1285,9 @@
     "ahrm/sioyek": [
         "Other"
     ],
+    "aiberia/persistent-evdev": [
+        "Other"
+    ],
     "ailidani/paxi": [
         "Other"
     ],
@@ -3971,6 +3974,9 @@
         "Other"
     ],
     "mchehab/zbar": [
+        "Other"
+    ],
+    "mciupak/libvirt-evdev": [
         "Other"
     ],
     "mcuadros/ofelia": [

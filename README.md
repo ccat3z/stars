@@ -127,7 +127,7 @@ creating your own Awesome List by GitHub stars!
 * [kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese): Android官方培训课程中文版
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO): greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 * [skylot/jadx](https://github.com/skylot/jadx): Dex to Java decompiler
-* [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 12.0 in business version)
+* [asLody/VirtualApp](https://github.com/asLody/VirtualApp): Virtual Engine for Android(Support 14.0 in business version)
 
 ## APP
 
@@ -1343,6 +1343,7 @@ creating your own Awesome List by GitHub stars!
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
+* [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
 * [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
 * [liriliri/licia](https://github.com/liriliri/licia): Useful utility collection with zero dependencies
 * [tuberry/light-dict](https://github.com/tuberry/light-dict): Lightweight extension for on-the-fly manipulation to primary selections, especially optimized for Dictionary lookups.
@@ -1629,6 +1630,7 @@ creating your own Awesome List by GitHub stars!
 * [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
+* [aiberia/persistent-evdev](https://github.com/aiberia/persistent-evdev): None
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data. <personal.management.system.pms@gmail.com>
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
