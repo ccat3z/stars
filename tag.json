@@ -2867,6 +2867,9 @@
     "gmg137/netease-cloud-music-gtk": [
         "Other"
     ],
+    "gnif/LookingGlass": [
+        "Other"
+    ],
     "gnurag/openshift-origin-cartridge-httpd-proxy": [
         "OpenShift"
     ],
@@ -2946,6 +2949,9 @@
         "Other"
     ],
     "google/sanitizers": [
+        "Other"
+    ],
+    "google/tcmalloc": [
         "Other"
     ],
     "google/wire": [
@@ -3577,6 +3583,9 @@
     ],
     "keybuk/libnih": [
         "C"
+    ],
+    "keylase/nvidia-patch": [
+        "Other"
     ],
     "kgshank/gse-refresh-wifi": [
         "Other"

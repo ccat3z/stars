@@ -1376,6 +1376,7 @@ creating your own Awesome List by GitHub stars!
 * [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader): A simple app for viewing logs on an android device.
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
+* [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io): None
@@ -1545,6 +1546,7 @@ creating your own Awesome List by GitHub stars!
 * [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker): New version checker for software releases
+* [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1904,7 +1906,7 @@ creating your own Awesome List by GitHub stars!
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
-* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
+* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
@@ -1953,6 +1955,7 @@ creating your own Awesome List by GitHub stars!
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
+* [google/tcmalloc](https://github.com/google/tcmalloc): None
 * [noctuid/tdrop](https://github.com/noctuid/tdrop): A Glorified WM-Independent Dropdown Creator
 * [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers
 * [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme): A flat colorful Design icon theme
