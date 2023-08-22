@@ -1225,6 +1225,7 @@ creating your own Awesome List by GitHub stars!
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
 * [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
+* [ge9/IddSampleDriver](https://github.com/ge9/IddSampleDriver): Add virtual monitors to your windows 10 device! Works with Oculus software, obs, and any desktop sharing software
 * [RobThree/IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic): 网易云音乐第三方
 * [iglance/iGlance](https://github.com/iglance/iGlance): Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
