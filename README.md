@@ -971,6 +971,7 @@ creating your own Awesome List by GitHub stars!
 * [Fausto-Korpsvart/Everforest-GTK-Theme](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme): Everforest colour palette for GTK
 * [emacs-evil/evil](https://github.com/emacs-evil/evil): The extensible vi layer for Emacs.
 * [39aldo39/Evolution-DecSync](https://github.com/39aldo39/Evolution-DecSync): Evolution plugin to sync contacts and calendars without a server using DecSync
+* [KarsMulder/evsieve](https://github.com/KarsMulder/evsieve): A utility for mapping events from Linux event devices.
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
 * [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
@@ -1660,7 +1661,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
 * [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
-* [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A hugh collection (80+) of plymouth themes ported from android bootanimations
+* [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A huge collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
