@@ -1459,6 +1459,9 @@
     "apache/incubator-opendal": [
         "Other"
     ],
+    "apache/orc": [
+        "Other"
+    ],
     "apache/shardingsphere": [
         "Other"
     ],
