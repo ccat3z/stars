@@ -1785,6 +1785,7 @@ creating your own Awesome List by GitHub stars!
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The distributed streaming database: SQL stream processing with Postgres-like experience 🪄. 10X faster and more cost-efficient than Apache Flink 🚀.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
+* [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
@@ -1827,6 +1828,7 @@ creating your own Awesome List by GitHub stars!
 * [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop): A command-line installer for Windows.
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
+* [duncanthrax/scream](https://github.com/duncanthrax/scream): Virtual network sound card for Microsoft Windows
 * [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
