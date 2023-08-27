@@ -1446,7 +1446,7 @@ creating your own Awesome List by GitHub stars!
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
 * [minio/minio](https://github.com/minio/minio): High Performance Object Storage for AI
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
-* [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, SEE THE LINK FOR FORK] Let supported push service run system-ly on every Android devices
+* [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
