@@ -1369,7 +1369,7 @@ creating your own Awesome List by GitHub stars!
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 * [y1yang0/llmd](https://github.com/y1yang0/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
-* [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+* [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner): Dynamically provisioning persistent local storage with Kubernetes
 * [replicatedhq/local-volume-provider](https://github.com/replicatedhq/local-volume-provider): A Velero plugin for backup/restore directly to Kubernetes volumes.
 * [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator): Yet Another System Region and Language Simulator
