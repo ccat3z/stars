@@ -2134,6 +2134,9 @@
     "danmactough/node-feedparser": [
         "Other"
     ],
+    "danny-avila/LibreChat": [
+        "Other"
+    ],
     "darknessomi/musicbox": [
         "Utility"
     ],
@@ -3480,6 +3483,9 @@
         "Other"
     ],
     "jorgebucaran/fisher": [
+        "Other"
+    ],
+    "josStorer/chatGPTBox": [
         "Other"
     ],
     "jotaen/xit": [
@@ -5878,6 +5884,9 @@
         "Other"
     ],
     "waydroid/waydroid": [
+        "Other"
+    ],
+    "waylaidwanderer/node-chatgpt-api": [
         "Other"
     ],
     "weaveworks/scope": [
