@@ -1414,6 +1414,9 @@
     "ansible/molecule": [
         "Other"
     ],
+    "ansuz/RIIR": [
+        "Other"
+    ],
     "ant-design/ant-design-charts": [
         "Other"
     ],
@@ -5536,6 +5539,9 @@
         "Java"
     ],
     "tj/n": [
+        "Other"
+    ],
+    "tjy-gitnub/win12": [
         "Other"
     ],
     "tkem/cachetools": [

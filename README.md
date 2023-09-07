@@ -909,7 +909,7 @@ creating your own Awesome List by GitHub stars!
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
-* [getdozer/dozer](https://github.com/getdozer/dozer): Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
+* [getdozer/dozer](https://github.com/getdozer/dozer): Dozer is a real-time data platform for building, deploying and maintaining data products.
 * [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
@@ -1220,7 +1220,7 @@ creating your own Awesome List by GitHub stars!
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [hydradatabase/hydra](https://github.com/hydradatabase/hydra): Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 * [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
-* [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+* [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
 * [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for orientation, theme, font, input mode and clipboard history.
 * [icelake-io/icelake](https://github.com/icelake-io/icelake): Pure Rust Iceberg Implementation
@@ -1783,6 +1783,7 @@ creating your own Awesome List by GitHub stars!
 * [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
 * [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
+* [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
@@ -2191,6 +2192,7 @@ creating your own Awesome List by GitHub stars!
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker): CloudFlare warp in docker
+* [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
