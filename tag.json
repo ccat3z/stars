@@ -745,9 +745,6 @@
     "NervJS/taro": [
         "Other"
     ],
-    "NetApp/beegfs-csi-driver": [
-        "Other"
-    ],
     "NicoleMayer/zotero-save-with-tag": [
         "Other"
     ],
@@ -1052,6 +1049,9 @@
         "Other"
     ],
     "TheR1D/shell_gpt": [
+        "Other"
+    ],
+    "ThinkParQ/beegfs-csi-driver": [
         "Other"
     ],
     "ThirtyDegreesRay/OpenHub": [

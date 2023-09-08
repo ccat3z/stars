@@ -622,12 +622,12 @@ creating your own Awesome List by GitHub stars!
 * [google/bbr](https://github.com/google/bbr): None
 * [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-* [NetApp/beegfs-csi-driver](https://github.com/NetApp/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
+* [ThinkParQ/beegfs-csi-driver](https://github.com/ThinkParQ/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
 * [google/benchmark](https://github.com/google/benchmark): A microbenchmark support library
 * [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
-* [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): mirror of benchmarksql on github
+* [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): Unofficial mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip): 查找适合自己当前网络环境的优选cloudflare anycast IP
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -1593,7 +1593,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
-* [alphapapa/org-ql](https://github.com/alphapapa/org-ql): An Org-mode query language, including search commands and saved views
+* [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 * [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.8+.
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
