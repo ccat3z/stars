@@ -1577,7 +1577,7 @@ creating your own Awesome List by GitHub stars!
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 * [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
-* [abraunegg/onedrive](https://github.com/abraunegg/onedrive): #1 Free OneDrive Client for Linux
+* [abraunegg/onedrive](https://github.com/abraunegg/onedrive): OneDrive Client for Linux
 * [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 * [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
@@ -2085,7 +2085,7 @@ creating your own Awesome List by GitHub stars!
 * [Magisk-Modules-Repo/v2ray](https://github.com/Magisk-Modules-Repo/v2ray): v2ray core
 * [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core): A platform for building proxies to bypass network restrictions.
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG): A V2Ray client for Android, support Xray core and v2fly core
-* [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+* [yanue/V2rayU](https://github.com/yanue/V2rayU): V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 * [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
 * [v8/v8](https://github.com/v8/v8): The official mirror of the V8 Git repository
 * [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments.
