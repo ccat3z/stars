@@ -212,9 +212,6 @@
     "CollegesChat/university-information": [
         "Other"
     ],
-    "ContainerSolutions/trow": [
-        "Other"
-    ],
     "CrowCpp/Crow": [
         "Other"
     ],
@@ -1077,6 +1074,9 @@
     ],
     "TriggerAu/KerbalAlarmClock": [
         "Game/KSP"
+    ],
+    "Trow-Registry/trow": [
+        "Other"
     ],
     "TsinghuaDatabaseGroup/AIDB": [
         "Other"
