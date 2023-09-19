@@ -1097,7 +1097,7 @@ creating your own Awesome List by GitHub stars!
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
 * [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine): Disable screensaver and auto suspend
-* [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
+* [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator): The most popular clipboard manager for GNOME, with over 1M downloads
 * [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect): KDE Connect implementation for GNOME
 * [michael-rapp/gnome-shell-extension-hide-app-icon](https://github.com/michael-rapp/gnome-shell-extension-hide-app-icon): A GNOME shell extension, which allows to hide the icon and/or title of the focused application in the top panel
 * [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch): Add a useless notch to your screen.
@@ -1595,6 +1595,7 @@ creating your own Awesome List by GitHub stars!
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
+* [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 * [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.8+.
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
@@ -2302,7 +2303,7 @@ creating your own Awesome List by GitHub stars!
 * [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
 * [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
-* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql and sqlite
+* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
 * [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python 2.x/3.x bindings for libfuse 2.x
