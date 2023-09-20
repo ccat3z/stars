@@ -5265,6 +5265,9 @@
     "sparksuite/simplemde-markdown-editor": [
         "Other"
     ],
+    "spdk/spdk": [
+        "Other"
+    ],
     "spf13/cobra": [
         "Other"
     ],
