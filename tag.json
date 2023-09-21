@@ -2236,6 +2236,9 @@
     "devlooped/GitInfo": [
         "Other"
     ],
+    "devlooped/moq": [
+        "Other"
+    ],
     "devoxx/JavaRoadmap": [
         "Other"
     ],
@@ -4184,9 +4187,6 @@
         "Other"
     ],
     "moovweb/gvm": [
-        "Other"
-    ],
-    "moq/moq": [
         "Other"
     ],
     "mortennobel/cpp-cheatsheet": [
