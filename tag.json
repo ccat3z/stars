@@ -3086,10 +3086,10 @@
     "hardpixel/unite-shell": [
         "Other"
     ],
-    "harness/drone": [
+    "harness/drone-cli": [
         "Other"
     ],
-    "harness/drone-cli": [
+    "harness/gitness": [
         "Other"
     ],
     "harshadgavali/gnome-gesture-improvements": [
