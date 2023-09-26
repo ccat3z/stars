@@ -194,6 +194,9 @@
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
     ],
+    "ClangBuiltLinux/tc-build": [
+        "Other"
+    ],
     "ClickHouse/ClickHouse": [
         "Other"
     ],
@@ -1463,6 +1466,9 @@
         "Other"
     ],
     "apache/incubator-opendal": [
+        "Other"
+    ],
+    "apache/incubator-pegasus": [
         "Other"
     ],
     "apache/orc": [
@@ -3932,6 +3938,9 @@
         "Other"
     ],
     "manisandro/gImageReader": [
+        "Other"
+    ],
+    "manticoresoftware/manticoresearch": [
         "Other"
     ],
     "maralla/completor.vim": [

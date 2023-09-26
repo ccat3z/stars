@@ -1241,6 +1241,7 @@ creating your own Awesome List by GitHub stars!
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
 * [apache/incubator-opendal](https://github.com/apache/incubator-opendal): Apache OpenDAL: access data freely.
+* [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
 * [xorbitsai/inference](https://github.com/xorbitsai/inference): Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
@@ -1408,6 +1409,7 @@ creating your own Awesome List by GitHub stars!
 * [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 * [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps
 * [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -1967,6 +1969,7 @@ creating your own Awesome List by GitHub stars!
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
+* [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
 * [google/tcmalloc](https://github.com/google/tcmalloc): None
 * [noctuid/tdrop](https://github.com/noctuid/tdrop): A Glorified WM-Independent Dropdown Creator
 * [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers
