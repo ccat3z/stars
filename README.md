@@ -1014,7 +1014,7 @@ creating your own Awesome List by GitHub stars!
 * [fmtlib/fmt](https://github.com/fmtlib/fmt): A modern formatting library
 * [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
-* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): A simple and modern GTK e-book reader
+* [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style
 * [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
@@ -1380,7 +1380,7 @@ creating your own Awesome List by GitHub stars!
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [square/logcat](https://github.com/square/logcat): I CAN HAZ LOGZ?
 * [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader): A simple app for viewing logs on an android device.
-* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.
+* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on Google BigQuery, PostgreSQL and SQLite.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
@@ -1598,7 +1598,7 @@ creating your own Awesome List by GitHub stars!
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 * [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.8+.
+* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.9+.
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 * [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
