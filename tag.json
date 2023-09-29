@@ -4430,6 +4430,9 @@
     "oap-project/gluten": [
         "Other"
     ],
+    "obs-ai/obs-backgroundremoval": [
+        "Other"
+    ],
     "oceanbase/oceanbase": [
         "Other"
     ],
@@ -4969,9 +4972,6 @@
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
-    ],
-    "royshil/obs-backgroundremoval": [
-        "Other"
     ],
     "rpardini/docker-registry-proxy": [
         "Other"
