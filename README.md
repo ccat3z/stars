@@ -1752,6 +1752,7 @@ creating your own Awesome List by GitHub stars!
 * [Nanguage/Rainbow-Fart-MBG](https://github.com/Nanguage/Rainbow-Fart-MBG): 程序员要讲码德，耗子尾汁，好好反思！
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram during boot.
+* [Tencent/rapidjson](https://github.com/Tencent/rapidjson): A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [x0b/rcx](https://github.com/x0b/rcx): Rclone for Android
