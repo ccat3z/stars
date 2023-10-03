@@ -631,6 +631,9 @@
     "LinuxSuRen/remote-jobs-in-china": [
         "Other"
     ],
+    "LmeSzinc/StarRailCopilot": [
+        "Other"
+    ],
     "LnL7/nix-darwin": [
         "Other"
     ],
@@ -2622,6 +2625,9 @@
         "Other"
     ],
     "fankes/YukiHookAPI": [
+        "Other"
+    ],
+    "fanmingming/live": [
         "Other"
     ],
     "faressoft/terminalizer": [
@@ -4896,6 +4902,9 @@
         "Other"
     ],
     "restic/restic": [
+        "Other"
+    ],
+    "resume/resume.github.com": [
         "Other"
     ],
     "resumejob/awesome-resume": [
