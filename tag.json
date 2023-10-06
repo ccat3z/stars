@@ -514,6 +514,9 @@
     "Jman420/magisk-permissive-script": [
         "Android/Magick"
     ],
+    "JohanVanslembrouck/corolib": [
+        "Other"
+    ],
     "Jomik/vscode-search-provider": [
         "Other"
     ],
@@ -3353,6 +3356,9 @@
     "jadbox/BreezyTile": [
         "Other"
     ],
+    "jamboree/co2": [
+        "Other"
+    ],
     "jamessan/vim-gnupg": [
         "Other"
     ],
@@ -3390,6 +3396,9 @@
         "Other"
     ],
     "jaywcjlove/awesome-mac": [
+        "Other"
+    ],
+    "jbandela/stackless_coroutine": [
         "Other"
     ],
     "jbezos/titlesec": [
