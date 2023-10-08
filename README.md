@@ -1394,7 +1394,7 @@ creating your own Awesome List by GitHub stars!
 * [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
 * [yued-fe/lulu](https://github.com/yued-fe/lulu): 跨端跨框架的原生 UI 组件库，即插即用
-* [Elara6331/lure](https://github.com/Elara6331/lure): The community repository missing from your Linux distro
+* [lure-sh/lure](https://github.com/lure-sh/lure): The community repository missing from your Linux distro
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client in Python / PyGObject
 * [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
@@ -2270,7 +2270,7 @@ creating your own Awesome List by GitHub stars!
 * [wormtql/yas](https://github.com/wormtql/yas): Superfast Genshin Impact artifacts scanner
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
-* [3Shain/yet-another-anime-game-launcher](https://github.com/3Shain/yet-another-anime-game-launcher): Believe me it's just a playcover launcher. Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
+* [3Shain/yet-another-anime-game-launcher](https://github.com/3Shain/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
@@ -2278,7 +2278,7 @@ creating your own Awesome List by GitHub stars!
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 * [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform.
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
-* [fankes/YukiHookAPI](https://github.com/fankes/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+* [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 * [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 * [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo): 同步语雀的文章到你的 Hexo 项目吧！
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
