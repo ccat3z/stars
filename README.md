@@ -1576,7 +1576,7 @@ creating your own Awesome List by GitHub stars!
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [asdcorp/ohook](https://github.com/asdcorp/ohook): An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * [DDoSolitary/OkcAgent](https://github.com/DDoSolitary/OkcAgent): A utility that makes OpenKeychain available in your Termux shell
@@ -1821,7 +1821,7 @@ creating your own Awesome List by GitHub stars!
 * [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 * [WayneD/rsync](https://github.com/WayneD/rsync): An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
-* [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023春夏季开源操作系统训练营
+* [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023秋冬季开源操作系统训练营
 * [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
