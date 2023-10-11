@@ -4631,6 +4631,9 @@
     "pganalyze/libpg_query": [
         "Other"
     ],
+    "pgvector/pgvector": [
+        "Other"
+    ],
     "phocean/TopIcons-plus": [
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],

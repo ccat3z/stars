@@ -1655,6 +1655,7 @@ creating your own Awesome List by GitHub stars!
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 * [dbcli/pgcli](https://github.com/dbcli/pgcli): Postgres CLI with autocompletion and syntax highlighting
+* [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
