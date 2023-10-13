@@ -675,7 +675,7 @@ creating your own Awesome List by GitHub stars!
 * [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): git mirror of upstream bzr at http://launchpad.net/byobu
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -1860,7 +1860,7 @@ creating your own Awesome List by GitHub stars!
 * [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
 * [epasveer/seer](https://github.com/epasveer/seer): Seer - a gui frontend to gdb
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
-* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
+* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Design
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
@@ -2260,7 +2260,7 @@ creating your own Awesome List by GitHub stars!
 * [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
-* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 13
+* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 14
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm): Yet Another Dotfiles Manager
