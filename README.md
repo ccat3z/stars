@@ -1249,7 +1249,7 @@ creating your own Awesome List by GitHub stars!
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
 * [xorbitsai/inference](https://github.com/xorbitsai/inference): Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
-* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+* [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -1406,7 +1406,7 @@ creating your own Awesome List by GitHub stars!
 * [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
 * [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
 * [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
-* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v25.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
+* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v26.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
 * [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA): Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
