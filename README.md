@@ -1932,7 +1932,7 @@ creating your own Awesome List by GitHub stars!
 * [jbandela/stackless_coroutine](https://github.com/jbandela/stackless_coroutine): Use C++14 generic lambdas to simulate stackless coroutines without macros or type erasure.
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
-* [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot): 崩坏：星穹铁道脚本 | Honkai: Star Rail bot (简体中文/繁體中文/English/Español)
+* [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot): 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
 * [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
