@@ -468,6 +468,7 @@ creating your own Awesome List by GitHub stars!
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+* [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam): A skin to make Steam look more like a native GNOME app
 * [avanisubbiah/adwaita-materialu](https://github.com/avanisubbiah/adwaita-materialu): Utility to generate adwaita presets for use with AdwCustomizer from images using Google's MaterialU color generator.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
@@ -1617,6 +1618,7 @@ creating your own Awesome List by GitHub stars!
 * [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
 * [adah1972/output_container](https://github.com/adah1972/output_container): Automatic output function for STL containers
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
+* [orbitcorrecton/overview-background](https://github.com/orbitcorrecton/overview-background): None
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer samples
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
