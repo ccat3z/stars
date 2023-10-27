@@ -23,9 +23,6 @@
     "2dust/v2rayNG": [
         "Other"
     ],
-    "30-seconds/30-seconds-of-code": [
-        "Other"
-    ],
     "37Rb/nextcloud-hledger": [
         "Other"
     ],
@@ -193,6 +190,9 @@
     ],
     "CYBUTEK/KerbalEngineer": [
         "Game/KSP"
+    ],
+    "Chalarangelo/30-seconds-of-code": [
+        "Other"
     ],
     "ClangBuiltLinux/tc-build": [
         "Other"
@@ -379,7 +379,7 @@
     "FoundationDB/fdb-record-layer": [
         "Other"
     ],
-    "Freed-Wu/pkgbuild-language-server": [
+    "Freed-Wu/tree-sitter-lsp": [
         "Other"
     ],
     "FreshRSS/FreshRSS": [
