@@ -3819,6 +3819,9 @@
     "libfuse/python-fuse": [
         "Python"
     ],
+    "libp2p/libp2p": [
+        "Other"
+    ],
     "libvips/libvips": [
         "Other"
     ],
@@ -4431,6 +4434,9 @@
         "Other"
     ],
     "nsf/termbox-go": [
+        "Other"
+    ],
+    "ntop/n2n": [
         "Other"
     ],
     "numetriclabz/awesome-db": [
@@ -5424,6 +5430,9 @@
         "Other"
     ],
     "susers/Writeups": [
+        "Other"
+    ],
+    "suutaku/sshx": [
         "Other"
     ],
     "sveltejs/svelte": [

@@ -833,7 +833,7 @@ creating your own Awesome List by GitHub stars!
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [datafuselabs/databend](https://github.com/datafuselabs/databend): Alternative to Snowflake. Cost-effective and simple for massive-scale analytics. DatabendCloud: https://databend.com
+* [datafuselabs/databend](https://github.com/datafuselabs/databend): Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
@@ -1350,6 +1350,7 @@ creating your own Awesome List by GitHub stars!
 * [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
 * [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
+* [libp2p/libp2p](https://github.com/libp2p/libp2p): A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
@@ -1506,6 +1507,7 @@ creating your own Awesome List by GitHub stars!
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
 * [tj/n](https://github.com/tj/n): Node version management
+* [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
@@ -1929,6 +1931,7 @@ creating your own Awesome List by GitHub stars!
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
+* [suutaku/sshx](https://github.com/suutaku/sshx): P2P SSH using WebRTC
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [jbandela/stackless_coroutine](https://github.com/jbandela/stackless_coroutine): Use C++14 generic lambdas to simulate stackless coroutines without macros or type erasure.
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
