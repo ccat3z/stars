@@ -3840,6 +3840,9 @@
     "lingfengsan/MillionHero": [
         "Utility"
     ],
+    "lingo-db/lingo-db": [
+        "Other"
+    ],
     "linusyang92/mipay-extract": [
         "Android/MIUI"
     ],
@@ -4460,7 +4463,7 @@
     "oap-project/gluten": [
         "Other"
     ],
-    "obs-ai/obs-backgroundremoval": [
+    "occ-ai/obs-backgroundremoval": [
         "Other"
     ],
     "oceanbase/oceanbase": [
