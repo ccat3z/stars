@@ -484,6 +484,9 @@
     "Inokinoki/kde-blog": [
         "Other"
     ],
+    "InternLM/InternLM": [
+        "Other"
+    ],
     "JDRaftKeeper/RaftKeeper": [
         "Other"
     ],
@@ -2481,6 +2484,9 @@
         "Other"
     ],
     "eli-schwartz/aurpublish": [
+        "Other"
+    ],
+    "eliben/pyelftools": [
         "Other"
     ],
     "elves/elvish": [

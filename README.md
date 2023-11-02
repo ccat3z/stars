@@ -1253,6 +1253,7 @@ creating your own Awesome List by GitHub stars!
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
+* [InternLM/InternLM](https://github.com/InternLM/InternLM): InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
 * [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 * [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 * [will-ww/IntroDaSE](https://github.com/will-ww/IntroDaSE): 《数据科学与工程导论》教材配套资源
@@ -1725,6 +1726,7 @@ creating your own Awesome List by GitHub stars!
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Node.js API for Chrome 
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
+* [eliben/pyelftools](https://github.com/eliben/pyelftools): Parsing ELF and DWARF in Python
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
 * [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
@@ -2129,7 +2131,7 @@ creating your own Awesome List by GitHub stars!
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐 A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
-* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker for Vim and NeoVim
+* [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 * [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 * [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
