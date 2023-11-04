@@ -300,9 +300,6 @@
     "Dr-TSNG/ApplistDetector": [
         "Other"
     ],
-    "Dreamacro/clash": [
-        "Other"
-    ],
     "ECNU-Forum/ECNU-Forum": [
         "Other"
     ],
@@ -862,7 +859,7 @@
     "ReactiveX/RxKotlin": [
         "Other"
     ],
-    "RealPeha/This-Repo-Has-1751-Stars": [
+    "RealPeha/This-Repo-Has-1752-Stars": [
         "Other"
     ],
     "RelaxedJS/ReLaXed": [
@@ -2327,6 +2324,12 @@
         "Other"
     ],
     "dojiong/daemon-manager": [
+        "Other"
+    ],
+    "dolthub/dolt": [
+        "Other"
+    ],
+    "dolthub/doltgresql": [
         "Other"
     ],
     "domaindrivendev/Swashbuckle.AspNetCore": [
@@ -3876,9 +3879,6 @@
     "liuchuo/PAT": [
         "Other"
     ],
-    "liuxinyu95/unplugged": [
-        "Other"
-    ],
     "livechat/octopus": [
         "Other"
     ],
@@ -4395,6 +4395,9 @@
         "Other"
     ],
     "nix-community/home-manager": [
+        "Other"
+    ],
+    "nix-community/nix-on-droid": [
         "Other"
     ],
     "nkanaev/yarr": [
