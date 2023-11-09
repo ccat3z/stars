@@ -2374,7 +2374,7 @@ creating your own Awesome List by GitHub stars!
 
 * [m13253/BiliDan](https://github.com/m13253/BiliDan): Play videos on Bilibili.com with MPV and Danmaku2ASS
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+* [jgraph/drawio](https://github.com/jgraph/drawio): draw.io is a JavaScript, client-side editor for general diagramming.
 * [JinnLynn/genpac](https://github.com/JinnLynn/genpac): PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 * [yudai/gotty](https://github.com/yudai/gotty): Share your terminal as a web application
 * [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter): ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
