@@ -3221,6 +3221,9 @@
     "horst3180/arc-theme": [
         "Linux/GUI/Desktop Environment/Gnome/Theme"
     ],
+    "howbea/overview-background": [
+        "Other"
+    ],
     "hrdwrrsk/adementary-theme": [
         "Other"
     ],
@@ -4551,9 +4554,6 @@
         "Other"
     ],
     "oracle/graaljs": [
-        "Other"
-    ],
-    "orbitcorrecton/overview-background": [
         "Other"
     ],
     "oreboot/oreboot": [

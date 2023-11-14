@@ -1169,7 +1169,7 @@ creating your own Awesome List by GitHub stars!
 * [bcicen/grmon](https://github.com/bcicen/grmon): Command line monitoring for goroutines
 * [jcouyang/grokking-monad](https://github.com/jcouyang/grokking-monad): 购买 :point_right: https://gum.co/grokking-monad  在线阅读 :point_right:
 * [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-* [greensock/GSAP](https://github.com/greensock/GSAP): GreenSock's GSAP JavaScript animation library (including Draggable).
+* [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 * [kgshank/gse-refresh-wifi](https://github.com/kgshank/gse-refresh-wifi): Gnome Shell Extension - Refresh Wifi
 * [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser): Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 * [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
@@ -1625,7 +1625,7 @@ creating your own Awesome List by GitHub stars!
 * [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
 * [adah1972/output_container](https://github.com/adah1972/output_container): Automatic output function for STL containers
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
-* [orbitcorrecton/overview-background](https://github.com/orbitcorrecton/overview-background): None
+* [howbea/overview-background](https://github.com/howbea/overview-background): None
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer samples for creating Windows and Ubuntu images
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
