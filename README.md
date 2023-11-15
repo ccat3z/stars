@@ -454,6 +454,7 @@ creating your own Awesome List by GitHub stars!
 * [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2021年研究生-408 
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
+* [3proxy/3proxy](https://github.com/3proxy/3proxy): 3proxy - tiny free proxy server
 * [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one): 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
 * [geektutu/7days-golang](https://github.com/geektutu/7days-golang): 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 * [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
@@ -890,6 +891,7 @@ creating your own Awesome List by GitHub stars!
 * [yeetzone/docker-dontstarvetogether](https://github.com/yeetzone/docker-dontstarvetogether): Dockerfile for building a Don't Starve Together dedicated server image.
 * [Jamesits/docker-dst-server](https://github.com/Jamesits/docker-dst-server): Don't Starve Together dedicated server in Docker!
 * [wernight/docker-duplicity](https://github.com/wernight/docker-duplicity): Dockerize "duplicity" backup tool.
+* [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect): 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 * [marcopompili/docker-nginx-git](https://github.com/marcopompili/docker-nginx-git): Docker image for a Git HTTP server on Nginx.
 * [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp): 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 * [wernight/docker-ngrok](https://github.com/wernight/docker-ngrok): An Ngrok v2 container based on wizardapps/ngrok and fnichol/ngrok
@@ -1456,7 +1458,7 @@ creating your own Awesome List by GitHub stars!
 * [milvus-io/milvus](https://github.com/milvus-io/milvus): A cloud-native vector database, storage for next generation AI applications
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
-* [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core): ⚗ Mind-elixir is a framework agnostic mind map core.
+* [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core): ⚗ Mind-elixir is a framework agnostic mind map core.
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
@@ -1478,7 +1480,7 @@ creating your own Awesome List by GitHub stars!
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
+* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is a web engineering system, including a web framework and a npm package solution.
 * [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 * [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
 * [taowen/modularization-examples](https://github.com/taowen/modularization-examples): 代码防腐实用技术

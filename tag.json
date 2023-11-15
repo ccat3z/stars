@@ -41,6 +41,9 @@
     "3b1b/manim": [
         "Other"
     ],
+    "3proxy/3proxy": [
+        "Other"
+    ],
     "42wim/matterbridge": [
         "Other"
     ],
@@ -917,6 +920,9 @@
         "Other"
     ],
     "SDRausty/termux-archlinux": [
+        "Other"
+    ],
+    "SSShooter/mind-elixir-core": [
         "Other"
     ],
     "SUPERCILEX/gnome-clipboard-history": [
@@ -2315,6 +2321,9 @@
         "Other"
     ],
     "djyde/ossart": [
+        "Other"
+    ],
+    "docker-easyconnect/docker-easyconnect": [
         "Other"
     ],
     "docker-library/haproxy": [
@@ -5380,9 +5389,6 @@
         "Other"
     ],
     "srevinsaju/guiscrcpy": [
-        "Other"
-    ],
-    "ssshooter/mind-elixir-core": [
         "Other"
     ],
     "star-history/star-history": [
