@@ -2163,6 +2163,7 @@ creating your own Awesome List by GitHub stars!
 * [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp): Official C# support for Visual Studio Code
 * [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client): Database Client For Visual Studio Code
 * [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode): Solve LeetCode problems in VS Code
+* [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets): Adds playful pets 🦀🐱🐶 in your VS Code window
 * [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin): Kite Autocomplete Plugin for Visual Studio Code
 * [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 * [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart): 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
