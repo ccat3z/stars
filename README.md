@@ -2214,7 +2214,7 @@ creating your own Awesome List by GitHub stars!
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup): 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 * [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump): Cracking encrypted wechat message history from android
-* [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux): 微信开发者工具 纯Linux版 微信小程序
+* [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux): 适用于微信小程序的微信开发者工具 Linux移植版
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
 * [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
