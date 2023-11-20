@@ -1054,7 +1054,7 @@ creating your own Awesome List by GitHub stars!
 * [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
 * [sunfkny/genshin-gacha-export](https://github.com/sunfkny/genshin-gacha-export): 原神抽卡记录导出
 * [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact): 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
-* [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
+* [IrisRainbowNeko/genshin_auto_fish](https://github.com/IrisRainbowNeko/genshin_auto_fish): 基于深度强化学习的原神自动钓鱼AI
 * [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
 * [LaTeX-Package-Repositories/geometry](https://github.com/LaTeX-Package-Repositories/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
 * [DavideBri/Gesko](https://github.com/DavideBri/Gesko): Gesko is a simple and minimalistic jekyll blogging theme.
@@ -1120,7 +1120,7 @@ creating your own Awesome List by GitHub stars!
 * [bodedejavu/gnome-shell-extensions](https://github.com/bodedejavu/gnome-shell-extensions): None
 * [mipmip/gnome-shell-extensions-useless-gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps): For aesthetic purposes adds useless gaps around tiled and maximized windows
 * [oae/gnome-shell-pano](https://github.com/oae/gnome-shell-pano): Next-gen Clipboard Manager for Gnome Shell
-* [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): None
+* [sevenuz/gnome-translate-indicator](https://github.com/sevenuz/gnome-translate-indicator): gnome extension to use translate-shell with shortcuts everywhere in your system.
 * [harshadgavali/gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon): None
 * [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go): Algorithms and Data Structures implemented in Go for beginners, following best practices.
 * [LinkLeong/go-aliyundrive-webdav](https://github.com/LinkLeong/go-aliyundrive-webdav): 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
@@ -1836,6 +1836,7 @@ creating your own Awesome List by GitHub stars!
 * [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023秋冬季开源操作系统训练营
 * [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop, and alternative to TeamViewer.
+* [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server): RustDesk Server Program
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS

@@ -53,9 +53,6 @@
     "521xueweihan/git-tips": [
         "Other"
     ],
-    "7eu7d7/genshin_auto_fish": [
-        "Other"
-    ],
     "7kms/react-illustration-series": [
         "Other"
     ],
@@ -491,6 +488,9 @@
         "Other"
     ],
     "InternLM/InternLM": [
+        "Other"
+    ],
+    "IrisRainbowNeko/genshin_auto_fish": [
         "Other"
     ],
     "JDRaftKeeper/RaftKeeper": [
@@ -5073,6 +5073,9 @@
         "Other"
     ],
     "rustdesk/rustdesk": [
+        "Other"
+    ],
+    "rustdesk/rustdesk-server": [
         "Other"
     ],
     "rustlang-cn/rust-weekly": [
