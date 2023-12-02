@@ -715,7 +715,7 @@ creating your own Awesome List by GitHub stars!
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension): ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powered by ClickHouse
+* [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powerd by OSS ClickHouse
 * [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
@@ -1372,7 +1372,7 @@ creating your own Awesome List by GitHub stars!
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): deprecated in favor of leap.nvim
 * [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
-* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines
+* [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, with a focus on running containers
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
 * [ronv/lines](https://github.com/ronv/lines): Minimalist and simple theme for Hugo
 * [lingo-db/lingo-db](https://github.com/lingo-db/lingo-db): LingoDB: A new analytical database system that blurs the lines between databases and compilers.
@@ -1629,7 +1629,7 @@ creating your own Awesome List by GitHub stars!
 * [ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight outcome<T> and result<T> (non-Boost edition)
 * [adah1972/output_container](https://github.com/adah1972/output_container): Automatic output function for STL containers
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
-* [howbea/overview-background](https://github.com/howbea/overview-background): None
+* [orbitcorrecton/overview-background](https://github.com/orbitcorrecton/overview-background): None
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer samples for creating Windows and Ubuntu images
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
