@@ -603,7 +603,7 @@ creating your own Awesome List by GitHub stars!
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
-* [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL): Awesome list dedicated to Windows Subsystem for Linux
+* [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl): Awesome list dedicated to Windows Subsystem for Linux
 * [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other Fish treasures 🐚💎
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
