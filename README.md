@@ -1045,7 +1045,7 @@ creating your own Awesome List by GitHub stars!
 * [nolanlawson/fuite](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
 * [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger): Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
-* [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library
+* [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library.
 * [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
@@ -2027,7 +2027,7 @@ creating your own Awesome List by GitHub stars!
 * [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 * [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
-* [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars): Yes, it's true :purple_heart:
+* [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
 * [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
