@@ -1328,6 +1328,7 @@ creating your own Awesome List by GitHub stars!
 * [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS): lakeFS - Data version control for your data lake | Git for data
+* [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 * [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
