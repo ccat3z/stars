@@ -724,6 +724,9 @@
     "MlgmXyysd/NoneDisplayCutout": [
         "Other"
     ],
+    "MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass": [
+        "Other"
+    ],
     "MopTym/vue-waterfall": [
         "Other"
     ],
@@ -5302,6 +5305,9 @@
         "Vim"
     ],
     "slacka/WoeUSB": [
+        "Other"
+    ],
+    "slackner/gocryptfs-inspect": [
         "Other"
     ],
     "sleighzy/ansible-zookeeper": [

@@ -1141,6 +1141,7 @@ creating your own Awesome List by GitHub stars!
 * [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
+* [slackner/gocryptfs-inspect](https://github.com/slackner/gocryptfs-inspect): Scripts to manually inspect the content of files encrypted with gocryptfs
 * [jroimartin/gocui](https://github.com/jroimartin/gocui): Minimalist Go package aimed at creating Console User Interfaces.
 * [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3): A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh): Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -2262,6 +2263,7 @@ creating your own Awesome List by GitHub stars!
 * [svengong/xcubebase](https://github.com/svengong/xcubebase): 基于xposed的frida持久化方案
 * [ritave/xeventbind](https://github.com/ritave/xeventbind): A small utillity that runs your script on X11 events
 * [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
+* [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass): A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
 * [duskwuff/Xilinx-ISE-Makefile](https://github.com/duskwuff/Xilinx-ISE-Makefile): An example of how to use the Xilinx ISE toolchain from the command line
 * [jotaen/xit](https://github.com/jotaen/xit): A plain-text file format for todos and check lists
