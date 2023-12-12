@@ -1260,7 +1260,7 @@ creating your own Awesome List by GitHub stars!
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
-* [InternLM/InternLM](https://github.com/InternLM/InternLM): InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
+* [InternLM/InternLM](https://github.com/InternLM/InternLM): InternLM has open-sourced 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
 * [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 * [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 * [will-ww/IntroDaSE](https://github.com/will-ww/IntroDaSE): 《数据科学与工程导论》教材配套资源
@@ -1361,7 +1361,7 @@ creating your own Awesome List by GitHub stars!
 * [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
 * [libp2p/libp2p](https://github.com/libp2p/libp2p): A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 * [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
