@@ -649,7 +649,7 @@ creating your own Awesome List by GitHub stars!
 * [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
 * [blaze-init/blaze](https://github.com/blaze-init/blaze): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 * [prinsss/blessing-skin-server](https://github.com/prinsss/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
-* [yzx9/blog](https://github.com/yzx9/blog): Celeste's blog.
+* [yzx9/blog](https://github.com/yzx9/blog): Zexin Yuan's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
 * [jumper149/blugon](https://github.com/jumper149/blugon): simple and configurable Blue Light Filter for X
 * [ckissane/blur-me](https://github.com/ckissane/blur-me): Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
