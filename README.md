@@ -1527,6 +1527,7 @@ creating your own Awesome List by GitHub stars!
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
+* [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
@@ -1614,6 +1615,7 @@ creating your own Awesome List by GitHub stars!
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
+* [gnbdev/opengnb](https://github.com/gnbdev/opengnb): GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
 * [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
@@ -2001,6 +2003,7 @@ creating your own Awesome List by GitHub stars!
 * [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi): Free and open source manga reader for Android.
 * [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [taichi-framework/TaiChi](https://github.com/taichi-framework/TaiChi): A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.
+* [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/

@@ -2957,6 +2957,9 @@
     "gmg137/netease-cloud-music-gtk": [
         "Other"
     ],
+    "gnbdev/opengnb": [
+        "Other"
+    ],
     "gnif/LookingGlass": [
         "Other"
     ],
@@ -5313,6 +5316,9 @@
     "slacka/WoeUSB": [
         "Other"
     ],
+    "slackhq/nebula": [
+        "Other"
+    ],
     "slackner/gocryptfs-inspect": [
         "Other"
     ],
@@ -5523,6 +5529,9 @@
         "Other"
     ],
     "taichi-framework/TaiChi": [
+        "Other"
+    ],
+    "tailscale/tailscale": [
         "Other"
     ],
     "tailwindlabs/tailwindcss": [
