@@ -946,6 +946,9 @@
     "SagerNet/SagerNet": [
         "Other"
     ],
+    "SagerNet/sing-box": [
+        "Other"
+    ],
     "Sanster/lama-cleaner": [
         "Other"
     ],
@@ -1511,6 +1514,9 @@
         "Other"
     ],
     "apache/incubator-pegasus": [
+        "Other"
+    ],
+    "apache/incubator-seata": [
         "Other"
     ],
     "apache/orc": [
@@ -5172,9 +5178,6 @@
         "Other"
     ],
     "screeps/screeps": [
-        "Other"
-    ],
-    "seata/seata": [
         "Other"
     ],
     "seblucas/cops": [
