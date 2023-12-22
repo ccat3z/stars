@@ -604,7 +604,7 @@ creating your own Awesome List by GitHub stars!
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:
 * [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
 * [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl): Awesome list dedicated to Windows Subsystem for Linux
-* [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish): A curation of prompts, plugins & other Fish treasures 🐚💎
+* [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish): A curation of prompts, plugins & other Fish treasures 🐚💎
 * [axios/axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
 * [dgraph-io/badger](https://github.com/dgraph-io/badger): Fast key-value DB in Go.
@@ -1007,7 +1007,7 @@ creating your own Awesome List by GitHub stars!
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations): Firefox Translations is a webextension that enables client side translations for web browsers.
 * [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish
+* [foldmap/fisher](https://github.com/foldmap/fisher): A plugin manager for Fish
 * [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
 * [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * [bilelmoussaoui/flatpak-vscode](https://github.com/bilelmoussaoui/flatpak-vscode): Integrate Flatpak with VSCode 
