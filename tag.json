@@ -2762,12 +2762,6 @@
     "foambubble/foam": [
         "Other"
     ],
-    "foldmap/awsm.fish": [
-        "Other"
-    ],
-    "foldmap/fisher": [
-        "Other"
-    ],
     "foonathan/lexy": [
         "Other"
     ],
@@ -3585,6 +3579,12 @@
         "Other"
     ],
     "jotaen/xit": [
+        "Other"
+    ],
+    "joxji/awsm.fish": [
+        "Other"
+    ],
+    "joxji/fisher": [
         "Other"
     ],
     "jquense/react-big-calendar": [
