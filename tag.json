@@ -1210,6 +1210,9 @@
     "XIU2/CloudflareSpeedTest": [
         "Other"
     ],
+    "XTLS/Trojan-killer": [
+        "Other"
+    ],
     "XTLS/Xray-core": [
         "Other"
     ],
@@ -6121,6 +6124,9 @@
         "Other"
     ],
     "winfsp/winfsp": [
+        "Other"
+    ],
+    "wlynxg/anet": [
         "Other"
     ],
     "woai3c/nand2tetris": [
