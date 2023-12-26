@@ -596,6 +596,7 @@ creating your own Awesome List by GitHub stars!
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
+* [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku): Curated list of awesome Android apps making use of Shizuku
 * [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
 * [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
@@ -1608,6 +1609,7 @@ creating your own Awesome List by GitHub stars!
 * [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
 * [abraunegg/onedrive](https://github.com/abraunegg/onedrive): OneDrive Client for Linux
 * [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
+* [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup): Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 * [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
 * [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
@@ -2236,7 +2238,7 @@ creating your own Awesome List by GitHub stars!
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
 * [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 * [ascoders/weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
-* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+* [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
 * [wetools/wept](https://github.com/wetools/wept): 微信小程序多端实时运行工具
 * [Tencent/wepy](https://github.com/Tencent/wepy): 小程序组件化开发框架
