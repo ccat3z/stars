@@ -902,6 +902,7 @@ creating your own Awesome List by GitHub stars!
 * [theasp/docker-novnc](https://github.com/theasp/docker-novnc): noVNC Display Container for Docker
 * [kizzx2/docker-openvpn-client-socks](https://github.com/kizzx2/docker-openvpn-client-socks): Expose an OpenVPN tunnel as a SOCKS proxy
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+* [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local): Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [top-bettercode/docker-qq](https://github.com/top-bettercode/docker-qq): 提供一种在linux下运行QQ的方式
 * [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
@@ -1474,7 +1475,7 @@ creating your own Awesome List by GitHub stars!
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): High Performance Object Storage for AI
+* [minio/minio](https://github.com/minio/minio): The Object Store for AI Data Infrastructure
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
@@ -1877,6 +1878,7 @@ creating your own Awesome List by GitHub stars!
 * [weaveworks/scope](https://github.com/weaveworks/scope): Monitoring, visualisation & management for Docker & Kubernetes
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [duncanthrax/scream](https://github.com/duncanthrax/scream): Virtual network sound card for Microsoft Windows
+* [martinellimarco/scream-android](https://github.com/martinellimarco/scream-android): A simple Android receiver for Scream
 * [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
 * [screeps/screeps](https://github.com/screeps/screeps): A standalone server for programming game Screeps
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.

@@ -4060,6 +4060,9 @@
     "martanne/dvtm": [
         "Other"
     ],
+    "martinellimarco/scream-android": [
+        "Other"
+    ],
     "martinus/map_benchmark": [
         "Other"
     ],
@@ -4842,6 +4845,9 @@
         "Linux/GUI/Display Manager"
     ],
     "prinsss/blessing-skin-server": [
+        "Other"
+    ],
+    "prodrigestivill/docker-postgres-backup-local": [
         "Other"
     ],
     "projectcontour/contour": [
