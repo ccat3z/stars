@@ -1079,7 +1079,7 @@ creating your own Awesome List by GitHub stars!
 * [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes
 * [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
-* [banga/git-split-diffs](https://github.com/banga/git-split-diffs): GitHub style split diffs in your terminal
+* [banga/git-split-diffs](https://github.com/banga/git-split-diffs): Syntax highlighted side-by-side diffs in your terminal
 * [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1660,7 +1660,7 @@ creating your own Awesome List by GitHub stars!
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatibility layer for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
-* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Virtual super display, upto 4K 2160p@240hz 😎
+* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Standalone Parsec Virtual Display, create virtual displays up to 4K 240Hz
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
