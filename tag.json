@@ -4742,6 +4742,9 @@
     "pikax/vue-composable": [
         "Other"
     ],
+    "pikvm/pikvm": [
+        "Other"
+    ],
     "pimutils/khal": [
         "Other"
     ],
@@ -5620,6 +5623,9 @@
         "Other"
     ],
     "thangchung/awesome-dotnet-core": [
+        "Other"
+    ],
+    "thawk105/ccbench": [
         "Other"
     ],
     "the-cavalry/light-locker": [
