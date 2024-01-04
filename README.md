@@ -1590,6 +1590,7 @@ creating your own Awesome List by GitHub stars!
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA 
+* [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [occ-ai/obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 * [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
 * [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
