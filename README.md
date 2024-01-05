@@ -724,7 +724,7 @@ creating your own Awesome List by GitHub stars!
 * [chef/chef](https://github.com/chef/chef): Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.
 * [rui314/chibicc](https://github.com/rui314/chibicc): A small C compiler
-* [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+* [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 * [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright): Chinese software copyright application template document
 * [beiliangshizi/China_House](https://github.com/beiliangshizi/China_House): 中国买房相关资料和项目整理，方便查看，持续更新中...
 * [17mon/china_ip_list](https://github.com/17mon/china_ip_list): None
@@ -2335,6 +2335,7 @@ creating your own Awesome List by GitHub stars!
 * [zhouhuahui/zhouhuahui.github.io](https://github.com/zhouhuahui/zhouhuahui.github.io): None
 * [apache/zookeeper](https://github.com/apache/zookeeper): Apache ZooKeeper
 * [zotero/zotero](https://github.com/zotero/zotero): Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+* [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts
 * [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes): A Zotero plugin to export item metadata and notes as markdown files
 * [NicoleMayer/zotero-save-with-tag](https://github.com/NicoleMayer/zotero-save-with-tag): A Zotero plugin that adds the tag when saving a new item.
 * [SiriusXT/Zotero-Scholar-Rank](https://github.com/SiriusXT/Zotero-Scholar-Rank): Zotero显示CCF分区，JCR分区，影响因子, 中科院分区。
