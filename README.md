@@ -749,6 +749,7 @@ creating your own Awesome List by GitHub stars!
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+* [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): Find out what your 2023 looks like in commandline!
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -1210,6 +1211,7 @@ creating your own Awesome List by GitHub stars!
 * [k3s-io/helm-controller](https://github.com/k3s-io/helm-controller): None
 * [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator): None
 * [sharkdp/hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer
+* [alibaba/hiactor](https://github.com/alibaba/hiactor): Hiactor is a distributed C++ actor framework.
 * [jeffshee/hidamari](https://github.com/jeffshee/hidamari): Video wallpaper for Linux. Written in Python. 🐍
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch

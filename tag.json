@@ -1240,6 +1240,9 @@
     "Yggdroot/indentLine": [
         "Vim"
     ],
+    "YiNNx/cmd-wrapped": [
+        "Other"
+    ],
     "Yinzo/SmartQQBot": [
         "Chinese APP Hack/QQ"
     ],
@@ -1391,6 +1394,9 @@
         "Other"
     ],
     "alibaba/async_simple": [
+        "Other"
+    ],
+    "alibaba/hiactor": [
         "Other"
     ],
     "alibaba/serverless-vscode": [
