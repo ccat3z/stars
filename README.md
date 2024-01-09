@@ -749,7 +749,7 @@ creating your own Awesome List by GitHub stars!
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-* [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): Find out what your 2023 looks like in commandline!
+* [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): Find out what the past year looks like in commandline!
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -1216,7 +1216,7 @@ creating your own Awesome List by GitHub stars!
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-* [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
+* [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -1836,7 +1836,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): RisingWave is a distributed streaming database offering the simplest and most cost-efficient approach to process and manage streaming data.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
