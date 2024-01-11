@@ -1781,7 +1781,7 @@ creating your own Awesome List by GitHub stars!
 * [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup): QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
-* [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+* [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine.
 * [gfredericks/quinedb](https://github.com/gfredericks/quinedb): QuineDB is a quine that is also a key-value store.
 * [quip/quip-api](https://github.com/quip/quip-api): Quip Automation REST API for editing documents, folders, and users
 * [coxley/quip2md](https://github.com/coxley/quip2md): Library and CLI to convert Quip HTML to Markdown
