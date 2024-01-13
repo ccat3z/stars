@@ -1112,7 +1112,7 @@ creating your own Awesome List by GitHub stars!
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [oap-project/gluten](https://github.com/oap-project/gluten): Gluten: Plugin to Double SparkSQL's Performance
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
-* [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
+* [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 * [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi): Live Wallpaper for GNOME
 * [harshadgavali/gnome-gesture-improvements](https://github.com/harshadgavali/gnome-gesture-improvements): Touchpad gesture improvements for GNOME on Wayland/X11 
 * [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat): 😼 The cat tells you the CPU usage by running speed
