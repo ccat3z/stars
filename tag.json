@@ -1525,13 +1525,13 @@
     "apache/hawq": [
         "Other"
     ],
-    "apache/incubator-opendal": [
-        "Other"
-    ],
     "apache/incubator-pegasus": [
         "Other"
     ],
     "apache/incubator-seata": [
+        "Other"
+    ],
+    "apache/opendal": [
         "Other"
     ],
     "apache/orc": [
