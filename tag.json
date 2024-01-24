@@ -3464,6 +3464,9 @@
     "jaywcjlove/awesome-mac": [
         "Other"
     ],
+    "jbaldwin/libcoro": [
+        "Other"
+    ],
     "jbandela/stackless_coroutine": [
         "Other"
     ],
@@ -3633,6 +3636,9 @@
         "Other"
     ],
     "junegunn/vim-plug": [
+        "Other"
+    ],
+    "jupp0r/prometheus-cpp": [
         "Other"
     ],
     "just-containers/s6-overlay": [
