@@ -1758,6 +1758,7 @@ creating your own Awesome List by GitHub stars!
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): Node.js API for Chrome 
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
 * [PureDarwin/PureDarwin](https://github.com/PureDarwin/PureDarwin): Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.
+* [prometheus/pushgateway](https://github.com/prometheus/pushgateway): Push acceptor for ephemeral and batch jobs.
 * [eliben/pyelftools](https://github.com/eliben/pyelftools): Parsing ELF and DWARF in Python
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python

@@ -4880,6 +4880,9 @@
     "prometheus/prometheus": [
         "Other"
     ],
+    "prometheus/pushgateway": [
+        "Other"
+    ],
     "proot-me/proot": [
         "Other"
     ],
