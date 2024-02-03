@@ -841,7 +841,7 @@ creating your own Awesome List by GitHub stars!
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [datafuselabs/databend](https://github.com/datafuselabs/databend): Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+* [datafuselabs/databend](https://github.com/datafuselabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
@@ -1230,7 +1230,7 @@ creating your own Awesome List by GitHub stars!
 * [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack): Explaining how to optimize the large bundle size of moment.js with webpack
 * [boltgolt/howdy](https://github.com/boltgolt/howdy): 🛡️ Windows Hello™ style facial authentication for Linux
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南 | A programmer's guide to live longer
 * [xiangmingzhe0928/hpv4g](https://github.com/xiangmingzhe0928/hpv4g): hpv seckill 约苗 九价 疫苗秒杀 :girl: :syringe:
 * [draivin/hsnips](https://github.com/draivin/hsnips): HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
@@ -1285,7 +1285,7 @@ creating your own Awesome List by GitHub stars!
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-* [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap): The 2023 Java Developers Roadmap 
+* [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap): The 2024 Java Developers Roadmap 
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
 * [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -1842,7 +1842,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 * [riverwm/river](https://github.com/riverwm/river): A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
