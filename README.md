@@ -1617,7 +1617,7 @@ creating your own Awesome List by GitHub stars!
 * [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn): OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 * [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
 * [abraunegg/onedrive](https://github.com/abraunegg/onedrive): OneDrive Client for Linux
-* [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
+* [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 * [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup): Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 * [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
