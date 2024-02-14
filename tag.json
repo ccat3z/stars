@@ -4267,6 +4267,9 @@
     "mitchellh/mapstructure": [
         "Other"
     ],
+    "mithrandie/csvq": [
+        "Other"
+    ],
     "mitmproxy/mitmproxy": [
         "Other"
     ],
