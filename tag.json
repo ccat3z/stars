@@ -382,9 +382,6 @@
     "FoundationDB/fdb-record-layer": [
         "Other"
     ],
-    "Freed-Wu/tree-sitter-lsp": [
-        "Other"
-    ],
     "FreshRSS/FreshRSS": [
         "Other"
     ],
@@ -4428,6 +4425,9 @@
         "Other"
     ],
     "neoclide/coc.nvim": [
+        "Other"
+    ],
+    "neomutt/tree-sitter-lsp": [
         "Other"
     ],
     "neovimhaskell/haskell-vim": [
