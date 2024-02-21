@@ -131,6 +131,9 @@
     "AsahiLinux/linux": [
         "Other"
     ],
+    "AstraExt/astra-monitor": [
+        "Other"
+    ],
     "AutoMapper/AutoMapper": [
         "Other"
     ],
@@ -1400,6 +1403,9 @@
         "Other"
     ],
     "alibaba/serverless-vscode": [
+        "Other"
+    ],
+    "alibaba/yalantinglibs": [
         "Other"
     ],
     "alist-org/alist": [
