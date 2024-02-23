@@ -1106,7 +1106,7 @@ creating your own Awesome List by GitHub stars!
 * [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars): Github Starred Repositories Manager
 * [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [optimisme/gjs-examples](https://github.com/optimisme/gjs-examples): GJS examples showing how to build Gtk javascript applications
-* [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 43+
+* [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 42+
 * [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header): Build portable Linux binaries without using an ancient distro
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
 * [solo-io/gloo](https://github.com/solo-io/gloo): The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
