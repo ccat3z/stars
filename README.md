@@ -651,7 +651,7 @@ creating your own Awesome List by GitHub stars!
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
-* [blaze-init/blaze](https://github.com/blaze-init/blaze): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+* [kwai/blaze](https://github.com/kwai/blaze): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 * [prinsss/blessing-skin-server](https://github.com/prinsss/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [yzx9/blog](https://github.com/yzx9/blog): Zexin Yuan's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
@@ -2324,7 +2324,7 @@ creating your own Awesome List by GitHub stars!
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
 * [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate): Deduplication tool for yarn.lock files
 * [nkanaev/yarr](https://github.com/nkanaev/yarr): yet another rss reader
-* [wormtql/yas](https://github.com/wormtql/yas): Superfast Genshin Impact/Honkai: Starrail artifacts scanner
+* [wormtql/yas](https://github.com/wormtql/yas): Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 * [3Shain/yet-another-anime-game-launcher](https://github.com/3Shain/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4

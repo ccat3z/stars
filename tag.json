@@ -1771,9 +1771,6 @@
     "blanboom/Arduino-Task-Scheduler": [
         "Arduino"
     ],
-    "blaze-init/blaze": [
-        "Other"
-    ],
     "bloom-lang/bud": [
         "Other"
     ],
@@ -3829,6 +3826,9 @@
         "Linux/Kernel"
     ],
     "kvalo/ath11k-firmware": [
+        "Other"
+    ],
+    "kwai/blaze": [
         "Other"
     ],
     "kwk/docker-registry-setup": [
