@@ -976,8 +976,7 @@ creating your own Awesome List by GitHub stars!
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck): Emulator configurator for Steam Deck
 * [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
-* [cup-of-tea-dot-be/entity-framework-core-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
-* [cup-of-tea-dot-be/entity-framework-core3-mock](https://github.com/cup-of-tea-dot-be/entity-framework-core3-mock): Easy Mock wrapper for mocking EFCore3 DbContext and DbSet using Moq or NSubstitute
+* [huysentruitw/entity-framework-core-mock](https://github.com/huysentruitw/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
 * [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
 * [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
