@@ -155,6 +155,9 @@
     "BYVoid/OpenCC": [
         "Other"
     ],
+    "BianFeiHu/ECNU-Assault-Guide": [
+        "Other"
+    ],
     "BishopFox/unredacter": [
         "Other"
     ],
@@ -4433,7 +4436,7 @@
     "neoclide/coc.nvim": [
         "Other"
     ],
-    "neomutt/tree-sitter-lsp": [
+    "neomutt/lsp-tree-sitter": [
         "Other"
     ],
     "neovimhaskell/haskell-vim": [

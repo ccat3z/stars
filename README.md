@@ -957,6 +957,7 @@ creating your own Awesome List by GitHub stars!
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 * [gojue/ecapture](https://github.com/gojue/ecapture): Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
+* [BianFeiHu/ECNU-Assault-Guide](https://github.com/BianFeiHu/ECNU-Assault-Guide): 华师大冲锋指南，持续更新，记录反馈
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
 * [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
 * [ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers): ECNU CS & SE 信息收集; 华师大计软院友墙
@@ -968,7 +969,7 @@ creating your own Awesome List by GitHub stars!
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-* [elves/elvish](https://github.com/elves/elvish): Versatile interactive shell & powerful scripting language in one
+* [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & Versatile interactive shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 * [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
@@ -1416,6 +1417,7 @@ creating your own Awesome List by GitHub stars!
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
+* [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter): A library to create language servers.
 * [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io): None
 * [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
@@ -2103,7 +2105,6 @@ creating your own Awesome List by GitHub stars!
 * [huggingface/transformers](https://github.com/huggingface/transformers): 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 * [soimort/translate-shell](https://github.com/soimort/translate-shell): :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [l0o0/translators_CN](https://github.com/l0o0/translators_CN): Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
-* [neomutt/tree-sitter-lsp](https://github.com/neomutt/tree-sitter-lsp): A library to create language servers.
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify): Algorithmically generated triangle art
 * [osfans/trime](https://github.com/osfans/trime): 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 * [XTLS/Trojan-killer](https://github.com/XTLS/Trojan-killer): Detect TLS in TLS.
