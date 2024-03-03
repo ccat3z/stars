@@ -1227,6 +1227,7 @@ creating your own Awesome List by GitHub stars!
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
+* [1player/host-spawn](https://github.com/1player/host-spawn): Run commands on your host from inside your toolbox or flatpak sandbox
 * [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 * [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer): I'm here to tell you some amazing stuff which teacher would never tell you.
 * [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack): Explaining how to optimize the large bundle size of moment.js with webpack
