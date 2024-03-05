@@ -930,7 +930,7 @@ creating your own Awesome List by GitHub stars!
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [getdozer/dozer](https://github.com/getdozer/dozer): Dozer is a real-time data platform for building, deploying and maintaining data products.
-* [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault tolerant SQL engine.
+* [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault-tolerant SQL engine.
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
