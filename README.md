@@ -2019,6 +2019,7 @@ creating your own Awesome List by GitHub stars!
 * [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews
 * [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+* [numtide/system-manager](https://github.com/numtide/system-manager): Manage system config using nix on any distro
 * [systemd/systemd](https://github.com/systemd/systemd): The systemd System and Service Manager 
 * [mk-fg/systemd-cgroup-nftables-policy-manager](https://github.com/mk-fg/systemd-cgroup-nftables-policy-manager): Tool to add/update nftables cgroupv2 rules for systemd-managed unit cgroups (slices, services, scopes)
 * [getlantern/systray](https://github.com/getlantern/systray): a cross platfrom Go library to place an icon and menu in the notification area
