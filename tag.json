@@ -1297,6 +1297,9 @@
     "abraunegg/onedrive": [
         "Other"
     ],
+    "acecilia/OpenWRTInvasion": [
+        "Other"
+    ],
     "acmesh-official/acme.sh": [
         "Other"
     ],
@@ -1535,6 +1538,9 @@
         "Other"
     ],
     "apache/hawq": [
+        "Other"
+    ],
+    "apache/incubator-gluten": [
         "Other"
     ],
     "apache/incubator-pegasus": [
@@ -4569,9 +4575,6 @@
         "Other"
     ],
     "oap-project/gazelle_plugin": [
-        "Other"
-    ],
-    "oap-project/gluten": [
         "Other"
     ],
     "oauth2-proxy/oauth2-proxy": [

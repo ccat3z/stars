@@ -1112,7 +1112,6 @@ creating your own Awesome List by GitHub stars!
 * [solo-io/gloo](https://github.com/solo-io/gloo): The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
-* [oap-project/gluten](https://github.com/oap-project/gluten): Gluten: Plugin to Double SparkSQL's Performance
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
 * [SUPERCILEX/gnome-clipboard-history](https://github.com/SUPERCILEX/gnome-clipboard-history): Gnome Clipboard History is a clipboard manager Gnome extension that saves what you've copied into an easily accessible, searchable history panel.
 * [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi): Live Wallpaper for GNOME
@@ -1265,6 +1264,7 @@ creating your own Awesome List by GitHub stars!
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
+* [apache/incubator-gluten](https://github.com/apache/incubator-gluten): Gluten: Plugin to Double SparkSQL's Performance
 * [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
@@ -1638,6 +1638,7 @@ creating your own Awesome List by GitHub stars!
 * [gnbdev/opengnb](https://github.com/gnbdev/opengnb): GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
+* [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion): Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 * [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
