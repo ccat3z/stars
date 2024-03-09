@@ -469,9 +469,6 @@
     "Homebrew/homebrew-cask": [
         "Other"
     ],
-    "Homebrew/homebrew-livecheck": [
-        "Other"
-    ],
     "Homebrew/homebrew-services": [
         "Other"
     ],
@@ -791,6 +788,9 @@
         "Other"
     ],
     "NixOS/patchelf": [
+        "Other"
+    ],
+    "Nossiac/mtk-openwrt-feeds": [
         "Other"
     ],
     "OI-wiki/OI-wiki": [
@@ -4647,6 +4647,9 @@
         "Other"
     ],
     "openstack/stevedore": [
+        "Other"
+    ],
+    "openwrt/mt76": [
         "Other"
     ],
     "optimisme/gjs-examples": [

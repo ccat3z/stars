@@ -1222,7 +1222,6 @@ creating your own Awesome List by GitHub stars!
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-* [Homebrew/homebrew-livecheck](https://github.com/Homebrew/homebrew-livecheck): 💀 Homebrew/homebrew-livecheck (deprecated)
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
@@ -1264,7 +1263,7 @@ creating your own Awesome List by GitHub stars!
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
-* [apache/incubator-gluten](https://github.com/apache/incubator-gluten): Gluten: Plugin to Double SparkSQL's Performance
+* [apache/incubator-gluten](https://github.com/apache/incubator-gluten): Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 * [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
@@ -1522,6 +1521,8 @@ creating your own Awesome List by GitHub stars!
 * [vbauerster/mpb](https://github.com/vbauerster/mpb): multi progress bar for Go cli applications
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+* [openwrt/mt76](https://github.com/openwrt/mt76): mac80211 driver for MediaTek MT76x0e, MT76x2e, MT7603, MT7615, MT7628 and MT7688
+* [Nossiac/mtk-openwrt-feeds](https://github.com/Nossiac/mtk-openwrt-feeds): mtk-openwrt-feeds
 * [deadpixi/mtm](https://github.com/deadpixi/mtm): Perhaps the smallest useful terminal multiplexer in the world.
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
@@ -2293,7 +2294,7 @@ creating your own Awesome List by GitHub stars!
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
 * [intel/x86-simd-sort](https://github.com/intel/x86-simd-sort): C++ template library for high performance SIMD based sorting algorithms
-* [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server
+* [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server backed by Git
 * [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 * [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
 * [svengong/xcubebase](https://github.com/svengong/xcubebase): 基于xposed的frida持久化方案
