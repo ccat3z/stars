@@ -1204,6 +1204,7 @@ creating your own Awesome List by GitHub stars!
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
+* [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot): Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 * [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
 * [jwuensche/heic-to-dynamic-gnome-wallpaper](https://github.com/jwuensche/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
 * [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -1867,8 +1868,8 @@ creating your own Awesome List by GitHub stars!
 * [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
 * [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite.
 * [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy): RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-* [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
-* [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+* [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🧡 Everything is RSSible
+* [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 * [WayneD/rsync](https://github.com/WayneD/rsync): An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle): A Flash Player emulator written in Rust
 * [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023): 2023秋冬季开源操作系统训练营
