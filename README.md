@@ -1936,7 +1936,7 @@ creating your own Awesome List by GitHub stars!
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
-* [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
+* [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery): A premium app for managing and editing your photos, videos, GIFs without ads
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -2309,7 +2309,7 @@ creating your own Awesome List by GitHub stars!
 * [florentc/xob](https://github.com/florentc/xob): A lightweight overlay volume (or anything) bar for the X Window System.
 * [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp): Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css): A CSS framework for building faithful recreations of operating system GUIs.
-* [WindySha/Xpatch](https://github.com/WindySha/Xpatch): 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+* [WindySha/Xpatch](https://github.com/WindySha/Xpatch): This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 * [Xpra-org/xpra](https://github.com/Xpra-org/xpra): Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 * [theQuert/XPS-9360-macOS](https://github.com/theQuert/XPS-9360-macOS): XPS 13 (9360) with macOS Big Sur
 * [hoanX/xps13-9360-Hackintosh](https://github.com/hoanX/xps13-9360-Hackintosh): macOS on XPS-9360
