@@ -49,7 +49,6 @@ creating your own Awesome List by GitHub stars!
 * [JavaScript](#javascript)
   * [jQuery](#jquery)
 * [Jekyll](#jekyll)
-  * [Theme](#theme)
 * [Kindle](#kindle)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -61,7 +60,7 @@ creating your own Awesome List by GitHub stars!
     * [Desktop Environment](#desktop-environment)
       * [Gnome](#gnome)
         * [Extension](#extension)
-        * [Theme](#theme-1)
+        * [Theme](#theme)
     * [Display Manager](#display-manager)
     * [Windows Manager](#windows-manager)
   * [Kernel](#kernel)
@@ -332,11 +331,6 @@ creating your own Awesome List by GitHub stars!
 * [pattex/jekyll-tagging](https://github.com/pattex/jekyll-tagging): Jekyll plugin to automatically generate a tag cloud and tag pages.
 * [gfjaru/Kiko](https://github.com/gfjaru/Kiko): :apple: Kiko, a Jekyll Theme
 * [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman): 💪  User-generated content for Git-powered websites
-
-## Theme
-
-* [TaylanTatli/Halve](https://github.com/TaylanTatli/Halve): Stylish Two-Column Jekyll Theme
-* [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon): 🌓 Moon is a minimal, one column jekyll theme.
 
 # Kindle
 
@@ -1196,6 +1190,7 @@ creating your own Awesome List by GitHub stars!
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 * [apache/hadoop](https://github.com/apache/hadoop): Apache Hadoop
+* [TolgaTatli/Halve](https://github.com/TolgaTatli/Halve): Stylish Two-Column Jekyll Theme
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's main development repository 
 * [shannonmoeller/handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts): Handlebars helpers which implement layout blocks similar to Jinja, Nunjucks (Swig), Pug (Jade), and Twig.
 * [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): Minimal templating on steroids.
@@ -1515,6 +1510,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
 * [monyhar/monyhar](https://github.com/monyhar/monyhar): 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
+* [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon): 🌓 Moon is a minimal, one column jekyll theme.
 * [devlooped/moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET
 * [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.

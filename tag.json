@@ -1060,12 +1060,6 @@
     "Tarektouati/vue-use-web": [
         "Other"
     ],
-    "TaylanTatli/Halve": [
-        "Jekyll/Theme"
-    ],
-    "TaylanTatli/Moon": [
-        "Jekyll/Theme"
-    ],
     "Tencent/kbone": [
         "Other"
     ],
@@ -1115,6 +1109,12 @@
         "Other"
     ],
     "Tinche/aiofiles": [
+        "Other"
+    ],
+    "TolgaTatli/Halve": [
+        "Other"
+    ],
+    "TolgaTatli/Moon": [
         "Other"
     ],
     "TomFreudenberg/dell-bios-fan-control": [
