@@ -660,6 +660,7 @@ creating your own Awesome List by GitHub stars!
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
 * [mendsley/bsdiff](https://github.com/mendsley/bsdiff): bsdiff and bspatch are libraries for building and applying patches to binary files.
+* [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot): Sync Bluetooth for dualboot Linux and Windows
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [maharmstone/btrfs](https://github.com/maharmstone/btrfs): WinBtrfs - an open-source btrfs driver for Windows
 * [containers/bubblewrap](https://github.com/containers/bubblewrap): Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -949,7 +950,7 @@ creating your own Awesome List by GitHub stars!
 * [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
 * [KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display): Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。
 * [Ian2020/EasyScreenCast](https://github.com/Ian2020/EasyScreenCast): This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
-* [gojue/ecapture](https://github.com/gojue/ecapture): Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
+* [gojue/ecapture](https://github.com/gojue/ecapture): Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
 * [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 * [BianFeiHu/ECNU-Assault-Guide](https://github.com/BianFeiHu/ECNU-Assault-Guide): 华师大冲锋指南，持续更新，记录反馈
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
