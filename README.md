@@ -1722,6 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A huge collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
+* [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr): Build packages using pnpm with nix
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
