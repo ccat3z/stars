@@ -783,7 +783,7 @@ creating your own Awesome List by GitHub stars!
 * [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-* [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for asynchronous distributed applications
+* [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
 * [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 * [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
@@ -1368,7 +1368,7 @@ creating your own Awesome List by GitHub stars!
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
 * [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
 * [jbaldwin/libcoro](https://github.com/jbaldwin/libcoro): C++20 coroutine library
-* [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): GDB Pretty Printers for libc++ of Clang/LLVM
+* [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): Moved: https://codeberg.org/koutheir/libcxx-pretty-printers
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
 * [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
 * [libp2p/libp2p](https://github.com/libp2p/libp2p): A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
