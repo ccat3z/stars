@@ -1051,7 +1051,7 @@ creating your own Awesome List by GitHub stars!
 * [nolanlawson/fuite](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
 * [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger): Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
-* [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library.
+* [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library based on G2.
 * [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
