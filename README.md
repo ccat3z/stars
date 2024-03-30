@@ -773,7 +773,7 @@ creating your own Awesome List by GitHub stars!
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
 * [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland (sort of), and other things, too
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
@@ -1421,7 +1421,7 @@ creating your own Awesome List by GitHub stars!
 * [yued-fe/lulu](https://github.com/yued-fe/lulu): 跨端跨框架的原生 UI 组件库，即插即用
 * [lure-sh/lure](https://github.com/lure-sh/lure): The community repository missing from your Linux distro
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client
-* [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
+* [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): A CSI Driver for dynamically provisioning Persistent node Local Volumes for Kubernetes via the Linux LVM2 storage device manager stack
 * [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 * [yuanxiaosc/Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book): 《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！
