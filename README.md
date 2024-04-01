@@ -1673,7 +1673,7 @@ creating your own Awesome List by GitHub stars!
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatibility layer for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
-* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Perfect 4K@240Hz Virtual Displays
+* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Perfect 4K@240Hz Virtual Display
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
@@ -1828,7 +1828,7 @@ creating your own Awesome List by GitHub stars!
 * [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 * [kirsch33/realip](https://github.com/kirsch33/realip): realip module for Caddy v2
 * [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-* [reduxjs/redux](https://github.com/reduxjs/redux): Predictable state container for JavaScript apps
+* [reduxjs/redux](https://github.com/reduxjs/redux): A JS library for predictable global state management
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [m8/refined.blog](https://github.com/m8/refined.blog): curated list of personal blogs
