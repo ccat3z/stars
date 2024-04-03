@@ -4396,6 +4396,9 @@
     "mwh/dragon": [
         "Other"
     ],
+    "myscale/myscaledb": [
+        "Other"
+    ],
     "mysql-net/MySqlConnector": [
         "Other"
     ],
@@ -5183,13 +5186,13 @@
     "rust-lang/mdBook": [
         "Other"
     ],
+    "rustcn-org/rust-weekly": [
+        "Other"
+    ],
     "rustdesk/rustdesk": [
         "Other"
     ],
     "rustdesk/rustdesk-server": [
-        "Other"
-    ],
-    "rustlang-cn/rust-weekly": [
         "Other"
     ],
     "rxin/db-readings": [
