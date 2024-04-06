@@ -925,6 +925,9 @@
     "Rprop/And64InlineHook": [
         "Other"
     ],
+    "RsyncProject/rsync": [
+        "Other"
+    ],
     "Rucadi/wsld": [
         "Other"
     ],
@@ -1175,9 +1178,6 @@
         "Other"
     ],
     "WayfireWM/wayfire": [
-        "Other"
-    ],
-    "WayneD/rsync": [
         "Other"
     ],
     "WebFreak001/code-debug": [
