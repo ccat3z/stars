@@ -704,7 +704,6 @@ creating your own Awesome List by GitHub stars!
 * [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp): Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
-* [open-source-translation/celery-cn](https://github.com/open-source-translation/celery-cn): 🚀Celery中文手册
 * [studentmain/censor](https://github.com/studentmain/censor): 最好的敏感词过滤库
 * [google/centipede](https://github.com/google/centipede): None
 * [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
