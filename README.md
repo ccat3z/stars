@@ -1966,7 +1966,7 @@ creating your own Awesome List by GitHub stars!
 * [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Instant AI code reviews to speed up your pull requests
 * [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail): Sourcetrail - free and open-source interactive source explorer
 * [christopher-l/space-bar](https://github.com/christopher-l/space-bar): GNOME Shell extension that shows workspaces buttons in top panel
-* [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
+* [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+ (NOT CURRENTLY WORKING ON 14.4)
 * [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
 * [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals): The Internals of Spark SQL
 * [spdk/spdk](https://github.com/spdk/spdk): Storage Performance Development Kit
