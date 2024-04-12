@@ -928,6 +928,7 @@ creating your own Awesome List by GitHub stars!
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
+* [nix-community/dream2nix](https://github.com/nix-community/dream2nix): Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 * [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
 * [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
@@ -1424,6 +1425,7 @@ creating your own Awesome List by GitHub stars!
 * [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 * [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
+* [DavHau/mach-nix](https://github.com/DavHau/mach-nix): Create highly reproducible python environments
 * [yuanxiaosc/Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book): 《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！
 * [pbharrin/machinelearninginaction](https://github.com/pbharrin/machinelearninginaction): Source Code for the book: Machine Learning in Action published by Manning
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM): Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
@@ -1728,6 +1730,7 @@ creating your own Awesome List by GitHub stars!
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
+* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=@adisbladis] 
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar

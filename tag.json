@@ -254,6 +254,9 @@
     "DapperLib/Dapper": [
         "Other"
     ],
+    "DavHau/mach-nix": [
+        "Other"
+    ],
     "DaveGamble/cJSON": [
         "C/JSON",
         "JSON"
@@ -4502,10 +4505,16 @@
     "nix-community/awesome-nix": [
         "Other"
     ],
+    "nix-community/dream2nix": [
+        "Other"
+    ],
     "nix-community/home-manager": [
         "Other"
     ],
     "nix-community/nix-on-droid": [
+        "Other"
+    ],
+    "nix-community/poetry2nix": [
         "Other"
     ],
     "nixified-ai/flake": [
