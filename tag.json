@@ -1792,6 +1792,9 @@
     "blueimp/jQuery-File-Upload": [
         "JavaScript/jQuery"
     ],
+    "bluskript/nix-inspect": [
+        "Other"
+    ],
     "bodedejavu/gnome-shell-extensions": [
         "Other"
     ],
