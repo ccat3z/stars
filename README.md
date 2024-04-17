@@ -222,7 +222,7 @@ creating your own Awesome List by GitHub stars!
 
 # Docker
 
-* [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with mysql
+* [wangxian/alpine-mysql](https://github.com/wangxian/alpine-mysql): a docker image base on alpine with MySQL/MariaDB
 * [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts): None
 * [captnbp/docker-owncloud](https://github.com/captnbp/docker-owncloud): Docker for Ownclud on Alpine Linux
 * [docker-library/haproxy](https://github.com/docker-library/haproxy): Docker Official Image packaging for HAProxy
@@ -923,7 +923,7 @@ creating your own Awesome List by GitHub stars!
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
-* [getdozer/dozer](https://github.com/getdozer/dozer): Dozer is a real-time data platform for building, deploying and maintaining data products.
+* [getdozer/dozer](https://github.com/getdozer/dozer): Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks. 
 * [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable, replicated and fault-tolerant SQL engine.
 * [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
@@ -1374,7 +1374,7 @@ creating your own Awesome List by GitHub stars!
 * [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
 * [libp2p/libp2p](https://github.com/libp2p/libp2p): A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 * [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
