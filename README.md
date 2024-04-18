@@ -544,7 +544,7 @@ creating your own Awesome List by GitHub stars!
 * [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [kvalo/ath11k-firmware](https://github.com/kvalo/ath11k-firmware): Firmware files for ath11k, a mac80211 driver for Qualcomm Technologies 802.11ax devices
-* [ariga/atlas](https://github.com/ariga/atlas): A modern tool for managing database schemas
+* [ariga/atlas](https://github.com/ariga/atlas): Manage your database schema as code
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
@@ -592,7 +592,7 @@ creating your own Awesome List by GitHub stars!
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese): :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 * [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing): A curated list of awesome tools and technology to help you out with ricing on linux
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
-* [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku): Curated list of awesome Android apps making use of Shizuku
+* [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku): Curated list of awesome Android apps making use of Shizuku
 * [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
 * [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
