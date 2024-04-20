@@ -530,7 +530,6 @@ creating your own Awesome List by GitHub stars!
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
-* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion): Apache DataFusion SQL Query Engine
 * [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
 * [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
 * [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site): Django website for generating ASCII-arts out of images or text 🎨
@@ -839,6 +838,7 @@ creating your own Awesome List by GitHub stars!
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
 * [datafuselabs/databend](https://github.com/datafuselabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
+* [apache/datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
 * [HowardHinnant/date](https://github.com/HowardHinnant/date): A date and time library based on the C++11/14/17 <chrono> header

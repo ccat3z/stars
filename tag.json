@@ -1522,13 +1522,13 @@
     "apache/arrow": [
         "Other"
     ],
-    "apache/arrow-datafusion": [
-        "Other"
-    ],
     "apache/buildstream": [
         "Other"
     ],
     "apache/cassandra": [
+        "Other"
+    ],
+    "apache/datafusion": [
         "Other"
     ],
     "apache/druid": [
