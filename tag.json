@@ -1501,7 +1501,7 @@
     "ant-design/ant-design-charts": [
         "Other"
     ],
-    "antfu/ni": [
+    "antfu-collective/ni": [
         "Other"
     ],
     "antirez/sds": [
@@ -5153,7 +5153,7 @@
     "ronv/lines": [
         "Other"
     ],
-    "roryprimrose/Divergic.Logging.Xunit": [
+    "roryprimrose/Neovolve.Logging.Xunit": [
         "Other"
     ],
     "rosghub/TLP-Switcher": [

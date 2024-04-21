@@ -881,7 +881,6 @@ creating your own Awesome List by GitHub stars!
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 * [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 * [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
-* [roryprimrose/Divergic.Logging.Xunit](https://github.com/roryprimrose/Divergic.Logging.Xunit): A Microsoft.Extensions.Logging provider for xUnit test output
 * [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
 * [jmpews/Dobby](https://github.com/jmpews/Dobby): a lightweight, multi-platform, multi-architecture hook framework.
 * [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
@@ -1546,6 +1545,7 @@ creating your own Awesome List by GitHub stars!
 * [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
+* [roryprimrose/Neovolve.Logging.Xunit](https://github.com/roryprimrose/Neovolve.Logging.Xunit): A Microsoft.Extensions.Logging provider for xUnit test output
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
@@ -1566,7 +1566,7 @@ creating your own Awesome List by GitHub stars!
 * [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
-* [antfu/ni](https://github.com/antfu/ni): 💡 Use the right package manager
+* [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 * [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect): Interactive tui for inspecting nix configs
