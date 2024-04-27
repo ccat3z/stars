@@ -1882,6 +1882,9 @@
     "c-bata/go-prompt": [
         "Other"
     ],
+    "cachix/devenv": [
+        "Other"
+    ],
     "caddy-dns/cloudflare": [
         "Other"
     ],
@@ -3543,6 +3546,9 @@
         "Other"
     ],
     "jesseduffield/lazygit": [
+        "Other"
+    ],
+    "jetify-com/devbox": [
         "Other"
     ],
     "jfinal/jfinal": [
