@@ -1534,7 +1534,7 @@ creating your own Awesome List by GitHub stars!
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-* [myscale/myscaledb](https://github.com/myscale/myscaledb): An open-source, high-performance SQL vector database built on ClickHouse.
+* [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): An open-source, high-performance SQL vector database built on ClickHouse.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
 * [tj/n](https://github.com/tj/n): Node version management
