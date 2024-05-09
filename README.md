@@ -594,7 +594,7 @@ creating your own Awesome List by GitHub stars!
 * [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku): Curated list of awesome Android apps making use of Shizuku
 * [deapplization/awesome-switching](https://github.com/deapplization/awesome-switching): switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips): None
-* [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+* [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS): 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 * [vala-lang/awesome-vala](https://github.com/vala-lang/awesome-vala): A curated list of Vala projects
 * [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): 🎉 A curated list of awesome things related to Vue.js
@@ -2012,7 +2012,6 @@ creating your own Awesome List by GitHub stars!
 * [tindy2013/subconverter](https://github.com/tindy2013/subconverter): Utility to convert between various subscription format
 * [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws): :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 * [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
-* [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
 * [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns): 给新员工和实习生的生存指南。 Good Luck and Survive!
@@ -2196,6 +2195,7 @@ creating your own Awesome List by GitHub stars!
 * [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 * [mhinz/vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sign column.
 * [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
+* [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda): 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 * [wgwoods/vim-systemd-syntax](https://github.com/wgwoods/vim-systemd-syntax): syntax highlighting and filetype detection for systemd unit files
 * [posva/vim-vue](https://github.com/posva/vim-vue): Syntax Highlight for Vue.js components
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
