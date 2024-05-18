@@ -1145,7 +1145,7 @@ creating your own Awesome List by GitHub stars!
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
 * [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
-* [gocd/gocd](https://github.com/gocd/gocd): Main repository for GoCD - Continuous Delivery server
+* [gocd/gocd](https://github.com/gocd/gocd): GoCD - Continuous Delivery server main repository
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
 * [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs): Encrypted overlay filesystem written in Go
 * [slackner/gocryptfs-inspect](https://github.com/slackner/gocryptfs-inspect): Scripts to manually inspect the content of files encrypted with gocryptfs
