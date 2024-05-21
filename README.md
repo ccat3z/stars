@@ -1898,7 +1898,7 @@ creating your own Awesome List by GitHub stars!
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)
-* [scala/scala](https://github.com/scala/scala): Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+* [scala/scala](https://github.com/scala/scala): Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
 * [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans.
 * [prprprus/scheduler](https://github.com/prprprus/scheduler): Go Job Scheduler for Humans.
 * [SCons/scons](https://github.com/SCons/scons): SCons - a software construction tool
