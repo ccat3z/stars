@@ -1166,7 +1166,6 @@ creating your own Awesome List by GitHub stars!
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
-* [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb): Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 * [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -1706,6 +1705,7 @@ creating your own Awesome List by GitHub stars!
 * [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
+* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11

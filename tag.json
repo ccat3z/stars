@@ -3134,9 +3134,6 @@
     "greenpau/caddy-auth-portal": [
         "Other"
     ],
-    "greenplum-db/gpdb": [
-        "Other"
-    ],
     "greenrobot/greenDAO": [
         "Android"
     ],
@@ -4800,6 +4797,9 @@
         "Other"
     ],
     "photondb/photondb": [
+        "Other"
+    ],
+    "photoprism/photoprism": [
         "Other"
     ],
     "phuhl/linux_notification_center": [
