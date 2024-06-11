@@ -959,7 +959,7 @@ creating your own Awesome List by GitHub stars!
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-* [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & Versatile interactive shell
+* [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & versatile interactive shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 * [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
