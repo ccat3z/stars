@@ -4733,6 +4733,9 @@
     "parcel-bundler/lightningcss": [
         "Other"
     ],
+    "patroni/patroni": [
+        "Other"
+    ],
     "pattex/jekyll-tagging": [
         "Jekyll"
     ],
@@ -6412,9 +6415,6 @@
         "Other"
     ],
     "zachleat/speedlify": [
-        "Other"
-    ],
-    "zalando/patroni": [
         "Other"
     ],
     "zalando/skipper": [
