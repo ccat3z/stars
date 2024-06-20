@@ -2473,9 +2473,6 @@
     "drudru/ansi_up": [
         "Other"
     ],
-    "drwpow/openapi-typescript": [
-        "Other"
-    ],
     "dtm-labs/dtm": [
         "Other"
     ],
@@ -4647,6 +4644,9 @@
         "Other"
     ],
     "openSUSE/snapper": [
+        "Other"
+    ],
+    "openapi-ts/openapi-typescript": [
         "Other"
     ],
     "openebs/lvm-localpv": [
