@@ -1582,9 +1582,6 @@
     "apple/foundationdb": [
         "Other"
     ],
-    "apple/sourcekit-lsp": [
-        "Other"
-    ],
     "arc-design/arc-theme": [
         "Other"
     ],
@@ -5619,6 +5616,9 @@
         "Other"
     ],
     "swagger-api/swagger-codegen": [
+        "Other"
+    ],
+    "swiftlang/sourcekit-lsp": [
         "Other"
     ],
     "swisskyrepo/PayloadsAllTheThings": [
