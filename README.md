@@ -2123,6 +2123,7 @@ creating your own Awesome List by GitHub stars!
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
 * [apognu/tuigreet](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
 * [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack
+* [pyjabox/TunnelOverTerminal](https://github.com/pyjabox/TunnelOverTerminal): Tunnel TCP or UDP data stream over a terminal session which has been established by Expect script
 * [tuplex/tuplex](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
 * [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet): .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
 * [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵

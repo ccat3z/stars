@@ -4958,6 +4958,9 @@
     "pygments/pygments": [
         "Other"
     ],
+    "pyjabox/TunnelOverTerminal": [
+        "Other"
+    ],
     "pypa/flit": [
         "Other"
     ],
