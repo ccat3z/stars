@@ -3641,6 +3641,9 @@
     "juicedata/juicefs-csi-driver": [
         "Other"
     ],
+    "julianbuettner/tcp-over-http": [
+        "Other"
+    ],
     "julio641742/gnome-shell-extension-reference": [
         "Other"
     ],
@@ -5622,6 +5625,9 @@
         "Other"
     ],
     "swagger-api/swagger-codegen": [
+        "Other"
+    ],
+    "swiftbar/SwiftBar": [
         "Other"
     ],
     "swiftlang/sourcekit-lsp": [

@@ -2013,6 +2013,7 @@ creating your own Awesome List by GitHub stars!
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
 * [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen): swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
+* [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor 
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
 * [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver): Run-Your-Own Firefox Sync Server
@@ -2041,6 +2042,7 @@ creating your own Awesome List by GitHub stars!
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
 * [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
 * [google/tcmalloc](https://github.com/google/tcmalloc): None
+* [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http): A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 * [noctuid/tdrop](https://github.com/noctuid/tdrop): A Glorified WM-Independent Dropdown Creator
 * [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers
 * [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme): A flat colorful Design icon theme
