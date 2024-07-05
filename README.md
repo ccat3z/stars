@@ -1264,7 +1264,7 @@ creating your own Awesome List by GitHub stars!
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
-* [InternLM/InternLM](https://github.com/InternLM/InternLM): Official release of InternLM2 7B and 20B base and chat models. 200K context support
+* [InternLM/InternLM](https://github.com/InternLM/InternLM): Official release of InternLM2.5 7B base and chat models. 1M context support
 * [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
 * [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference): 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 * [will-ww/IntroDaSE](https://github.com/will-ww/IntroDaSE): 《数据科学与工程导论》教材配套资源
@@ -1914,7 +1914,7 @@ creating your own Awesome List by GitHub stars!
 * [seeingtheory/Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory): A visual introduction to probability and statistics.
 * [epasveer/seer](https://github.com/epasveer/seer): Seer - a gui frontend to gdb
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
-* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click 
+* [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click 
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 * [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
