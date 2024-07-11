@@ -1351,7 +1351,7 @@ creating your own Awesome List by GitHub stars!
 * [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 * [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol): KCP协议基本数据结构和算法图文介绍
 * [egh/ledger-autosync](https://github.com/egh/ledger-autosync): Synchronize your ledger-cli files with your bank.
-* [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
+* [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥
 * [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
@@ -1538,6 +1538,7 @@ creating your own Awesome List by GitHub stars!
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
 * [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
+* [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump): 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
 * [roryprimrose/Neovolve.Logging.Xunit](https://github.com/roryprimrose/Neovolve.Logging.Xunit): A Microsoft.Extensions.Logging provider for xUnit test output
@@ -1934,6 +1935,7 @@ creating your own Awesome List by GitHub stars!
 * [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
+* [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03): None
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
