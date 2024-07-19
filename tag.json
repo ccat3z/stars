@@ -4508,6 +4508,9 @@
     "nix-community/home-manager": [
         "Other"
     ],
+    "nix-community/lanzaboote": [
+        "Other"
+    ],
     "nix-community/nix-on-droid": [
         "Other"
     ],

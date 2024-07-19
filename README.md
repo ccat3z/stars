@@ -616,7 +616,7 @@ creating your own Awesome List by GitHub stars!
 * [google/bbr](https://github.com/google/bbr): None
 * [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [beaudar/beaudar](https://github.com/beaudar/beaudar): 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-* [ThinkParQ/beegfs-csi-driver](https://github.com/ThinkParQ/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
+* [ThinkParQ/beegfs-csi-driver](https://github.com/ThinkParQ/beegfs-csi-driver): The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes. 📦 🐝
 * [zhanghai/BeeShell](https://github.com/zhanghai/BeeShell): Java REPL on Android with BeanShell
 * [cmu-db/benchbase](https://github.com/cmu-db/benchbase): Multi-DBMS SQL Benchmarking Framework via JDBC
 * [google/benchmark](https://github.com/google/benchmark): A microbenchmark support library
@@ -1339,6 +1339,7 @@ creating your own Awesome List by GitHub stars!
 * [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
+* [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote): Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 * [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
