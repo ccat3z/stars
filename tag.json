@@ -2020,6 +2020,9 @@
     "chyyuu/os_kernel_lab": [
         "Other"
     ],
+    "cictema/PlushCV": [
+        "Other"
+    ],
     "citusdata/citus": [
         "Other"
     ],
@@ -5253,9 +5256,6 @@
         "Kindle"
     ],
     "samyk/evercookie": [
-        "Other"
-    ],
-    "sansquoi/PlushCV": [
         "Other"
     ],
     "sapk/docker-volume-rclone": [

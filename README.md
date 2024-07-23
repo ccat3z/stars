@@ -1722,7 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
-* [sansquoi/PlushCV](https://github.com/sansquoi/PlushCV): A One Page Two Column Resume Latex Template
+* [cictema/PlushCV](https://github.com/cictema/PlushCV): A One Page Two Column Resume Latex Template
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A huge collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr): Build packages using pnpm with nix
