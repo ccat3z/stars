@@ -2340,7 +2340,7 @@ creating your own Awesome List by GitHub stars!
 * [wormtql/yas](https://github.com/wormtql/yas): Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
-* [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/yaagl QQ频道 https://pd.qq.com/s/1dwwmkgq4
+* [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 * [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
