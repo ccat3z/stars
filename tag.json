@@ -3991,6 +3991,9 @@
     "llvm/llvm-project": [
         "Other"
     ],
+    "locaal-ai/obs-backgroundremoval": [
+        "Other"
+    ],
     "lodash/lodash": [
         "Other"
     ],
@@ -4599,9 +4602,6 @@
         "Other"
     ],
     "oauth2-proxy/oauth2-proxy": [
-        "Other"
-    ],
-    "occ-ai/obs-backgroundremoval": [
         "Other"
     ],
     "oceanbase/oceanbase": [
