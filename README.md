@@ -1694,7 +1694,7 @@ creating your own Awesome List by GitHub stars!
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
 * [aiberia/persistent-evdev](https://github.com/aiberia/persistent-evdev): None
-* [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data. <personal.management.system.pms@gmail.com>
+* [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data. 
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
@@ -1856,7 +1856,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): SQL database for event streaming workloads. Build live dashboards, event-driven applications, ETL pipelines, and feature stores in minutes. Featuring a best-in-class stream processing engine. PostgreSQL compatible.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
