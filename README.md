@@ -1405,7 +1405,7 @@ creating your own Awesome List by GitHub stars!
 * [lodash/lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 * [square/logcat](https://github.com/square/logcat): I CAN HAZ LOGZ?
 * [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader): A simple app for viewing logs on an android device.
-* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on Google BigQuery, PostgreSQL and SQLite.
+* [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
@@ -1872,7 +1872,7 @@ creating your own Awesome List by GitHub stars!
 * [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
-* [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, distributed relational database built on SQLite.
+* [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, user-friendly, distributed relational database built on SQLite.
 * [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy): RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🧡 Everything is RSSible
 * [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
