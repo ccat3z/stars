@@ -1479,7 +1479,7 @@ creating your own Awesome List by GitHub stars!
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
-* [minio/minio](https://github.com/minio/minio): The Object Store for AI Data Infrastructure
+* [minio/minio](https://github.com/minio/minio): MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
 * [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework): [Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
@@ -1858,7 +1858,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. PostgreSQL compatible.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Continuous SQL for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. PostgreSQL compatible.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
@@ -1960,7 +1960,7 @@ creating your own Awesome List by GitHub stars!
 * [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * [timbertson/slinger](https://github.com/timbertson/slinger): gnome-shell extension for throwing windows around efficiently
 * [RimoChan/smoke_of_deceit](https://github.com/RimoChan/smoke_of_deceit): 把代码藏起来！
-* [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
+* [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications
 * [txthinking/socks5](https://github.com/txthinking/socks5): SOCKS Protocol Version 5 Library in Go. Full TCP/UDP and IPv4/IPv6 support
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
@@ -2210,7 +2210,7 @@ creating your own Awesome List by GitHub stars!
 * [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs): Labs on distributed transaction
-* [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform.
+* [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform in native C++.
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
 * [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp): Official C# support for Visual Studio Code

@@ -919,9 +919,6 @@
     "RobertCsordas/arch-efiboot": [
         "Other"
     ],
-    "RobinLinus/snapdrop": [
-        "Other"
-    ],
     "Rocket1184/electron-netease-cloud-music": [
         "Other"
     ],
@@ -1019,6 +1016,9 @@
         "Other"
     ],
     "Snailclimb/JavaGuide": [
+        "Other"
+    ],
+    "SnapDrop/snapdrop": [
         "Other"
     ],
     "SortableJS/Sortable": [
