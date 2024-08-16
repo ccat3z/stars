@@ -743,7 +743,7 @@ creating your own Awesome List by GitHub stars!
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim): Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-* [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the open source, cloud-native distributed SQL database.
+* [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach): CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 * [WebFreak001/code-debug](https://github.com/WebFreak001/code-debug): Native debugging for VSCode
 * [VaibhavAcharya/code-gpt](https://github.com/VaibhavAcharya/code-gpt): Make sense of any code, anytime. 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
@@ -1707,7 +1707,7 @@ creating your own Awesome List by GitHub stars!
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
-* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11
+* [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
 * [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension): None
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2): A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
