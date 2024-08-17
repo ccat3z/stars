@@ -624,7 +624,7 @@ creating your own Awesome List by GitHub stars!
 * [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql): Unofficial mirror of benchmarksql on github
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip): 查找适合自己当前网络环境的优选cloudflare anycast IP
-* [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 * [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 * [bytedance/bhook](https://github.com/bytedance/bhook): :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 * [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Open source, compact, and material designed cursor set.
@@ -1852,7 +1852,7 @@ creating your own Awesome List by GitHub stars!
 * [resume/resume.github.com](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
-* [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh): 技术面试最后反问面试官的话
+* [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh): 技术面试最后反问面试官的话
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
