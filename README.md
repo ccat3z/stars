@@ -1291,6 +1291,7 @@ creating your own Awesome List by GitHub stars!
 * [jfinal/jfinal](https://github.com/jfinal/jfinal): JAVA WEB + ORM Framework
 * [fxsjy/jieba](https://github.com/fxsjy/jieba): 结巴中文分词
 * [gregrahn/join-order-benchmark](https://github.com/gregrahn/join-order-benchmark): Join Order Benchmark (JOB)
+* [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS): Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 * [customd/jquery-visible](https://github.com/customd/jquery-visible): A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position
 * [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl): Collect your thoughts and notes without leaving the command line.
 * [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
