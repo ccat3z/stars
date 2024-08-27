@@ -1155,7 +1155,7 @@ creating your own Awesome List by GitHub stars!
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
-* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science
+* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
@@ -2374,6 +2374,7 @@ creating your own Awesome List by GitHub stars!
 * [giorginolab/zotfile_doctor](https://github.com/giorginolab/zotfile_doctor): Zotfile directory consistency checker
 * [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm): Zpm— Zsh Plugin Manager
 * [systemd/zram-generator](https://github.com/systemd/zram-generator): Systemd unit generator for zram devices
+* [RobSis/zsh-reentry-hook](https://github.com/RobSis/zsh-reentry-hook): ZSH plugin that re-enters working directory if it has been removed and re-created.
 * [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
