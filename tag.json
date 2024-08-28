@@ -3365,9 +3365,6 @@
     "idealvin/coost": [
         "Other"
     ],
-    "iffybug/reverse-interview-zh": [
-        "Other"
-    ],
     "iggredible/Learn-Vim": [
         "Other"
     ],
@@ -4800,6 +4797,9 @@
         "Other"
     ],
     "percona/PerconaFT": [
+        "Other"
+    ],
+    "perklet/reverse-interview-zh": [
         "Other"
     ],
     "perlancar/perl-Org-Parser": [
