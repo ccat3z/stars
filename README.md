@@ -1371,7 +1371,7 @@ creating your own Awesome List by GitHub stars!
 * [yyzybb537/libgo](https://github.com/yyzybb537/libgo): Go-style concurrency in C++11
 * [libp2p/libp2p](https://github.com/libp2p/libp2p): A modular and extensible networking stack which solves many challenges of peer-to-peer applications.
 * [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query): C library for accessing the PostgreSQL parser outside of the server environment
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 * [ubuntu/libreoffice-style-yaru-fullcolor](https://github.com/ubuntu/libreoffice-style-yaru-fullcolor): A fullcolor icon pack for Libreoffice of the awesome Yaru theme
 * [libvips/libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 * [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
@@ -1453,7 +1453,7 @@ creating your own Awesome List by GitHub stars!
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [material-shell/material-shell](https://github.com/material-shell/material-shell): A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 * [material-foundation/material-theme-builder](https://github.com/material-foundation/material-theme-builder): Visualize dynamic color and create a custom Material Theme. 
-* [mui/material-ui](https://github.com/mui/material-ui): Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+* [mui/material-ui](https://github.com/mui/material-ui): Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles): Material Design file manager for Android
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
@@ -1555,7 +1555,7 @@ creating your own Awesome List by GitHub stars!
 * [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
 * [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): The open-source observability platfrom everyone needs!
+* [netdata/netdata](https://github.com/netdata/netdata): Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
