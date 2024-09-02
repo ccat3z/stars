@@ -738,7 +738,7 @@ creating your own Awesome List by GitHub stars!
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 * [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-* [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 Rust-Based Shell History Analyzer
+* [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI to view your shell history stats, with support for zsh, bash, fish, and atuin.
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
 * [spf13/cobra](https://github.com/spf13/cobra): A Commander for modern Go CLI interactions
@@ -1162,12 +1162,12 @@ creating your own Awesome List by GitHub stars!
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 * [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+* [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle): Minimal GraphQL client
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
 * [graphql/graphql-playground](https://github.com/graphql/graphql-playground): 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 * [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react): A GraphQL client for React using modern context and hooks APIs that is lightweight (< 4 kB) but powerful; the first Relay and Apollo alternative with server side rendering.
-* [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request): Minimal GraphQL client
 * [erebe/greenclip](https://github.com/erebe/greenclip): Simple clipboard manager to be integrated with rofi - Static binary available
 * [pemistahl/grex](https://github.com/pemistahl/grex): A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 * [getgridea/gridea](https://github.com/getgridea/gridea): ✍️ A static blog writing client (一个静态博客写作客户端)
