@@ -453,7 +453,7 @@ creating your own Awesome List by GitHub stars!
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
-* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++
+* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Redpanda, Kong, Telegram and Cloudflare Workers.
 * [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard): Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
@@ -1726,7 +1726,7 @@ creating your own Awesome List by GitHub stars!
 * [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma): Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 * [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 * [rime/plum](https://github.com/rime/plum): 東風破 /plum/: Rime configuration manager and input schema repository
-* [cictema/PlushCV](https://github.com/cictema/PlushCV): A One Page Two Column Resume Latex Template
+* [cystema/PlushCV](https://github.com/cystema/PlushCV): A One Page Two Column Resume Latex Template
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes): A huge collection (80+) of plymouth themes ported from android bootanimations
 * [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 * [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr): Build packages using pnpm with nix

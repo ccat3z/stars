@@ -2029,9 +2029,6 @@
     "chyyuu/os_kernel_lab": [
         "Other"
     ],
-    "cictema/PlushCV": [
-        "Other"
-    ],
     "citusdata/citus": [
         "Other"
     ],
@@ -2210,6 +2207,9 @@
         "Other"
     ],
     "cweijan/vscode-database-client": [
+        "Other"
+    ],
+    "cystema/PlushCV": [
         "Other"
     ],
     "cytle/wechat_web_devtools": [
