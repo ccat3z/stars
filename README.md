@@ -1991,7 +1991,7 @@ creating your own Awesome List by GitHub stars!
 * [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
-* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
+* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [suutaku/sshx](https://github.com/suutaku/sshx): P2P SSH using WebRTC
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
