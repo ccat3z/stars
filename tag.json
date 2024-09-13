@@ -3945,6 +3945,9 @@
     "libp2p/libp2p": [
         "Other"
     ],
+    "libusb/hidapi": [
+        "Other"
+    ],
     "libvips/libvips": [
         "Other"
     ],
@@ -5878,6 +5881,9 @@
         "Other"
     ],
     "tobya/DocTo": [
+        "Other"
+    ],
+    "todbot/hidapitester": [
         "Other"
     ],
     "tolerious/Programming_learning_resource": [
