@@ -554,7 +554,7 @@ creating your own Awesome List by GitHub stars!
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-* [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): List of Continuous Integration services
+* [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): The list of continuous integration services and tools
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -966,6 +966,7 @@ creating your own Awesome List by GitHub stars!
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck): Emulator configurator for Steam Deck
+* [cass00/enhanced-osk-gnome-ext](https://github.com/cass00/enhanced-osk-gnome-ext): Enhanced On-Screen Keyboard for Gnome Shell
 * [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
 * [huysentruitw/entity-framework-core-mock](https://github.com/huysentruitw/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
@@ -1257,6 +1258,7 @@ creating your own Awesome List by GitHub stars!
 * [ocornut/imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js): Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim): Improve startup time for Neovim
+* [nick-shmyrev/improved-osk-gnome-ext](https://github.com/nick-shmyrev/improved-osk-gnome-ext): Improved On Screen Keyboard for Gnome Shell
 * [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files
 * [apache/incubator-gluten](https://github.com/apache/incubator-gluten): Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 * [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
