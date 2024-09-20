@@ -1239,7 +1239,7 @@ creating your own Awesome List by GitHub stars!
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 * [hydradatabase/hydra](https://github.com/hydradatabase/hydra): Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
-* [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+* [ory/hydra](https://github.com/ory/hydra): The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 * [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
 * [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for theme, font, input mode and clipboard history.
