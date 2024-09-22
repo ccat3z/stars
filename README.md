@@ -606,7 +606,6 @@ creating your own Awesome List by GitHub stars!
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
 * [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
-* [tinted-theming/base16-termite](https://github.com/tinted-theming/base16-termite): None
 * [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language
 * [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts): A collection of useful shell scripts, for the lazy and impatient.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
@@ -1647,7 +1646,7 @@ creating your own Awesome List by GitHub stars!
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
 * [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion): Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
-* [orbstack/orbstack](https://github.com/orbstack/orbstack): Fast, light, simple Docker containers & Linux machines for macOS
+* [orbstack/orbstack](https://github.com/orbstack/orbstack): Fast, light, simple Docker containers & Linux machines
 * [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -2098,6 +2097,7 @@ creating your own Awesome List by GitHub stars!
 * [gsliepen/tinc](https://github.com/gsliepen/tinc): a VPN daemon
 * [pacien/tincapp](https://github.com/pacien/tincapp): Android binding and user interface for the tinc mesh VPN daemon.
 * [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
+* [tinted-theming/tinted-termite](https://github.com/tinted-theming/tinted-termite): None
 * [talent-plan/tinykv](https://github.com/talent-plan/tinykv): A course to build distributed key-value service based on TiKV model
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 * [talent-plan/tinysql](https://github.com/talent-plan/tinysql): A course to build the SQL layer of a distributed database.
@@ -2385,7 +2385,7 @@ creating your own Awesome List by GitHub stars!
 * [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
 * [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
-* [google/zx](https://github.com/google/zx): A tool for writing better scripts
+* [google/zx](https://github.com/google/zx): 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 * [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper): Using Zygisk to dump il2cpp data at runtime
 
 # Pandoc
