@@ -83,9 +83,6 @@
     "Airblader/i3": [
         "Linux/GUI/Windows Manager"
     ],
-    "Alecaddd/sequeler": [
-        "Other"
-    ],
     "AlexanderZhou01/China-software-copyright": [
         "Other"
     ],
@@ -2577,6 +2574,9 @@
         "Other"
     ],
     "element-plus/element-plus": [
+        "Other"
+    ],
+    "elementary-community/sequeler": [
         "Other"
     ],
     "eli-schwartz/aurpublish": [

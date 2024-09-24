@@ -1928,7 +1928,7 @@ creating your own Awesome List by GitHub stars!
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
 * [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click 
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-* [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler): SQL Client built in Vala
+* [elementary-community/sequeler](https://github.com/elementary-community/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
