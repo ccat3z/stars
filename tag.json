@@ -3218,7 +3218,7 @@
     "harness/drone-cli": [
         "Other"
     ],
-    "harness/gitness": [
+    "harness/harness": [
         "Other"
     ],
     "harshadgavali/gnome-gesture-improvements": [
@@ -3946,6 +3946,9 @@
         "Python"
     ],
     "libp2p/libp2p": [
+        "Other"
+    ],
+    "libsdl-org/SDL": [
         "Other"
     ],
     "libusb/hidapi": [
