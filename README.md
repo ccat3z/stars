@@ -1191,7 +1191,7 @@ creating your own Awesome List by GitHub stars!
 * [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): Minimal templating on steroids.
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 * [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
-* [harness/harness](https://github.com/harness/harness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+* [harness/harness](https://github.com/harness/harness): Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
 * [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
