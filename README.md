@@ -829,7 +829,7 @@ creating your own Awesome List by GitHub stars!
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [datafuselabs/databend](https://github.com/datafuselabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+* [databendlabs/databend](https://github.com/databendlabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [apache/datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
@@ -1160,7 +1160,7 @@ creating your own Awesome List by GitHub stars!
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-* [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+* [oracle/graaljs](https://github.com/oracle/graaljs): A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 * [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle): Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
