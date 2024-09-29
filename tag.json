@@ -1051,9 +1051,6 @@
     "Supervisor/supervisor": [
         "Linux/Utility"
     ],
-    "Suzie97/Communique": [
-        "Other"
-    ],
     "SwiftLaTeX/SwiftLaTeX": [
         "Other"
     ],
@@ -2574,6 +2571,9 @@
         "Other"
     ],
     "element-plus/element-plus": [
+        "Other"
+    ],
+    "elementary-community/communique": [
         "Other"
     ],
     "elementary-community/sequeler": [

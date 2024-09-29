@@ -756,7 +756,7 @@ creating your own Awesome List by GitHub stars!
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns): a classy font
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
-* [Suzie97/Communique](https://github.com/Suzie97/Communique): Featureful RSS Reader for elementary OS
+* [elementary-community/communique](https://github.com/elementary-community/communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
 * [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
