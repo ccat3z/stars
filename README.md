@@ -832,6 +832,7 @@ creating your own Awesome List by GitHub stars!
 * [databendlabs/databend](https://github.com/databendlabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [apache/datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine
+* [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [qgaye/DataStructures](https://github.com/qgaye/DataStructures): 数据结构 Java
 * [alibaba/DataX](https://github.com/alibaba/DataX): DataX是阿里云DataWorks数据集成的开源版本。
 * [HowardHinnant/date](https://github.com/HowardHinnant/date): A date and time library based on the C++11/14/17 <chrono> header
@@ -1992,7 +1993,6 @@ creating your own Awesome List by GitHub stars!
 * [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
 * [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator): SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic and performance bugs in database systems
-* [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
@@ -2082,7 +2082,7 @@ creating your own Awesome List by GitHub stars!
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++
 * [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN): 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
+* [themix-project/themix-gui](https://github.com/themix-project/themix-gui): Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes. Have a hack for HiDPI in gtk2. Its Base16 plugin also allowing a lot of app themes support like Alacritty, Emacs, GTK4, KDE, VIM and many more.
 * [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS

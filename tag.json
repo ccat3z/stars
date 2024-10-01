@@ -1546,6 +1546,9 @@
     "apache/datafusion": [
         "Other"
     ],
+    "apache/datafusion-sqlparser-rs": [
+        "Other"
+    ],
     "apache/druid": [
         "Other"
     ],
@@ -5576,9 +5579,6 @@
     ],
     "sqlitebrowser/sqlitebrowser": [
         "SQLite"
-    ],
-    "sqlparser-rs/sqlparser-rs": [
-        "Other"
     ],
     "square/go-jose": [
         "Other"
