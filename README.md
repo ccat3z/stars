@@ -453,7 +453,7 @@ creating your own Awesome List by GitHub stars!
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script implementing ACME client protocol
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
-* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Redpanda, Kong, Telegram and Cloudflare Workers.
+* [ada-url/ada](https://github.com/ada-url/ada): WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Clickhouse, Redpanda, Kong, Telegram and Cloudflare Workers.
 * [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard): Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * [hrdwrrsk/adementary-theme](https://github.com/hrdwrrsk/adementary-theme): A theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
 * [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo): adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
