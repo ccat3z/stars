@@ -1399,7 +1399,7 @@ creating your own Awesome List by GitHub stars!
 * [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki): linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 * [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
 * [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh): a microblog for lists
-* [fanmingming/live](https://github.com/fanmingming/live): ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+* [fanmingming/live](https://github.com/fanmingming/live): ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
