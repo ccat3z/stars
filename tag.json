@@ -179,9 +179,6 @@
     "Byron/dua-cli": [
         "Other"
     ],
-    "Byron/gitoxide": [
-        "Other"
-    ],
     "ByteByteGoHq/system-design-101": [
         "Other"
     ],
@@ -416,6 +413,9 @@
         "Other"
     ],
     "GitJournal/GitJournal": [
+        "Other"
+    ],
+    "GitoxideLabs/gitoxide": [
         "Other"
     ],
     "Gogh-Co/Gogh": [
