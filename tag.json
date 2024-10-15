@@ -321,9 +321,6 @@
     "EastWorld/wechat-app-mall": [
         "WeChat/Mini Program/Develop"
     ],
-    "Eastrall/EntityFrameworkCore.DataEncryption": [
-        "Other"
-    ],
     "EbookFoundation/free-programming-books": [
         "Other"
     ],
@@ -1028,6 +1025,9 @@
         "Other"
     ],
     "SnapDrop/snapdrop": [
+        "Other"
+    ],
+    "SoftFluent/EntityFrameworkCore.DataEncryption": [
         "Other"
     ],
     "SortableJS/Sortable": [
@@ -2576,16 +2576,16 @@
     "element-plus/element-plus": [
         "Other"
     ],
-    "elementary-community/communique": [
-        "Other"
-    ],
-    "elementary-community/sequeler": [
-        "Other"
-    ],
     "eli-schwartz/aurpublish": [
         "Other"
     ],
     "eliben/pyelftools": [
+        "Other"
+    ],
+    "ellie-commons/communique": [
+        "Other"
+    ],
+    "ellie-commons/sequeler": [
         "Other"
     ],
     "elves/elvish": [

@@ -756,7 +756,7 @@ creating your own Awesome List by GitHub stars!
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns): a classy font
 * [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint): 📓 Lint commit messages
-* [elementary-community/communique](https://github.com/elementary-community/communique): Featureful RSS Reader for elementary OS
+* [ellie-commons/communique](https://github.com/ellie-commons/communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
 * [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
 * [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
@@ -971,7 +971,7 @@ creating your own Awesome List by GitHub stars!
 * [huysentruitw/entity-framework-core-mock](https://github.com/huysentruitw/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
 * [huysentruitw/entity-framework-mock](https://github.com/huysentruitw/entity-framework-mock): Easy Mock wrapper for mocking EF6 DbContext and DbSet using Moq or NSubstitute
 * [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus): Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
-* [Eastrall/EntityFrameworkCore.DataEncryption](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
+* [SoftFluent/EntityFrameworkCore.DataEncryption](https://github.com/SoftFluent/EntityFrameworkCore.DataEncryption): A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 * [opensource-f2f/episode](https://github.com/opensource-f2f/episode): 开源面对面，连接热爱开源的你！Episodes for the open-source face-to-face talk!
 * [evanw/esbuild](https://github.com/evanw/esbuild): An extremely fast bundler for the web
 * [future-architect/eslint-plugin-vue-scoped-css](https://github.com/future-architect/eslint-plugin-vue-scoped-css): ESLint plugin for Scoped CSS in Vue.js
@@ -1930,7 +1930,7 @@ creating your own Awesome List by GitHub stars!
 * [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium): A browser automation framework and ecosystem.
 * [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design): 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click 
 * [timvisee/send](https://github.com/timvisee/send): :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-* [elementary-community/sequeler](https://github.com/elementary-community/sequeler): SQL Client built in Vala
+* [ellie-commons/sequeler](https://github.com/ellie-commons/sequeler): SQL Client built in Vala
 * [vercel/serve](https://github.com/vercel/serve): Static file serving and directory listing
 * [etesync/server](https://github.com/etesync/server): The Etebase server (so you can run your own)
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
