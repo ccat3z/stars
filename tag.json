@@ -95,6 +95,9 @@
     "Algram/rofi-gopass": [
         "Other"
     ],
+    "AlistGo/alist": [
+        "Other"
+    ],
     "Altinity/clickhouse-operator": [
         "Other"
     ],
@@ -1433,9 +1436,6 @@
         "Other"
     ],
     "alibaba/yalantinglibs": [
-        "Other"
-    ],
-    "alist-org/alist": [
         "Other"
     ],
     "aljazceru/awesome-nostr": [

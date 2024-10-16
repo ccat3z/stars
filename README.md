@@ -471,7 +471,7 @@ creating your own Awesome List by GitHub stars!
 * [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica): A computer science textbook
 * [Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms): 全面的算法代码仓库
 * [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
-* [alist-org/alist](https://github.com/alist-org/alist): 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+* [AlistGo/alist](https://github.com/AlistGo/alist): 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 * [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse): 阿里云盘 FUSE 磁盘挂载
 * [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav): 阿里云盘 WebDAV 服务
 * [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS): A list of RSS related stuff: tools, services, communities and tutorials, etc.
