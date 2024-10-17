@@ -3143,6 +3143,9 @@
     "gpakosz/.tmux": [
         "Other"
     ],
+    "graffle-js/graffle": [
+        "Other"
+    ],
     "grandchef/vuex-persistedstate-migrate": [
         "Other"
     ],
@@ -3489,9 +3492,6 @@
         "Other"
     ],
     "jart/cosmopolitan": [
-        "Other"
-    ],
-    "jasonkuhrt/graffle": [
         "Other"
     ],
     "jasonlvhit/gocron": [
