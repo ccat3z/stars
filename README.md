@@ -669,7 +669,7 @@ creating your own Awesome List by GitHub stars!
 * [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): text window manager, shell multiplexer, integrated DevOps environment
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -2003,7 +2003,7 @@ creating your own Awesome List by GitHub stars!
 * [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://star-history.com
 * [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
 * [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot): 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
-* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
+* [StarRocks/starrocks](https://github.com/StarRocks/starrocks): The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 * [stashed/stash](https://github.com/stashed/stash): 🛅 Backup your Kubernetes Stateful Applications
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
