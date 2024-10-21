@@ -2047,6 +2047,7 @@ creating your own Awesome List by GitHub stars!
 * [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus):  TablePlus macOS issue tracker
 * [TablePlus/TablePlus-Linux](https://github.com/TablePlus/TablePlus-Linux):  TablePlus Linux issue tracker
 * [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode): Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+* [tabulapdf/tabula](https://github.com/tabulapdf/tabula): Tabula is a tool for liberating data tables trapped inside PDF files
 * [chezou/tabula-py](https://github.com/chezou/tabula-py): Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
 * [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 * [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
