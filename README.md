@@ -801,7 +801,7 @@ creating your own Awesome List by GitHub stars!
 * [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions
 * [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng): A versatile (cross-)toolchain generator.
 * [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
-* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
+* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 * [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 * [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): 计算机自学指南
