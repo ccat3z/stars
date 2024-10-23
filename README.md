@@ -523,7 +523,7 @@ creating your own Awesome List by GitHub stars!
 * [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [ALawating-Rex/AreaAndBanks](https://github.com/ALawating-Rex/AreaAndBanks): 中国省市区以及银行和银行支行等数据
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
-* [apache/arrow](https://github.com/apache/arrow): Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+* [apache/arrow](https://github.com/apache/arrow): Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
 * [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
 * [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
@@ -1198,7 +1198,7 @@ creating your own Awesome List by GitHub stars!
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot): Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 * [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
-* [jwuensche/heic-to-dynamic-gnome-wallpaper](https://github.com/jwuensche/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
+* [fia0/heic-to-dynamic-gnome-wallpaper](https://github.com/fia0/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
 * [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
