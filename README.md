@@ -1536,7 +1536,7 @@ creating your own Awesome List by GitHub stars!
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-* [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): An open-source, high-performance SQL vector database built on ClickHouse.
+* [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
 * [tj/n](https://github.com/tj/n): Node version management
@@ -2024,7 +2024,7 @@ creating your own Awesome List by GitHub stars!
 * [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
 * [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns): 给新员工和实习生的生存指南。 Good Luck and Survive!
-* [sveltejs/svelte](https://github.com/sveltejs/svelte): Cybernetically enhanced web apps
+* [sveltejs/svelte](https://github.com/sveltejs/svelte): web development for the rest of us
 * [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen): swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
