@@ -1940,7 +1940,7 @@ creating your own Awesome List by GitHub stars!
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 * [shanghai2022/shanghai2022](https://github.com/shanghai2022/shanghai2022): 上海2022抗疫互助
 * [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge): 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
-* [apache/shardingsphere](https://github.com/apache/shardingsphere): Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+* [apache/shardingsphere](https://github.com/apache/shardingsphere): Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
