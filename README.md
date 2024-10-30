@@ -1161,7 +1161,7 @@ creating your own Awesome List by GitHub stars!
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-* [oracle/graaljs](https://github.com/oracle/graaljs): A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
+* [oracle/graaljs](https://github.com/oracle/graaljs): GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 * [graffle-js/graffle](https://github.com/graffle-js/graffle): Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
@@ -1950,6 +1950,7 @@ creating your own Awesome List by GitHub stars!
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03): None
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
+* [jgaa/shinysocks](https://github.com/jgaa/shinysocks): A small, ultrafast SOCKS proxy server.
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
