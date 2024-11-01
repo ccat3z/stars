@@ -1362,7 +1362,7 @@ creating your own Awesome List by GitHub stars!
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥
 * [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
-* [lerna/lerna](https://github.com/lerna/lerna): :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+* [lerna/lerna](https://github.com/lerna/lerna): Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
 * [google/leveldb](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
