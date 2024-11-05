@@ -1540,6 +1540,9 @@
     "apache/cassandra": [
         "Other"
     ],
+    "apache/cloudberry": [
+        "Other"
+    ],
     "apache/datafusion": [
         "Other"
     ],
@@ -2042,9 +2045,6 @@
         "Other"
     ],
     "claytongulick/bit-sync": [
-        "Other"
-    ],
-    "cloudberrydb/cloudberrydb": [
         "Other"
     ],
     "cloudreve/Cloudreve": [
