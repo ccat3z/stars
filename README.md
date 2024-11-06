@@ -1503,7 +1503,7 @@ creating your own Awesome List by GitHub stars!
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
-* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is a web engineering system, including a web framework and a npm package solution.
+* [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js): A progressive web framework based on React and Rsbuild.
 * [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 * [xdanaux/moderncv](https://github.com/xdanaux/moderncv): A modern curriculum vitae class for LaTeX
 * [taowen/modularization-examples](https://github.com/taowen/modularization-examples): 代码防腐实用技术
