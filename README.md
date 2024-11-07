@@ -1100,7 +1100,7 @@ creating your own Awesome List by GitHub stars!
 * [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 42+
 * [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header): Build portable Linux binaries without using an ancient distro
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
-* [solo-io/gloo](https://github.com/solo-io/gloo): The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
+* [solo-io/gloo](https://github.com/solo-io/gloo): The Cloud-Native API Gateway and AI Gateway
 * [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
