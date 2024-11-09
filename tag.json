@@ -997,6 +997,9 @@
     "ShameCom/ShameCom": [
         "Other"
     ],
+    "ShareDropio/sharedrop": [
+        "Other"
+    ],
     "SheetJS/sheetjs": [
         "Other"
     ],
@@ -5694,9 +5697,6 @@
         "Other"
     ],
     "systemd/zram-generator": [
-        "Other"
-    ],
-    "szimek/sharedrop": [
         "Other"
     ],
     "tabulapdf/tabula": [
