@@ -3722,6 +3722,9 @@
     "k3s-io/k3s": [
         "Other"
     ],
+    "k8sgateway/k8sgateway": [
+        "Other"
+    ],
     "k8up-io/k8up": [
         "Other"
     ],
@@ -5524,9 +5527,6 @@
         "Other"
     ],
     "solidjs/solid": [
-        "Other"
-    ],
-    "solo-io/gloo": [
         "Other"
     ],
     "songgao/water": [

@@ -1100,7 +1100,6 @@ creating your own Awesome List by GitHub stars!
 * [Vishram1123/gjs-osk](https://github.com/Vishram1123/gjs-osk): A (marginally) better on screen keyboard for GNOME 42+
 * [wheybags/glibc_version_header](https://github.com/wheybags/glibc_version_header): Build portable Linux binaries without using an ancient distro
 * [Masterminds/glide](https://github.com/Masterminds/glide): Package Management for Golang
-* [solo-io/gloo](https://github.com/solo-io/gloo): The Cloud-Native API Gateway and AI Gateway
 * [angt/glorytun](https://github.com/angt/glorytun): Multipath UDP tunnel
 * [gluster/glusterfs](https://github.com/gluster/glusterfs): Gluster Filesystem : Build your distributed storage in minutes
 * [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL): "Good Luck With That" Public License
@@ -1308,6 +1307,7 @@ creating your own Awesome List by GitHub stars!
 * [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
 * [xiaods/k8e](https://github.com/xiaods/k8e): K8E - Kubernetes Easy Engine
+* [k8sgateway/k8sgateway](https://github.com/k8sgateway/k8sgateway): The Cloud-Native API Gateway and AI Gateway
 * [k8up-io/k8up](https://github.com/k8up-io/k8up): Kubernetes and OpenShift Backup Operator
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
