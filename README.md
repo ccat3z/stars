@@ -840,7 +840,7 @@ creating your own Awesome List by GitHub stars!
 * [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 * [tangwz/db-monthly](https://github.com/tangwz/db-monthly): 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
 * [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
-* [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial): 📚 db-tutorial 是一个数据库教程。
+* [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial): 📚 后端程序员应该掌握的主流数据库知识
 * [cmu-db/dbdb.io](https://github.com/cmu-db/dbdb.io): The On-line Database of Databases
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1438,7 +1438,6 @@ creating your own Awesome List by GitHub stars!
 * [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
 * [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
 * [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v27.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
-* [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA): Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 * [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
@@ -1642,7 +1641,7 @@ creating your own Awesome List by GitHub stars!
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
-* [apache/opendal](https://github.com/apache/opendal): Apache OpenDAL: access data freely.
+* [apache/opendal](https://github.com/apache/opendal): Apache OpenDAL: One Layer, All Storage.
 * [gnbdev/opengnb](https://github.com/gnbdev/opengnb): GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
@@ -1683,7 +1682,7 @@ creating your own Awesome List by GitHub stars!
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
 * [papis/papis-zotero](https://github.com/papis/papis-zotero): Zotero compatibility layer for papis 
 * [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library.
-* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Perfect 4K@240Hz Virtual Display
+* [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd): ✨ Perfect virtual display for game streaming
 * [alecthomas/participle](https://github.com/alecthomas/participle): A parser library for Go
 * [Morganamilo/paru](https://github.com/Morganamilo/paru): Feature packed AUR helper
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
