@@ -2642,9 +2642,6 @@
     "ericandrewlewis/emoji-mosaic": [
         "Other"
     ],
-    "eryajf/Thanks-Mirror": [
-        "Other"
-    ],
     "esnet/iperf": [
         "Other"
     ],
@@ -4716,6 +4713,9 @@
         "Other"
     ],
     "openwrt/mt76": [
+        "Other"
+    ],
+    "opsre/Thanks-Mirror": [
         "Other"
     ],
     "optimisme/gjs-examples": [
