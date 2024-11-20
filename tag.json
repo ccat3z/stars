@@ -3584,9 +3584,6 @@
     "jgm/pandocfilters": [
         "Pandoc"
     ],
-    "jgraph/drawio": [
-        "Utility"
-    ],
     "jgraph/drawio-desktop": [
         "Other"
     ],
