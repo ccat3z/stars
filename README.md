@@ -1737,7 +1737,7 @@ creating your own Awesome List by GitHub stars!
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
-* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud] 
+* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=] 
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
@@ -2195,7 +2195,7 @@ creating your own Awesome List by GitHub stars!
 * [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
 * [facebookincubator/velox](https://github.com/facebookincubator/velox): A composable and fully extensible C++ execution engine library for data management systems.
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
-* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): 📦🔐 A lightweight Node.js private proxy registry
+* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
