@@ -870,7 +870,7 @@ creating your own Awesome List by GitHub stars!
 * [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): The high-performance database for modern applications
+* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
 * [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon): Interactive ASCII art diagram generators. :star2:
 * [directus/directus](https://github.com/directus/directus): The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 * [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus.
@@ -1312,6 +1312,7 @@ creating your own Awesome List by GitHub stars!
 * [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [lework/kainstall](https://github.com/lework/kainstall): Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
 * [carvel-dev/kapp](https://github.com/carvel-dev/kapp): kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX): Fast math typesetting for the web.
 * [Tencent/kbone](https://github.com/Tencent/kbone): 一个致力于微信小程序和 Web 端同构的解决方案
 * [kcp-dev/kcp](https://github.com/kcp-dev/kcp): Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
@@ -1653,7 +1654,9 @@ creating your own Awesome List by GitHub stars!
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 * [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 * [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.9+.
+* [amake/orgro](https://github.com/amake/orgro): An Org Mode app for iOS and Android
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
+* [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived): Outliner for taking notes and managing to-do lists
 * [nanmu42/orly](https://github.com/nanmu42/orly): :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 * [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
 * [djyde/ossart](https://github.com/djyde/ossart): Print your GitHub activity as an artwork
