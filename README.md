@@ -678,7 +678,7 @@ creating your own Awesome List by GitHub stars!
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy): Caddy as a reverse proxy for Docker
 * [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf): Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 * [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ operator precedence parser
-* [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
+* [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
 * [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 * [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
 * [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
