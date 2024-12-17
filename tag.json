@@ -769,6 +769,9 @@
     "NVIDIA/open-gpu-kernel-modules": [
         "Other"
     ],
+    "NVIDIA/spark-rapids": [
+        "Other"
+    ],
     "Nanguage/Rainbow-Fart-MBG": [
         "Other"
     ],

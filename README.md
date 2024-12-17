@@ -1988,6 +1988,7 @@ creating your own Awesome List by GitHub stars!
 * [christopher-l/space-bar](https://github.com/christopher-l/space-bar): GNOME Shell extension that shows workspaces buttons in top panel
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
 * [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
+* [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids): Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 * [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals): The Internals of Spark SQL
 * [spdk/spdk](https://github.com/spdk/spdk): Storage Performance Development Kit
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
