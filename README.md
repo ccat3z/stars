@@ -1181,6 +1181,7 @@ creating your own Awesome List by GitHub stars!
 * [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
+* [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home): Xiaomi Home Integration for Home Assistant
 * [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [ecmadao/hacknical](https://github.com/ecmadao/hacknical): Hacknical, hacker & technical. A website for GitHub user to make a better resume.
