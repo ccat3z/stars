@@ -669,7 +669,7 @@ creating your own Awesome List by GitHub stars!
 * [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): text window manager, shell multiplexer, integrated DevOps environment
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
