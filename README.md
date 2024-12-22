@@ -2193,6 +2193,7 @@ creating your own Awesome List by GitHub stars!
 * [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint): Check code-style of Vala code files
 * [youzan/vant-weapp](https://github.com/youzan/vant-weapp): 轻量、可靠的小程序 UI 组件库
 * [mumoshu/variant](https://github.com/mumoshu/variant): Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [VcDevel/Vc](https://github.com/VcDevel/Vc): SIMD Vector Classes for C++
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [microsoft/vcpkg](https://github.com/microsoft/vcpkg): C++ Library Manager for Windows, Linux, and MacOS
@@ -2357,6 +2358,7 @@ creating your own Awesome List by GitHub stars!
 * [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate): Deduplication tool for yarn.lock files
 * [nkanaev/yarr](https://github.com/nkanaev/yarr): yet another rss reader
 * [wormtql/yas](https://github.com/wormtql/yas): Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
+* [RikkaW/YASNAC](https://github.com/RikkaW/YASNAC): Yet Another SafetyNet Attestation Checker
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 * [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
