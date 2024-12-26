@@ -1695,7 +1695,7 @@ creating your own Awesome List by GitHub stars!
 * [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版
 * [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
 * [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent): 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
-* [essensoft/paylink](https://github.com/essensoft/paylink): 一套基于 现代 .NET 开发，支持跨平台、多商户的第三方支付SDK。
+* [essensoft/paylinks](https://github.com/essensoft/paylinks): 一套基于 现代 .NET 开发，支持跨平台、多商户的第三方支付SDK。
 * [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 * [itdevbooks/pdf](https://github.com/itdevbooks/pdf): 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 * [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript
@@ -1741,7 +1741,7 @@ creating your own Awesome List by GitHub stars!
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
-* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=] 
+* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=@nebucatnetzer] 
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
