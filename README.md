@@ -440,7 +440,7 @@ creating your own Awesome List by GitHub stars!
 
 # Other
 
-* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+* [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 * [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408): 💯✍备考2021年研究生-408 
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
 * [3proxy/3proxy](https://github.com/3proxy/3proxy): 3proxy - tiny free proxy server
@@ -1479,7 +1479,7 @@ creating your own Awesome List by GitHub stars!
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
-* [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database designed to scale.
+* [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core): ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
