@@ -1655,7 +1655,7 @@ creating your own Awesome List by GitHub stars!
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 * [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.9+.
+* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.10.0+.
 * [amake/orgro](https://github.com/amake/orgro): An Org Mode app for iOS and Android
 * [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android): Outliner for taking notes and managing to-do lists
 * [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived): Outliner for taking notes and managing to-do lists
