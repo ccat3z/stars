@@ -2386,9 +2386,6 @@
     "dgraph-io/badger": [
         "Other"
     ],
-    "dgraph-io/dgraph": [
-        "Other"
-    ],
     "dianariyanto/virtual-display-linux": [
         "Other"
     ],
@@ -3366,6 +3363,9 @@
         "Kindle"
     ],
     "hydradatabase/hydra": [
+        "Other"
+    ],
+    "hypermodeinc/dgraph": [
         "Other"
     ],
     "iCHAIT/awesome-macOS": [
