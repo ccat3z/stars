@@ -489,7 +489,7 @@ creating your own Awesome List by GitHub stars!
 * [xiaomi-sdm660/android_device_xiaomi_clover](https://github.com/xiaomi-sdm660/android_device_xiaomi_clover): None
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
 * [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt): An online rules platform that adapts native notification icons and standard icon repairs for non-standard Android apps and manufacturers.
-* [wlynxg/anet](https://github.com/wlynxg/anet): fix go bug #40569 #68082
+* [wlynxg/anet](https://github.com/wlynxg/anet): fix go bug #68082 #40569
 * [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Anime Girls Holding Programming Books
 * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 * [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3): Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
