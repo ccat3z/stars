@@ -1600,6 +1600,7 @@ creating your own Awesome List by GitHub stars!
 * [lainsce/notejot](https://github.com/lainsce/notejot): Stupidly-simple notes app.
 * [nextcloud/notes-android](https://github.com/nextcloud/notes-android): ✎ Android client for Nextcloud Notes app.
 * [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack): Highly customizable notification snackbars (toasts) that can be stacked on top of each other
+* [tombonez/noTunes](https://github.com/tombonez/noTunes): A simple macOS application that will prevent iTunes or Apple Music from launching.
 * [nissl-lab/npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): A single-header ANSI C immediate mode cross-platform GUI library
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks): A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
