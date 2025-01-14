@@ -114,7 +114,7 @@ creating your own Awesome List by GitHub stars!
 
 * [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET and the .NET Tools.
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
-* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+* [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 
 ### EF Core
 
