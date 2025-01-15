@@ -764,7 +764,7 @@ creating your own Awesome List by GitHub stars!
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
 * [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
-* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland (sort of), and other things, too
+* [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
@@ -1682,7 +1682,7 @@ creating your own Awesome List by GitHub stars!
 * [Rupan/paperbak](https://github.com/Rupan/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
 * [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
-* [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for Gnome Shell
+* [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for GNOME Shell
 * [openpaperwork/paperwork](https://github.com/openpaperwork/paperwork): Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Pixel perfect icon theme for Linux
 * [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager.
@@ -1743,7 +1743,7 @@ creating your own Awesome List by GitHub stars!
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
-* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=@Nebucatnetzer] 
+* [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=] 
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
