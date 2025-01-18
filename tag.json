@@ -370,6 +370,9 @@
     "Fausto-Korpsvart/Everforest-GTK-Theme": [
         "Other"
     ],
+    "FelixKratz/SketchyBar": [
+        "Other"
+    ],
     "FeralInteractive/gamemode": [
         "Other"
     ],
@@ -2696,6 +2699,9 @@
     "excalidraw/excalidraw": [
         "Other"
     ],
+    "exelban/stats": [
+        "Other"
+    ],
     "extrawurst/gitui": [
         "Other"
     ],
@@ -3731,9 +3737,6 @@
     "k3s-io/k3s": [
         "Other"
     ],
-    "k8sgateway/k8sgateway": [
-        "Other"
-    ],
     "k8up-io/k8up": [
         "Other"
     ],
@@ -3786,6 +3789,9 @@
         "C"
     ],
     "keylase/nvidia-patch": [
+        "Other"
+    ],
+    "kgateway-dev/kgateway": [
         "Other"
     ],
     "kgshank/gse-refresh-wifi": [
