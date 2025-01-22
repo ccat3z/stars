@@ -2350,6 +2350,9 @@
     "dendronhq/dendron": [
         "Other"
     ],
+    "dengste/org-caldav": [
+        "Other"
+    ],
     "denisidoro/navi": [
         "Other"
     ],
@@ -4574,6 +4577,9 @@
     "nix-community/dream2nix": [
         "Other"
     ],
+    "nix-community/emacs-overlay": [
+        "Other"
+    ],
     "nix-community/home-manager": [
         "Other"
     ],
@@ -4584,6 +4590,9 @@
         "Other"
     ],
     "nix-community/poetry2nix": [
+        "Other"
+    ],
+    "nix-giant/nix-darwin-emacs": [
         "Other"
     ],
     "nixified-ai/flake": [

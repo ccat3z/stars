@@ -903,7 +903,7 @@ creating your own Awesome List by GitHub stars!
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium): Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 * [tiredofit/docker-tinc](https://github.com/tiredofit/docker-tinc): Docker Mesh VPN service with monitoring
 * [sapk/docker-volume-rclone](https://github.com/sapk/docker-volume-rclone): Use Rclone as a backend for docker volume (also as a plugin). This permit to easely mount a lot of cloud provider (https://rclone.org/overview).
 * [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet): :whale: .NET (C#) Client Library for Docker API
@@ -961,6 +961,7 @@ creating your own Awesome List by GitHub stars!
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & versatile interactive shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
+* [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay): Bleeding edge emacs overlay [maintainer=@adisbladis] 
 * [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
@@ -1575,6 +1576,7 @@ creating your own Awesome List by GitHub stars!
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
 * [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin): nix modules for darwin
+* [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 * [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect): Interactive tui for inspecting nix configs
 * [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
@@ -1654,6 +1656,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/orc](https://github.com/apache/orc): Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 * [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme): Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 * [oreboot/oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
+* [dengste/org-caldav](https://github.com/dengste/org-caldav): Caldav sync for Emacs orgmode
 * [alphapapa/org-ql](https://github.com/alphapapa/org-ql): A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 * [200ok-ch/organice](https://github.com/200ok-ch/organice): An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 * [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode): Orgmode clone written in Lua for Neovim 0.10.0+.
