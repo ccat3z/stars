@@ -445,6 +445,9 @@
     "Guake/guake": [
         "Other"
     ],
+    "Guovin/iptv-api": [
+        "Other"
+    ],
     "HCLonely/awesome-bilibili-extra": [
         "Other"
     ],
@@ -5460,6 +5463,9 @@
         "Other"
     ],
     "sickcodes/Docker-OSX": [
+        "Other"
+    ],
+    "sickcodes/osx-serial-generator": [
         "Other"
     ],
     "sigmavirus24/github3.py": [
