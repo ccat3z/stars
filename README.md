@@ -845,7 +845,7 @@ creating your own Awesome List by GitHub stars!
 * [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): Free universal database tool and SQL client
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * [yingjunwu/DBMS-Indexology](https://github.com/yingjunwu/DBMS-Indexology): A Collection of Papers on Database Index Structures
-* [DBOS-project/dbos-project.github.io](https://github.com/DBOS-project/dbos-project.github.io): A Database-oriented Operating System
+* [DBOS-project/dbos-project.github.io](https://github.com/DBOS-project/dbos-project.github.io): None
 * [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in Go
 * [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars, tasks and more without a server
