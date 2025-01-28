@@ -2043,6 +2043,7 @@ creating your own Awesome List by GitHub stars!
 * [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX): SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor 
+* [abo-abo/swiper](https://github.com/abo-abo/swiper): Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
 * [daniellandau/switcher](https://github.com/daniellandau/switcher): Gnome Shell extension to switch windows quickly by typing
 * [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver): Run-Your-Own Firefox Sync Server
 * [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
