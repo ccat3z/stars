@@ -2256,7 +2256,7 @@ creating your own Awesome List by GitHub stars!
 * [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup): Manage and clean up VSCode workspace storage effortlessly.
 * [websanova/vue-auth](https://github.com/websanova/vue-auth): A simple light-weight authentication library for Vue.js
 * [pikax/vue-composable](https://github.com/pikax/vue-composable): Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables
-* [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Spreadsheet data grid component. Handles enormous data processing.
+* [revolist/vue-datagrid](https://github.com/revolist/vue-datagrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [PeachScript/vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js.
 * [ElemeFE/vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): An infinite scroll directive for vue.js.
 * [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css): Vue.js Masonry layout component powered by CSS, dependancy free
