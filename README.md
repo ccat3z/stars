@@ -1869,12 +1869,12 @@ creating your own Awesome List by GitHub stars!
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
 * [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh): 技术面试最后反问面试官的话
-* [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
+* [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Streaming database. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The event stream processing platform for developers. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
