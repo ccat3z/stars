@@ -802,6 +802,9 @@
     "Nitrux/maui-shell": [
         "Other"
     ],
+    "NixOS/nixos-hardware": [
+        "Other"
+    ],
     "NixOS/patchelf": [
         "Other"
     ],
@@ -2395,9 +2398,6 @@
     "dginev/ar5iv": [
         "Other"
     ],
-    "dgraph-io/badger": [
-        "Other"
-    ],
     "dianariyanto/virtual-display-linux": [
         "Other"
     ],
@@ -3378,6 +3378,9 @@
         "Kindle"
     ],
     "hydradatabase/hydra": [
+        "Other"
+    ],
+    "hypermodeinc/badger": [
         "Other"
     ],
     "hypermodeinc/dgraph": [
