@@ -752,6 +752,7 @@ creating your own Awesome List by GitHub stars!
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
 * [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for GNOME Shell.
+* [hydradatabase/columnar](https://github.com/hydradatabase/columnar): Postgres-native columnar storage extension
 * [Magisk-Modules-Repo/com.piyushgarg.rclone](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone): None
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
 * [shannpersand/comic-shanns](https://github.com/shannpersand/comic-shanns): a classy font
@@ -1239,7 +1240,6 @@ creating your own Awesome List by GitHub stars!
 * [cpp-pm/hunter](https://github.com/cpp-pm/hunter): CMake driven cross-platform package manager for C/C++.
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
 * [zhblue/hustoj](https://github.com/zhblue/hustoj): Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
-* [hydradatabase/hydra](https://github.com/hydradatabase/hydra): Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 * [ory/hydra](https://github.com/ory/hydra): The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 * [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
@@ -1869,7 +1869,7 @@ creating your own Awesome List by GitHub stars!
 * [resume/resume.github.com](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
 * [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
 * [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
-* [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh): 技术面试最后反问面试官的话
+* [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh): 技术面试最后反问面试官的话
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案

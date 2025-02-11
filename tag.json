@@ -3377,7 +3377,7 @@
     "hwhw/kindlevncviewer": [
         "Kindle"
     ],
-    "hydradatabase/hydra": [
+    "hydradatabase/columnar": [
         "Other"
     ],
     "hypermodeinc/badger": [
@@ -4871,7 +4871,7 @@
     "percona/PerconaFT": [
         "Other"
     ],
-    "perklet/reverse-interview-zh": [
+    "perkfly/reverse-interview-zh": [
         "Other"
     ],
     "perlancar/perl-Org-Parser": [
