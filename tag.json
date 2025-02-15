@@ -4808,6 +4808,9 @@
     "pacien/tincapp": [
         "Other"
     ],
+    "pakerwreah/Calendr": [
+        "Other"
+    ],
     "pallets/click": [
         "Python"
     ],
@@ -5416,6 +5419,9 @@
     ],
     "severin-lemaignan/vim-minimap": [
         "Vim"
+    ],
+    "sfsam/Itsycal": [
+        "Other"
     ],
     "shadowsocks/shadowsocks-windows": [
         "GFW"
