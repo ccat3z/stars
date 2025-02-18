@@ -1912,7 +1912,7 @@ creating your own Awesome List by GitHub stars!
 * [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix): Google SafetyNet attestation workarounds for Magisk
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [itorr/sakana](https://github.com/itorr/sakana): 🐟「Sakana!」石蒜模拟器
-* [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
+* [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of infrastructure and applications at scale.
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)
