@@ -721,7 +721,7 @@ creating your own Awesome List by GitHub stars!
 * [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite): 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
 * [dase955/ChocoDB](https://github.com/dase955/ChocoDB): Daydreaming~
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
-* [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut and (sometimes) awk
+* [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut (and sometimes awk)
 * [XiaoMi/chronos](https://github.com/XiaoMi/chronos): Network service to provide globally strictly monotone increasing timestamp
 * [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc): 漫画阅读器
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
@@ -1877,7 +1877,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The event stream processing platform for developers. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): The event stream processing platform for developers.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
