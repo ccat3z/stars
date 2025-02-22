@@ -953,7 +953,6 @@ creating your own Awesome List by GitHub stars!
 * [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum): ECNU Forum based on Flarum.
 * [QiushiSun/ECNU-Undergraduate-Thesis-Template-2022](https://github.com/QiushiSun/ECNU-Undergraduate-Thesis-Template-2022): ECNU Undergraduate Thesis Template (Class of 2022)
 * [ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers): ECNU CS & SE 信息收集; 华师大计软院友墙
-* [edgedb/edgedb](https://github.com/edgedb/edgedb): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 * [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel): Running V2ray inside edge/serverless runtime
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
@@ -1057,6 +1056,7 @@ creating your own Awesome List by GitHub stars!
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 * [gdm-settings/gdm-settings](https://github.com/gdm-settings/gdm-settings): A settings app for GNOME's Login Manager, GDM
+* [geldata/gel](https://github.com/geldata/gel): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
