@@ -1056,7 +1056,7 @@ creating your own Awesome List by GitHub stars!
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend): ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 * [gdm-settings/gdm-settings](https://github.com/gdm-settings/gdm-settings): A settings app for GNOME's Login Manager, GDM
-* [geldata/gel](https://github.com/geldata/gel): A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+* [geldata/gel](https://github.com/geldata/gel): Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 * [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva): automated censorship evasion for the client-side and server-side 
 * [arkane-systems/genie](https://github.com/arkane-systems/genie): A quick way into a systemd "bottle" for WSL
 * [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer): genshin wish history analyzer
@@ -1877,7 +1877,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Event stream processing platform for developers.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Stream processing platform for developers.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
