@@ -901,7 +901,7 @@ creating your own Awesome List by GitHub stars!
 * [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local): Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 * [stilliard/docker-pure-ftpd](https://github.com/stilliard/docker-pure-ftpd): Docker Pure-ftpd Server
 * [top-bettercode/docker-qq](https://github.com/top-bettercode/docker-qq): 提供一种在linux下运行QQ的方式
-* [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
+* [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
 * [kwk/docker-registry-setup](https://github.com/kwk/docker-registry-setup): A demonstration of how you can secure your registry v2 (with LDAP authentication and ACLs)
 * [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry
 * [kekru/docker-remote-api-tls](https://github.com/kekru/docker-remote-api-tls): Docker Image that forwards to the Docker API Socket and requires TLS Client authentication
@@ -1565,7 +1565,7 @@ creating your own Awesome List by GitHub stars!
 * [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
 * [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
-* [netdata/netdata](https://github.com/netdata/netdata): Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+* [netdata/netdata](https://github.com/netdata/netdata): X-Ray Vision for your infrastructure!
 * [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk): Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * [andrewlock/NetEscapades.Configuration](https://github.com/andrewlock/NetEscapades.Configuration): Additional configuration providers to use with ASP.NET Core
 * [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
