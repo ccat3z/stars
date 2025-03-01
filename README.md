@@ -2277,7 +2277,7 @@ creating your own Awesome List by GitHub stars!
 * [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js
 * [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next): Vue 3 compatible drag-and-drop component based on Sortable.js
 * [David-Desmaisons/Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): :iphone: Vue component for isotope filter & sort magical layouts
-* [vueuse/vueuse](https://github.com/vueuse/vueuse): Collection of essential Vue Composition Utilities for Vue 2 and 3
+* [vueuse/vueuse](https://github.com/vueuse/vueuse): Collection of essential Vue Composition Utilities for Vue 3
 * [superwf/vuex-cache](https://github.com/superwf/vuex-cache): cache vuex action when dispatch
 * [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist): A Vuex plugin to persist the store. (Fully Typescript enabled)
 * [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate): 💾 Persist and rehydrate your Vuex state between page reloads.
