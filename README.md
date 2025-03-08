@@ -112,7 +112,7 @@ creating your own Awesome List by GitHub stars!
 
 ### ASP.NET Core
 
-* [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Docker images for .NET and the .NET Tools.
+* [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker): Official container images for .NET
 * [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
 * [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb): Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 
@@ -1278,6 +1278,7 @@ creating your own Awesome List by GitHub stars!
 * [smxi/inxi](https://github.com/smxi/inxi): inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. 
 * [Sanster/IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * [esnet/iperf](https://github.com/esnet/iperf): iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+* [vbskycn/iptv](https://github.com/vbskycn/iptv): iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
 * [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
