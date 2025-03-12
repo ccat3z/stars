@@ -1003,7 +1003,7 @@ creating your own Awesome List by GitHub stars!
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
@@ -1716,7 +1716,6 @@ creating your own Awesome List by GitHub stars!
 * [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
-* [aiberia/persistent-evdev](https://github.com/aiberia/persistent-evdev): None
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
