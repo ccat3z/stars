@@ -2179,7 +2179,7 @@ creating your own Awesome List by GitHub stars!
 * [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
 * [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
 * [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
-* [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard): A lightweight virtual keyboard for developers.
+* [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard): A lightweight keyboard for Android
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
 * [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
