@@ -869,7 +869,7 @@ creating your own Awesome List by GitHub stars!
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 * [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-* [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments
+* [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph): high-performance graph database for real-time use cases
