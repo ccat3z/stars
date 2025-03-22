@@ -761,7 +761,7 @@ creating your own Awesome List by GitHub stars!
 * [ellie-commons/communique](https://github.com/ellie-commons/communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
 * [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
-* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based continuous thing-doer written in Go.
+* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based automation system written in Go.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
