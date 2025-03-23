@@ -624,6 +624,7 @@ creating your own Awesome List by GitHub stars!
 * [berty/berty](https://github.com/berty/berty): Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip): 查找适合自己当前网络环境的优选cloudflare anycast IP
 * [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 * [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 * [bytedance/bhook](https://github.com/bytedance/bhook): :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 * [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor): Open source, compact, and material designed cursor set.
@@ -865,6 +866,7 @@ creating your own Awesome List by GitHub stars!
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn): 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
+* [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 * [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
