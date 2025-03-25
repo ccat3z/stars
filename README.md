@@ -1288,7 +1288,7 @@ creating your own Awesome List by GitHub stars!
 * [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm): Intel Wi-Fi Drivers for macOS
 * [sfsam/Itsycal](https://github.com/sfsam/Itsycal): Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
-* [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and biblatex (.bib) databases
+* [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
