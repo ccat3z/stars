@@ -1533,7 +1533,7 @@ creating your own Awesome List by GitHub stars!
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
 * [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
 * [vbauerster/mpb](https://github.com/vbauerster/mpb): multi progress bar for Go cli applications
-* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line media player
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue): 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 * [openwrt/mt76](https://github.com/openwrt/mt76): mac80211 driver for MediaTek MT76x0e, MT76x2e, MT7603, MT7615, MT7628 and MT7688
 * [Nossiac/mtk-openwrt-feeds](https://github.com/Nossiac/mtk-openwrt-feeds): mtk-openwrt-feeds
