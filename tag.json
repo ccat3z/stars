@@ -664,9 +664,6 @@
     "LmeSzinc/StarRailCopilot": [
         "Other"
     ],
-    "LnL7/nix-darwin": [
-        "Other"
-    ],
     "LumingSun/ML4DB-paper-list": [
         "Other"
     ],
@@ -4605,6 +4602,9 @@
         "Other"
     ],
     "nix-community/poetry2nix": [
+        "Other"
+    ],
+    "nix-darwin/nix-darwin": [
         "Other"
     ],
     "nix-giant/nix-darwin-emacs": [
