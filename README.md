@@ -2360,7 +2360,7 @@ creating your own Awesome List by GitHub stars!
 * [Xpra-org/xpra](https://github.com/Xpra-org/xpra): Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 * [theQuert/XPS-9360-macOS](https://github.com/theQuert/XPS-9360-macOS): XPS 13 (9360) with macOS Big Sur
 * [hoanX/xps13-9360-Hackintosh](https://github.com/hoanX/xps13-9360-Hackintosh): macOS on XPS-9360
-* [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+* [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv): A fast CSV command line toolkit written in Rust.
 * [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js): A terminal for the web
