@@ -93,7 +93,6 @@ creating your own Awesome List by GitHub stars!
     * [REST](#rest)
   * [CSS](#css)
   * [JavaScript](#javascript-1)
-  * [Tutorial](#tutorial-1)
   * [Vue](#vue)
 * [Windows](#windows-1)
   * [PowerShell](#powershell)
@@ -600,7 +599,6 @@ creating your own Awesome List by GitHub stars!
 * [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver): Custom module resolver plugin for Babel
 * [hypermodeinc/badger](https://github.com/hypermodeinc/badger): Fast key-value DB in Go.
 * [thetirefire/badidea](https://github.com/thetirefire/badidea): None
-* [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx): ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 * [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
@@ -698,7 +696,6 @@ creating your own Awesome List by GitHub stars!
 * [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp): Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
-* [studentmain/censor](https://github.com/studentmain/censor): 最好的敏感词过滤库
 * [google/centipede](https://github.com/google/centipede): None
 * [ceph/ceph](https://github.com/ceph/ceph): Ceph is a distributed object, block, and file storage platform 
 * [caddyserver/certmagic](https://github.com/caddyserver/certmagic): Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -1086,7 +1083,6 @@ creating your own Awesome List by GitHub stars!
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
-* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [ad-m/github-push-action](https://github.com/ad-m/github-push-action): GitHub actions to push back to repository eg. updated code
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
@@ -1557,7 +1553,6 @@ creating your own Awesome List by GitHub stars!
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
-* [nondanee/ncmdump](https://github.com/nondanee/ncmdump): python版本网易云音乐ncm文件格式转换
 * [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump): 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 * [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security
 * [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup): backup manager for android
@@ -1708,12 +1703,10 @@ creating your own Awesome List by GitHub stars!
 * [liuchuo/PAT](https://github.com/liuchuo/PAT): 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 * [NixOS/patchelf](https://github.com/NixOS/patchelf): A small utility to modify the dynamic linker and RPATH of ELF executables
 * [patroni/patroni](https://github.com/patroni/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
-* [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版
 * [ailidani/paxi](https://github.com/ailidani/paxi): Paxos protocol framework
 * [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent): 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
 * [essensoft/paylinks](https://github.com/essensoft/paylinks): 一套基于 现代 .NET 开发，支持跨平台、多商户的第三方支付SDK。
 * [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-* [itdevbooks/pdf](https://github.com/itdevbooks/pdf): 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
 * [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript
 * [zzzeyez/pecan](https://github.com/zzzeyez/pecan): menubar for macOS
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
@@ -1966,7 +1959,6 @@ creating your own Awesome List by GitHub stars!
 * [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
-* [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03): None
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 * [jgaa/shinysocks](https://github.com/jgaa/shinysocks): A small, ultrafast SOCKS proxy server.
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
@@ -2102,7 +2094,6 @@ creating your own Awesome List by GitHub stars!
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [stretchr/testify](https://github.com/stretchr/testify): A toolkit with common assertions and mocks that plays nicely with the standard library
 * [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems): Curated list of resources on testing distributed systems
-* [jdah/tetris-os](https://github.com/jdah/tetris-os): An operating system, but it only plays Tetris.
 * [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror): 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 * [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++
@@ -2187,7 +2178,6 @@ creating your own Awesome List by GitHub stars!
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
 * [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-* [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music): Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 * [BishopFox/unredacter](https://github.com/BishopFox/unredacter): Never ever ever use pixelation as a redaction technique
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 * [urql-graphql/urql](https://github.com/urql-graphql/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
@@ -2553,10 +2543,6 @@ creating your own Awesome List by GitHub stars!
 * [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
-
-## Tutorial
-
-* [it-ebooks/w3school](https://github.com/it-ebooks/w3school): :books: W3School 教程整理
 
 ## Vue
 
