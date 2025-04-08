@@ -1155,7 +1155,7 @@ creating your own Awesome List by GitHub stars!
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
-* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
+* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the world.
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
@@ -1330,7 +1330,7 @@ creating your own Awesome List by GitHub stars!
 * [fgheng/keysound](https://github.com/fgheng/keysound): keysound is keyboard sound software for Linux
 * [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
-* [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android):  A fully-featured V2Ray client for Android.
+* [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
 * [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin

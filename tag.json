@@ -2702,9 +2702,6 @@
     "eycorsican/go-tun2socks": [
         "Other"
     ],
-    "eycorsican/kitsunebi-android": [
-        "Other"
-    ],
     "f/awesome-chatgpt-prompts": [
         "Other"
     ],
@@ -6455,6 +6452,9 @@
     ],
     "yakumioto/YaHei-Consolas-Hybrid-1.12": [
         "Font"
+    ],
+    "yamada95/kitsunebi-android": [
+        "Other"
     ],
     "yangshun/tech-interview-handbook": [
         "Other"
