@@ -1914,7 +1914,7 @@ creating your own Awesome List by GitHub stars!
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)
-* [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller): User-mode driver and GTK3 based GUI for Steam Controller
+* [C0rn3j/sc-controller](https://github.com/C0rn3j/sc-controller): User-mode driver and GTK3 based GUI for game controllers, including but not limited to Steam Controller
 * [Ryochan7/sc-controller](https://github.com/Ryochan7/sc-controller): User-mode driver and GTK3 based GUI for Steam Controller
 * [kozec/sc-controller](https://github.com/kozec/sc-controller): User-mode driver and GTK3 based GUI for Steam Controller
 * [scala/scala](https://github.com/scala/scala): Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
