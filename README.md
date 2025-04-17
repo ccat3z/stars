@@ -1578,6 +1578,7 @@ creating your own Awesome List by GitHub stars!
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
+* [facebookincubator/nimble](https://github.com/facebookincubator/nimble): New file format for storage of large columnar datasets.
 * [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): nix modules for darwin
 * [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
