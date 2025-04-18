@@ -1586,6 +1586,7 @@ creating your own Awesome List by GitHub stars!
 * [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 * [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 * [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware): A collection of NixOS modules covering hardware quirks.
+* [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): Nix Packages collection & NixOS
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Advanced and Structured Logging for Various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog as Logging Provider for Microsoft Extension Logging
 * [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG): Publication-ready NN-architecture schematics. 
