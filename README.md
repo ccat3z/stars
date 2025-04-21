@@ -770,6 +770,7 @@ creating your own Awesome List by GitHub stars!
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
 * [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
+* [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 * [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
@@ -1280,6 +1281,7 @@ creating your own Awesome List by GitHub stars!
 * [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
+* [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
 * [metafizzy/isotope](https://github.com/metafizzy/isotope): :revolving_hearts: Filter & sort magical layouts
 * [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm): Intel Wi-Fi Drivers for macOS
 * [sfsam/Itsycal](https://github.com/sfsam/Itsycal): Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
@@ -2354,6 +2356,7 @@ creating your own Awesome List by GitHub stars!
 * [hoanX/xps13-9360-Hackintosh](https://github.com/hoanX/xps13-9360-Hackintosh): macOS on XPS-9360
 * [XTLS/Xray-core](https://github.com/XTLS/Xray-core): Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 * [google/xsecurelock](https://github.com/google/xsecurelock): X11 screen lock utility with security in mind
+* [xskipper-io/xskipper](https://github.com/xskipper-io/xskipper): An Extensible Data Skipping Framework
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv): A fast CSV command line toolkit written in Rust.
 * [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js): A terminal for the web
 * [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None

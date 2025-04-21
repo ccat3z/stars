@@ -1303,6 +1303,9 @@
     "ZSaberLv0/ZFVimDirDiff": [
         "Other"
     ],
+    "ZXreaper/cookbook-mcp-server": [
+        "Other"
+    ],
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
@@ -3465,6 +3468,9 @@
         "Other"
     ],
     "isaacs/async-cache": [
+        "Other"
+    ],
+    "ish-app/ish": [
         "Other"
     ],
     "isocpp/CppCoreGuidelines": [
@@ -6433,6 +6439,9 @@
         "Other"
     ],
     "xournalpp/xournalpp": [
+        "Other"
+    ],
+    "xskipper-io/xskipper": [
         "Other"
     ],
     "xtermjs/xterm.js": [
