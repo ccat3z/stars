@@ -383,7 +383,6 @@ creating your own Awesome List by GitHub stars!
 
 * [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme): An adaptive Gtk+ theme based on Material Design Guidelines
 * [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
-* [snwh/paper-gtk-theme](https://github.com/snwh/paper-gtk-theme): Paper Theme Suite
 
 ### Display Manager
 
