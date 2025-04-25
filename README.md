@@ -863,6 +863,7 @@ creating your own Awesome List by GitHub stars!
 * [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim): :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn): 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
+* [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers.
 * [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 * [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
@@ -2008,6 +2009,7 @@ creating your own Awesome List by GitHub stars!
 * [lofyer/spice-webdav](https://github.com/lofyer/spice-webdav): Resources that spice-webdav needs.
 * [Masterminds/sprig](https://github.com/Masterminds/sprig): Useful template functions for Go templates.
 * [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator): SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+* [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins): Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic and performance bugs in database systems
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
