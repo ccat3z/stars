@@ -461,6 +461,7 @@ creating your own Awesome List by GitHub stars!
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
+* [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python
 * [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 * [akiraux/Akira](https://github.com/akiraux/Akira): Native Linux App for UI and UX Design built in Vala and GTK
 * [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
@@ -577,6 +578,7 @@ creating your own Awesome List by GitHub stars!
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr): nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* [sfermigier/awesome-python-web-frameworks](https://github.com/sfermigier/awesome-python-web-frameworks): A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
 * [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
 * [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume): Resume，Resume Templates，程序员简历例句，简历模版，
@@ -1915,6 +1917,7 @@ creating your own Awesome List by GitHub stars!
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet): The universal proxy toolchain for Android
 * [itorr/sakana](https://github.com/itorr/sakana): 🐟「Sakana!」石蒜模拟器
 * [saltstack/salt](https://github.com/saltstack/salt): Software to automate the management and configuration of infrastructure and applications at scale.
+* [sanic-org/sanic](https://github.com/sanic-org/sanic):  Accelerate your web app development  | Build fast. Run fast.
 * [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [sbt/sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt)

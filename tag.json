@@ -1399,6 +1399,9 @@
     "ailidani/paxi": [
         "Other"
     ],
+    "aio-libs/aiohttp": [
+        "Other"
+    ],
     "airblade/vim-gitgutter": [
         "Other"
     ],
@@ -5357,6 +5360,9 @@
     "samyk/evercookie": [
         "Other"
     ],
+    "sanic-org/sanic": [
+        "Other"
+    ],
     "sapk/docker-volume-rclone": [
         "Other"
     ],
@@ -5419,6 +5425,9 @@
     ],
     "severin-lemaignan/vim-minimap": [
         "Vim"
+    ],
+    "sfermigier/awesome-python-web-frameworks": [
+        "Other"
     ],
     "sfsam/Itsycal": [
         "Other"
