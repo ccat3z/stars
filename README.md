@@ -1280,7 +1280,7 @@ creating your own Awesome List by GitHub stars!
 * [Sanster/IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * [esnet/iperf](https://github.com/esnet/iperf): iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 * [vbskycn/iptv](https://github.com/vbskycn/iptv): iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
-* [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+* [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持多种源获取方式；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
@@ -1856,7 +1856,7 @@ creating your own Awesome List by GitHub stars!
 * [dotnet/reactive](https://github.com/dotnet/reactive): The Reactive Extensions for .NET
 * [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 * [kirsch33/realip](https://github.com/kirsch33/realip): realip module for Caddy v2
-* [redis/redis](https://github.com/redis/redis): Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+* [redis/redis](https://github.com/redis/redis): For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 * [reduxjs/redux](https://github.com/reduxjs/redux): A JS library for predictable global state management
 * [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache): Client side TTL caching strategy for redux applications
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
