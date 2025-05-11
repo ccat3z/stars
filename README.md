@@ -1308,6 +1308,7 @@ creating your own Awesome List by GitHub stars!
 * [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
 * [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
+* [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
 * [casey/just](https://github.com/casey/just): 🤖 Just a command runner
