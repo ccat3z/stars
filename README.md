@@ -718,7 +718,7 @@ creating your own Awesome List by GitHub stars!
 * [17mon/china_ip_list](https://github.com/17mon/china_ip_list): None
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
 * [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite): 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M 
-* [dase955/ChocoDB](https://github.com/dase955/ChocoDB): Daydreaming~
+* [DaSECandyLab/ChocoDB](https://github.com/DaSECandyLab/ChocoDB): Daydreaming~
 * [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library
 * [theryangeary/choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to cut (and sometimes awk)
 * [XiaoMi/chronos](https://github.com/XiaoMi/chronos): Network service to provide globally strictly monotone increasing timestamp
