@@ -2331,7 +2331,7 @@ creating your own Awesome List by GitHub stars!
 * [k8up-io/wrestic](https://github.com/k8up-io/wrestic): Restic Backup Kubernetes and OpenShift Wrapper - Part of K8up
 * [susers/Writeups](https://github.com/susers/Writeups): 国内各大CTF赛题及writeup整理
 * [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
-* [microsoft/WSL](https://github.com/microsoft/WSL): Issues found on WSL
+* [microsoft/WSL](https://github.com/microsoft/WSL): Windows Subsystem for Linux
 * [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher): Sample/reference launcher app for WSL distro Microsoft Store packages.
 * [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 * [Rucadi/wsld](https://github.com/Rucadi/wsld): WSLD is a tool for downloading and installing docker images into WSL1 or WSL2 directly. It also supports uploading WSL images into Docker Hub.
