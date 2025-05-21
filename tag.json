@@ -3416,6 +3416,9 @@
     "icelake-io/icelake": [
         "Other"
     ],
+    "icloud-photos-downloader/icloud_photos_downloader": [
+        "Other"
+    ],
     "ics-py/ics-py": [
         "Other"
     ],
@@ -4058,9 +4061,6 @@
         "Machine Learning"
     ],
     "llvm/llvm-project": [
-        "Other"
-    ],
-    "locaal-ai/obs-backgroundremoval": [
         "Other"
     ],
     "lodash/lodash": [
@@ -5293,6 +5293,9 @@
     ],
     "roxma/vim-hug-neovim-rpc": [
         "Vim"
+    ],
+    "royshil/obs-backgroundremoval": [
+        "Other"
     ],
     "rpardini/docker-registry-proxy": [
         "Other"

@@ -736,7 +736,7 @@ creating your own Awesome List by GitHub stars!
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI Tool for Command Line Insights
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
@@ -1247,6 +1247,7 @@ creating your own Awesome List by GitHub stars!
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
 * [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for theme, font, input mode and clipboard history.
 * [icelake-io/icelake](https://github.com/icelake-io/icelake): Pure Rust Iceberg Implementation
+* [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader): A command-line tool to download photos from iCloud
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
 * [ics-py/ics-py](https://github.com/ics-py/ics-py): Pythonic and easy iCalendar library (rfc5545)
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS): 不止于 CSS
@@ -1625,7 +1626,7 @@ creating your own Awesome List by GitHub stars!
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-* [locaal-ai/obs-backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+* [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 * [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
 * [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 * [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
