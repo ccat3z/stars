@@ -1158,7 +1158,7 @@ creating your own Awesome List by GitHub stars!
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
-* [goplus/gop](https://github.com/goplus/gop): The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the world.
+* [goplus/gop](https://github.com/goplus/gop): XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
