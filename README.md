@@ -1158,7 +1158,6 @@ creating your own Awesome List by GitHub stars!
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
-* [goplus/gop](https://github.com/goplus/gop): XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
@@ -2347,6 +2346,7 @@ creating your own Awesome List by GitHub stars!
 * [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
 * [svengong/xcubebase](https://github.com/svengong/xcubebase): 基于xposed的frida持久化方案
 * [ritave/xeventbind](https://github.com/ritave/xeventbind): A small utillity that runs your script on X11 events
+* [goplus/xgo](https://github.com/goplus/xgo): XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 * [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
 * [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass): A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
