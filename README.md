@@ -1495,6 +1495,7 @@ creating your own Awesome List by GitHub stars!
 * [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core): ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
 * [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
+* [conda-forge/miniforge](https://github.com/conda-forge/miniforge): A conda-forge distribution.
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
 * [minio/minio](https://github.com/minio/minio): MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 * [S-1-T/miniob](https://github.com/S-1-T/miniob): OceanBase 数据库大赛初赛赛题
@@ -1584,7 +1585,7 @@ creating your own Awesome List by GitHub stars!
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
 * [facebookincubator/nimble](https://github.com/facebookincubator/nimble): New file format for storage of large columnar datasets.
-* [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): nix modules for darwin
+* [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): Manage your macOS using Nix
 * [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 * [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect): Interactive tui for inspecting nix configs
