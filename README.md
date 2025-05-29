@@ -1811,6 +1811,7 @@ creating your own Awesome List by GitHub stars!
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser): Bibtex parser for Python 3
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
+* [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache): Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 * [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 * [whitequark/python-itanium_demangler](https://github.com/whitequark/python-itanium_demangler): Pure Python Itanium C++ ABI demangler
 * [rytilahti/python-miio](https://github.com/rytilahti/python-miio): Python library & console tool for controlling Xiaomi smart appliances

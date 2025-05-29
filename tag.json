@@ -3188,6 +3188,9 @@
     "grandchef/vuex-persistedstate-migrate": [
         "Other"
     ],
+    "grantjenks/python-diskcache": [
+        "Other"
+    ],
     "graphql/graphiql": [
         "Other"
     ],
