@@ -5108,6 +5108,9 @@
     "python-poetry/poetry": [
         "Other"
     ],
+    "python-poetry/poetry-plugin-export": [
+        "Other"
+    ],
     "pytorch/vision": [
         "Other"
     ],

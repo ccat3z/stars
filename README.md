@@ -1757,6 +1757,7 @@ creating your own Awesome List by GitHub stars!
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
+* [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export): Poetry plugin to export the dependencies to various formats
 * [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=] 
 * [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL): A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 * [polardb/polardbx-sql](https://github.com/polardb/polardbx-sql): PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.
