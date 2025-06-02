@@ -206,6 +206,9 @@
     "Chalarangelo/30-seconds-of-code": [
         "Other"
     ],
+    "ChatGPTBox-dev/chatGPTBox": [
+        "Other"
+    ],
     "ClangBuiltLinux/tc-build": [
         "Other"
     ],
@@ -3687,9 +3690,6 @@
         "Other"
     ],
     "jorgebucaran/fisher": [
-        "Other"
-    ],
-    "josStorer/chatGPTBox": [
         "Other"
     ],
     "jotaen/xit": [
