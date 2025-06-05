@@ -795,7 +795,7 @@ creating your own Awesome List by GitHub stars!
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
-* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, and StarRocks
+* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Redpanda, YDB and StarRocks
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
@@ -1086,6 +1086,7 @@ creating your own Awesome List by GitHub stars!
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
+* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [ad-m/github-push-action](https://github.com/ad-m/github-push-action): GitHub actions to push back to repository eg. updated code
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
@@ -1628,7 +1629,7 @@ creating your own Awesome List by GitHub stars!
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 * [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
-* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): Meet OceanBase, the MySQL compatible distributed database for your cloud native apps. High Performance, High Available, Low Cost, Multi-Cloud. Welcome to our community: https://discord.gg/74cF8vbNEs
 * [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
 * [cernekee/ocproxy](https://github.com/cernekee/ocproxy): OpenConnect proxy
