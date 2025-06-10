@@ -1001,7 +1001,7 @@ creating your own Awesome List by GitHub stars!
 * [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
 * [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer): A record-oriented store built on FoundationDB
 * [pH14/fdb-zk](https://github.com/pH14/fdb-zk): ZooKeeper server on top of FoundationDB
-* [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder): Android RSS reader app
+* [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder): Android feed reader app
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
@@ -2372,7 +2372,7 @@ creating your own Awesome List by GitHub stars!
 * [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
-* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android 权限请求框架，已适配 Android 15
+* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android Permissions Framework, Adapt to Android 15
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yadm-dev/yadm](https://github.com/yadm-dev/yadm): Yet Another Dotfiles Manager
