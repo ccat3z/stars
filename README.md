@@ -736,7 +736,7 @@ creating your own Awesome List by GitHub stars!
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+* [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI Tool for Command Line Insights
 * [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition): CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 * [jamboree/co2](https://github.com/jamboree/co2): A C++ await/yield emulation library for stackless coroutine
@@ -1457,7 +1457,7 @@ creating your own Awesome List by GitHub stars!
 * [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps
 * [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
