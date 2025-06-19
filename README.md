@@ -501,7 +501,7 @@ creating your own Awesome List by GitHub stars!
 * [andrewrothstein/ansible-velero](https://github.com/andrewrothstein/ansible-velero): None
 * [sleighzy/ansible-zookeeper](https://github.com/sleighzy/ansible-zookeeper): Ansible role for installing and configuring Apache ZooKeeper
 * [EliverLara/Ant](https://github.com/EliverLara/Ant): :ant:  A flat and light theme with a modern look
-* [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): A React Chart Library
+* [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts): 📈 A React Chart Library based on @antvis, include plot, graph, and map.
 * [KaitoHH/AnyCodeToBmp](https://github.com/KaitoHH/AnyCodeToBmp): None
 * [japila-books/apache-spark-internals](https://github.com/japila-books/apache-spark-internals): The Internals of Apache Spark
 * [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings): Type definitions for APIs of Wechat Mini Program in TypeScript
