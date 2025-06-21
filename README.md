@@ -634,6 +634,7 @@ creating your own Awesome List by GitHub stars!
 * [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
 * [claytongulick/bit-sync](https://github.com/claytongulick/bit-sync): Bit-sync is a utility for synchronizing arbitrary data using the rsync algorithm in pure js
 * [camptocamp/bivac](https://github.com/camptocamp/bivac): 🏕 📦 Backup Interface for Volumes Attached to Containers
+* [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
@@ -1552,6 +1553,7 @@ creating your own Awesome List by GitHub stars!
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET

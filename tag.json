@@ -5072,6 +5072,9 @@
     "psd-tools/psd-tools": [
         "Other"
     ],
+    "psf/black": [
+        "Other"
+    ],
     "psf/requests-html": [
         "Other"
     ],
@@ -5115,6 +5118,9 @@
         "Other"
     ],
     "python-poetry/poetry-plugin-export": [
+        "Other"
+    ],
+    "python/mypy": [
         "Other"
     ],
     "pytorch/vision": [
