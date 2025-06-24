@@ -1695,7 +1695,7 @@ creating your own Awesome List by GitHub stars!
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [howbea/Overview-Background](https://github.com/howbea/Overview-Background): None
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
-* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Packer templates for building Windows and Ubuntu virtual machine images and Vagrant boxes
+* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Windows and Ubuntu virtual machine images and Vagrant boxes
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [apache/paimon](https://github.com/apache/paimon): Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
