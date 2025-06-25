@@ -1285,6 +1285,9 @@
     "Xuyuanp/nerdtree-git-plugin": [
         "Other"
     ],
+    "YaLTeR/niri": [
+        "Other"
+    ],
     "Yelp/dumb-init": [
         "Other"
     ],
@@ -1473,9 +1476,6 @@
     ],
     "aljazceru/awesome-nostr": [
         "Other"
-    ],
-    "almende/vis": [
-        "JavaScript"
     ],
     "alnorris/file-dialog": [
         "Other"
@@ -6226,6 +6226,9 @@
         "Python"
     ],
     "virgili0/Virgilio": [
+        "Other"
+    ],
+    "visjs/vis": [
         "Other"
     ],
     "vitejs/vite": [

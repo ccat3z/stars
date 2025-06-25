@@ -312,7 +312,6 @@ creating your own Awesome List by GitHub stars!
 # JavaScript
 
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck): Write any JavaScript with 6 Characters: []()!+
-* [almende/vis](https://github.com/almende/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 
 ## jQuery
 
@@ -1590,6 +1589,7 @@ creating your own Awesome List by GitHub stars!
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
 * [facebookincubator/nimble](https://github.com/facebookincubator/nimble): New file format for storage of large columnar datasets.
+* [YaLTeR/niri](https://github.com/YaLTeR/niri): A scrollable-tiling Wayland compositor.
 * [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): Manage your macOS using Nix
 * [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
@@ -2249,6 +2249,7 @@ creating your own Awesome List by GitHub stars!
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
 * [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux): Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
+* [visjs/vis](https://github.com/visjs/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 * [pytorch/vision](https://github.com/pytorch/vision): Datasets, Transforms and Models specific to Computer Vision
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 * [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
