@@ -731,6 +731,7 @@ creating your own Awesome List by GitHub stars!
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics database management system
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
+* [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
@@ -1310,6 +1311,7 @@ creating your own Awesome List by GitHub stars!
 * [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
 * [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
+* [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair): A python module to repair invalid JSON from LLMs
 * [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
@@ -1831,7 +1833,7 @@ creating your own Awesome List by GitHub stars!
 * [umijs/qiankun](https://github.com/umijs/qiankun): 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 * [vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme): A colorful design icon theme for linux desktops
 * [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup): QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
-* [ljharb/qs](https://github.com/ljharb/qs): A querystring parser with nesting support
+* [ljharb/qs](https://github.com/ljharb/qs): A querystring parser and serializer with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
 * [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine.
 * [gfredericks/quinedb](https://github.com/gfredericks/quinedb): QuineDB is a quine that is also a key-value store.

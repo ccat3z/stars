@@ -4156,6 +4156,9 @@
     "mamoe/mirai": [
         "Other"
     ],
+    "mangiucugna/json_repair": [
+        "Other"
+    ],
     "manisandro/gImageReader": [
         "Other"
     ],
@@ -5052,6 +5055,9 @@
         "Other"
     ],
     "projectcontour/contour": [
+        "Other"
+    ],
+    "prometheus/client_python": [
         "Other"
     ],
     "prometheus/prometheus": [
