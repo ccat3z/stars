@@ -1321,6 +1321,9 @@
     "ZeekoZhu/TextTemplatingCore": [
         ".NET"
     ],
+    "aarondl/authboss": [
+        "Other"
+    ],
     "aarowill/base16-alacritty": [
         "Other"
     ],
@@ -6262,9 +6265,6 @@
         "Other"
     ],
     "voderl/genshin-gacha-analyzer": [
-        "Other"
-    ],
-    "volatiletech/authboss": [
         "Other"
     ],
     "vue-styleguidist/vue-styleguidist": [
