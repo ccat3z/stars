@@ -1818,6 +1818,7 @@ creating your own Awesome List by GitHub stars!
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
 * [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser): Bibtex parser for Python 3
+* [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone): Produce redistributable builds of Python
 * [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog): A colored formatter for the python logging module
 * [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache): Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 * [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv): Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.

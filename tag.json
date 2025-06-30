@@ -1693,6 +1693,9 @@
     "astaxie/build-web-application-with-golang": [
         "Other"
     ],
+    "astral-sh/python-build-standalone": [
+        "Other"
+    ],
     "astralapp/astral": [
         "GitHub"
     ],
