@@ -134,9 +134,6 @@
     "AstraExt/astra-monitor": [
         "Other"
     ],
-    "AutoMapper/AutoMapper": [
-        "Other"
-    ],
     "AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection": [
         "Other"
     ],
@@ -668,6 +665,9 @@
         "Other"
     ],
     "LmeSzinc/StarRailCopilot": [
+        "Other"
+    ],
+    "LuckyPennySoftware/AutoMapper": [
         "Other"
     ],
     "LumingSun/ML4DB-paper-list": [

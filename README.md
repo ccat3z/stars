@@ -544,7 +544,7 @@ creating your own Awesome List by GitHub stars!
 * [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi): AutoBangumi - 全自动追番工具
 * [google/autocxx](https://github.com/google/autocxx): Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
 * [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
-* [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper): A convention-based object-object mapper in .NET. 
+* [LuckyPennySoftware/AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper): A convention-based object-object mapper in .NET. 
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
