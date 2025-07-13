@@ -816,6 +816,7 @@ creating your own Awesome List by GitHub stars!
 * [mattzeunert/CSS-Todo-App](https://github.com/mattzeunert/CSS-Todo-App): Basic todo app functionality without using JavaScript
 * [hcy226/CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020): 关于2020年CS保研夏令营的汇总。欢迎大家分享夏令营信息，资瓷一下互联网精神吼不吼啊？
 * [RookieJunChen/CSSummerCamp2021](https://github.com/RookieJunChen/CSSummerCamp2021): 关于2021年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？
+* [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 * [mithrandie/csvq](https://github.com/mithrandie/csvq): SQL-like query language for csv
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
@@ -2395,7 +2396,7 @@ creating your own Awesome List by GitHub stars!
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 * [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-* [yoda-pa/yoda](https://github.com/yoda-pa/yoda): Wise and powerful personal assistant, available in your nearest terminal
+* [94solutions/yoda](https://github.com/94solutions/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
