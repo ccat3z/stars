@@ -1222,7 +1222,7 @@ creating your own Awesome List by GitHub stars!
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 * [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
-* [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@rycee] 
+* [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains): macOS cross compiler toolchains
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 💀 Homebrew Services (deprecated)
