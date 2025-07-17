@@ -5054,6 +5054,9 @@
     "prettier/prettier": [
         "Other"
     ],
+    "prettytable/prettytable": [
+        "Other"
+    ],
     "prikhi/lightdm-mini-greeter": [
         "Linux/GUI/Display Manager"
     ],

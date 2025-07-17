@@ -1779,6 +1779,7 @@ creating your own Awesome List by GitHub stars!
 * [preactjs/preact](https://github.com/preactjs/preact): ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * [preactjs/preact-cli](https://github.com/preactjs/preact-cli): 😺 Your next Preact PWA starts in 30 seconds.
 * [prettier/prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
+* [prettytable/prettytable](https://github.com/prettytable/prettytable): Display tabular data in a visually appealing ASCII table format
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
