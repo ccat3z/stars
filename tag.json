@@ -2452,6 +2452,9 @@
     "djyde/ossart": [
         "Other"
     ],
+    "docker-archive-public/docker.dockercraft": [
+        "Other"
+    ],
     "docker-easyconnect/docker-easyconnect": [
         "Other"
     ],
@@ -2460,9 +2463,6 @@
     ],
     "docker-library/openjdk": [
         "Docker"
-    ],
-    "docker/dockercraft": [
-        "Other"
     ],
     "docopt/docopt.go": [
         "Other"
