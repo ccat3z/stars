@@ -922,6 +922,7 @@ creating your own Awesome List by GitHub stars!
 * [dolthub/doltgresql](https://github.com/dolthub/doltgresql): DoltgreSQL - Version Controlled PostgreSQL
 * [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+* [waytoabv/Dotfiles](https://github.com/waytoabv/Dotfiles): None
 * [jglovier/dotfiles-logo](https://github.com/jglovier/dotfiles-logo): :art: I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotfiles.github.io/), but you can use it too.
 * [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools): A list of tools to extend the .NET Core command line (dotnet)
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
@@ -1656,6 +1657,7 @@ creating your own Awesome List by GitHub stars!
 * [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM): Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows.
 * [abraunegg/onedrive](https://github.com/abraunegg/onedrive): OneDrive Client for Linux
 * [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge): Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
+* [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 * [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup): Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 * [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger): Open source analysis tools
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
