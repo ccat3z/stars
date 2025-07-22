@@ -829,6 +829,9 @@
     "OpenAPITools/openapi-generator": [
         "Other"
     ],
+    "OpenDCAI/MyScaleDB": [
+        "Other"
+    ],
     "OpenIntelWireless/itlwm": [
         "Other"
     ],

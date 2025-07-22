@@ -1557,6 +1557,7 @@ creating your own Awesome List by GitHub stars!
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
 * [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
+* [OpenDCAI/MyScaleDB](https://github.com/OpenDCAI/MyScaleDB): AI Database for unified, scalable SQL + vector data management, search and analytics
 * [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
