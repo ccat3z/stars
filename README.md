@@ -834,7 +834,7 @@ creating your own Awesome List by GitHub stars!
 * [nreco/data](https://github.com/nreco/data): Fast DB-independent DAL for .NET Core:  abstract queries, SQL commands builder, schema-less data access, POCO mapping (micro-ORM).
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
-* [databendlabs/databend](https://github.com/databendlabs/databend): 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+* [databendlabs/databend](https://github.com/databendlabs/databend): 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [apache/datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine
 * [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs): Extensible SQL Lexer and Parser for Rust
@@ -1882,6 +1882,7 @@ creating your own Awesome List by GitHub stars!
 * [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
+* [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): A list of semi to fully remote-friendly companies (jobs) in tech.
 * [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china): 支持远程办公的中国公司
 * [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam): Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
