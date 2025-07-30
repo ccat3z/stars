@@ -766,6 +766,7 @@ creating your own Awesome List by GitHub stars!
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
 * [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
+* [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -2594,7 +2595,6 @@ creating your own Awesome List by GitHub stars!
 
 ### ConEmu
 
-* [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes): Manually ported color themes for ConEmu
 
 ### Mintty

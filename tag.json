@@ -230,6 +230,9 @@
     "CollegesChat/university-information": [
         "Other"
     ],
+    "ConEmu/ConEmu": [
+        "Other"
+    ],
     "CrowCpp/Crow": [
         "Other"
     ],
@@ -717,9 +720,6 @@
     ],
     "Matoking/protontricks": [
         "Other"
-    ],
-    "Maximus5/ConEmu": [
-        "Windows/Terminal/ConEmu"
     ],
     "Meituan-Dianping/mpvue": [
         "Other"
