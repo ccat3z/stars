@@ -1024,7 +1024,7 @@ creating your own Awesome List by GitHub stars!
 * [bilelmoussaoui/flatpak-vscode](https://github.com/bilelmoussaoui/flatpak-vscode): Integrate Flatpak with VSCode 
 * [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 22.08), provides wine to Centos like distros (https://flatpak.org/setup/)
 * [pypa/flit](https://github.com/pypa/flit): Simplified packaging of Python modules
-* [florisboard/florisboard](https://github.com/florisboard/florisboard): An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+* [florisboard/florisboard](https://github.com/florisboard/florisboard): An open-source keyboard for Android which respects your privacy. Currently in beta.
 * [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
