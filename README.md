@@ -1498,6 +1498,7 @@ creating your own Awesome List by GitHub stars!
 * [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan): Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
 * [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+* [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core): ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.

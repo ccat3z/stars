@@ -4345,6 +4345,9 @@
     "microsoft/WSL-DistroLauncher": [
         "Other"
     ],
+    "microsoft/mimalloc": [
+        "Other"
+    ],
     "microsoft/monaco-editor": [
         "Other"
     ],
