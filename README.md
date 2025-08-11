@@ -752,7 +752,7 @@ creating your own Awesome List by GitHub stars!
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
-* [tuberry/color-picker](https://github.com/tuberry/color-picker): Simple color picker for GNOME Shell.
+* [tuberry/color-picker](https://github.com/tuberry/color-picker): GNOME Shell extension to pick colors on the desktop
 * [hydradatabase/columnar](https://github.com/hydradatabase/columnar): Postgres-native columnar storage extension
 * [Magisk-Modules-Repo/com.piyushgarg.rclone](https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone): None
 * [flathub/com.valvesoftware.Steam](https://github.com/flathub/com.valvesoftware.Steam): None
@@ -852,7 +852,7 @@ creating your own Awesome List by GitHub stars!
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * [yingjunwu/DBMS-Indexology](https://github.com/yingjunwu/DBMS-Indexology): A Collection of Papers on Database Index Structures
 * [DBOS-project/dbos-project.github.io](https://github.com/DBOS-project/dbos-project.github.io): None
-* [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA中文翻译
+* [Vonng/ddia](https://github.com/Vonng/ddia): 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 * [shopspring/decimal](https://github.com/shopspring/decimal): Arbitrary-precision fixed-point decimal numbers in Go
 * [39aldo39/DecSync](https://github.com/39aldo39/DecSync): Synchronize RSS, contacts, calendars, tasks and more without a server
 * [39aldo39/DecSyncCC](https://github.com/39aldo39/DecSyncCC): Android app to sync contacts, calendars and tasks without a server using DecSync
@@ -1219,6 +1219,7 @@ creating your own Awesome List by GitHub stars!
 * [jeffshee/hidamari](https://github.com/jeffshee/hidamari): Video wallpaper for Linux. Written in Python. 🐍
 * [libusb/hidapi](https://github.com/libusb/hidapi): A Simple cross-platform library for communicating with HID devices
 * [todbot/hidapitester](https://github.com/todbot/hidapitester): Simple command-line program to test HIDAPI
+* [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 * [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -1250,7 +1251,7 @@ creating your own Awesome List by GitHub stars!
 * [ory/hydra](https://github.com/ory/hydra): The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
 * [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a powerful, lightning fast and censorship resistant proxy.
 * [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw): "I use Arch btw" but it's a Turing-complete programming language.
-* [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): Tweaker of IBus for theme, font, input mode and clipboard history.
+* [tuberry/ibus-tweaker](https://github.com/tuberry/ibus-tweaker): GNOME Shell extension to tweak IBus font, input mode, clipboard history, etc.
 * [icelake-io/icelake](https://github.com/icelake-io/icelake): Pure Rust Iceberg Implementation
 * [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader): A command-line tool to download photos from iCloud
 * [jantimon/iconfont-webpack-plugin](https://github.com/jantimon/iconfont-webpack-plugin): Simple icon font handling for webpack
@@ -1399,7 +1400,7 @@ creating your own Awesome List by GitHub stars!
 * [mciupak/libvirt-evdev](https://github.com/mciupak/libvirt-evdev): Libvirt evdev input service
 * [coreos/license-bill-of-materials](https://github.com/coreos/license-bill-of-materials): Fork of https://github.com/pmezard/licenses
 * [liriliri/licia](https://github.com/liriliri/licia): Useful utility collection with zero dependencies
-* [tuberry/light-dict](https://github.com/tuberry/light-dict): Lightweight extension for on-the-fly manipulation to primary selections, especially optimized for Dictionary lookups.
+* [tuberry/light-dict](https://github.com/tuberry/light-dict): GNOME Shell extension to manipulate primary selections on the fly, typically used as Lightweight Dictionaries
 * [the-cavalry/light-locker](https://github.com/the-cavalry/light-locker): A simple session-locker for lightdm
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 * [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -2388,7 +2389,7 @@ creating your own Awesome List by GitHub stars!
 * [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN): None
 * [AArnott/Xunit.SkippableFact](https://github.com/AArnott/Xunit.SkippableFact): Adds Xunit dynamic skipping of facts and theories.
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
-* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android Permissions Framework, Adapt to Android 15
+* [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android Permissions Framework, Adapt to Android 16
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yadm-dev/yadm](https://github.com/yadm-dev/yadm): Yet Another Dotfiles Manager
