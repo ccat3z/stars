@@ -1534,7 +1534,7 @@ creating your own Awesome List by GitHub stars!
 * [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker 🦠
-* [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+* [ansible/molecule](https://github.com/ansible/molecule): An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
 * [gedzeppelin/monitor-window-switcher](https://github.com/gedzeppelin/monitor-window-switcher): GNOME shell extension to improve dual (or more) monitor experience
@@ -1902,7 +1902,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Real-time event streaming platform. Real-time data ingestion, stream processing, online serving, and data management.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Real-time event streaming platform. Streaming CDC, stream processing, low-latency serving, and Iceberg management.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
