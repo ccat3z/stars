@@ -870,6 +870,7 @@ creating your own Awesome List by GitHub stars!
 * [denoland/deno](https://github.com/denoland/deno): A modern runtime for JavaScript and TypeScript.
 * [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn): 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
 * [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers.
+* [jglanz/deskflow-android](https://github.com/jglanz/deskflow-android): None
 * [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 * [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
@@ -1084,7 +1085,7 @@ creating your own Awesome List by GitHub stars!
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
 * [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
 * [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes
-* [concourse/git-resource](https://github.com/concourse/git-resource): tracks commits in a branch of a Git repository
+* [concourse/git-resource](https://github.com/concourse/git-resource): Tracks commits in a branch of a Git repository
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 * [banga/git-split-diffs](https://github.com/banga/git-split-diffs): Syntax highlighted side-by-side diffs in your terminal
 * [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
@@ -1361,6 +1362,7 @@ creating your own Awesome List by GitHub stars!
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt and KDE
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS): lakeFS - Data version control for your data lake | Git for data
 * [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus): An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
+* [feschber/lan-mouse](https://github.com/feschber/lan-mouse): mouse & keyboard sharing via LAN
 * [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
@@ -1882,7 +1884,7 @@ creating your own Awesome List by GitHub stars!
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [m8/refined.blog](https://github.com/m8/refined.blog): curated list of personal blogs
 * [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli): Scripts for easy manipulation of docker-registry from command line (and from scripts)
-* [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): a resource for images in a Docker registry
+* [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): A resource for images in an OCI/Docker registry
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
 * [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): A list of semi to fully remote-friendly companies (jobs) in tech.
