@@ -537,6 +537,7 @@ creating your own Awesome List by GitHub stars!
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [ariga/atlas](https://github.com/ariga/atlas): Manage your database schema as code
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
+* [kwai/auron](https://github.com/kwai/auron): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [aarondl/authboss](https://github.com/aarondl/authboss): The boss of http auth.
@@ -637,7 +638,6 @@ creating your own Awesome List by GitHub stars!
 * [BlackArch/blackarch](https://github.com/BlackArch/blackarch): An ArchLinux based distribution for penetration testers and security researchers.
 * [StackExchange/blackbox](https://github.com/StackExchange/blackbox): Safely store secrets in Git/Mercurial/Subversion
 * [texworld/blacktex](https://github.com/texworld/blacktex): :black_heart: Cleans up your LaTeX files.
-* [kwai/blaze](https://github.com/kwai/blaze): Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 * [prinsss/blessing-skin-server](https://github.com/prinsss/blessing-skin-server): [OUTDATED, see @bs-community] A web application brings your custom skins back in offline Minecraft servers. (第三方 Minecraft 皮肤站)
 * [yzx9/blog](https://github.com/yzx9/blog): Zexin Yuan's blog.
 * [ccat3z/blog.ccat3z.xyz](https://github.com/ccat3z/blog.ccat3z.xyz): ❤ ccat3z's blog
@@ -761,7 +761,7 @@ creating your own Awesome List by GitHub stars!
 * [ellie-commons/communique](https://github.com/ellie-commons/communique): Featureful RSS Reader for elementary OS
 * [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): Compile Time Regular Expression in C++
 * [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C and C++ package manager
-* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based automation system written in Go.
+* [concourse/concourse](https://github.com/concourse/concourse): Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 * [concourse/concourse-chart](https://github.com/concourse/concourse-chart): Helm chart to install Concourse
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
