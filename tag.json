@@ -1582,6 +1582,9 @@
     "apache/arrow": [
         "Other"
     ],
+    "apache/auron": [
+        "Other"
+    ],
     "apache/buildstream": [
         "Other"
     ],
@@ -3943,9 +3946,6 @@
         "Other"
     ],
     "kulshekhar/ts-jest": [
-        "Other"
-    ],
-    "kwai/auron": [
         "Other"
     ],
     "kwk/docker-registry-setup": [

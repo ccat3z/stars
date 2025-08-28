@@ -537,7 +537,7 @@ creating your own Awesome List by GitHub stars!
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [ariga/atlas](https://github.com/ariga/atlas): Manage your database schema as code
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [kwai/auron](https://github.com/kwai/auron): The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+* [apache/auron](https://github.com/apache/auron): The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [aarondl/authboss](https://github.com/aarondl/authboss): The boss of http auth.
@@ -1962,7 +1962,7 @@ creating your own Awesome List by GitHub stars!
 * [screepers/screeps-regenerator](https://github.com/screepers/screeps-regenerator): Use generators in Screeps
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
 * [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): WebUI extension for ControlNet
-* [libsdl-org/SDL](https://github.com/libsdl-org/SDL): Simple Directmedia Layer
+* [libsdl-org/SDL](https://github.com/libsdl-org/SDL): Simple DirectMedia Layer
 * [antirez/sds](https://github.com/antirez/sds): Simple Dynamic Strings library for C
 * [Tencent/secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南
 * [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault): A backup application for the Android Open Source Project.
@@ -2052,7 +2052,7 @@ creating your own Awesome List by GitHub stars!
 * [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
 * [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx): Create static executable from dynamic executable
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
-* [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 统计学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
+* [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 机器学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 * [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
 * [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
