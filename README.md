@@ -537,7 +537,7 @@ creating your own Awesome List by GitHub stars!
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [ariga/atlas](https://github.com/ariga/atlas): Manage your database schema as code
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [apache/auron](https://github.com/apache/auron): The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+* [apache/auron](https://github.com/apache/auron): The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [aarondl/authboss](https://github.com/aarondl/authboss): The boss of http auth.
@@ -766,7 +766,7 @@ creating your own Awesome List by GitHub stars!
 * [mdb/concourse-webhook-resource](https://github.com/mdb/concourse-webhook-resource): A basic Concourse resource to perform HTTP requests against a configured URL
 * [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map): lock-free B+ tree
 * [conda/conda-lock](https://github.com/conda/conda-lock): Lightweight lockfile for conda environments
-* [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu): Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+* [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu): ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 * [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 * [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
