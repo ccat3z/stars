@@ -602,6 +602,7 @@ creating your own Awesome List by GitHub stars!
 * [thetirefire/badidea](https://github.com/thetirefire/badidea): None
 * [hellocodeM/baidu-wenku](https://github.com/hellocodeM/baidu-wenku): fetch the document for free
 * [sabre-io/Baikal](https://github.com/sabre-io/Baikal): Baïkal is a Calendar+Contacts server
+* [artginzburg/barhide](https://github.com/artginzburg/barhide):  Hide unwanted icons from your menu bar
 * [debauchee/barrier](https://github.com/debauchee/barrier): Open-source KVM software
 * [aarowill/base16-alacritty](https://github.com/aarowill/base16-alacritty): Base16 for Alacritty
 * [aarowill/base16-gnome-terminal](https://github.com/aarowill/base16-gnome-terminal): Base16 for Gnome Terminal
@@ -1204,7 +1205,7 @@ creating your own Awesome List by GitHub stars!
 * [goharbor/harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
 * [harness/harness](https://github.com/harness/harness): Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine): The engine for haskell ide-integration. Not an IDE
-* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+* [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server): Official Haskell IDE support via the language server protocol (LSP)
 * [neovimhaskell/haskell-vim](https://github.com/neovimhaskell/haskell-vim): Custom Haskell Vimscripts
 * [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot): Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 * [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
@@ -2101,6 +2102,7 @@ creating your own Awesome List by GitHub stars!
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+* [go-task/task](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
 * [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
 * [google/tcmalloc](https://github.com/google/tcmalloc): None

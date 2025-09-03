@@ -1678,6 +1678,9 @@
     "arrow-py/arrow": [
         "Other"
     ],
+    "artginzburg/barhide": [
+        "Other"
+    ],
     "asLody/VirtualApp": [
         "Android"
     ],
@@ -3111,6 +3114,9 @@
         "Other"
     ],
     "go-sql-driver/mysql": [
+        "Other"
+    ],
+    "go-task/task": [
         "Other"
     ],
     "gobuffalo/packr": [
