@@ -526,7 +526,7 @@ creating your own Awesome List by GitHub stars!
 * [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
 * [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
 * [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site): Django website for generating ASCII-arts out of images or text 🎨 (closed)
-* [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
+* [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder, streamer and player 📹
 * [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
 * [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor): Resource Monitor for GNOME shell
