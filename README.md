@@ -973,7 +973,7 @@ creating your own Awesome List by GitHub stars!
 * [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & versatile interactive shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 * [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay): Bleeding edge emacs overlay [maintainer=@adisbladis] 
-* [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
+* [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash table/map/set
 * [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary): open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
