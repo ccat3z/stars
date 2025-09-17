@@ -1171,7 +1171,7 @@ creating your own Awesome List by GitHub stars!
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
 * [go-gorm/gorm](https://github.com/go-gorm/gorm): The fantastic ORM library for Golang, aims to be developer friendly
 * [ginuerzh/gost](https://github.com/ginuerzh/gost): GO Simple Tunnel - a simple tunnel written in golang
-* [oracle/graal](https://github.com/oracle/graal): GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+* [oracle/graal](https://github.com/oracle/graal): GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 * [oracle/graaljs](https://github.com/oracle/graaljs): GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 * [graffle-js/graffle](https://github.com/graffle-js/graffle): Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
