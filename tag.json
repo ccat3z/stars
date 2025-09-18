@@ -3515,9 +3515,6 @@
     "int128/wslexec": [
         "Other"
     ],
-    "intel/x86-simd-sort": [
-        "Other"
-    ],
     "iovisor/bcc": [
         "Other"
     ],
@@ -4716,6 +4713,9 @@
         "Other"
     ],
     "numetriclabz/awesome-db": [
+        "Other"
+    ],
+    "numpy/x86-simd-sort": [
         "Other"
     ],
     "numtide/system-manager": [
