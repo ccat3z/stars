@@ -777,6 +777,7 @@ creating your own Awesome List by GitHub stars!
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
 * [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
+* [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 * [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
@@ -800,7 +801,7 @@ creating your own Awesome List by GitHub stars!
 * [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
-* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Redpanda, YDB and StarRocks
+* [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Alibaba Tair, Redpanda, YDB and StarRocks
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [robfig/cron](https://github.com/robfig/cron): a cron library for go
 * [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
@@ -1000,7 +1001,7 @@ creating your own Awesome List by GitHub stars!
 * [xloger/ExLink](https://github.com/xloger/ExLink): 屏蔽国产流氓们内置浏览器的 Xposed 模块
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [markusressel/fan2go](https://github.com/markusressel/fan2go): A simple daemon providing dynamic fan speed control based on temperature sensors.
-* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis and WebKit/Safari
+* [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, Chromium, Redis and WebKit/Safari
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is a high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
