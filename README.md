@@ -1247,7 +1247,7 @@ creating your own Awesome List by GitHub stars!
 * [draivin/hsnips](https://github.com/draivin/hsnips): HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
 * [aknuds1/html-to-react](https://github.com/aknuds1/html-to-react): A lightweight library that converts raw HTML to a React DOM structure.
 * [mmiller42/html-webpack-externals-plugin](https://github.com/mmiller42/html-webpack-externals-plugin): Webpack plugin that works alongside html-webpack-plugin to use pre-packaged vendor bundles.
-* [http-party/http-server](https://github.com/http-party/http-server): a simple zero-configuration command-line http server
+* [http-party/http-server](https://github.com/http-party/http-server): A simple, zero-configuration, command-line http server
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [cpp-pm/hunter](https://github.com/cpp-pm/hunter): CMake driven cross-platform package manager for C/C++.
 * [typicode/husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof!
@@ -1290,7 +1290,7 @@ creating your own Awesome List by GitHub stars!
 * [smxi/inxi](https://github.com/smxi/inxi): inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs. 
 * [Sanster/IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * [esnet/iperf](https://github.com/esnet/iperf): iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-* [vbskycn/iptv](https://github.com/vbskycn/iptv): iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+* [vbskycn/iptv](https://github.com/vbskycn/iptv): iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 * [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
@@ -1921,7 +1921,7 @@ creating your own Awesome List by GitHub stars!
 * [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
-* [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, user-friendly, distributed relational database built on SQLite.
+* [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight, user-friendly, fault-tolerant database built on SQLite.
 * [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy): RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 * [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🧡 Everything is RSSible
 * [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar): 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
