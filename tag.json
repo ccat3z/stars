@@ -2392,9 +2392,6 @@
     "debauchee/barrier": [
         "Other"
     ],
-    "dell/dkms": [
-        "Other"
-    ],
     "delta-io/delta": [
         "Other"
     ],
@@ -2468,6 +2465,9 @@
         "Other"
     ],
     "djyde/ossart": [
+        "Other"
+    ],
+    "dkms-project/dkms": [
         "Other"
     ],
     "docker-archive-public/docker.dockercraft": [
@@ -4439,6 +4439,9 @@
         "Other"
     ],
     "mmiller42/html-webpack-externals-plugin": [
+        "Other"
+    ],
+    "mmulet/term.everything": [
         "Other"
     ],
     "mnielsen/neural-networks-and-deep-learning": [

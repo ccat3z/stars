@@ -889,7 +889,7 @@ creating your own Awesome List by GitHub stars!
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 * [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 * [mixu/distsysbook](https://github.com/mixu/distsysbook): The book Distributed systems: for fun and profit
-* [dell/dkms](https://github.com/dell/dkms): Dynamic Kernel Module Support
+* [dkms-project/dkms](https://github.com/dkms-project/dkms): Dynamic Kernel Module System
 * [jmpews/Dobby](https://github.com/jmpews/Dobby): a lightweight, multi-platform, multi-architecture hook framework.
 * [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
@@ -2116,6 +2116,7 @@ creating your own Awesome List by GitHub stars!
 * [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates): .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 * [tensorbase/tensorbase](https://github.com/tensorbase/tensorbase): TensorBase is a new big data warehousing with modern efforts.
 * [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+* [mmulet/term.everything](https://github.com/mmulet/term.everything): Run any GUI app in the terminal❗
 * [nsf/termbox-go](https://github.com/nsf/termbox-go): Pure Go termbox implementation
 * [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css): Modern and minimalistic CSS framework for terminal enthusiasts
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer): 🦄 Record your terminal and generate animated gif images or share a web player
