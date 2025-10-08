@@ -6393,7 +6393,7 @@
     "webpack-contrib/mini-css-extract-plugin": [
         "Other"
     ],
-    "webpack-contrib/postcss-loader": [
+    "webpack/postcss-loader": [
         "Other"
     ],
     "webpack/webpack": [

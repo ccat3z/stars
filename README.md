@@ -1348,7 +1348,7 @@ creating your own Awesome List by GitHub stars!
 * [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
 * [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android):  A fully-featured V2Ray client for Android.
-* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
+* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 * [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
@@ -1783,7 +1783,7 @@ creating your own Awesome List by GitHub stars!
 * [polybar/polybar](https://github.com/polybar/polybar): A fast and easy-to-use status bar
 * [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables): PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 * [postcss/postcss-custom-properties](https://github.com/postcss/postcss-custom-properties): Use Custom Properties in CSS
-* [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader): PostCSS loader for webpack
+* [webpack/postcss-loader](https://github.com/webpack/postcss-loader): PostCSS loader for webpack
 * [postgres/postgres](https://github.com/postgres/postgres): Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 * [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 * [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit): A framework for managing and maintaining multi-language pre-commit hooks.
@@ -2255,7 +2255,7 @@ creating your own Awesome List by GitHub stars!
 * [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 * [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript): Vastly improved Javascript indentation and syntax support in Vim.
 * [heavenshell/vim-jsdoc](https://github.com/heavenshell/vim-jsdoc): Generate JSDoc to your JavaScript code.
-* [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger
+* [ledger/vim-ledger](https://github.com/ledger/vim-ledger): Vim plugin for Ledger / Hledger
 * [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp): async language server protocol plugin for vim and neovim
 * [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode): Text outlining and task management for Vim based on Emacs' Org-Mode
 * [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank): A Vim plugin to copy text through SSH with OSC52
