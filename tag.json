@@ -6390,7 +6390,7 @@
     "web-infra-dev/modern.js": [
         "Other"
     ],
-    "webpack-contrib/mini-css-extract-plugin": [
+    "webpack/mini-css-extract-plugin": [
         "Other"
     ],
     "webpack/postcss-loader": [

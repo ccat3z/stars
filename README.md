@@ -1508,7 +1508,7 @@ creating your own Awesome List by GitHub stars!
 * [tinajs/mina-webpack](https://github.com/tinajs/mina-webpack): :bento: Mina single-file-component meets Webpack
 * [krhougs/mina-webpack-plugin](https://github.com/krhougs/mina-webpack-plugin): Webpack plugin for processing MINA apps (WeChat MiniPrograms).
 * [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core): ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
-* [webpack-contrib/mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): Lightweight CSS extraction plugin
+* [webpack/mini-css-extract-plugin](https://github.com/webpack/mini-css-extract-plugin): Lightweight CSS extraction plugin
 * [realywithoutname/mini-program-webpack-loader](https://github.com/realywithoutname/mini-program-webpack-loader): 基于 webpack  的小程序构建工具
 * [conda-forge/miniforge](https://github.com/conda-forge/miniforge): A conda-forge distribution.
 * [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks
