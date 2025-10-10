@@ -495,7 +495,7 @@ creating your own Awesome List by GitHub stars!
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
 * [geerlingguy/ansible-role-k8s_manifests](https://github.com/geerlingguy/ansible-role-k8s_manifests): Ansible Role - K8s Manifests
-* [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+* [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 * [evrardjp/ansible-tinc](https://github.com/evrardjp/ansible-tinc): Role to install tinc in a star/ring topology (w/ leaf/spine) (based on your variables)
 * [andrewrothstein/ansible-velero](https://github.com/andrewrothstein/ansible-velero): None
 * [sleighzy/ansible-zookeeper](https://github.com/sleighzy/ansible-zookeeper): Ansible role for installing and configuring Apache ZooKeeper
