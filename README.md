@@ -491,6 +491,7 @@ creating your own Awesome List by GitHub stars!
 * [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Anime Girls Holding Programming Books
 * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 * [TachibanaYoshino/AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3): Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
+* [open-ani/animeko](https://github.com/open-ani/animeko): 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 * [drudru/ansi_up](https://github.com/drudru/ansi_up): A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 * [ansible/ansible](https://github.com/ansible/ansible): Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
@@ -2344,6 +2345,7 @@ creating your own Awesome List by GitHub stars!
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker): CloudFlare warp in docker
+* [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 * [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
