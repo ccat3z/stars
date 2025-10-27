@@ -2440,6 +2440,12 @@
     "dginev/ar5iv": [
         "Other"
     ],
+    "dgraph-io/badger": [
+        "Other"
+    ],
+    "dgraph-io/dgraph": [
+        "Other"
+    ],
     "dianariyanto/virtual-display-linux": [
         "Other"
     ],
@@ -3435,12 +3441,6 @@
         "Kindle"
     ],
     "hydradatabase/columnar": [
-        "Other"
-    ],
-    "hypermodeinc/badger": [
-        "Other"
-    ],
-    "hypermodeinc/dgraph": [
         "Other"
     ],
     "iCHAIT/awesome-macOS": [
@@ -5787,9 +5787,6 @@
     "stumpapp/stump": [
         "Other"
     ],
-    "stv0g/stm32cube-gcc": [
-        "Other"
-    ],
     "styled-components/styled-components": [
         "Other"
     ],
@@ -6589,6 +6586,9 @@
         "Vim"
     ],
     "yanue/V2rayU": [
+        "Other"
+    ],
+    "yarrick/iodine": [
         "Other"
     ],
     "ycm-core/YouCompleteMe": [
