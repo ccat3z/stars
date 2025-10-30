@@ -682,7 +682,7 @@ creating your own Awesome List by GitHub stars!
 * [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf): Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 * [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ operator precedence parser
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
-* [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr): Menu bar calendar for macOS
+* [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr): Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 * [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 * [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
 * [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
@@ -1293,7 +1293,7 @@ creating your own Awesome List by GitHub stars!
 * [Sanster/IOPaint](https://github.com/Sanster/IOPaint): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * [esnet/iperf](https://github.com/esnet/iperf): iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 * [vbskycn/iptv](https://github.com/vbskycn/iptv): iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
-* [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+* [Guovin/iptv-api](https://github.com/Guovin/iptv-api): 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 * [fredimachado/IRCClient](https://github.com/fredimachado/IRCClient): Simple cross-platform console IRC Client written in C++
 * [nefe/iron-redux](https://github.com/nefe/iron-redux): Painless typesafe Redux code generator
 * [ish-app/ish](https://github.com/ish-app/ish): Linux shell for iOS
