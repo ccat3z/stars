@@ -1078,7 +1078,7 @@ creating your own Awesome List by GitHub stars!
 * [ankitstarski/GeoclueShare](https://github.com/ankitstarski/GeoclueShare): GeoclueShare is an Android application that lets you share your Android GPS location with a GNOME Desktop located on the same WiFi network. You can disable or enable location sharing service in GeoclueShare as per your needs.
 * [LaTeX-Package-Repositories/geometry](https://github.com/LaTeX-Package-Repositories/geometry): Updating Hideo Umeki's geometry package for LaTeX page dimensions
 * [DavideBri/Gesko](https://github.com/DavideBri/Gesko): Gesko is a simple and minimalistic jekyll blogging theme.
-* [nakst/gf](https://github.com/nakst/gf): A GDB frontend for Linux.
+* [nakst/gf](https://github.com/nakst/gf): A GDB frontend for Lïnux.
 * [tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel 
 * [manisandro/gImageReader](https://github.com/manisandro/gImageReader): A Gtk/Qt front-end to tesseract-ocr.
 * [onsi/ginkgo](https://github.com/onsi/ginkgo): A Modern Testing Framework for Go
