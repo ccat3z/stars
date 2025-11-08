@@ -1648,7 +1648,7 @@ creating your own Awesome List by GitHub stars!
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 * [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
-* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs
+* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
 * [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
 * [cernekee/ocproxy](https://github.com/cernekee/ocproxy): OpenConnect proxy
