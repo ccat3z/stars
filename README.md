@@ -2111,7 +2111,7 @@ creating your own Awesome List by GitHub stars!
 * [google/tcmalloc](https://github.com/google/tcmalloc): None
 * [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http): A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 * [noctuid/tdrop](https://github.com/noctuid/tdrop): A Glorified WM-Independent Dropdown Creator
-* [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers
+* [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): Curated coding interview preparation materials for busy software engineers
 * [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme): A flat colorful Design icon theme
 * [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster
 * [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates): .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
