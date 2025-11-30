@@ -4808,6 +4808,9 @@
     "openSUSE/snapper": [
         "Other"
     ],
+    "openapi-generators/openapi-python-client": [
+        "Other"
+    ],
     "openapi-ts/openapi-typescript": [
         "Other"
     ],

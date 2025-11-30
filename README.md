@@ -1005,7 +1005,7 @@ creating your own Awesome List by GitHub stars!
 * [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, Chromium, Redis and WebKit/Safari
 * [VictoriaMetrics/fastcache](https://github.com/VictoriaMetrics/fastcache): Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
 * [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs): FastDFS is a high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
-* [fcitx/fcitx5](https://github.com/fcitx/fcitx5): maybe a new fcitx.
+* [fcitx/fcitx5](https://github.com/fcitx/fcitx5): Next generation of fcitx, cross-platform input method framework.
 * [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki): Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 * [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd):  ETCD layer on top of FoundationDB
 * [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
@@ -1675,6 +1675,7 @@ creating your own Awesome List by GitHub stars!
 * [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client): Generate modern Python clients from OpenAPI
 * [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
 * [himself65/OpenArkCompiler](https://github.com/himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
