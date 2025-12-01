@@ -751,7 +751,7 @@ creating your own Awesome List by GitHub stars!
 * [VaibhavAcharya/code-gpt](https://github.com/VaibhavAcharya/code-gpt): Make sense of any code, anytime. 🚀
 * [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 * [PGYER/codefever](https://github.com/PGYER/codefever): CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-* [vadimcn/codelldb](https://github.com/vadimcn/codelldb): A native debugger extension for VSCode based on LLDB
+* [vadimcn/codelldb](https://github.com/vadimcn/codelldb): A VSCode debugger extension for native code, powered by LLDB.
 * [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 * [gookit/color](https://github.com/gookit/color): 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows. GO CLI 控制台颜色渲染工具库，支持16色，256色，RGB色彩渲染输出，使用类似于 Print/Sprintf，兼容并支持 Windows 环境的色彩渲染
@@ -1827,9 +1827,11 @@ creating your own Awesome List by GitHub stars!
 * [eliben/pyelftools](https://github.com/eliben/pyelftools): Parsing ELF and DWARF in Python
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
+* [timlaing/pyicloud](https://github.com/timlaing/pyicloud): A Python + iCloud wrapper to access iPhone and Calendar data.
 * [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
+* [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix): A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 * [microsoft/pyright](https://github.com/microsoft/pyright): Static Type Checker for Python
 * [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra): Testinfra test your infrastructures
 * [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): All Algorithms implemented in Python
@@ -2225,6 +2227,8 @@ creating your own Awesome List by GitHub stars!
 * [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types): Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 * [utmapp/UTM](https://github.com/utmapp/UTM): Virtual machines for iOS and macOS
 * [utterance/utterances](https://github.com/utterance/utterances): :crystal_ball: A lightweight comments widget built on GitHub issues
+* [astral-sh/uv](https://github.com/astral-sh/uv): An extremely fast Python package and project manager, written in Rust.
+* [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix): Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis] 
 * [vlang/v](https://github.com/vlang/v): Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 * [guren-cloud/v-request](https://github.com/guren-cloud/v-request): 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
 * [miniflux/v2](https://github.com/miniflux/v2): Minimalist and opinionated feed reader

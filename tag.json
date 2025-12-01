@@ -1711,6 +1711,9 @@
     "astral-sh/python-build-standalone": [
         "Other"
     ],
+    "astral-sh/uv": [
+        "Other"
+    ],
     "astralapp/astral": [
         "GitHub"
     ],
@@ -5165,6 +5168,12 @@
     "pypa/pipx": [
         "Other"
     ],
+    "pyproject-nix/pyproject.nix": [
+        "Other"
+    ],
+    "pyproject-nix/uv2nix": [
+        "Other"
+    ],
     "pytest-dev/pytest-testinfra": [
         "Other"
     ],
@@ -5974,6 +5983,9 @@
         "Other"
     ],
     "timbertson/slinger": [
+        "Other"
+    ],
+    "timlaing/pyicloud": [
         "Other"
     ],
     "timothymiller/cloudflare-ddns": [
