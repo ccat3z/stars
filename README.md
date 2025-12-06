@@ -1305,7 +1305,7 @@ creating your own Awesome List by GitHub stars!
 * [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 * [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap): The 2024 Java Developers Roadmap 
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout): 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm 
 * [georgemandis/jekyll-rss-feeds](https://github.com/georgemandis/jekyll-rss-feeds): Templates for rendering RSS feeds for your Jekyll blog
