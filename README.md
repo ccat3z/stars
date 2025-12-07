@@ -647,6 +647,7 @@ creating your own Awesome List by GitHub stars!
 * [ckissane/blur-me](https://github.com/ckissane/blur-me): Extension that adds a blur look to applications and to different parts of the GNOME Shell, including the top panel, dash and overview
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [boltdb/bolt](https://github.com/boltdb/bolt): An embedded key/value database for Go.
+* [bytedance/bolt](https://github.com/bytedance/bolt): None
 * [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn): Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
@@ -680,7 +681,7 @@ creating your own Awesome List by GitHub stars!
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy): Caddy as a reverse proxy for Docker
 * [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf): Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
-* [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ operator precedence parser
+* [kimwalisch/calculator](https://github.com/kimwalisch/calculator): C++ math expression parser for integers
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
 * [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr): Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 * [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
@@ -826,6 +827,7 @@ creating your own Awesome List by GitHub stars!
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
+* [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library 
 * [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
 * [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
@@ -2027,6 +2029,7 @@ creating your own Awesome List by GitHub stars!
 * [serjs/socks5-server](https://github.com/serjs/socks5-server): None
 * [soduto/Soduto](https://github.com/soduto/Soduto): Soduto is a KDEConnect compatible client for macOS. It allows better integration between your phones, desktops and tablets.
 * [solidjs/solid](https://github.com/solidjs/solid): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [bytedance/sonic-cpp](https://github.com/bytedance/sonic-cpp): A fast JSON serializing & deserializing library, accelerated by SIMD.
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter): 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等

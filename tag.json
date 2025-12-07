@@ -1960,6 +1960,12 @@
     "bytedance/bhook": [
         "Other"
     ],
+    "bytedance/bolt": [
+        "Other"
+    ],
+    "bytedance/sonic-cpp": [
+        "Other"
+    ],
     "bytegust/spm": [
         "Linux/Utility"
     ],
@@ -5253,6 +5259,9 @@
         "Other"
     ],
     "ranxian/xv6-chinese": [
+        "Other"
+    ],
+    "rapidsai/cudf": [
         "Other"
     ],
     "ray-project/ray": [
