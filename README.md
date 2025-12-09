@@ -2386,7 +2386,7 @@ creating your own Awesome List by GitHub stars!
 * [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy): Build Caddy with plugins
 * [svengong/xcubebase](https://github.com/svengong/xcubebase): 基于xposed的frida持久化方案
 * [ritave/xeventbind](https://github.com/ritave/xeventbind): A small utillity that runs your script on X11 events
-* [goplus/xgo](https://github.com/goplus/xgo): XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
+* [goplus/xgo](https://github.com/goplus/xgo): XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 * [machyve/xhyve](https://github.com/machyve/xhyve): xhyve, a lightweight OS X virtualization solution
 * [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass): A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 * [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook): GitLab: https://gitlab.com/jD91mZM2/xidlehook
