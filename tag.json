@@ -1705,6 +1705,12 @@
     "asins/vimcdoc": [
         "Vim"
     ],
+    "asmvik/skhd": [
+        "Other"
+    ],
+    "asmvik/yabai": [
+        "Other"
+    ],
     "astaxie/build-web-application-with-golang": [
         "Other"
     ],
@@ -3905,12 +3911,6 @@
     "koalaman/shellcheck": [
         "Other"
     ],
-    "koekeishiya/skhd": [
-        "Other"
-    ],
-    "koekeishiya/yabai": [
-        "Other"
-    ],
     "komora-io/concurrent-map": [
         "Other"
     ],
@@ -5232,6 +5232,9 @@
         "Other"
     ],
     "quartznet/quartznet": [
+        "Other"
+    ],
+    "quickshell-mirror/quickshell": [
         "Other"
     ],
     "quip/quip-api": [

@@ -1380,7 +1380,7 @@ creating your own Awesome List by GitHub stars!
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [ncopa/lddtree](https://github.com/ncopa/lddtree): Fork of pax-utils' lddtree.sh
-* [lealone/Lealone](https://github.com/lealone/Lealone): 比 MySQL 和 MongoDB 快10倍的 OLTP 关系数据库和文档数据库
+* [lealone/Lealone](https://github.com/lealone/Lealone): 具有超高并发处理能力的 OLTP 关系数据库
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - an introductory book about Haskell.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1858,6 +1858,7 @@ creating your own Awesome List by GitHub stars!
 * [ljharb/qs](https://github.com/ljharb/qs): A querystring parser and serializer with nesting support
 * [quartznet/quartznet](https://github.com/quartznet/quartznet): Quartz Enterprise Scheduler .NET
 * [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine.
+* [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell): Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * [gfredericks/quinedb](https://github.com/gfredericks/quinedb): QuineDB is a quine that is also a key-value store.
 * [quip/quip-api](https://github.com/quip/quip-api): Quip Automation REST API for editing documents, folders, and users
 * [coxley/quip2md](https://github.com/coxley/quip2md): Library and CLI to convert Quip HTML to Markdown
@@ -2016,7 +2017,7 @@ creating your own Awesome List by GitHub stars!
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
-* [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
+* [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
 * [zalando/skipper](https://github.com/zalando/skipper): An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 * [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner): Simple Kubernetes real-time dashboard and management.
 * [slidevjs/slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers
@@ -2410,7 +2411,7 @@ creating your own Awesome List by GitHub stars!
 * [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese): 中文版的 MIT xv6 文档
 * [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions): Android Permissions Framework, Adapt to Android 16
 * [binux/yaaw](https://github.com/binux/yaaw): Yet Another Aria2 Webui in pure HTML/CSS/Javascirpt
-* [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
+* [asmvik/yabai](https://github.com/asmvik/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yadm-dev/yadm](https://github.com/yadm-dev/yadm): Yet Another Dotfiles Manager
 * [alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs): A collection of modern C++ libraries, include coro_http, coro_rpc, compile-time reflection, struct_pack, struct_json, struct_xml, struct_pb, easylog, async_simple etc.
 * [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks): YAML sucks.
