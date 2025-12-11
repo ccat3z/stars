@@ -1917,7 +1917,7 @@ creating your own Awesome List by GitHub stars!
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
-* [riverwm/river](https://github.com/riverwm/river): [mirror] A dynamic tiling Wayland compositor
+* [riverwm/river](https://github.com/riverwm/river): [mirror] A non-monolithic Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
