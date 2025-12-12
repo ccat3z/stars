@@ -2245,6 +2245,9 @@
     "corrosion-rs/corrosion": [
         "Other"
     ],
+    "coteditor/CotEditor": [
+        "Other"
+    ],
     "coxley/quip2md": [
         "Other"
     ],
@@ -2516,6 +2519,9 @@
         "Other"
     ],
     "domaindrivendev/Swashbuckle.AspNetCore": [
+        "Other"
+    ],
+    "donlon/cloudflare-error-page": [
         "Other"
     ],
     "donnemartin/system-design-primer": [

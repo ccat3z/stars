@@ -740,6 +740,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
+* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): Cloudflare error page generator
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI Tool for Command Line Insights
@@ -787,6 +788,7 @@ creating your own Awesome List by GitHub stars!
 * [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
 * [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 * [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
+* [coteditor/CotEditor](https://github.com/coteditor/CotEditor): Lightweight Plain-Text Editor for macOS
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 * [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
@@ -1715,7 +1717,7 @@ creating your own Awesome List by GitHub stars!
 * [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind): AI for Screeps, a multiplayer programming strategy game
 * [howbea/Overview-Background](https://github.com/howbea/Overview-Background): None
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
-* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Windows and Ubuntu virtual machine images and Vagrant boxes
+* [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Windows and Ubuntu virtual machine images and Vagrant boxes with Packer
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
 * [apache/paimon](https://github.com/apache/paimon): Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
