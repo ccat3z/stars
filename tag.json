@@ -2810,6 +2810,9 @@
     "facebook/zstd": [
         "Other"
     ],
+    "facebookincubator/axiom": [
+        "Other"
+    ],
     "facebookincubator/nimble": [
         "Other"
     ],
@@ -3849,6 +3852,9 @@
         "Windows/Terminal/Mintty"
     ],
     "karlstav/cava": [
+        "Other"
+    ],
+    "kavishdevar/librepods": [
         "Other"
     ],
     "kcp-dev/kcp": [
