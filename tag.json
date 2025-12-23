@@ -793,9 +793,6 @@
     "NanoHttpd/nanohttpd": [
         "Java/Web"
     ],
-    "Neilpang/wgcf-docker": [
-        "Other"
-    ],
     "NeoApplications/Neo-Backup": [
         "Other"
     ],
@@ -1756,6 +1753,9 @@
     "axboe/fio": [
         "Other"
     ],
+    "axiomhq/topk": [
+        "Other"
+    ],
     "axios/axios": [
         "Other"
     ],
@@ -2462,6 +2462,9 @@
         "Other"
     ],
     "dgraph-io/dgraph": [
+        "Other"
+    ],
+    "dgryski/go-topk": [
         "Other"
     ],
     "dianariyanto/virtual-display-linux": [
@@ -4609,6 +4612,9 @@
     ],
     "neilpa/cmd-colors-solarized": [
         "Windows/Terminal"
+    ],
+    "neilpang/wgcf-docker": [
+        "Other"
     ],
     "nelhage/reptyr": [
         "Other"
