@@ -845,6 +845,7 @@ creating your own Awesome List by GitHub stars!
 * [CDDSCLab/Database-Optimization](https://github.com/CDDSCLab/Database-Optimization): :books: A collection of work related to Database Optimization.
 * [Aaaaaaron/database-papers](https://github.com/Aaaaaaron/database-papers): None
 * [databendlabs/databend](https://github.com/databendlabs/databend): One Warehouse for  Analytics, Search, AI. Snowflake + Elasticsearch + Vector DB — rebuilt from scratch. Unified architecture on your S3.
+* [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow): Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * [asg017/dataflow](https://github.com/asg017/dataflow): An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!
 * [apache/datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine
 * [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs): Extensible SQL Lexer and Parser for Rust
