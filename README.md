@@ -1510,6 +1510,7 @@ creating your own Awesome List by GitHub stars!
 * [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols
 * [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [Geofferey/mgkdhelper](https://github.com/Geofferey/mgkdhelper): A simple module to keep MAGISK daemon running
+* [diredocks/MiCloudAlbumDownloader](https://github.com/diredocks/MiCloudAlbumDownloader): Download Pictures From i.mi.com ☁️ 批量下载小米云相册图片
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 * [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan): Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
@@ -1529,6 +1530,7 @@ creating your own Awesome List by GitHub stars!
 * [mamoe/mirai](https://github.com/mamoe/mirai): 高效率 QQ 机器人支持库
 * [stephenh/mirror](https://github.com/stephenh/mirror): A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [ObikBobik/miui-cloud-decryptor](https://github.com/ObikBobik/miui-cloud-decryptor): Xiaomi gallery hidden files decryptor (.lsa/.lsav)
 * [BDZNH/MIUI-Theme-Download-Link-Generator](https://github.com/BDZNH/MIUI-Theme-Download-Link-Generator): A tiny tool for generating MIUI direct link.
 * [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox): Miui EU 本地化项目工具箱app
 * [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon): Fix the native notification bar icon function abandoned by the MIUI development team.
@@ -1920,6 +1922,7 @@ creating your own Awesome List by GitHub stars!
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [ansuz/RIIR](https://github.com/ansuz/RIIR): why not Rewrite It In Rust
 * [rime/rime-emoji](https://github.com/rime/rime-emoji): Emoji / 繪文字輸入方案
+* [iDvel/rime-ice](https://github.com/iDvel/rime-ice): Rime 配置：雾凇拼音 | 长期维护的简体词库
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
@@ -2364,6 +2367,7 @@ creating your own Awesome List by GitHub stars!
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
 * [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
+* [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose): Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
 * [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.

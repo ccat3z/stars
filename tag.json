@@ -820,6 +820,9 @@
     "OI-wiki/OI-wiki": [
         "Other"
     ],
+    "ObikBobik/miui-cloud-decryptor": [
+        "Other"
+    ],
     "OmniSharp/omnisharp-roslyn": [
         "Other"
     ],
@@ -2485,6 +2488,9 @@
     "directus/directus": [
         "Other"
     ],
+    "diredocks/MiCloudAlbumDownloader": [
+        "Other"
+    ],
     "discordianfish/docker-backup": [
         "Other"
     ],
@@ -3474,6 +3480,9 @@
         "Other"
     ],
     "iCHAIT/awesome-macOS": [
+        "Other"
+    ],
+    "iDvel/rime-ice": [
         "Other"
     ],
     "iamdanfox/typetype": [
@@ -5469,6 +5478,9 @@
         "Other"
     ],
     "rustdesk/rustdesk-server": [
+        "Other"
+    ],
+    "ruvnet/wifi-densepose": [
         "Other"
     ],
     "rxin/db-readings": [
