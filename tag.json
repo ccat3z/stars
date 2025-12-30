@@ -152,6 +152,9 @@
     "BYVoid/OpenCC": [
         "Other"
     ],
+    "BaiZhiXin/AI-Rime": [
+        "Other"
+    ],
     "BianFeiHu/ECNU-Assault-Guide": [
         "Other"
     ],
@@ -1715,6 +1718,9 @@
         "Other"
     ],
     "astaxie/build-web-application-with-golang": [
+        "Other"
+    ],
+    "asterinas/asterinas": [
         "Other"
     ],
     "astral-sh/python-build-standalone": [

@@ -458,6 +458,7 @@ creating your own Awesome List by GitHub stars!
 * [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam): A skin to make Steam look more like a native GNOME app
 * [avanisubbiah/adwaita-materialu](https://github.com/avanisubbiah/adwaita-materialu): Utility to generate adwaita presets for use with AdwCustomizer from images using Google's MaterialU color generator.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
+* [BaiZhiXin/AI-Rime](https://github.com/BaiZhiXin/AI-Rime): 基于Rime的lua脚本系统打造AI增强输入法
 * [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
 * [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python
@@ -530,6 +531,7 @@ creating your own Awesome List by GitHub stars!
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder, streamer and player 📹
 * [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * [mmacneil/ASPNetCoreGraphQL](https://github.com/mmacneil/ASPNetCoreGraphQL): Sample project demonstrating a GraphQL service built with ASP.NET Core 2.2, Entity Framework Core and graphql-dotnet.
+* [asterinas/asterinas](https://github.com/asterinas/asterinas): Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor): Resource Monitor for GNOME shell
 * [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf): Better Styling through Compiling: CSS-in-JS for those that want it all.
 * [isaacs/async-cache](https://github.com/isaacs/async-cache): Cache your async lookups and don't fetch the same thing more than necessary.
