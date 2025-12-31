@@ -947,6 +947,7 @@ creating your own Awesome List by GitHub stars!
 * [gwding/draw_convnet](https://github.com/gwding/draw_convnet): None
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
 * [nix-community/dream2nix](https://github.com/nix-community/dream2nix): Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
+* [g1879/DrissionPage](https://github.com/g1879/DrissionPage): Python based web automation tool. Powerful and elegant.
 * [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
 * [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
@@ -1034,6 +1035,7 @@ creating your own Awesome List by GitHub stars!
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher): A plugin manager for Fish
 * [nixified-ai/flake](https://github.com/nixified-ai/flake): A Nix flake for many AI projects
 * [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph): Stack trace visualizer
+* [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
 * [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk): 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * [bilelmoussaoui/flatpak-vscode](https://github.com/bilelmoussaoui/flatpak-vscode): Integrate Flatpak with VSCode 
 * [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 22.08), provides wine to Centos like distros (https://flatpak.org/setup/)
@@ -2230,6 +2232,7 @@ creating your own Awesome List by GitHub stars!
 * [umdjs/umd](https://github.com/umdjs/umd): UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 * [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic): Revive unavailable songs for Netease Cloud Music
 * [unchase/Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions): :hammer: A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.
+* [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver): Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 * [mbbill/undotree](https://github.com/mbbill/undotree): The undo history visualizer for VIM
 * [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard): A lightweight keyboard for Android
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
