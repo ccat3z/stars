@@ -5177,6 +5177,9 @@
     "prometheus/pushgateway": [
         "Other"
     ],
+    "prompt-toolkit/ptpython": [
+        "Other"
+    ],
     "proot-me/proot": [
         "Other"
     ],
@@ -6430,6 +6433,9 @@
         "Other"
     ],
     "vufa/deepin-wine-wechat-arch": [
+        "Other"
+    ],
+    "vxgmichel/aioconsole": [
         "Other"
     ],
     "wader/fq": [

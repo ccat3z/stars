@@ -460,6 +460,7 @@ creating your own Awesome List by GitHub stars!
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [BaiZhiXin/AI-Rime](https://github.com/BaiZhiXin/AI-Rime): 基于Rime的lua脚本系统打造AI增强输入法
 * [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
+* [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous console and interfaces for asyncio
 * [Tinche/aiofiles](https://github.com/Tinche/aiofiles): File support for asyncio
 * [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp): Asynchronous HTTP client/server framework for asyncio and Python
 * [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner): ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
@@ -1829,6 +1830,7 @@ creating your own Awesome List by GitHub stars!
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [davidquinn/psi-header](https://github.com/davidquinn/psi-header): Configurable file header and changes tracking extension for VSCode
 * [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine): A bash inspired readline implementation for PowerShell
+* [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython): A better Python REPL
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
 * [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language
 * [dront78/PulseDroid](https://github.com/dront78/PulseDroid): Android network audio player
