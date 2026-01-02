@@ -1931,7 +1931,7 @@ creating your own Awesome List by GitHub stars!
 * [iDvel/rime-ice](https://github.com/iDvel/rime-ice): Rime 配置：雾凇拼音 | 长期维护的简体词库
 * [tumuyan/rime-melt](https://github.com/tumuyan/rime-melt): 融合拼音（rime_melt）是一个拼音-英文混合输入的Rime输入法的输入方案，基于【袖珍簡化字拼音】【Easy English】。
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
-* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+* [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A non-monolithic Wayland compositor
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
@@ -2446,6 +2446,7 @@ creating your own Awesome List by GitHub stars!
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
+* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform.
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
 * [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI): ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
