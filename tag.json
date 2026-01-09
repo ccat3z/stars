@@ -167,9 +167,6 @@
     "Blankj/awesome-comment": [
         "Other"
     ],
-    "BohuTANG/nessDB": [
-        "Other"
-    ],
     "Bumblebee-Project/Bumblebee": [
         "Other"
     ],
@@ -1902,6 +1899,9 @@
     ],
     "boekkooi/openshift-cartridge-nginx": [
         "OpenShift"
+    ],
+    "bohutang/nessDB": [
+        "Other"
     ],
     "boltdb/bolt": [
         "Other"

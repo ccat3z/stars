@@ -1603,7 +1603,7 @@ creating your own Awesome List by GitHub stars!
 * [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 * [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 * [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin): A plugin of NERDTree showing git status
-* [BohuTANG/nessDB](https://github.com/BohuTANG/nessDB): A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
+* [bohutang/nessDB](https://github.com/bohutang/nessDB): A very fast transactional key-value, embedded database storage engine in Fractal-Tree.  Teaching/Research purposes only.
 * [brewlin/net-protocol](https://github.com/brewlin/net-protocol): golang模拟内核协议栈 实现链路层、网络层、传输层、应用层 用户态协议栈 ,基于虚拟网卡TUN/TAP
 * [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 * [PonasKovas/netctl-tray](https://github.com/PonasKovas/netctl-tray): A lightweight netctl tray app with notifications
