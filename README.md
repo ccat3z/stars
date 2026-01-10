@@ -1545,7 +1545,7 @@ creating your own Awesome List by GitHub stars!
 * [zehome/MLVPN](https://github.com/zehome/MLVPN): Multi-link VPN (ADSL/SDSL/xDSL/Network aggregation / bonding)
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
 * [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos): 📱 (rebooting... please wait...)
-* [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
+* [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 * [babysor/MockingBird](https://github.com/babysor/MockingBird): 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
@@ -2360,7 +2360,7 @@ creating your own Awesome List by GitHub stars!
 * [webpack/webpack](https://github.com/webpack/webpack): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2): The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. 
 * [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup): 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
-* [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump): Cracking encrypted wechat message history from android
+* [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump): Analyzing your wechat message history from android
 * [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux): 适用于微信小程序的微信开发者工具 Linux移植版
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
