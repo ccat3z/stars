@@ -164,7 +164,6 @@ creating your own Awesome List by GitHub stars!
 
 * [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel): Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
 * [blanboom/Arduino-Task-Scheduler](https://github.com/blanboom/Arduino-Task-Scheduler): Enable Arduinos to run multiple tasks.
-* [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg): Seven segment display controller library for Arduino
 * [tclem/vim-arduino](https://github.com/tclem/vim-arduino): Compile and Deploy Arduino sketches in Vim
 * [sudar/vim-arduino-snippets](https://github.com/sudar/vim-arduino-snippets): Vim snippets for Arduino files
 * [sudar/vim-arduino-syntax](https://github.com/sudar/vim-arduino-syntax): Arduino syntax files for Vim
@@ -2005,6 +2004,7 @@ creating your own Awesome List by GitHub stars!
 * [alibaba/serverless-vscode](https://github.com/alibaba/serverless-vscode): Aliyun Function Compute extension. Lets you develop your serverless application of Aliyun within VSCode.
 * [horshack-dpreview/setPL](https://github.com/horshack-dpreview/setPL): Set PL1 and PL2 power limits for modern Intel processors running on Linux
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
+* [untr0py/SevSeg](https://github.com/untr0py/SevSeg): Seven segment display controller library for Arduino
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 * [shanghai2022/shanghai2022](https://github.com/shanghai2022/shanghai2022): 上海2022抗疫互助

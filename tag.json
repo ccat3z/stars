@@ -279,9 +279,6 @@
     "DeadSix27/waifu2x-converter-cpp": [
         "Other"
     ],
-    "DeanIsMe/SevSeg": [
-        "Arduino"
-    ],
     "DecaTec/Nextcloud-Backup-Restore": [
         "Nextcloud"
     ],
@@ -6256,6 +6253,9 @@
         "Other"
     ],
     "unknwon/the-way-to-go_ZH_CN": [
+        "Other"
+    ],
+    "untr0py/SevSeg": [
         "Other"
     ],
     "upptime/upptime": [
