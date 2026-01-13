@@ -1918,6 +1918,9 @@
     "bpatrik/pigallery2": [
         "Other"
     ],
+    "bpftrace/bpftrace": [
+        "Other"
+    ],
     "bradymholt/cRonstrue": [
         "Other"
     ],
@@ -5397,6 +5400,9 @@
         "Other"
     ],
     "rime/rime-emoji": [
+        "Other"
+    ],
+    "rime/squirrel": [
         "Other"
     ],
     "risingwavelabs/risingwave": [

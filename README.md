@@ -518,7 +518,7 @@ creating your own Awesome List by GitHub stars!
 * [RobertCsordas/arch-efiboot](https://github.com/RobertCsordas/arch-efiboot): Boot EFISTUB linux kernels on UEFI systems not supporting kernel command line
 * [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide): ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 * [berberman/arch-hs](https://github.com/berberman/arch-hs): Distribute hackage packages to archlinux
-* [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell
+* [RaphaelRochet/arch-update](https://github.com/RaphaelRochet/arch-update): Update indicator for ArchLinux and Gnome-Shell [Move to Codeberg]
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome): 后端架构师技术图谱
 * [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote): Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * [ALawating-Rex/AreaAndBanks](https://github.com/ALawating-Rex/AreaAndBanks): 中国省市区以及银行和银行支行等数据
@@ -652,6 +652,7 @@ creating your own Awesome List by GitHub stars!
 * [boltdb/bolt](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 * [bytedance/bolt](https://github.com/bytedance/bolt): None
 * [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn): Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
+* [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace): High-level tracing language for Linux
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [brick-design/brick-design](https://github.com/brick-design/brick-design): 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
@@ -1545,7 +1546,7 @@ creating your own Awesome List by GitHub stars!
 * [Magisk-Modules-Repo/mm](https://github.com/Magisk-Modules-Repo/mm): mm
 * [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos): 📱 (rebooting... please wait...)
 * [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ Classic, reliable, trusted test framework for Node.js and the browser
-* [babysor/MockingBird](https://github.com/babysor/MockingBird): 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+* [babysor/MockingBird](https://github.com/babysor/MockingBird): 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 * [mockito/mockito](https://github.com/mockito/mockito): Most popular Mocking framework for unit tests written in Java
 * [mockito/mockito-kotlin](https://github.com/mockito/mockito-kotlin): Using Mockito with Kotlin
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
@@ -2067,6 +2068,7 @@ creating your own Awesome List by GitHub stars!
 * [absent1706/sqlalchemy-mixins](https://github.com/absent1706/sqlalchemy-mixins): Active Record, Django-like queries, nested eager load and beauty __repr__ for SQLAlchemy
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer): Automated testing to find logic and performance bugs in database systems
 * [jmoiron/sqlx](https://github.com/jmoiron/sqlx): general purpose extensions to golang's database/sql
+* [rime/squirrel](https://github.com/rime/squirrel): 【鼠鬚管】Rime for macOS
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
