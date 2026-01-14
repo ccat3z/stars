@@ -2365,6 +2365,9 @@
     "danny-avila/LibreChat": [
         "Other"
     ],
+    "danobi/bpf-dwarf-walk": [
+        "Other"
+    ],
     "darknessomi/musicbox": [
         "Utility"
     ],
@@ -4078,6 +4081,9 @@
         "Other"
     ],
     "lework/kainstall": [
+        "Other"
+    ],
+    "libbpf/libbpf": [
         "Other"
     ],
     "libfuse/python-fuse": [

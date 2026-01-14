@@ -652,6 +652,7 @@ creating your own Awesome List by GitHub stars!
 * [boltdb/bolt](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 * [bytedance/bolt](https://github.com/bytedance/bolt): None
 * [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn): Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
+* [danobi/bpf-dwarf-walk](https://github.com/danobi/bpf-dwarf-walk): DWARF-based stack walks with eBPF
 * [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace): High-level tracing language for Linux
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
@@ -1409,6 +1410,7 @@ creating your own Awesome List by GitHub stars!
 * [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
 * [odziom91/libadwaita-theme-changer](https://github.com/odziom91/libadwaita-theme-changer): Theme changer for Libadwaita
+* [libbpf/libbpf](https://github.com/libbpf/libbpf): Automated upstream mirror for libbpf stand-alone build.
 * [jbaldwin/libcoro](https://github.com/jbaldwin/libcoro): C++20 coroutine library
 * [koutheir/libcxx-pretty-printers](https://github.com/koutheir/libcxx-pretty-printers): Moved: https://codeberg.org/koutheir/libcxx-pretty-printers
 * [zsxsoft/libfprint-fprintd](https://github.com/zsxsoft/libfprint-fprintd): Modified pam_fprintd to make fingerprint and password work together
@@ -1458,7 +1460,7 @@ creating your own Awesome List by GitHub stars!
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-* [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter): A library to create language servers.
+* [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter): ⚙️ A library to create language servers
 * [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io): None
 * [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 * [remjey/luaotp](https://github.com/remjey/luaotp): A simple implementation of OATH-HOTP and OATH-TOTP written for Lua
