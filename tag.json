@@ -2422,6 +2422,9 @@
     "dbgate/dbgate": [
         "Other"
     ],
+    "dcapwell/lightweight-java-profiler": [
+        "Other"
+    ],
     "deadpixi/mtm": [
         "Other"
     ],
@@ -3281,6 +3284,9 @@
     "gorilla/mux": [
         "Other"
     ],
+    "gorse-io/goat": [
+        "Other"
+    ],
     "gpakosz/.tmux": [
         "Other"
     ],
@@ -3840,6 +3846,9 @@
         "SBC"
     ],
     "justjavac/awesome-wechat-weapp": [
+        "Other"
+    ],
+    "jvm-profiling-tools/perf-map-agent": [
         "Other"
     ],
     "jwadhams/json-logic-js": [
@@ -4457,6 +4466,9 @@
         "Other"
     ],
     "migueravila/simplefox": [
+        "Other"
+    ],
+    "mikf/gallery-dl": [
         "Other"
     ],
     "millsp/ts-toolbelt": [
@@ -6211,6 +6223,9 @@
         "Other"
     ],
     "tvfe/wxpage": [
+        "Other"
+    ],
+    "tw93/Mole": [
         "Other"
     ],
     "twpayne/chezmoi": [

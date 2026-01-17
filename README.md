@@ -745,7 +745,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
-* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
+* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI Tool for Command Line Insights
@@ -1027,7 +1027,7 @@ creating your own Awesome List by GitHub stars!
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
@@ -1076,6 +1076,7 @@ creating your own Awesome List by GitHub stars!
 * [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger): Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [antvis/G2Plot](https://github.com/antvis/G2Plot): :dango:  An interactive and responsive charting library based on G2.
+* [mikf/gallery-dl](https://github.com/mikf/gallery-dl): Command-line program to download image galleries and collections from several image hosting sites
 * [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes): :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode): Optimise Linux system performance on demand
 * [oap-project/gazelle_plugin](https://github.com/oap-project/gazelle_plugin): Native SQL Engine plugin for Spark SQL with vectorized SIMD optimizations.
@@ -1166,6 +1167,7 @@ creating your own Awesome List by GitHub stars!
 * [dgryski/go-topk](https://github.com/dgryski/go-topk): Streaming TopK estimates
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
+* [gorse-io/goat](https://github.com/gorse-io/goat): Go assembly transpiler for C programming language support amd64, arm64, riscv64, and loong64
 * [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
 * [gocd/gocd](https://github.com/gocd/gocd): GoCD - Continuous Delivery server main repository
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
@@ -1430,6 +1432,7 @@ creating your own Awesome List by GitHub stars!
 * [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 * [lightspark/lightspark](https://github.com/lightspark/lightspark): An open source flash player implementation
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim): deprecated in favor of leap.nvim
+* [dcapwell/lightweight-java-profiler](https://github.com/dcapwell/lightweight-java-profiler): Fork of https://code.google.com/p/lightweight-java-profiler/
 * [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac): Lilac is the build bot for archlinuxcn
 * [lima-vm/lima](https://github.com/lima-vm/lima): Linux virtual machines, with a focus on running containers
 * [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library
@@ -1560,6 +1563,7 @@ creating your own Awesome List by GitHub stars!
 * [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker 🦠
+* [tw93/Mole](https://github.com/tw93/Mole): 🐹 Deep clean and optimize your Mac.
 * [ansible/molecule](https://github.com/ansible/molecule): An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
@@ -1761,6 +1765,7 @@ creating your own Awesome List by GitHub stars!
 * [phw/peek](https://github.com/phw/peek): Simple animated GIF screen recorder with an easy to use interface
 * [cmu-db/peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
+* [jvm-profiling-tools/perf-map-agent](https://github.com/jvm-profiling-tools/perf-map-agent): A java agent to generate method mappings to use with the linux `perf` tool
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
