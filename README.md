@@ -1027,7 +1027,7 @@ creating your own Awesome List by GitHub stars!
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
@@ -2409,6 +2409,7 @@ creating your own Awesome List by GitHub stars!
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
+* [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm): Algorithm powering the For You feed on X
 * [numpy/x86-simd-sort](https://github.com/numpy/x86-simd-sort): C++ template library for high performance SIMD based sorting algorithms
 * [jelmer/xandikos](https://github.com/jelmer/xandikos): A CalDAV/CardDAV server backed by Git
 * [matryer/xbar](https://github.com/matryer/xbar): Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
