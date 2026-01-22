@@ -5012,6 +5012,9 @@
     "peaceiris/actions-gh-pages": [
         "Other"
     ],
+    "peaceooout/hookjs": [
+        "Other"
+    ],
     "pemistahl/grex": [
         "Other"
     ],
@@ -5104,9 +5107,6 @@
     ],
     "pluja/awesome-privacy": [
         "Other"
-    ],
-    "pnigos/hookjs": [
-        "Web/JavaScript"
     ],
     "pnpm/pnpm": [
         "Other"

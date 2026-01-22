@@ -1252,6 +1252,7 @@ creating your own Awesome List by GitHub stars!
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 💀 Homebrew Services (deprecated)
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [technicalpickles/homesick](https://github.com/technicalpickles/homesick): Your home directory is your castle. Don't leave your dotfiles behind.
+* [peaceooout/hookjs](https://github.com/peaceooout/hookjs): javascript function hook
 * [1player/host-spawn](https://github.com/1player/host-spawn): Run commands on your host from inside your toolbox or flatpak sandbox
 * [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 * [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer): I'm here to tell you some amazing stuff which teacher would never tell you.
@@ -1842,7 +1843,7 @@ creating your own Awesome List by GitHub stars!
 * [creack/pty](https://github.com/creack/pty): PTY interface for Go
 * [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language
 * [dront78/PulseDroid](https://github.com/dront78/PulseDroid): Android network audio player
-* [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 《机器学习》（西瓜书）公式详解
+* [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book): 南瓜书：《机器学习》（西瓜书）公式详解
 * [puppetlabs/puppet](https://github.com/puppetlabs/puppet): Server automation framework and application
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible): 📖 A collection of pure bash alternatives to external processes.
@@ -2623,7 +2624,6 @@ creating your own Awesome List by GitHub stars!
 ## JavaScript
 
 * [WickyNilliams/headroom.js](https://github.com/WickyNilliams/headroom.js): Give your pages some headroom. Hide your header until you need it
-* [pnigos/hookjs](https://github.com/pnigos/hookjs): javascript function hook
 * [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter): SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [iamdanfox/typetype](https://github.com/iamdanfox/typetype): human typing with jQuery
 
