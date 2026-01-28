@@ -1021,7 +1021,7 @@ creating your own Awesome List by GitHub stars!
 * [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki): Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 * [PierreZ/fdb-etcd](https://github.com/PierreZ/fdb-etcd):  ETCD layer on top of FoundationDB
 * [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator): A kubernetes operator for FoundationDB
-* [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer): A record-oriented store built on FoundationDB
+* [FoundationDB/fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer): A relational database with SQL support built on FoundationDB
 * [pH14/fdb-zk](https://github.com/pH14/fdb-zk): ZooKeeper server on top of FoundationDB
 * [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder): Android feed reader app
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
