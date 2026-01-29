@@ -1996,6 +1996,7 @@ creating your own Awesome List by GitHub stars!
 * [screepers/screeps-multimeter](https://github.com/screepers/screeps-multimeter): The most useful tool on your screeps workbench.
 * [screepers/screeps-regenerator](https://github.com/screepers/screeps-regenerator): Use generators in Screeps
 * [screepers/screeps-typescript-starter](https://github.com/screepers/screeps-typescript-starter): Starter kit for TypeScript-based Screeps AI codes.
+* [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope): Astrological CPU Scheduler
 * [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): WebUI extension for ControlNet
 * [libsdl-org/SDL](https://github.com/libsdl-org/SDL): Simple DirectMedia Layer
 * [antirez/sds](https://github.com/antirez/sds): Simple Dynamic Strings library for C
@@ -2022,7 +2023,7 @@ creating your own Awesome List by GitHub stars!
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs): 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 * [pop-os/shell](https://github.com/pop-os/shell): Pop!_OS Shell
 * [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
-* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+* [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [timbertson/shellshape](https://github.com/timbertson/shellshape): tiling window manager extension for gnome-shell
 * [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
@@ -2138,7 +2139,7 @@ creating your own Awesome List by GitHub stars!
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
 * [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-* [go-task/task](https://github.com/go-task/task): A task runner / simpler Make alternative written in Go
+* [go-task/task](https://github.com/go-task/task): A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
 * [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
 * [google/tcmalloc](https://github.com/google/tcmalloc): None
