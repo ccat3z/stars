@@ -2810,7 +2810,7 @@
     "eycorsican/go-tun2socks": [
         "Other"
     ],
-    "f/awesome-chatgpt-prompts": [
+    "f/prompts.chat": [
         "Other"
     ],
     "f/vue-wait": [
@@ -3236,6 +3236,9 @@
     "google/git-appraise": [
         "Other"
     ],
+    "google/googlesql": [
+        "Other"
+    ],
     "google/googletest": [
         "Other"
     ],
@@ -3262,9 +3265,6 @@
     ],
     "google/yapf": [
         "Python"
-    ],
-    "google/zetasql": [
-        "Other"
     ],
     "google/zx": [
         "Other"
@@ -4884,6 +4884,9 @@
         "Other"
     ],
     "openapi-ts/openapi-typescript": [
+        "Other"
+    ],
+    "openclaw/openclaw": [
         "Other"
     ],
     "openebs/lvm-localpv": [
