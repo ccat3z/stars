@@ -1182,7 +1182,7 @@ creating your own Awesome List by GitHub stars!
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
 * [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api): A free and unlimited API for Google Translate :dollar::no_entry_sign:
 * [ful1e5/Google_Cursor](https://github.com/ful1e5/Google_Cursor): An opensource cursor theme inspired by Google.
-* [google/googlesql](https://github.com/google/googlesql): ZetaSQL - Analyzer Framework for SQL
+* [google/googlesql](https://github.com/google/googlesql): GoogleSQL(formerly ZetaSQL) - Analyzer Framework for SQL
 * [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework
 * [gopasspw/gopass](https://github.com/gopasspw/gopass): The slightly more awesome standard unix password manager for teams
 * [mattn/goreman](https://github.com/mattn/goreman): foreman clone written in go language
