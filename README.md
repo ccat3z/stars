@@ -1785,6 +1785,7 @@ creating your own Awesome List by GitHub stars!
 * [pikvm/pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi
 * [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
+* [amitv87/PiP](https://github.com/amitv87/PiP): macOS Picture in Picture and AirPlay Receiver
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 * [pypa/pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments
 * [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code): pix2code: Generating Code from a Graphical User Interface Screenshot
