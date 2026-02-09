@@ -1297,9 +1297,6 @@
     "Xuyuanp/nerdtree-git-plugin": [
         "Other"
     ],
-    "YaLTeR/niri": [
-        "Other"
-    ],
     "Yelp/dumb-init": [
         "Other"
     ],
@@ -4707,6 +4704,9 @@
         "Other"
     ],
     "nihui/waifu2x-ncnn-vulkan": [
+        "Other"
+    ],
+    "niri-wm/niri": [
         "Other"
     ],
     "nissl-lab/npoi": [
