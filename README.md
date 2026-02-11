@@ -839,6 +839,7 @@ creating your own Awesome List by GitHub stars!
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
+* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 * [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
 * [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
@@ -1025,7 +1026,7 @@ creating your own Awesome List by GitHub stars!
 * [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn): trying to be a robust, user-friendly and hackable music player
 * [alnorris/file-dialog](https://github.com/alnorris/file-dialog): Trigger the upload file dialog directly from your code easily.
 * [UnnoTed/fileb0x](https://github.com/UnnoTed/fileb0x): a better customizable tool to embed files in go; also update embedded files remotely without restarting the server
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
