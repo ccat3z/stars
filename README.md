@@ -574,6 +574,7 @@ creating your own Awesome List by GitHub stars!
 * [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview): 剑指前端 Offer
 * [dalinvip/Awesome-Law-NLP-Research-Work](https://github.com/dalinvip/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
+* [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm): A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -1924,7 +1925,7 @@ creating your own Awesome List by GitHub stars!
 * [concourse/registry-image-resource](https://github.com/concourse/registry-image-resource): A resource for images in an OCI/Docker registry
 * [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 * [remaxjs/remax](https://github.com/remaxjs/remax): 使用真正的 React 构建跨平台小程序
-* [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): A list of semi to fully remote-friendly companies (jobs) in tech.
+* [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 * [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china): 支持远程办公的中国公司
 * [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam): Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥      Make videos programmatically with React
