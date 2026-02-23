@@ -456,6 +456,7 @@ creating your own Awesome List by GitHub stars!
 * [doocs/advanced-java](https://github.com/doocs/advanced-java): 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam): A skin to make Steam look more like a native GNOME app
 * [avanisubbiah/adwaita-materialu](https://github.com/avanisubbiah/adwaita-materialu): Utility to generate adwaita presets for use with AdwCustomizer from images using Google's MaterialU color generator.
+* [FiloSottile/age](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [agendav/agendav](https://github.com/agendav/agendav): A CalDAV web client similar to Google Calendar
 * [BaiZhiXin/AI-Rime](https://github.com/BaiZhiXin/AI-Rime): 基于Rime的lua脚本系统打造AI增强输入法
 * [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB): ai4db and db4ai work
