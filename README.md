@@ -1833,7 +1833,7 @@ creating your own Awesome List by GitHub stars!
 * [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
 * [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 * [xhawk18/promise-cpp](https://github.com/xhawk18/promise-cpp): C++ promise/A+ library in Javascript style.
-* [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+* [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
 * [Matoking/protontricks](https://github.com/Matoking/protontricks): A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
