@@ -445,7 +445,7 @@ creating your own Awesome List by GitHub stars!
 * [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
 * [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-* [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ✅  Curated list of resources for college students 
+* [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ✅  Curated list of resources for developers 
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script ACME client for SSL / TLS certificate automation
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [biokoda/actordb](https://github.com/biokoda/actordb): ActorDB distributed SQL database
