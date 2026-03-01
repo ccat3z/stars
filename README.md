@@ -1072,7 +1072,7 @@ creating your own Awesome List by GitHub stars!
 * [bit-kitchen/frpc](https://github.com/bit-kitchen/frpc): Ansible Role for installing and configuring frp client.
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
 * [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify): Cross-platform filesystem notifications for Go.
-* [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
+* [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why. 
 * [nolanlawson/fuite](https://github.com/nolanlawson/fuite): A tool for finding memory leaks in web apps
 * [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger): Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
@@ -1485,7 +1485,7 @@ creating your own Awesome List by GitHub stars!
 * [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
 * [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely
 * [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
-* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v28.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
+* [Rikj000/Magisk-Manager-for-Recovery-Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode): Updated version of VR25's Magisk Manager for Recovery mode. Works with Magisk v19.0 - v30.X! With this you can be at ease while trying out Android Magisk Modules. Since if you end up with a bootloop, you can just disable the module from recovery! Saved me many times! This app is used in a recovery terminal (e.g. TWRP), not in Magisk itself.
 * [buildfoundation/mainframer](https://github.com/buildfoundation/mainframer): Tool for remote builds. Sync project to remote machine, execute command, sync back.
 * [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus): 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 * [megastep/makeself](https://github.com/megastep/makeself): A self-extracting archiving tool for Unix systems, in 100% shell script.
@@ -1600,6 +1600,7 @@ creating your own Awesome List by GitHub stars!
 * [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
@@ -2473,7 +2474,7 @@ creating your own Awesome List by GitHub stars!
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 * [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 * [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel): Zen Patched Kernel Sources
-* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
 * [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao): 知乎去广告Xposed模块
