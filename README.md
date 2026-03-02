@@ -269,7 +269,7 @@ creating your own Awesome List by GitHub stars!
 * [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti): abusing github commit history for the lulz
 * [github-tools/github](https://github.com/github-tools/github): A higher-level wrapper around the Github API. Intended for the browser.
 * [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py):  Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
-* [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
+* [maguowei/starred](https://github.com/maguowei/starred): Create and maintain your own Awesome-style list from GitHub stars!
 
 # Gnome Shell Extensions
 
@@ -2211,7 +2211,7 @@ creating your own Awesome List by GitHub stars!
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
-* [soruly/trace.moe](https://github.com/soruly/trace.moe): Anime Scene Search by Image
+* [soruly/trace.moe](https://github.com/soruly/trace.moe): Trace back an anime scene with a screenshot
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth): None
 * [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
@@ -2391,7 +2391,7 @@ creating your own Awesome List by GitHub stars!
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
 * [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
-* [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose): Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
+* [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose): WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
 * [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -2474,7 +2474,7 @@ creating your own Awesome List by GitHub stars!
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 * [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 * [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel): Zen Patched Kernel Sources
-* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
+* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
 * [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao): 知乎去广告Xposed模块
