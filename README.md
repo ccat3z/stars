@@ -204,7 +204,6 @@ creating your own Awesome List by GitHub stars!
 
 ## WeChat
 
-* [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 * [trazyn/weweChat](https://github.com/trazyn/weweChat): 💬 Unofficial WeChat client built with React, MobX and Electron.
 * [ety001/wx_msg](https://github.com/ety001/wx_msg): 简易便捷发送微信模板消息的小玩意儿
@@ -896,6 +895,7 @@ creating your own Awesome List by GitHub stars!
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): high-performance graph database for real-time use cases
 * [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon): Interactive ASCII art diagram generators. :star2:
+* [dicebear/dicebear](https://github.com/dicebear/dicebear): DiceBear is an avatar library for designers and developers. 🌍
 * [directus/directus](https://github.com/directus/directus): The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 * [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus.
 * [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
@@ -983,6 +983,7 @@ creating your own Awesome List by GitHub stars!
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
 * [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
+* [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
 * [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & versatile interactive shell
@@ -1600,7 +1601,7 @@ creating your own Awesome List by GitHub stars!
 * [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
