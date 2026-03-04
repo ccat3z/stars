@@ -1518,6 +1518,7 @@ creating your own Awesome List by GitHub stars!
 * [matteoserva/MegaFuse](https://github.com/matteoserva/MegaFuse): MEGA client for linux, based on FUSE
 * [mellow-io/mellow](https://github.com/mellow-io/mellow): Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 * [novoid/Memacs](https://github.com/novoid/Memacs): What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
+* [antoniorodr/memo](https://github.com/antoniorodr/memo): Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organize notes and reminders straight from your terminal.
 * [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius): Implement GraphQL servers and gateways with Fastify
 * [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 * [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System
@@ -1601,7 +1602,7 @@ creating your own Awesome List by GitHub stars!
 * [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
-* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+* [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw): A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [willdoescode/nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [denisidoro/navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line
@@ -1970,6 +1971,7 @@ creating your own Awesome List by GitHub stars!
 * [rustcn-org/rust-weekly](https://github.com/rustcn-org/rust-weekly): Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 * [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server): RustDesk Server Program
+* [ruvnet/RuView](https://github.com/ruvnet/RuView): π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
 * [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo): Reactive Extensions for the Go language.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava): RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks): React hooks for RxJS
@@ -2392,7 +2394,6 @@ creating your own Awesome List by GitHub stars!
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
 * [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
-* [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose): WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
 * [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12): Windows 12 网页版，在线体验 点击下面的链接在线体验
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
