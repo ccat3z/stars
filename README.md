@@ -1233,6 +1233,7 @@ creating your own Awesome List by GitHub stars!
 * [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot): Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 * [apache/hawq](https://github.com/apache/hawq): Apache HAWQ
 * [fia0/heic-to-dynamic-gnome-wallpaper](https://github.com/fia0/heic-to-dynamic-gnome-wallpaper): A small cli application to convert MacOS's heic dynamic wallpaper images to dynamic wallpapers usable in the GNOME desktop environment.
+* [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents): 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * [leachim6/hello-world](https://github.com/leachim6/hello-world): Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 * [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 * [vincentbernat/hellogopher](https://github.com/vincentbernat/hellogopher): Makefile to build a Go project
@@ -1454,7 +1455,6 @@ creating your own Awesome List by GitHub stars!
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
-* [y1yang0/llmd](https://github.com/y1yang0/llmd): 如果将markdown视作一门编程语言可以做哪些有趣的事情呢?
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner): Dynamically provisioning persistent local storage with Kubernetes
 * [replicatedhq/local-volume-provider](https://github.com/replicatedhq/local-volume-provider): A Velero plugin for backup/restore directly to Kubernetes volumes.
