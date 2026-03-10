@@ -1056,6 +1056,7 @@ creating your own Awesome List by GitHub stars!
 * [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [fmtlib/fmt](https://github.com/fmtlib/fmt): A modern formatting library
+* [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust
 * [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
 * [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style
@@ -1602,6 +1603,7 @@ creating your own Awesome List by GitHub stars!
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql): Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 * [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector): MySQL Connector for .NET
 * [tj/n](https://github.com/tj/n): Node version management
+* [mklement0/n-install](https://github.com/mklement0/n-install): Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash
 * [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 * [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui): A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机
@@ -2517,7 +2519,7 @@ creating your own Awesome List by GitHub stars!
 * [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
 * [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
-* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
 * [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python 2.x/3.x bindings for libfuse 2.x
