@@ -1630,13 +1630,13 @@
     "apache/druid": [
         "Other"
     ],
+    "apache/gluten": [
+        "Other"
+    ],
     "apache/hadoop": [
         "Other"
     ],
     "apache/hawq": [
-        "Other"
-    ],
-    "apache/incubator-gluten": [
         "Other"
     ],
     "apache/incubator-pegasus": [
@@ -3131,6 +3131,9 @@
     "ggandor/lightspeed.nvim": [
         "Other"
     ],
+    "ggml-org/llama.cpp": [
+        "Other"
+    ],
     "ghbhaha/JzApp": [
         "Android/APP"
     ],
@@ -3639,6 +3642,9 @@
         "Other"
     ],
     "jamboree/co2": [
+        "Other"
+    ],
+    "jamesrxian/xv6-chinese": [
         "Other"
     ],
     "jamessan/vim-gnupg": [
@@ -5361,9 +5367,6 @@
         "Other"
     ],
     "rancher/local-path-provisioner": [
-        "Other"
-    ],
-    "ranxian/xv6-chinese": [
         "Other"
     ],
     "rapidsai/cudf": [
