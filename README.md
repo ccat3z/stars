@@ -736,6 +736,7 @@ creating your own Awesome List by GitHub stars!
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 * [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
 * [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix): Always up-to-date Nix package for Claude Code with hourly updates, native binary default, and Node.js/Bun alternatives
+* [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics database management system
@@ -1458,6 +1459,7 @@ creating your own Awesome List by GitHub stars!
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 * [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C/C++
+* [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): Hundreds of models & providers. One command to find what runs on your hardware.
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner): Dynamically provisioning persistent local storage with Kubernetes
 * [replicatedhq/local-volume-provider](https://github.com/replicatedhq/local-volume-provider): A Velero plugin for backup/restore directly to Kubernetes volumes.
@@ -2100,7 +2102,7 @@ creating your own Awesome List by GitHub stars!
 * [suutaku/sshx](https://github.com/suutaku/sshx): P2P SSH using WebRTC
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 * [jbandela/stackless_coroutine](https://github.com/jbandela/stackless_coroutine): Use C++14 generic lambdas to simulate stackless coroutines without macros or type erasure.
-* [star-history/star-history](https://github.com/star-history/star-history): The missing star history graph of GitHub repos - https://www.star-history.com
+* [star-history/star-history](https://github.com/star-history/star-history): The de facto GitHub star history graph.
 * [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export): Honkai: Star Rail Warp History Exporter
 * [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot): 崩坏：星穹铁道脚本 | Honkai: Star Rail auto bot (简体中文/繁體中文/English/Español)
 * [StarRocks/starrocks](https://github.com/StarRocks/starrocks): The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
@@ -2469,7 +2471,7 @@ creating your own Awesome List by GitHub stars!
 * [RikkaW/YASNAC](https://github.com/RikkaW/YASNAC): Yet Another SafetyNet Attestation Checker
 * [Jguer/yay](https://github.com/Jguer/yay): Yet another Yogurt - An AUR Helper written in Go
 * [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic): 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
-* [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2 QQ频道 https://pd.qq.com/s/1dwwmkgq4
+* [yaagl/yet-another-anime-game-launcher](https://github.com/yaagl/yet-another-anime-game-launcher): Discord server https://discord.gg/HrV52MgSC2
 * [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 * [manparvesh/yoda](https://github.com/manparvesh/yoda): Wise and powerful personal assistant, available in your nearest terminal
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin

@@ -92,6 +92,9 @@
     "Alexays/Waybar": [
         "Other"
     ],
+    "AlexsJones/llmfit": [
+        "Other"
+    ],
     "Algram/rofi-gopass": [
         "Other"
     ],
@@ -4634,6 +4637,9 @@
         "Other"
     ],
     "museui/muse-ui": [
+        "Other"
+    ],
+    "musistudio/claude-code-router": [
         "Other"
     ],
     "mwh/dragon": [
