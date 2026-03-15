@@ -119,9 +119,6 @@
     "AppImage/AppImageKit": [
         "Other"
     ],
-    "ApsaraDB/PolarDB-for-PostgreSQL": [
-        "Other"
-    ],
     "Arduino-IRremote/Arduino-IRremote": [
         "Other"
     ],
@@ -156,6 +153,9 @@
         "Other"
     ],
     "BaiZhiXin/AI-Rime": [
+        "Other"
+    ],
+    "BerriAI/litellm": [
         "Other"
     ],
     "BianFeiHu/ECNU-Assault-Guide": [
@@ -1859,6 +1859,9 @@
         "Other"
     ],
     "berty/berty": [
+        "Other"
+    ],
+    "bestruirui/octopus": [
         "Other"
     ],
     "bettercap/bettercap": [
@@ -5157,6 +5160,9 @@
         "Other"
     ],
     "pocoproject/poco": [
+        "Other"
+    ],
+    "polardb/PolarDB-for-PostgreSQL": [
         "Other"
     ],
     "polardb/polardbx-sql": [
