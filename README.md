@@ -843,7 +843,7 @@ creating your own Awesome List by GitHub stars!
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
-* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 * [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
 * [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
@@ -1520,6 +1520,7 @@ creating your own Awesome List by GitHub stars!
 * [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
 * [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 * [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell): Maui Shell is a convergent shell for desktops, tablets, and phones.
+* [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng): MCP Server for SearXNG
 * [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit): Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
@@ -2214,7 +2215,7 @@ creating your own Awesome List by GitHub stars!
 * [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer): :fire: Linux下C++轻量级WebServer服务器
 * [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview): 我的一些面试心得；自学CS历程分享；找工作求职经验分享
 * [jbezos/titlesec](https://github.com/jbezos/titlesec): Bundle for titles in LaTeX (sections, contents and page styles)
-* [tldr-pages/tldr](https://github.com/tldr-pages/tldr): 📚 Collaborative cheatsheets for console commands
+* [tldr-pages/tldr](https://github.com/tldr-pages/tldr): Collaborative cheatsheets for console commands 📚.
 * [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect): Persists tmux environment across system restarts.
 * [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible): basic tmux settings everyone can agree on
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer): To Be Top Javaer - Java工程师成神之路
