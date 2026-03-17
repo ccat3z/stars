@@ -843,7 +843,7 @@ creating your own Awesome List by GitHub stars!
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
-* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
 * [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
