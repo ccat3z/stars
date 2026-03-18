@@ -3191,9 +3191,6 @@
     "gmg137/netease-cloud-music-gtk": [
         "Other"
     ],
-    "gnbdev/opengnb": [
-        "Other"
-    ],
     "gnif/LookingGlass": [
         "Other"
     ],
@@ -4938,6 +4935,9 @@
         "Other"
     ],
     "openebs/lvm-localpv": [
+        "Other"
+    ],
+    "opengnb/opengnb": [
         "Other"
     ],
     "openpaperwork/paperwork": [

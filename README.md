@@ -1723,7 +1723,7 @@ creating your own Awesome List by GitHub stars!
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
 * [apache/opendal](https://github.com/apache/opendal): Apache OpenDAL: One Layer, All Storage.
-* [gnbdev/opengnb](https://github.com/gnbdev/opengnb): GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
+* [opengnb/opengnb](https://github.com/opengnb/opengnb): GNB is open source de-centralized SDVN to achieve layer3 network via p2p with the ultimate capability of NAT Traversal.GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的SDVN。
 * [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter): OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * [Dimsmary/OpenSTM](https://github.com/Dimsmary/OpenSTM): A Scanning Tunneling Microscope Project
 * [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion): Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
