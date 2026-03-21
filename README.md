@@ -820,6 +820,7 @@ creating your own Awesome List by GitHub stars!
 * [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions
 * [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng): A versatile (cross-)toolchain generator.
 * [CrowCpp/Crow](https://github.com/CrowCpp/Crow): A Fast and Easy to use microframework for the web.
+* [charmbracelet/crush](https://github.com/charmbracelet/crush): Glamourous agentic coding for all 💘
 * [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator): Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 * [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes): :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -1307,7 +1308,7 @@ creating your own Awesome List by GitHub stars!
 * [xorbitsai/inference](https://github.com/xorbitsai/inference): Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
 * [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-* [inspircd/inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC server (ircd).
+* [inspircd/inspircd](https://github.com/inspircd/inspircd): A high-performance Internet Relay Chat (IRCv3) server for UNIX-like and Windows systems
 * [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial): None
 * [InternLM/InternLM](https://github.com/InternLM/InternLM): Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).
 * [huihut/interview](https://github.com/huihut/interview): 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
@@ -1374,6 +1375,7 @@ creating your own Awesome List by GitHub stars!
 * [fgheng/keysound](https://github.com/fgheng/keysound): keysound is keyboard sound software for Linux
 * [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway
 * [pimutils/khal](https://github.com/pimutils/khal): :calendar: CLI calendar application
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 * [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 * [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
@@ -1720,6 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [himself65/OpenArkCompiler](https://github.com/himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Conversion between Traditional and Simplified Chinese
 * [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
 * [apache/opendal](https://github.com/apache/opendal): Apache OpenDAL: One Layer, All Storage.

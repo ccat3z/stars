@@ -628,6 +628,9 @@
     "KhaosT/tb3-enabler": [
         "Other"
     ],
+    "Kilo-Org/kilocode": [
+        "Other"
+    ],
     "KittyKatt/screenFetch": [
         "Other"
     ],
@@ -1576,6 +1579,9 @@
     "anntzer/pypi2pkgbuild": [
         "Other"
     ],
+    "anomalyco/opencode": [
+        "Other"
+    ],
     "ansible/ansible": [
         "Other"
     ],
@@ -2117,6 +2123,9 @@
         "Other"
     ],
     "chaos-mesh/chaos-mesh": [
+        "Other"
+    ],
+    "charmbracelet/crush": [
         "Other"
     ],
     "chdb-io/chdb": [
