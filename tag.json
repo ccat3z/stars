@@ -4853,6 +4853,9 @@
     "numpy/x86-simd-sort": [
         "Other"
     ],
+    "numtide/llm-agents.nix": [
+        "Other"
+    ],
     "numtide/system-manager": [
         "Other"
     ],
@@ -5535,6 +5538,9 @@
         "Linux/GUI/Desktop Environment/Gnome/Extension"
     ],
     "rouge-ruby/rouge": [
+        "Other"
+    ],
+    "router-for-me/CLIProxyAPI": [
         "Other"
     ],
     "roxma/vim-hug-neovim-rpc": [

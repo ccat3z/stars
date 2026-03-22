@@ -576,7 +576,7 @@ creating your own Awesome List by GitHub stars!
 * [dalinvip/Awesome-Law-NLP-Research-Work](https://github.com/dalinvip/Awesome-Law-NLP-Research-Work): Awesome Law NLP Research Work, Paper, Competition, Onlline System
 * [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen): 😎 Awesome list of Library Genesis, the world's largest free library.
 * [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm): A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 * [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr): nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
@@ -743,6 +743,7 @@ creating your own Awesome List by GitHub stars!
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 * [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
@@ -1462,6 +1463,7 @@ creating your own Awesome List by GitHub stars!
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 * [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C/C++
+* [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): Hundreds of models & providers. One command to find what runs on your hardware.
 * [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner): Dynamically provisioning persistent local storage with Kubernetes
