@@ -2126,7 +2126,7 @@ creating your own Awesome List by GitHub stars!
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches): [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
 * [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
-* [styled-components/styled-components](https://github.com/styled-components/styled-components): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+* [styled-components/styled-components](https://github.com/styled-components/styled-components): Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 * [refi64/stylepak](https://github.com/refi64/stylepak): Automatically install your host GTK+ theme as a Flatpak
 * [tindy2013/subconverter](https://github.com/tindy2013/subconverter): Utility to convert between various subscription format
