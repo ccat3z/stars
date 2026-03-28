@@ -1405,7 +1405,7 @@ creating your own Awesome List by GitHub stars!
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [ncopa/lddtree](https://github.com/ncopa/lddtree): Fork of pax-utils' lddtree.sh
-* [lealone/Lealone](https://github.com/lealone/Lealone): 具有超高并发处理能力的 OLTP 关系数据库
+* [lealone/Lealone](https://github.com/lealone/Lealone): 一个安全的能够自我进化的 AI 应用开发平台
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - an introductory book about Haskell.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1505,7 +1505,7 @@ creating your own Awesome List by GitHub stars!
 * [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
 * [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps
 * [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
