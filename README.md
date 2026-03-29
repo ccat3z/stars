@@ -1646,7 +1646,7 @@ creating your own Awesome List by GitHub stars!
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
-* [facebookincubator/nimble](https://github.com/facebookincubator/nimble): New file format for storage of large columnar datasets.
+* [facebookincubator/nimble](https://github.com/facebookincubator/nimble): New and extensible file format for storage of large columnar datasets.
 * [niri-wm/niri](https://github.com/niri-wm/niri): A scrollable-tiling Wayland compositor.
 * [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): Manage your macOS using Nix
 * [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
