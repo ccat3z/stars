@@ -802,7 +802,6 @@ creating your own Awesome List by GitHub stars!
 * [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
 * [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet): Modern C++ Cheatsheet
 * [klc407073648/cpp-notes](https://github.com/klc407073648/cpp-notes): C++ 基础, 算法, 数据库,MySQL, ElasticSearch, Redis, 编程四大件, 微服务 , 中间件, ZeroMQ, 部署工具, Docker, k8s, Istio, Linux, , 实践|项目,  开源项目, 个人项目, 读书笔记, 面试题, 优质文章, 博客推荐...
-* [CnTransGroup/Cpp17TheCompleteGuideChinese](https://github.com/CnTransGroup/Cpp17TheCompleteGuideChinese): 《C++ 17 The Complete Guide》- 翻译中
 * [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * [cginternals/cppfs](https://github.com/cginternals/cppfs): Cross-platform C++ file system library supporting multiple backends
 * [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide): C/C++学习，后端开发进阶指南。
@@ -987,7 +986,6 @@ creating your own Awesome List by GitHub stars!
 * [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel): Running V2ray inside edge/serverless runtime
 * [EdiWang/Edi.Captcha.AspNetCore](https://github.com/EdiWang/Edi.Captcha.AspNetCore): The Captcha module used in my blog
 * [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed): Elder driver Xposed Framework.
-* [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
@@ -1877,7 +1875,7 @@ creating your own Awesome List by GitHub stars!
 * [eliben/pyelftools](https://github.com/eliben/pyelftools): Parsing ELF and DWARF in Python
 * [pyenv/pyenv](https://github.com/pyenv/pyenv): Simple Python version management
 * [pygments/pygments](https://github.com/pygments/pygments): Pygments is a generic syntax highlighter written in Python
-* [timlaing/pyicloud](https://github.com/timlaing/pyicloud): A Python + iCloud wrapper to access iPhone and Calendar data.
+* [timlaing/pyicloud](https://github.com/timlaing/pyicloud): A Python wrapper for accessing data from iCloud webservices, including Account, Find My, Calendar, Contacts, iCloud Drive, Photos, Hide My Email, Reminders, and Notes.
 * [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion): Pyjion - A JIT for Python based upon CoreCLR
 * [JessicaTegner/pypandoc](https://github.com/JessicaTegner/pypandoc): Thin wrapper for "pandoc" (MIT)
 * [anntzer/pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild): A PyPI to PKGBUILD converter.
