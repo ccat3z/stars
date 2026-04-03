@@ -702,7 +702,7 @@ creating your own Awesome List by GitHub stars!
 * [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 * [tyru/caw.vim](https://github.com/tyru/caw.vim): Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 * [thawk105/ccbench](https://github.com/thawk105/ccbench): Concurrency Control Benchmark
-* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+* [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines): ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 * [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp): Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * [staticlibs/ccronexpr](https://github.com/staticlibs/ccronexpr): Cron expression parsing in ANSI C
 * [celery/celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
@@ -1387,7 +1387,7 @@ creating your own Awesome List by GitHub stars!
 * [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management
 * [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook): Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 * [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller): :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
-* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.
+* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark): eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 * [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart): 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 * [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 * [tsujan/Kvantum](https://github.com/tsujan/Kvantum): A Linux SVG-based theme engine for Qt
