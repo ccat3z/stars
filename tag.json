@@ -667,9 +667,6 @@
     "LeetCode-OpenSource/vscode-leetcode": [
         "Other"
     ],
-    "Leleat/Tiling-Assistant": [
-        "Other"
-    ],
     "Light-City/CPlusPlusThings": [
         "Other"
     ],
@@ -6322,6 +6319,9 @@
         "Other"
     ],
     "ubuntu-touch-clover/Droidian4Clover": [
+        "Other"
+    ],
+    "ubuntu/Tiling-Assistant": [
         "Other"
     ],
     "ubuntu/libreoffice-style-yaru-fullcolor": [

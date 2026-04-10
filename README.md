@@ -1397,7 +1397,7 @@ creating your own Awesome List by GitHub stars!
 * [vuejs/language-tools](https://github.com/vuejs/language-tools): ⚡ High-performance Vue language tooling based-on Volar.js
 * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim): Language Server Protocol (LSP) support for vim and neovim.
 * [vuedx/languagetools](https://github.com/vuedx/languagetools): A collection of tools for better IDE experience.
-* [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote): Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+* [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote): Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 * [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 * [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache): An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
@@ -1804,7 +1804,7 @@ creating your own Awesome List by GitHub stars!
 * [geekfactory/PID](https://github.com/geekfactory/PID): PID Control Library written in C language
 * [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2): A fast directory-first photo gallery website, with rich UI,  optimized for running on low resource servers (especially on raspberry pi)
 * [pikvm/pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi
-* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
+* [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (fork)
 * [GPGTools/pinentry-mac](https://github.com/GPGTools/pinentry-mac): pinentry for GPG on Mac
 * [amitv87/PiP](https://github.com/amitv87/PiP): macOS Picture in Picture and AirPlay Receiver
 * [PipeWire/pipewire](https://github.com/PipeWire/pipewire): Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
@@ -2204,7 +2204,7 @@ creating your own Awesome List by GitHub stars!
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis): A distributed transactional large-scale NoSQL database powered by TiKV
 * [tikv/tikv](https://github.com/tikv/tikv): Distributed transactional key-value database, originally created to complement TiDB
-* [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant): An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
+* [ubuntu/Tiling-Assistant](https://github.com/ubuntu/Tiling-Assistant): An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes.
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift): System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [tinajs/tina](https://github.com/tinajs/tina): :dancer: 一款轻巧的渐进式微信小程序框架
