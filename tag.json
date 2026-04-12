@@ -823,6 +823,9 @@
     "Nossiac/mtk-openwrt-feeds": [
         "Other"
     ],
+    "NousResearch/hermes-agent": [
+        "Other"
+    ],
     "OI-wiki/OI-wiki": [
         "Other"
     ],
@@ -6177,9 +6180,6 @@
     "tj/n": [
         "Other"
     ],
-    "tjy-gitnub/win12": [
-        "Other"
-    ],
     "tkashkin/Adwaita-for-Steam": [
         "Other"
     ],
@@ -6637,6 +6637,9 @@
         "Other"
     ],
     "win0err/gnome-runcat": [
+        "Other"
+    ],
+    "win12-online/win12": [
         "Other"
     ],
     "winfsp/sshfs-win": [
