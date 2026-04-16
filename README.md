@@ -797,7 +797,7 @@ creating your own Awesome List by GitHub stars!
 * [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
 * [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 * [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
-* [coteditor/CotEditor](https://github.com/coteditor/CotEditor): Lightweight Plain-Text Editor for macOS
+* [coteditor/CotEditor](https://github.com/coteditor/CotEditor): Lightweight Plain Text Editor for macOS
 * [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings): C++那些事
 * [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 * [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp): C++ Tip Of The Week
@@ -898,6 +898,7 @@ creating your own Awesome List by GitHub stars!
 * [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+* [z-lab/dflash](https://github.com/z-lab/dflash): DFlash: Block Diffusion for Flash Speculative Decoding
 * [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph): high-performance graph database for real-time use cases
 * [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon): Interactive ASCII art diagram generators. :star2:
 * [dicebear/dicebear](https://github.com/dicebear/dicebear): DiceBear is an avatar library for designers and developers. 🌍
@@ -1037,6 +1038,7 @@ creating your own Awesome List by GitHub stars!
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 * [gulrak/filesystem](https://github.com/gulrak/filesystem): An implementation of C++17 std::filesystem for C++11 /C++14/C++17/C++20 on Windows, macOS, Linux and FreeBSD.
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
+* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 * [rafaelmardojai/firefox-gnome-scrollbars](https://github.com/rafaelmardojai/firefox-gnome-scrollbars): Firefox script providing GNOME overlay scrollbars
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations): Firefox Translations is a webextension that enables client side translations for web browsers.
