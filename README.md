@@ -743,7 +743,7 @@ creating your own Awesome List by GitHub stars!
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 * [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 * [kittors/CliRelay](https://github.com/kittors/CliRelay): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
@@ -1350,7 +1350,7 @@ creating your own Awesome List by GitHub stars!
 * [EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking): Web 端口敲门的奇思妙想
 * [jwadhams/json-logic-js](https://github.com/jwadhams/json-logic-js): Build complex rules, serialize them as JSON, and execute them in JavaScript
 * [zth/json-to-flowtype-generator](https://github.com/zth/json-to-flowtype-generator): Generate Flow types from JSON or static JS objects/arrays.
-* [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair): A python module to repair invalid JSON from LLMs
+* [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair): Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 * [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python
 * [juicedata/juicefs](https://github.com/juicedata/juicefs): JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * [juicedata/juicefs-csi-driver](https://github.com/juicedata/juicefs-csi-driver): JuiceFS CSI Driver
