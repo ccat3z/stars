@@ -6414,6 +6414,9 @@
     "vegasbrianc/prometheus": [
         "Other"
     ],
+    "velero-io/velero": [
+        "Other"
+    ],
     "ventoy/Ventoy": [
         "Other"
     ],
@@ -6493,9 +6496,6 @@
         "Other"
     ],
     "vmware-archive/octant": [
-        "Other"
-    ],
-    "vmware-tanzu/velero": [
         "Other"
     ],
     "vnotex/vnote": [

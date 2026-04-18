@@ -2312,7 +2312,7 @@ creating your own Awesome List by GitHub stars!
 * [Tencent/vConsole](https://github.com/Tencent/vConsole): A lightweight, extendable front-end developer tool for mobile web page.
 * [microsoft/vcpkg](https://github.com/microsoft/vcpkg): C++ Library Manager for Windows, Linux, and MacOS
 * [logaretm/vee-validate](https://github.com/logaretm/vee-validate): ✅  Painless Vue forms
-* [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero): Backup and migrate Kubernetes applications and their persistent volumes
+* [velero-io/velero](https://github.com/velero-io/velero): Backup and migrate Kubernetes applications and their persistent volumes
 * [facebookincubator/velox](https://github.com/facebookincubator/velox): A composable and fully extensible C++ execution engine library for data management systems.
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry
