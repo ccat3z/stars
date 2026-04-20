@@ -736,7 +736,7 @@ creating your own Awesome List by GitHub stars!
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 * [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
-* [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix): Always up-to-date Nix package for Claude Code with hourly updates, native binary default, and Node.js/Bun alternatives
+* [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix): Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -751,6 +751,7 @@ creating your own Awesome List by GitHub stars!
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 * [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+* [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli): CLI for internet speed test via cloudflare
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped): 👩‍💻 A CLI Tool for Command Line Insights
