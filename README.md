@@ -691,6 +691,7 @@ creating your own Awesome List by GitHub stars!
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView): RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。
 * [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr): Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 * [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
+* [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser): Headless browser automation server for AI agents to visit sites that are usually blocked
 * [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
 * [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
@@ -1722,6 +1723,7 @@ creating your own Awesome List by GitHub stars!
 * [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules): NVIDIA Linux open GPU kernel module source
 * [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain): OpenKeychain is an OpenPGP implementation for Android.
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+* [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 * [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client): Generate modern Python clients from OpenAPI
 * [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
@@ -2205,7 +2207,7 @@ creating your own Awesome List by GitHub stars!
 * [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars): Yes, it's true :purple_heart:
 * [ForbesLindesay/throat](https://github.com/ForbesLindesay/throat): Throttle a collection of promise returning functions
 * [rgov/Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker): Enable unsupported Thunderbolt 3 peripherals on macOS
-* [pingcap/tidb](https://github.com/pingcap/tidb): TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+* [pingcap/tidb](https://github.com/pingcap/tidb): TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 * [DigitalChinaOpenSource/TiDB-for-PostgreSQL](https://github.com/DigitalChinaOpenSource/TiDB-for-PostgreSQL): PgSQL compatible on distributed database TiDB
 * [IlanCosman/tide](https://github.com/IlanCosman/tide): 🌊 The ultimate Fish prompt.
 * [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis): A distributed transactional large-scale NoSQL database powered by TiKV
