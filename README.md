@@ -692,6 +692,7 @@ creating your own Awesome List by GitHub stars!
 * [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr): Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 * [fugary/calibre-douban](https://github.com/fugary/calibre-douban): Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 * [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser): Headless browser automation server for AI agents to visit sites that are usually blocked
+* [daijro/camoufox](https://github.com/daijro/camoufox): 🦊 Anti-detect browser
 * [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024): 2024届互联网校招信息汇总
 * [forthespada/CampusShame](https://github.com/forthespada/CampusShame): 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
 * [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors): An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
@@ -790,6 +791,7 @@ creating your own Awesome List by GitHub stars!
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
+* [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity): [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
 * [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
@@ -1181,7 +1183,7 @@ creating your own Awesome List by GitHub stars!
 * [dgryski/go-topk](https://github.com/dgryski/go-topk): Streaming TopK estimates
 * [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks): A tun2socks implementation written in Go.
 * [xxf098/go-tun2socks-build](https://github.com/xxf098/go-tun2socks-build): tun2socks with v2ray & xray support for Android
-* [gorse-io/goat](https://github.com/gorse-io/goat): Go assembly transpiler for C programming language support amd64, arm64, riscv64, loong64 and s390x
+* [gorse-io/goat](https://github.com/gorse-io/goat): Go assembly transpiler for C programming language support amd64, arm64, riscv64, loong64, s390x and ppc64le
 * [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
 * [gocd/gocd](https://github.com/gocd/gocd): GoCD - Continuous Delivery server main repository
 * [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron): A Golang Job Scheduling Package.
@@ -1528,6 +1530,7 @@ creating your own Awesome List by GitHub stars!
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles): Material Design file manager for Android
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [Dogfalo/materialize](https://github.com/Dogfalo/materialize): Materialize, a CSS Framework based on Material Design
+* [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 * [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 * [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell): Maui Shell is a convergent shell for desktops, tablets, and phones.
 * [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng): MCP Server for SearXNG

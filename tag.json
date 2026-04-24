@@ -2269,6 +2269,9 @@
     "containrrr/watchtower": [
         "Other"
     ],
+    "continuwuity/continuwuity": [
+        "Other"
+    ],
     "conventional-changelog/commitlint": [
         "Other"
     ],
@@ -2364,6 +2367,9 @@
     ],
     "dahlbyk/posh-git": [
         "Windows/PowerShell"
+    ],
+    "daijro/camoufox": [
+        "Other"
     ],
     "daliansky/Hackintosh": [
         "Other"
@@ -5893,6 +5899,9 @@
         "Other"
     ],
     "spacecowboy/Feeder": [
+        "Other"
+    ],
+    "spantaleev/matrix-docker-ansible-deploy": [
         "Other"
     ],
     "sparksuite/simplemde-markdown-editor": [
