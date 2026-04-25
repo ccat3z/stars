@@ -1413,7 +1413,7 @@ creating your own Awesome List by GitHub stars!
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [ncopa/lddtree](https://github.com/ncopa/lddtree): Fork of pax-utils' lddtree.sh
-* [lealone/Lealone](https://github.com/lealone/Lealone): 一个能安全适用于个人助理和企业应用的全栈自进化通用智能体
+* [lealone/Lealone](https://github.com/lealone/Lealone): 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - an introductory book about Haskell.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
