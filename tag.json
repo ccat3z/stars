@@ -2371,6 +2371,9 @@
     "daijro/camoufox": [
         "Other"
     ],
+    "dair-ai/Prompt-Engineering-Guide": [
+        "Other"
+    ],
     "daliansky/Hackintosh": [
         "Other"
     ],
@@ -3929,9 +3932,6 @@
     "kaixindelele/ChatPaper": [
         "Other"
     ],
-    "kamranahmedse/developer-roadmap": [
-        "Other"
-    ],
     "kangkaisen/olap-performance": [
         "Other"
     ],
@@ -4778,6 +4778,9 @@
     "nikitabobko/AeroSpace": [
         "Other"
     ],
+    "nilbuild/developer-roadmap": [
+        "Other"
+    ],
     "niri-wm/niri": [
         "Other"
     ],
@@ -4896,6 +4899,9 @@
         "Other"
     ],
     "oauth2-proxy/oauth2-proxy": [
+        "Other"
+    ],
+    "obra/superpowers": [
         "Other"
     ],
     "oceanbase/oceanbase": [
@@ -5562,6 +5568,9 @@
         "Other"
     ],
     "router-for-me/CLIProxyAPI": [
+        "Other"
+    ],
+    "router-for-me/Cli-Proxy-API-Management-Center": [
         "Other"
     ],
     "roxma/vim-hug-neovim-rpc": [

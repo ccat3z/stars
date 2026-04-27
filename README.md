@@ -743,6 +743,7 @@ creating your own Awesome List by GitHub stars!
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+* [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center): This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse): ClickHouse® is a real-time analytics database management system
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
@@ -900,7 +901,7 @@ creating your own Awesome List by GitHub stars!
 * [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube): 🧊 Indulge in nostalgia with useless 3D effects.
 * [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments
 * [Phantas0s/devdash](https://github.com/Phantas0s/devdash): :bento: Highly Configurable Terminal Dashboard for Developers and Creators
-* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 * [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 * [devspace-sh/devspace](https://github.com/devspace-sh/devspace): DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -1863,6 +1864,7 @@ creating your own Awesome List by GitHub stars!
 * [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
 * [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 * [xhawk18/promise-cpp](https://github.com/xhawk18/promise-cpp): C++ promise/A+ library in Javascript style.
+* [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [proot-me/proot](https://github.com/proot-me/proot): chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 * [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton): Compatibility tool for Steam Play based on Wine and additional components
@@ -2143,6 +2145,7 @@ creating your own Awesome List by GitHub stars!
 * [apollographql/subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws): :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions
 * [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 * [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
+* [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 * [ochinchina/supervisord](https://github.com/ochinchina/supervisord): a go-lang supervisor implementation
 * [lazyparser/survival-manual-for-interns](https://github.com/lazyparser/survival-manual-for-interns): 给新员工和实习生的生存指南。 Good Luck and Survive!
 * [sveltejs/svelte](https://github.com/sveltejs/svelte): web development for the rest of us
