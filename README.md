@@ -748,7 +748,7 @@ creating your own Awesome List by GitHub stars!
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 * [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 * [kittors/CliRelay](https://github.com/kittors/CliRelay): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
@@ -1119,6 +1119,7 @@ creating your own Awesome List by GitHub stars!
 * [Kentzo/git-archive-all](https://github.com/Kentzo/git-archive-all): A python script wrapper for git-archive that archives a git superproject and its submodules, if it has any. Takes into account .gitattributes
 * [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
 * [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
+* [finos/git-proxy](https://github.com/finos/git-proxy): Deploy custom push protections and policies on top of Git
 * [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes
 * [concourse/git-resource](https://github.com/concourse/git-resource): Tracks commits in a branch of a Git repository
 * [sobolevn/git-secret](https://github.com/sobolevn/git-secret): :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
@@ -1858,7 +1859,7 @@ creating your own Awesome List by GitHub stars!
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 * [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China): 介绍中国各二线以上城市的互联网环境以及生活成本
-* [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的一些pdf资源，欢迎赞赏
+* [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的资源
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
 * [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 * [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
