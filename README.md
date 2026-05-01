@@ -738,7 +738,7 @@ creating your own Awesome List by GitHub stars!
 * [feilongfl/Cimoc](https://github.com/feilongfl/Cimoc): Android 平台在线漫画阅读器
 * [citusdata/citus](https://github.com/citusdata/citus): Distributed PostgreSQL as an extension
 * [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
-* [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+* [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 * [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix): Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
