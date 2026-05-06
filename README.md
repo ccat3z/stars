@@ -1653,7 +1653,7 @@ creating your own Awesome List by GitHub stars!
 * [cbrnix/Newaita](https://github.com/cbrnix/Newaita): Linux icon theme
 * [37Rb/nextcloud-hledger](https://github.com/37Rb/nextcloud-hledger): Plain Text Accounting on Nextcloud
 * [ipr-cnrs/nftables](https://github.com/ipr-cnrs/nftables): Ansible role to manage Nftables rules and packages.
-* [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated nginx proxy for Docker containers using docker-gen
+* [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy): Automated Nginx Reverse Proxy for Docker
 * [chr4/nginx.vim](https://github.com/chr4/nginx.vim): Improved nginx vim plugin (incl. syntax highlighting)
 * [ngs-lang/ngs](https://github.com/ngs-lang/ngs): Next Generation Shell (NGS)
 * [antfu-collective/ni](https://github.com/antfu-collective/ni): 💡 Use the right package manager
