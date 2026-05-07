@@ -843,7 +843,7 @@ creating your own Awesome List by GitHub stars!
 * [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 * [mithrandie/csvq](https://github.com/mithrandie/csvq): SQL-like query language for csv
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
-* [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Macro Packages and Scripts for Chinese TeX users
+* [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Chinese typesetting infrastructure for LaTeX — ctex, xeCJK, and satellite packages (XeLaTeX / LuaLaTeX / pdfLaTeX / upLaTeX)
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
 * [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library 
 * [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
@@ -1228,6 +1228,7 @@ creating your own Awesome List by GitHub stars!
 * [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
 * [Guake/guake](https://github.com/Guake/guake): Drop-down terminal for GNOME
 * [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy): A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+* [ekristen/guppi](https://github.com/ekristen/guppi): all tmux sessions, all agents, one interface
 * [moovweb/gvm](https://github.com/moovweb/gvm): Go Version Manager
 * [lrsjng/h5ai](https://github.com/lrsjng/h5ai): HTTP web server index for Apache httpd, lighttpd and nginx.
 * [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home): Xiaomi Home Integration for Home Assistant
@@ -1712,7 +1713,7 @@ creating your own Awesome List by GitHub stars!
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
-* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [asdcorp/ohook](https://github.com/asdcorp/ohook): An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 * [DDoSolitary/OkcAgent](https://github.com/DDoSolitary/OkcAgent): A utility that makes OpenKeychain available in your Termux shell
