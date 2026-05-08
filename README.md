@@ -1431,6 +1431,7 @@ creating your own Awesome List by GitHub stars!
 * [lerna/lerna](https://github.com/lerna/lerna): Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
 * [lesspass/lesspass](https://github.com/lesspass/lesspass): :key: stateless open source password manager
+* [pawelsalawa/letos](https://github.com/pawelsalawa/letos): A free, open source, multi-platform SQLite database manager.
 * [google/leveldb](https://github.com/google/leveldb): LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 * [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL
 * [openSUSE/lftp-concourse-resource](https://github.com/openSUSE/lftp-concourse-resource):  A Concourse CI resource type to access resources via ftp, http, sftp, and fish
@@ -2575,7 +2576,6 @@ creating your own Awesome List by GitHub stars!
 # SQLite
 
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser): Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
-* [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio): A free, open source, multi-platform SQLite database manager.
 
 # Spider
 
