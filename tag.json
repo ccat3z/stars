@@ -4709,6 +4709,9 @@
     "nanmu42/orly": [
         "Other"
     ],
+    "nanocoai/nanoclaw": [
+        "Other"
+    ],
     "natemcmaster/dotnet-tools": [
         "Other"
     ],
@@ -5400,9 +5403,6 @@
         "Other"
     ],
     "quip/quip-api": [
-        "Other"
-    ],
-    "qwibitai/nanoclaw": [
         "Other"
     ],
     "rafaelmardojai/firefox-gnome-scrollbars": [
