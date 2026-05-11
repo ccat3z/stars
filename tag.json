@@ -4648,6 +4648,9 @@
     "ms-jpq/chadtree": [
         "Other"
     ],
+    "mscdex/ssh2": [
+        "Other"
+    ],
     "mskyaxl/wsl-terminal": [
         "Other"
     ],
@@ -6408,6 +6411,9 @@
     "urql-graphql/urql": [
         "Other"
     ],
+    "utdemir/nix-tree": [
+        "Other"
+    ],
     "utmapp/UTM": [
         "Other"
     ],
@@ -6457,6 +6463,9 @@
         "Other"
     ],
     "ventoy/Ventoy": [
+        "Other"
+    ],
+    "vercel-labs/wterm": [
         "Other"
     ],
     "vercel/serve": [

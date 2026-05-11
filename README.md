@@ -852,7 +852,7 @@ creating your own Awesome List by GitHub stars!
 * [commitizen/cz-cli](https://github.com/commitizen/cz-cli): The commitizen command line utility. #BlackLivesMatter
 * [dojiong/daemon-manager](https://github.com/dojiong/daemon-manager): user tool for creating and managing daemons
 * [datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview): Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star
-* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+* [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * [christo-pr/dangerously-set-html-content-v1](https://github.com/christo-pr/dangerously-set-html-content-v1): Render raw html on your own risk!
 * [DapperLib/Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 * [darlinghq/darling](https://github.com/darlinghq/darling): Darwin/macOS emulation layer for Linux
@@ -1666,6 +1666,7 @@ creating your own Awesome List by GitHub stars!
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 * [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect): Interactive tui for inspecting nix configs
 * [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
+* [utdemir/nix-tree](https://github.com/utdemir/nix-tree): Interactively browse dependency graphs of Nix derivations.
 * [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 * [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware): A collection of NixOS modules covering hardware quirks.
 * [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): Nix Packages collection & NixOS
@@ -2122,6 +2123,7 @@ creating your own Awesome List by GitHub stars!
 * [rime/squirrel](https://github.com/rime/squirrel): 【鼠鬚管】Rime for macOS
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
+* [mscdex/ssh2](https://github.com/mscdex/ssh2): SSH2 client and server modules written in pure JavaScript for node.js
 * [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win): SSHFS For Windows
 * [suutaku/sshx](https://github.com/suutaku/sshx): P2P SSH using WebRTC
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
@@ -2450,6 +2452,7 @@ creating your own Awesome List by GitHub stars!
 * [Rucadi/wsld](https://github.com/Rucadi/wsld): WSLD is a tool for downloading and installing docker images into WSL1 or WSL2 directly. It also supports uploading WSL images into Docker Hub.
 * [yuk7/wsldl](https://github.com/yuk7/wsldl): Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 * [int128/wslexec](https://github.com/int128/wslexec): A wrapper to run Linux command inside WSL (Windows Subsystem for Linux) from native apps
+* [vercel-labs/wterm](https://github.com/vercel-labs/wterm): A terminal emulator for the web
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): What the f*ck Python? 😱
 * [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn): wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 * [tvfe/wxpage](https://github.com/tvfe/wxpage): WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀，框架对于小程序工程理念为不依赖额外构建，即引即用。腾讯视频播放器插件 =>
