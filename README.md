@@ -552,6 +552,7 @@ creating your own Awesome List by GitHub stars!
 * [uber/AutoDispose](https://github.com/uber/AutoDispose): Automatic binding+disposal of RxJava streams.
 * [LuckyPennySoftware/AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper): A convention-based object-object mapper in .NET. 
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
+* [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch): Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
@@ -1211,6 +1212,7 @@ creating your own Awesome List by GitHub stars!
 * [oracle/graal](https://github.com/oracle/graal): GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 * [oracle/graaljs](https://github.com/oracle/graaljs): GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 * [graffle-js/graffle](https://github.com/graffle-js/graffle): Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
+* [safishamsi/graphify](https://github.com/safishamsi/graphify): AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 * [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme): Graphite gtk theme
 * [chkimes/graphql-net](https://github.com/chkimes/graphql-net): Convert GraphQL to IQueryable
@@ -1814,6 +1816,7 @@ creating your own Awesome List by GitHub stars!
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [earendil-works/pi](https://github.com/earendil-works/pi): AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
