@@ -818,7 +818,7 @@ creating your own Awesome List by GitHub stars!
 * [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial): 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 * [wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews): c++中文周刊
 * [ept/crdt-website](https://github.com/ept/crdt-website): Source of the crdt.tech website
-* [facebook/create-react-app](https://github.com/facebook/create-react-app): Set up a modern web app by running one command.
+* [react/create-react-app](https://github.com/react/create-react-app): Set up a modern web app by running one command.
 * [corbindavenport/creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux): PlayOnLinux install script for Adobe Creative Cloud
 * [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu): Checkpoint/Restore tool
 * [RoaringBitmap/CRoaring](https://github.com/RoaringBitmap/CRoaring): Roaring bitmaps in C (and C++), with SIMD (AVX2, AVX-512 and NEON) optimizations: used by Apache Doris, ClickHouse, Alibaba Tair, Redpanda, YDB and StarRocks

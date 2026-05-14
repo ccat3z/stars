@@ -2873,9 +2873,6 @@
     "fabiandev/ts-runtime": [
         "Other"
     ],
-    "facebook/create-react-app": [
-        "Other"
-    ],
     "facebook/flow": [
         "Other"
     ],
@@ -5442,6 +5439,9 @@
         "Other"
     ],
     "rclone/rclone": [
+        "Other"
+    ],
+    "react/create-react-app": [
         "Other"
     ],
     "realywithoutname/mini-program-webpack-loader": [
