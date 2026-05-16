@@ -2023,6 +2023,9 @@
     "cachix/devenv": [
         "Other"
     ],
+    "cactus-compute/cactus": [
+        "Other"
+    ],
     "caddy-dns/cloudflare": [
         "Other"
     ],
@@ -4407,6 +4410,9 @@
     ],
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
+    ],
+    "mayocream/koharu": [
+        "Other"
     ],
     "mayswind/AriaNg": [
         "Other"
