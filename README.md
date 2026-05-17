@@ -750,7 +750,7 @@ creating your own Awesome List by GitHub stars!
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 * [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 * [kittors/CliRelay](https://github.com/kittors/CliRelay): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
@@ -1867,7 +1867,7 @@ creating your own Awesome List by GitHub stars!
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 * [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China): 介绍中国各二线以上城市的互联网环境以及生活成本
-* [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的资源
+* [tolerious/Programming_learning_resource](https://github.com/tolerious/Programming_learning_resource): 学习计算机科学的电子书
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout): Standard Go Project Layout
 * [prometheus/prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database.
 * [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
@@ -2062,6 +2062,7 @@ creating your own Awesome List by GitHub stars!
 * [cvfosammmm/Setzer](https://github.com/cvfosammmm/Setzer): LaTeX editor written in Python with Gtk
 * [untr0py/SevSeg](https://github.com/untr0py/SevSeg): Seven segment display controller library for Arduino
 * [atmoz/sftp](https://github.com/atmoz/sftp): Securely share your files
+* [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a high-performance serving framework for large language models and multimodal models.
 * [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom): 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 * [shanghai2022/shanghai2022](https://github.com/shanghai2022/shanghai2022): 上海2022抗疫互助
 * [ayuer/shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge): 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
