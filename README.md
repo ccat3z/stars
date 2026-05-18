@@ -750,7 +750,7 @@ creating your own Awesome List by GitHub stars!
 * [Kyligence/ClickHouse](https://github.com/Kyligence/ClickHouse): ClickHouse® is a free analytics DBMS for big data
 * [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator): Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes
 * [prometheus/client_python](https://github.com/prometheus/client_python): Prometheus instrumentation library for Python applications
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 * [kittors/CliRelay](https://github.com/kittors/CliRelay): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
@@ -1559,6 +1559,7 @@ creating your own Awesome List by GitHub stars!
 * [diredocks/MiCloudAlbumDownloader](https://github.com/diredocks/MiCloudAlbumDownloader): Download Pictures From i.mi.com ☁️ 批量下载小米云相册图片
 * [neuland/micro-frontends](https://github.com/neuland/micro-frontends): extending the microservice paradigms to web development
 * [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+* [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix): NixOS MicroVMs
 * [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan): Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 * [MiKTeX/miktex](https://github.com/MiKTeX/miktex): the MiKTeX source code
 * [milvus-io/milvus](https://github.com/milvus-io/milvus): Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -1715,7 +1716,7 @@ creating your own Awesome List by GitHub stars!
 * [cernekee/ocproxy](https://github.com/cernekee/ocproxy): OpenConnect proxy
 * [vmware-archive/octant](https://github.com/vmware-archive/octant): Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [octokit/octokit.js](https://github.com/octokit/octokit.js): The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-* [bestruirui/octopus](https://github.com/bestruirui/octopus): One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
+* [bestruirui/octopus](https://github.com/bestruirui/octopus): One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
