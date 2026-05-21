@@ -1198,7 +1198,7 @@ creating your own Awesome List by GitHub stars!
 * [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh): Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 * [goccmack/gogll](https://github.com/goccmack/gogll): Generates generalised LL (GLL) and reduced size LR(1) parsers with matching lexers
 * [gogradle/gogradle](https://github.com/gogradle/gogradle): A Gradle Plugin Providing Full Support for Go
-* [gogs/gogs](https://github.com/gogs/gogs): Gogs is a painless self-hosted Git service
+* [gogs/gogs](https://github.com/gogs/gogs): The painless way to host your own Git service
 * [eolinker/goku_lite](https://github.com/eolinker/goku_lite): A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 * [xitu/gold-miner](https://github.com/xitu/gold-miner): 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 * [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist): 我终于能用谷歌搜中文了……
