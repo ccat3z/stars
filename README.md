@@ -1420,7 +1420,7 @@ creating your own Awesome List by GitHub stars!
 * [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [ncopa/lddtree](https://github.com/ncopa/lddtree): Fork of pax-utils' lddtree.sh
-* [lealone/Lealone](https://github.com/lealone/Lealone): 能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体
+* [lealone/Lealone](https://github.com/lealone/Lealone): 能安全适用于氛围编程和企业应用的全栈自进化通用智能体
 * [nok/leap-motion-processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 * [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator): Learn Haskell by building a blog generator - an introductory book about Haskell.
 * [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim): Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1945,7 +1945,7 @@ creating your own Awesome List by GitHub stars!
 * [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap): RDP Wrapper Library
 * [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
-* [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar): gcal/outlook like calendar component
+* [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar): gcal/outlook like calendar component
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
 * [flippingbitss/react-daterange-picker](https://github.com/flippingbitss/react-daterange-picker): A react date range picker to using @material-ui. Live Demo: https://flippingbitss.github.io/react-daterange-picker/
 * [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series): 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
@@ -2521,7 +2521,7 @@ creating your own Awesome List by GitHub stars!
 * [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao): 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 * [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 * [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel): Zen Patched Kernel Sources
-* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw): Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 * [rs/zerolog](https://github.com/rs/zerolog): Zero Allocation JSON Logger
 * [ZSaberLv0/ZFVimDirDiff](https://github.com/ZSaberLv0/ZFVimDirDiff): directory diff plugin with split treeview, similar to BeyondCompare, fully async and low dependency
 * [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao): 知乎去广告Xposed模块
