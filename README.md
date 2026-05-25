@@ -1678,7 +1678,7 @@ creating your own Awesome List by GitHub stars!
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Flexible and Structured Logging for various .NET Platforms
 * [NLog/NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging): NLog as Logging Provider for Microsoft Extension Logging
 * [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG): Publication-ready NN-architecture schematics. 
-* [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
+* [nndl/nndl](https://github.com/nndl/nndl): 邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版
 * [fthx/no-overview](https://github.com/fthx/no-overview): None
 * [linux-noah/noah](https://github.com/linux-noah/noah): Bash on Ubuntu on macOS
 * [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
