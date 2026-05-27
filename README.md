@@ -1599,7 +1599,7 @@ creating your own Awesome List by GitHub stars!
 * [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker 🦠
-* [tw93/Mole](https://github.com/tw93/Mole): 🐹 Deep clean and optimize your Mac.
+* [tw93/Mole](https://github.com/tw93/Mole): 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 * [ansible/molecule](https://github.com/ansible/molecule): An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
@@ -1784,7 +1784,7 @@ creating your own Awesome List by GitHub stars!
 * [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [tomduck/pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos): A pandoc filter for numbering equations and equation references.
-* [Rupan/paperbak](https://github.com/Rupan/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
+* [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
 * [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 * [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for GNOME Shell
