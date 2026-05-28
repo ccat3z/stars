@@ -1491,7 +1491,7 @@ creating your own Awesome List by GitHub stars!
 * [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go.
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass): An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
-* [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [mrkai77/Loop](https://github.com/mrkai77/Loop): Window management made elegant.
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien): Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 * [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 * [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter): ⚙️ A library to create language servers
