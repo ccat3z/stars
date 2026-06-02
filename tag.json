@@ -2266,9 +2266,6 @@
     "containers/bubblewrap": [
         "Other"
     ],
-    "containers/podman": [
-        "Other"
-    ],
     "containrrr/watchtower": [
         "Other"
     ],
@@ -5223,6 +5220,9 @@
         "Other"
     ],
     "pocoproject/poco": [
+        "Other"
+    ],
+    "podman-container-tools/podman": [
         "Other"
     ],
     "polardb/PolarDB-for-PostgreSQL": [

@@ -1847,7 +1847,7 @@ creating your own Awesome List by GitHub stars!
 * [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr): Build packages using pnpm with nix
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
-* [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
+* [podman-container-tools/podman](https://github.com/podman-container-tools/podman): Podman: A tool for managing OCI containers and pods.
 * [python-poetry/poetry](https://github.com/python-poetry/poetry): Python packaging and dependency management made easy
 * [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export): Poetry plugin to export the dependencies to various formats
 * [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix): Convert poetry projects to nix automagically [maintainer=] 
