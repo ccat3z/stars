@@ -4016,6 +4016,9 @@
     "kizzx2/docker-openvpn-client-socks": [
         "Other"
     ],
+    "kkndmetianya/kkndme_tianya": [
+        "Other"
+    ],
     "klausw/hackerskeyboard": [
         "Android/APP"
     ],
@@ -5788,9 +5791,6 @@
     ],
     "shenfeng/tiny-web-server": [
         "C"
-    ],
-    "shengcaishizhan/kkndme_tianya": [
-        "Other"
     ],
     "shengxinjing/programmer-job-blacklist": [
         "Other"

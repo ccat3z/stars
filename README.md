@@ -1393,7 +1393,7 @@ creating your own Awesome List by GitHub stars!
 * [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 * [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android):  A fully-featured V2Ray client for Android.
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-* [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya): 天涯 kkndme 神贴聊房价
+* [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
 * [mayocream/koharu](https://github.com/mayocream/koharu): ML-powered manga translator, written in Rust.
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
