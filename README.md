@@ -1284,7 +1284,7 @@ creating your own Awesome List by GitHub stars!
 * [jmblog/how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack): Explaining how to optimize the large bundle size of moment.js with webpack
 * [boltgolt/howdy](https://github.com/boltgolt/howdy): 🛡️ Windows Hello™ style facial authentication for Linux
 * [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money): 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): Programmer's guide about how to cook at home.
 * [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南 | A programmer's guide to live longer
 * [xiangmingzhe0928/hpv4g](https://github.com/xiangmingzhe0928/hpv4g): hpv seckill 约苗 九价 疫苗秒杀 :girl: :syringe:
 * [draivin/hsnips](https://github.com/draivin/hsnips): HyperSnips: a powerful snippet engine for VS Code, inspired by vim's UltiSnips
@@ -2150,7 +2150,7 @@ creating your own Awesome List by GitHub stars!
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches): [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
-* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
+* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support
 * [styled-components/styled-components](https://github.com/styled-components/styled-components): Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 * [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion): a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 * [refi64/stylepak](https://github.com/refi64/stylepak): Automatically install your host GTK+ theme as a Flatpak
