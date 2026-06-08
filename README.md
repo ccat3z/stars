@@ -1541,7 +1541,7 @@ creating your own Awesome List by GitHub stars!
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 * [42wim/matterbridge](https://github.com/42wim/matterbridge): bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 * [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell): Maui Shell is a convergent shell for desktops, tablets, and phones.
-* [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng): MCP Server for SearXNG
+* [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng): Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client
 * [mdbootstrap/mdb-vue-ui-kit](https://github.com/mdbootstrap/mdb-vue-ui-kit): Vue 3 & Bootstrap 5 & Material Design 2.0 UI KIT
 * [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 * [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd): Command Line Interactive and Scriptable Application to access MEGA
