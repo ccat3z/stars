@@ -2879,9 +2879,6 @@
     "facebook/folly": [
         "Other"
     ],
-    "facebook/react": [
-        "Other"
-    ],
     "facebook/rocksdb": [
         "Other"
     ],
@@ -5454,6 +5451,9 @@
         "Other"
     ],
     "react/create-react-app": [
+        "Other"
+    ],
+    "react/react": [
         "Other"
     ],
     "realywithoutname/mini-program-webpack-loader": [

@@ -483,7 +483,7 @@ creating your own Awesome List by GitHub stars!
 * [anbox/anbox](https://github.com/anbox/anbox): Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system 
 * [Rprop/And64InlineHook](https://github.com/Rprop/And64InlineHook): Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
-* [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+* [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inlinehook library which supports thumb, arm32 and arm64.
 * [ele7enxxh/Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook): thumb16 thumb32 arm32 inlineHook in Android
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
 * [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
@@ -1820,7 +1820,7 @@ creating your own Awesome List by GitHub stars!
 * [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite): The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 * [photondb/photondb](https://github.com/photondb/photondb): A high-performance storage engine for modern hardware and platforms.
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
-* [earendil-works/pi](https://github.com/earendil-works/pi): AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+* [earendil-works/pi](https://github.com/earendil-works/pi): AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
@@ -1944,7 +1944,7 @@ creating your own Awesome List by GitHub stars!
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [x0b/rcx](https://github.com/x0b/rcx): Rclone for Android
 * [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap): RDP Wrapper Library
-* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
+* [react/react](https://github.com/react/react): The library for web and native user interfaces.
 * [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired): Override create-react-app webpack configs without ejecting
 * [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar): gcal/outlook like calendar component
 * [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas): High performance <canvas> rendering for React components
