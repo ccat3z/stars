@@ -4206,9 +4206,6 @@
     "littlecodersh/ItChat": [
         "Chinese APP Hack/WeChat"
     ],
-    "liu-ziting/what-to-eat": [
-        "Other"
-    ],
     "liubaoyua/CustomText": [
         "Android/Xposed"
     ],
@@ -6826,6 +6823,9 @@
         "Other"
     ],
     "xtermjs/xterm.js": [
+        "Other"
+    ],
+    "xuanzhouhub/keyvaluedb": [
         "Other"
     ],
     "xuhdev/vim-latex-live-preview": [
