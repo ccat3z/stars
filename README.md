@@ -2560,7 +2560,7 @@ creating your own Awesome List by GitHub stars!
 * [viniciuschiele/flask-apscheduler](https://github.com/viniciuschiele/flask-apscheduler): Adds APScheduler support to Flask
 * [fusepy/fusepy](https://github.com/fusepy/fusepy): Simple ctypes bindings for FUSE
 * [lepture/opencc-python](https://github.com/lepture/opencc-python): OpenCC binding for Python.
-* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite
+* [coleifer/peewee](https://github.com/coleifer/peewee): a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 * [PyCQA/pep8-naming](https://github.com/PyCQA/pep8-naming): Naming Convention checker for Python
 * [pypa/pipenv](https://github.com/pypa/pipenv):  Python Development Workflow for Humans.
 * [libfuse/python-fuse](https://github.com/libfuse/python-fuse): Python 2.x/3.x bindings for libfuse 2.x
