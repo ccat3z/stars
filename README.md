@@ -2261,7 +2261,7 @@ creating your own Awesome List by GitHub stars!
 * [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg): Linux multi-touch gesture recognizer
 * [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm): Tmux Plugin Manager
 * [tqdm/tqdm](https://github.com/tqdm/tqdm): :zap: A Fast, Extensible Progress Bar for Python and CLI
-* [soruly/trace.moe](https://github.com/soruly/trace.moe): Trace back an anime scene with a screenshot
+* [soruly/trace.moe](https://github.com/soruly/trace.moe): Timestamp Retrieval for Anime Clips Everywhere
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth): None
 * [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
