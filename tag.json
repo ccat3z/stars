@@ -1885,6 +1885,9 @@
     "binux/yaaw": [
         "Other"
     ],
+    "biojppm/rapidyaml": [
+        "Other"
+    ],
     "biokoda/actordb": [
         "Other"
     ],
@@ -2027,6 +2030,9 @@
         "Other"
     ],
     "caddy-dns/cloudflare": [
+        "Other"
+    ],
+    "caddyserver/caddy": [
         "Other"
     ],
     "caddyserver/certmagic": [
@@ -4529,6 +4535,9 @@
         "Other"
     ],
     "migueravila/simplefox": [
+        "Other"
+    ],
+    "mikefarah/yq": [
         "Other"
     ],
     "mikf/gallery-dl": [

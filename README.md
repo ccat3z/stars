@@ -686,6 +686,7 @@ creating your own Awesome List by GitHub stars!
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 * [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Low-latency AI engine for mobile devices & wearables
+* [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
 * [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy): Caddy as a reverse proxy for Docker
@@ -1942,6 +1943,7 @@ creating your own Awesome List by GitHub stars!
 * [ramda/ramda](https://github.com/ramda/ramda): :ram: Practical functional Javascript
 * [arcmags/ramroot](https://github.com/arcmags/ramroot): Load root file system to ram in early userspace.
 * [Tencent/rapidjson](https://github.com/Tencent/rapidjson): A fast JSON parser/generator for C++ with both SAX/DOM style API
+* [biojppm/rapidyaml](https://github.com/biojppm/rapidyaml): Rapid YAML - a library to parse and emit YAML, and do it fast.
 * [ray-project/ray](https://github.com/ray-project/ray): Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [x0b/rcx](https://github.com/x0b/rcx): Rclone for Android
@@ -2514,6 +2516,7 @@ creating your own Awesome List by GitHub stars!
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
+* [mikefarah/yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform.
 * [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site): A feature-rich, efficient text editor - Web Site
