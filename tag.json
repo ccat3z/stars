@@ -11,7 +11,7 @@
     "0voice/linux_kernel_wiki": [
         "Other"
     ],
-    "11ty/eleventy": [
+    "11ty/buildawesome": [
         "Other"
     ],
     "17mon/china_ip_list": [
@@ -790,10 +790,10 @@
     "NLog/NLog.Extensions.Logging": [
         "Other"
     ],
-    "NVIDIA/open-gpu-kernel-modules": [
+    "NVIDIA/cudf-spark": [
         "Other"
     ],
-    "NVIDIA/spark-rapids": [
+    "NVIDIA/open-gpu-kernel-modules": [
         "Other"
     ],
     "Nanguage/Rainbow-Fart-MBG": [
@@ -1970,6 +1970,9 @@
         "Other"
     ],
     "brndnmtthws/conky": [
+        "Other"
+    ],
+    "browser-use/browser-use": [
         "Other"
     ],
     "browserify/events": [

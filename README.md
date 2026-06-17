@@ -661,6 +661,7 @@ creating your own Awesome List by GitHub stars!
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The Package Manager for Everywhere
 * [brick-design/brick-design](https://github.com/brick-design/brick-design): 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 * [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3): This is a fork of browser_cookie
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
@@ -673,6 +674,7 @@ creating your own Awesome List by GitHub stars!
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 * [build2/build2](https://github.com/build2/build2): build2 build system
+* [11ty/buildawesome](https://github.com/11ty/buildawesome): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [ngaut/builddatabase](https://github.com/ngaut/builddatabase): Build a distributed SQL database from the ground up
 * [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator):  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -851,6 +853,7 @@ creating your own Awesome List by GitHub stars!
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Chinese typesetting infrastructure for LaTeX — ctex, xeCJK, and satellite packages (XeLaTeX / LuaLaTeX / pdfLaTeX / upLaTeX)
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
 * [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library 
+* [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark): Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 * [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
 * [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
@@ -1003,7 +1006,6 @@ creating your own Awesome List by GitHub stars!
 * [Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music): UNOFFICIAL client for music.163.com. Powered by Electron and Vue
 * [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat): :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [element-plus/element-plus](https://github.com/element-plus/element-plus): 🎉 A Vue.js 3 UI Library made by Element team
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [elves/elvish](https://github.com/elves/elvish): Powerful scripting language & versatile interactive shell
 * [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide): Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 * [nix-community/emacs-overlay](https://github.com/nix-community/emacs-overlay): Bleeding edge emacs overlay [maintainer=@adisbladis] 
@@ -1345,7 +1347,7 @@ creating your own Awesome List by GitHub stars!
 * [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm): Intel Wi-Fi Drivers for macOS
 * [sfsam/Itsycal](https://github.com/sfsam/Itsycal): Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 * [ivmech/ivPID](https://github.com/ivmech/ivPID): Python PID Controller
-* [JabRef/jabref](https://github.com/JabRef/jabref): Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
+* [JabRef/jabref](https://github.com/JabRef/jabref): Desktop app for managing BibTeX and BibLaTeX (.bib) libraries
 * [l0o0/jasminum](https://github.com/l0o0/jasminum): A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): Design patterns implemented in Java
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide): Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
@@ -2122,7 +2124,6 @@ creating your own Awesome List by GitHub stars!
 * [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer): 💻 Ability to rename desktop spaces on macOS 10.10+
 * [taigrr/spank](https://github.com/taigrr/spank): Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 * [apache/spark](https://github.com/apache/spark): Apache Spark - A unified analytics engine for large-scale data processing
-* [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids): Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 * [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals): The Internals of Spark SQL
 * [spdk/spdk](https://github.com/spdk/spdk): Storage Performance Development Kit
 * [zachleat/speedlify](https://github.com/zachleat/speedlify): Benchmark the web performance and accessibility of sites over time.
