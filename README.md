@@ -1787,6 +1787,7 @@ creating your own Awesome List by GitHub stars!
 * [rami3l/pacaptr](https://github.com/rami3l/pacaptr): Pacman-like syntax wrapper for many package managers.
 * [gusztavvargadr/packer](https://github.com/gusztavvargadr/packer): Windows and Ubuntu virtual machine images and Vagrant boxes with Packer
 * [gobuffalo/packr](https://github.com/gobuffalo/packr): The simple and easy way to embed static files into Go binaries.
+* [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 * [apache/paimon](https://github.com/apache/paimon): Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe): Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
@@ -2152,7 +2153,7 @@ creating your own Awesome List by GitHub stars!
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 机器学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 * [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
-* [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+* [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches): [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 * [RikkaApps/StorageRedirect-assets](https://github.com/RikkaApps/StorageRedirect-assets): Assets (rules, apks etc) for Storage Redirect app.
