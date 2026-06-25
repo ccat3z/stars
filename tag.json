@@ -3962,9 +3962,6 @@
     "kavehtehrani/cloudflare-speed-cli": [
         "Other"
     ],
-    "kavishdevar/librepods": [
-        "Other"
-    ],
     "kcp-dev/kcp": [
         "Other"
     ],
@@ -4171,6 +4168,9 @@
         "Python"
     ],
     "libp2p/libp2p": [
+        "Other"
+    ],
+    "librepods-org/librepods": [
         "Other"
     ],
     "libsdl-org/SDL": [
