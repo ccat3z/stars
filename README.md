@@ -761,7 +761,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
-* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Error page generator that brings premium downtime experience to your website. (unofficial)
 * [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli): CLI for internet speed test via cloudflare
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
