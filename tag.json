@@ -448,9 +448,6 @@
     "GoogleContainerTools/skaffold": [
         "Other"
     ],
-    "GrowingGit/GitHub-Chinese-Top-Charts": [
-        "Other"
-    ],
     "Gruntfuggly/todo-tree": [
         "Other"
     ],
@@ -5841,6 +5838,9 @@
         "Other"
     ],
     "simple-icons/simple-icons": [
+        "Other"
+    ],
+    "simplex-chat/simplex-chat": [
         "Other"
     ],
     "simplyzee/kube-rclone": [

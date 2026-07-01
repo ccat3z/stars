@@ -1135,7 +1135,6 @@ creating your own Awesome List by GitHub stars!
 * [gitalk/gitalk](https://github.com/gitalk/gitalk): Gitalk is a modern comment component based on Github Issue and Preact.
 * [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 * [presslabs/gitfs](https://github.com/presslabs/gitfs): Version controlled file system
-* [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts): :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 * [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css): The minimal amount of CSS to replicate the GitHub Markdown style
 * [ad-m/github-push-action](https://github.com/ad-m/github-push-action): GitHub actions to push back to repository eg. updated code
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
@@ -1527,7 +1526,7 @@ creating your own Awesome List by GitHub stars!
 * [mamba-org/mamba](https://github.com/mamba-org/mamba): The Fast Cross-Platform Package Manager
 * [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 * [saeziae/manjaro2archlinux](https://github.com/saeziae/manjaro2archlinux): Convert your manjaro to archlinux
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [martinus/map_benchmark](https://github.com/martinus/map_benchmark): Comprehensive benchmarks of C++ maps
 * [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure): Go library for decoding generic map values into native Go structures and vice versa.
 * [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -2094,6 +2093,7 @@ creating your own Awesome List by GitHub stars!
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
 * [migueravila/simplefox](https://github.com/migueravila/simplefox): A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor): A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
