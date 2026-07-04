@@ -448,6 +448,9 @@
     "GoogleContainerTools/skaffold": [
         "Other"
     ],
+    "Graphify-Labs/graphify": [
+        "Other"
+    ],
     "Gruntfuggly/todo-tree": [
         "Other"
     ],
@@ -5685,9 +5688,6 @@
         "Other"
     ],
     "saeziae/manjaro2archlinux": [
-        "Other"
-    ],
-    "safishamsi/graphify": [
         "Other"
     ],
     "saltstack/salt": [
