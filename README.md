@@ -2448,6 +2448,7 @@ creating your own Awesome List by GitHub stars!
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
+* [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
