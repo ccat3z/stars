@@ -3914,7 +3914,7 @@
     "justind000/nRF-IoT": [
         "SBC"
     ],
-    "justjavac/awesome-wechat-weapp": [
+    "justjavac/wechat-miniapp-radar": [
         "Other"
     ],
     "jvm-profiling-tools/perf-map-agent": [
@@ -6259,6 +6259,9 @@
         "Other"
     ],
     "tinted-theming/tinted-termite": [
+        "Other"
+    ],
+    "tintinweb/pi-subagents": [
         "Other"
     ],
     "tinysearch/tinysearch": [
