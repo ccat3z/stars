@@ -747,7 +747,7 @@ creating your own Awesome List by GitHub stars!
 * [civitai/civitai](https://github.com/civitai/civitai): A repository of models, textual inversions, and more
 * [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 * [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix): Always up-to-date Nix package for Claude Code with hourly updates from Anthropic's native releases
-* [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+* [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 * [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): A webpack plugin to remove your build folder(s) before building
 * [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center): This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
@@ -1831,7 +1831,7 @@ creating your own Awesome List by GitHub stars!
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App 🌈💎✨
 * [earendil-works/pi](https://github.com/earendil-works/pi): AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
-* [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents): Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...
+* [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents): Claude Code like Sub-agents for Pi — parallel execution, live widget, custom agent types, mid-run steering and more ...
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
 * [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension): None
