@@ -669,6 +669,7 @@ creating your own Awesome List by GitHub stars!
 * [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot): Sync Bluetooth for dualboot Linux and Windows
 * [digint/btrbk](https://github.com/digint/btrbk): Tool for creating snapshots and remote backups of btrfs subvolumes
 * [maharmstone/btrfs](https://github.com/maharmstone/btrfs): WinBtrfs - an open-source btrfs driver for Windows
+* [sbrudenell/btrfs2s3](https://github.com/sbrudenell/btrfs2s3): maintains a tree of differential backups in object storage
 * [containers/bubblewrap](https://github.com/containers/bubblewrap): Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 * [bloom-lang/bud](https://github.com/bloom-lang/bud): Prototype Bud runtime (Bloom Under Development)
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang): A golang ebook intro how to build a web with golang
@@ -688,7 +689,7 @@ creating your own Awesome List by GitHub stars!
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
-* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Low-latency AI engine for mobile devices & wearables
+* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Tiny AI for tiny devices
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
@@ -853,7 +854,7 @@ creating your own Awesome List by GitHub stars!
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Chinese typesetting infrastructure for LaTeX — ctex, xeCJK, and satellite packages (XeLaTeX / LuaLaTeX / pdfLaTeX / upLaTeX)
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
 * [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library 
-* [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark): Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+* [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark): NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs
 * [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
 * [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
@@ -1989,7 +1990,7 @@ creating your own Awesome List by GitHub stars!
 * [psf/requests-html](https://github.com/psf/requests-html): Pythonic HTML Parsing for Humans™
 * [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program
 * [resume/resume.github.com](https://github.com/resume/resume.github.com): Resumes generated using the GitHub informations
-* [square/retrofit](https://github.com/square/retrofit): A type-safe HTTP client for Android and the JVM
+* [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit): A type-safe HTTP client for Android and the JVM
 * [colin-kyang/reverse-interview-zh](https://github.com/colin-kyang/reverse-interview-zh): 技术面试最后反问面试官的话
 * [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh): 技术面试最后反问面试官的话
 * [revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋

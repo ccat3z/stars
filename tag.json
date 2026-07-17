@@ -4309,6 +4309,9 @@
     "lxgw/LxgwWenKai": [
         "Other"
     ],
+    "lysine-dev/retrofit": [
+        "Other"
+    ],
     "m13253/BiliDan": [
         "Utility"
     ],
@@ -5720,6 +5723,9 @@
     "sboli/twmn": [
         "Other"
     ],
+    "sbrudenell/btrfs2s3": [
+        "Other"
+    ],
     "sbt/sbt-assembly": [
         "Other"
     ],
@@ -6001,9 +6007,6 @@
         "Other"
     ],
     "square/moshi": [
-        "Other"
-    ],
-    "square/retrofit": [
         "Other"
     ],
     "srevinsaju/guiscrcpy": [
