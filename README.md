@@ -1480,7 +1480,7 @@ creating your own Awesome List by GitHub stars!
 * [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki): linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 * [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
 * [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh): a microblog for lists
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [fanmingming/live](https://github.com/fanmingming/live): ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [rocksdanister/lively](https://github.com/rocksdanister/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -1821,7 +1821,7 @@ creating your own Awesome List by GitHub stars!
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [jvm-profiling-tools/perf-map-agent](https://github.com/jvm-profiling-tools/perf-map-agent): A java agent to generate method mappings to use with the linux `perf` tool
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
-* [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+* [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
 * [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
@@ -2009,7 +2009,7 @@ creating your own Awesome List by GitHub stars!
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
 * [cvzi/rollup-userscript-template](https://github.com/cvzi/rollup-userscript-template): Bundle javascript, typescript, react and JSX/TSX script files into a single userscript file with rollup
 * [roncoo/roncoo-pay](https://github.com/roncoo/roncoo-pay): 龙果支付系统（roncoo-pay）是国内首款开源的互联网支付系统，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。目标是打造一款集成主流支付方式且轻量易用的支付收款系统，满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能。
-* [ttyS0/ropez](https://github.com/ttyS0/ropez): RopeZ
+* [GoodbyeSiger/ropez](https://github.com/GoodbyeSiger/ropez): RopeZ
 * [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
