@@ -689,7 +689,7 @@ creating your own Awesome List by GitHub stars!
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
-* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots. 
+* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Quantization, kernels, inference engine for mobiles, wearables, smart home and robots. 
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
