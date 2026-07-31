@@ -564,7 +564,6 @@ creating your own Awesome List by GitHub stars!
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
 * [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-* [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books): 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 * [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 * [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning): A list of learning materials to understand databases internals
 * [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing): 数据库测试资料 This repo is a collection of resources on testing database systems
@@ -685,7 +684,7 @@ creating your own Awesome List by GitHub stars!
 * [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): text window manager, shell multiplexer, integrated DevOps environment
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -2009,7 +2008,6 @@ creating your own Awesome List by GitHub stars!
 * [rollup/rollup](https://github.com/rollup/rollup): Next-generation ES module bundler
 * [cvzi/rollup-userscript-template](https://github.com/cvzi/rollup-userscript-template): Bundle javascript, typescript, react and JSX/TSX script files into a single userscript file with rollup
 * [roncoo/roncoo-pay](https://github.com/roncoo/roncoo-pay): 龙果支付系统（roncoo-pay）是国内首款开源的互联网支付系统，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。目标是打造一款集成主流支付方式且轻量易用的支付收款系统，满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能。
-* [GoodbyeSiger/ropez](https://github.com/GoodbyeSiger/ropez): RopeZ
 * [maHidaka/ros_face](https://github.com/maHidaka/ros_face): None
 * [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
 * [yilozt/rounded-window-corners](https://github.com/yilozt/rounded-window-corners): A gnome-shell extensions that try to add rounded corners for all windows
@@ -2204,7 +2202,7 @@ creating your own Awesome List by GitHub stars!
 * [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development.
 * [phodal/tangping](https://github.com/phodal/tangping): 躺平即正义。Nothing is true, everything is permitted
-* [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+* [NervJS/taro](https://github.com/NervJS/taro): 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 * [go-task/task](https://github.com/go-task/task): A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 * [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler): Enable Thunderbolt 3 for unsupported peripherals on macOS
 * [ClangBuiltLinux/tc-build](https://github.com/ClangBuiltLinux/tc-build): A set of scripts to build LLVM and binutils
