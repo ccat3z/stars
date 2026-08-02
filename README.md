@@ -684,7 +684,7 @@ creating your own Awesome List by GitHub stars!
 * [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): text window manager, shell multiplexer, integrated DevOps environment
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
-* [bytebase/bytebase](https://github.com/bytebase/bytebase): The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+* [bytebase/bytebase](https://github.com/bytebase/bytebase): Database governance built for humans and agents — controlling changes and access across every major database.
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -1625,13 +1625,14 @@ creating your own Awesome List by GitHub stars!
 * [deadpixi/mtm](https://github.com/deadpixi/mtm): Perhaps the smallest useful terminal multiplexer in the world.
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
+* [multica-ai/multica](https://github.com/multica-ai/multica): The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
 * [ImVexed/muon](https://github.com/ImVexed/muon): GPU based Electron on a diet
 * [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
 * [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded): A window manager for GNOME, with rounded corners patch
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
-* [dbcli/mycli](https://github.com/dbcli/mycli): A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [dbcli/mycli](https://github.com/dbcli/mycli): Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [OpenDCAI/MyScaleDB](https://github.com/OpenDCAI/MyScaleDB): AI Database for unified, scalable SQL + vector data management, search and analytics
 * [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
@@ -1795,6 +1796,7 @@ creating your own Awesome List by GitHub stars!
 * [peterq/pan-light](https://github.com/peterq/pan-light): 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 * [tomduck/pandoc-eqnos](https://github.com/tomduck/pandoc-eqnos): A pandoc filter for numbering equations and equation references.
 * [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak): Back up your files on ordinary paper in the form of oversized bitmaps
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip): The open-source app everyone uses to manage agents at work
 * [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning)
 * [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 * [paperwm/PaperWM](https://github.com/paperwm/PaperWM): Tiled scrollable window management for GNOME Shell
@@ -2352,6 +2354,7 @@ creating your own Awesome List by GitHub stars!
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
+* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Codex or any coding agent
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
