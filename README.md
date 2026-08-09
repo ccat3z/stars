@@ -1277,7 +1277,7 @@ creating your own Awesome List by GitHub stars!
 * [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
-* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+* [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 * [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains): macOS cross compiler toolchains
 * [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services): 💀 Homebrew Services (deprecated)
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
@@ -2102,7 +2102,7 @@ creating your own Awesome List by GitHub stars!
 * [SagerNet/sing-box](https://github.com/SagerNet/sing-box): The universal proxy platform
 * [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer with a focus on textbooks and research papers
 * [antoniomika/sish](https://github.com/antoniomika/sish): HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
