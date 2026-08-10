@@ -1086,7 +1086,7 @@ creating your own Awesome List by GitHub stars!
 * [forza-painter/forza-painter](https://github.com/forza-painter/forza-painter): Import images into Forza
 * [ory/fosite](https://github.com/ory/fosite): Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 * [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store
-* [wader/fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
+* [wader/fq](https://github.com/wader/fq): fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable news aggregator…
@@ -2355,6 +2355,7 @@ creating your own Awesome List by GitHub stars!
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Codex or any coding agent
+* [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 * [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
