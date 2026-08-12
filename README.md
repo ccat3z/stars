@@ -852,7 +852,7 @@ creating your own Awesome List by GitHub stars!
 * [hcy226/CSYuTuiMian2020](https://github.com/hcy226/CSYuTuiMian2020): 关于2020年CS预推免的汇总。欢迎大家分享预推免信息，资瓷一下互联网精神吼不吼啊？
 * [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit): Chinese typesetting infrastructure for LaTeX — ctex, xeCJK, and satellite packages (XeLaTeX / LuaLaTeX / pdfLaTeX / upLaTeX)
 * [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki): Come and join us, we need you!
-* [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library 
+* [NVIDIA/cudf](https://github.com/NVIDIA/cudf): cuDF - GPU DataFrame Library 
 * [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark): NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs
 * [cuelang/cue](https://github.com/cuelang/cue): CUE has moved to https://github.com/cue-lang/cue
 * [geekplux/cv_resume](https://github.com/geekplux/cv_resume): A latex cv/resume template.
@@ -1632,7 +1632,7 @@ creating your own Awesome List by GitHub stars!
 * [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded): A window manager for GNOME, with rounded corners patch
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
-* [dbcli/mycli](https://github.com/dbcli/mycli): Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [dbcli/mycli](https://github.com/dbcli/mycli): Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [OpenDCAI/MyScaleDB](https://github.com/OpenDCAI/MyScaleDB): AI Database for unified, scalable SQL + vector data management, search and analytics
 * [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
@@ -2292,7 +2292,7 @@ creating your own Awesome List by GitHub stars!
 * [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest type utility library
 * [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
-* [apognu/tuigreet](https://github.com/apognu/tuigreet): Graphical console greeter for greetd
+* [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet): Graphical console greeter for greetd
 * [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack
 * [pyjabox/TunnelOverTerminal](https://github.com/pyjabox/TunnelOverTerminal): Tunnel TCP or UDP data stream over a terminal session which has been established by Expect script
 * [tuplex/tuplex](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.

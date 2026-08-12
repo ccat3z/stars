@@ -793,6 +793,9 @@
     "NLog/NLog.Extensions.Logging": [
         "Other"
     ],
+    "NVIDIA/cudf": [
+        "Other"
+    ],
     "NVIDIA/cudf-spark": [
         "Other"
     ],
@@ -1679,9 +1682,6 @@
         "Other"
     ],
     "aphyr/distsys-class": [
-        "Other"
-    ],
-    "apognu/tuigreet": [
         "Other"
     ],
     "apollographql/subscriptions-transport-ws": [
@@ -5480,9 +5480,6 @@
     "rancher/local-path-provisioner": [
         "Other"
     ],
-    "rapidsai/cudf": [
-        "Other"
-    ],
     "ray-project/ray": [
         "Other"
     ],
@@ -6385,6 +6382,9 @@
         "Other"
     ],
     "tuberry/light-dict": [
+        "Other"
+    ],
+    "tuigreet/tuigreet": [
         "Other"
     ],
     "tumuyan/rime-melt": [
