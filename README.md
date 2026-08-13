@@ -1632,7 +1632,7 @@ creating your own Awesome List by GitHub stars!
 * [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded): A window manager for GNOME, with rounded corners patch
 * [gorilla/mux](https://github.com/gorilla/mux): Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 * [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC SQLite that runs on FoundationDB.
-* [dbcli/mycli](https://github.com/dbcli/mycli): Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
+* [dbcli/mycli](https://github.com/dbcli/mycli): Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes
 * [python/mypy](https://github.com/python/mypy): Optional static typing for Python
 * [OpenDCAI/MyScaleDB](https://github.com/OpenDCAI/MyScaleDB): AI Database for unified, scalable SQL + vector data management, search and analytics
 * [myscale/MyScaleDB](https://github.com/myscale/MyScaleDB): A @ClickHouse fork that supports high-performance vector search and full-text search.
