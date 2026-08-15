@@ -1245,6 +1245,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/hadoop](https://github.com/apache/hadoop): Apache Hadoop
 * [TolgaTatli/Halve](https://github.com/TolgaTatli/Halve): Stylish Two-Column Jekyll Theme
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
+* [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion): A touch optimized GUI to increase your handheld gaming computer experience.
 * [shannonmoeller/handlebars-layouts](https://github.com/shannonmoeller/handlebars-layouts): Handlebars helpers which implement layout blocks similar to Jinja, Nunjucks (Swig), Pug (Jade), and Twig.
 * [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js): Minimal templating on steroids.
 * [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
@@ -2158,6 +2159,7 @@ creating your own Awesome List by GitHub stars!
 * [rakyll/statik](https://github.com/rakyll/statik): Embed files into a Go executable
 * [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual): 机器学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 * [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
+* [ayufan/steam-deck-tools](https://github.com/ayufan/steam-deck-tools): (Windows) Steam Deck Tools - Fan, Overlay, Power Control and Steam Controller for Windows
 * [Stellarium/stellarium](https://github.com/Stellarium/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org.
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches): [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
@@ -2456,7 +2458,6 @@ creating your own Awesome List by GitHub stars!
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
 * [win12-online/win12](https://github.com/win12-online/win12): Win12 Online
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
-* [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 * [Winetricks/winetricks](https://github.com/Winetricks/winetricks): Winetricks is an easy way to work around problems in Wine
 * [winfsp/winfsp](https://github.com/winfsp/winfsp): Windows File System Proxy - FUSE for Windows
