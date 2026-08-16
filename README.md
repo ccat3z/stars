@@ -894,6 +894,7 @@ creating your own Awesome List by GitHub stars!
 * [jactor-sue/Deepin-Apps-Installation](https://github.com/jactor-sue/Deepin-Apps-Installation): 本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.
 * [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch): Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 * [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch): Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+* [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness): DeepSeek Harness: Everything is a Plugin.
 * [TomFreudenberg/dell-bios-fan-control](https://github.com/TomFreudenberg/dell-bios-fan-control): Simple tool to enable or disable the SMBIOS fan (auto) fan control on Dell 9560
 * [SummerEmber/DELL-XPS13-9360](https://github.com/SummerEmber/DELL-XPS13-9360): Hackintosh OpenCore EFI for DELL XPS13 9360
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
