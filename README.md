@@ -491,7 +491,7 @@ creating your own Awesome List by GitHub stars!
 * [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
 * [xiaomi-sdm660/android_device_xiaomi_clover](https://github.com/xiaomi-sdm660/android_device_xiaomi_clover): None
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
-* [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt): An online rules platform that adapts native notification icons and standard icon repairs for non-standard Android apps and manufacturers.
+* [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt): Provides standardized monochrome icon resources for apps and vendor systems that do not conform to the Android standard notification design.
 * [wlynxg/anet](https://github.com/wlynxg/anet): fix go bug #68082 #40569
 * [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Anime Girls Holding Programming Books
 * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -1608,7 +1608,7 @@ creating your own Awesome List by GitHub stars!
 * [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq): 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin): 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 * [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker 🦠
-* [tw93/Mole](https://github.com/tw93/Mole): 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+* [tw93/Mole](https://github.com/tw93/Mole): 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 * [ansible/molecule](https://github.com/ansible/molecule): An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 * [moment/moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor
