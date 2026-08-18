@@ -1091,7 +1091,7 @@ creating your own Awesome List by GitHub stars!
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 * [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android): None
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS): A free, self-hostable news aggregator…
-* [frida/frida](https://github.com/frida/frida): Clone this repo to build Frida
+* [frida/frida](https://github.com/frida/frida): Main repo for hosting release binaries
 * [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [bit-kitchen/frpc](https://github.com/bit-kitchen/frpc): Ansible Role for installing and configuring frp client.
 * [jhspetersson/fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
@@ -1715,7 +1715,7 @@ creating your own Awesome List by GitHub stars!
 * [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 * [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
