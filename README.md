@@ -1510,7 +1510,7 @@ creating your own Awesome List by GitHub stars!
 * [lure-sh/lure](https://github.com/lure-sh/lure): The community repository missing from your Linux distro
 * [lutris/lutris](https://github.com/lutris/lutris): Lutris desktop client
 * [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): Dynamically provision Stateful Persistent Node-Local Volumes & Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
-* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 * [hraban/mac-app-util](https://github.com/hraban/mac-app-util): Fix .app programs installed by Nix on Mac
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 * [DavHau/mach-nix](https://github.com/DavHau/mach-nix): Create highly reproducible python environments
