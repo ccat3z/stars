@@ -505,6 +505,9 @@
     "HuaizhengZhang/AI-Infra-from-Zero-to-Hero": [
         "Other"
     ],
+    "HyNetworks/hysteria": [
+        "Other"
+    ],
     "Ian2020/EasyScreenCast": [
         "Other"
     ],
@@ -1679,9 +1682,6 @@
         "Other"
     ],
     "apache/zookeeper": [
-        "Other"
-    ],
-    "apernet/hysteria": [
         "Other"
     ],
     "aphyr/distsys-class": [
@@ -4235,6 +4235,9 @@
     ],
     "littlecodersh/ItChat": [
         "Chinese APP Hack/WeChat"
+    ],
+    "liu-ziting/what-to-eat": [
+        "Other"
     ],
     "liubaoyua/CustomText": [
         "Android/Xposed"
