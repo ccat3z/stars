@@ -974,7 +974,7 @@ creating your own Awesome List by GitHub stars!
 * [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop): Official electron build of draw.io
 * [nix-community/dream2nix](https://github.com/nix-community/dream2nix): Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 * [g1879/DrissionPage](https://github.com/g1879/DrissionPage): Python based web automation tool. Powerful and elegant.
-* [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS
+* [hardcore-sushi/DroidFS](https://github.com/hardcore-sushi/DroidFS): Encrypted overlay filesystems implementation for Android. Also available on Tangled.
 * [ubuntu-touch-clover/Droidian4Clover](https://github.com/ubuntu-touch-clover/Droidian4Clover): unoffical release of droidian
 * [harness/drone-cli](https://github.com/harness/drone-cli): Command Line Tools for Drone CI 
 * [zh32/drtelemetry](https://github.com/zh32/drtelemetry): Show DiRT Rally Telemetry in a Browser
@@ -1731,7 +1731,7 @@ creating your own Awesome List by GitHub stars!
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
-* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi): ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi): ⌥ Coding agent with the IDE wired in
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [asdcorp/ohook](https://github.com/asdcorp/ohook): An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
