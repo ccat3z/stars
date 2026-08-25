@@ -569,6 +569,7 @@ creating your own Awesome List by GitHub stars!
 * [zhangysh1995/awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing): 数据库测试资料 This repo is a collection of resources on testing database systems
 * [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db): A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 * [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev): Awesome materials about database development.
+* [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness): DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
 * [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
 * [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -1627,7 +1628,7 @@ creating your own Awesome List by GitHub stars!
 * [deadpixi/mtm](https://github.com/deadpixi/mtm): Perhaps the smallest useful terminal multiplexer in the world.
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [spin83/multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on): None
-* [multica-ai/multica](https://github.com/multica-ai/multica): Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+* [multica-ai/multica](https://github.com/multica-ai/multica): Make humans and AI agents work as one team — open-source and self-hostable.
 * [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances
 * [ImVexed/muon](https://github.com/ImVexed/muon): GPU based Electron on a diet
 * [museui/muse-ui](https://github.com/museui/muse-ui): Material Design UI library for Vuejs 2.0
@@ -1681,7 +1682,7 @@ creating your own Awesome List by GitHub stars!
 * [nix-giant/nix-darwin-emacs](https://github.com/nix-giant/nix-darwin-emacs): None
 * [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build): Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 * [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect): Interactive tui for inspecting nix configs
-* [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
+* [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256] 
 * [utdemir/nix-tree](https://github.com/utdemir/nix-tree): Interactively browse dependency graphs of Nix derivations.
 * [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 * [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware): A collection of NixOS modules covering hardware quirks.
