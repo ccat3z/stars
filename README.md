@@ -1717,7 +1717,7 @@ creating your own Awesome List by GitHub stars!
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows): A node.js version management utility for Windows. Ironically written in Go.
+* [nvm-windows/nvm](https://github.com/nvm-windows/nvm): A node.js version management utility for Windows. Ironically written in Go.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
@@ -1836,7 +1836,7 @@ creating your own Awesome List by GitHub stars!
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App 🌈💎✨
 * [earendil-works/pi](https://github.com/earendil-works/pi): AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 * [RiderLty/pi-as-mouse-keyboard](https://github.com/RiderLty/pi-as-mouse-keyboard): None
-* [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents): Claude Code like Sub-agents for Pi — parallel execution, live widget, custom agent types, mid-run steering and more ...
+* [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents): Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...
 * [ibhagwan/picom](https://github.com/ibhagwan/picom): A lightweight compositor for X11 (previously a compton fork)
 * [yshui/picom](https://github.com/yshui/picom): A lightweight compositor for X11 with animation support
 * [GoogleChromeLabs/picture-in-picture-chrome-extension](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension): None

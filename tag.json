@@ -2317,9 +2317,6 @@
     "coreos/license-bill-of-materials": [
         "Other"
     ],
-    "coreybutler/nvm-windows": [
-        "Other"
-    ],
     "corrosion-rs/corrosion": [
         "Other"
     ],
@@ -4953,6 +4950,9 @@
         "Other"
     ],
     "nvm-sh/nvm": [
+        "Other"
+    ],
+    "nvm-windows/nvm": [
         "Other"
     ],
     "nzbr/pnpm2nix-nzbr": [
