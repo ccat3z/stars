@@ -161,6 +161,9 @@
     "BerriAI/litellm": [
         "Other"
     ],
+    "BetterAndroid/android-notification-icon-project": [
+        "Other"
+    ],
     "BianFeiHu/ECNU-Assault-Guide": [
         "Other"
     ],
@@ -2927,9 +2930,6 @@
     "facebookresearch/faiss": [
         "Other"
     ],
-    "fankes/AndroidNotifyIconAdapt": [
-        "Other"
-    ],
     "fankes/MIUINativeNotifyIcon": [
         "Other"
     ],
@@ -5246,6 +5246,9 @@
     "pixel-saver/pixel-saver": [
         "Other"
     ],
+    "plaintextaccounting/hledger": [
+        "Other"
+    ],
     "plaintextaccounting/plaintextaccounting": [
         "Other"
     ],
@@ -5868,9 +5871,6 @@
         "Other"
     ],
     "simdjson/simdjson": [
-        "Other"
-    ],
-    "simonmichael/hledger": [
         "Other"
     ],
     "simple-icons/simple-icons": [

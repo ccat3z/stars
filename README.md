@@ -487,11 +487,11 @@ creating your own Awesome List by GitHub stars!
 * [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable): Views and Drawable for displaying animated GIFs on Android
 * [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook): 通用的Android inline hook库，支持thumb，arm32，arm64
 * [ele7enxxh/Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook): thumb16 thumb32 arm32 inlineHook in Android
+* [BetterAndroid/android-notification-icon-project](https://github.com/BetterAndroid/android-notification-icon-project): Provides standardized monochrome icon resources for apps and vendor systems that do not conform to the Android standard notification design.
 * [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store): Android application compatible with ZX2C4's Pass command line application
 * [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules): Android udev rules list aimed to be the most comprehensive on the net
 * [xiaomi-sdm660/android_device_xiaomi_clover](https://github.com/xiaomi-sdm660/android_device_xiaomi_clover): None
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations): Fast Android Development. Easy maintainance.
-* [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt): Provides standardized monochrome icon resources for apps and vendor systems that do not conform to the Android standard notification design.
 * [wlynxg/anet](https://github.com/wlynxg/anet): fix go bug #68082 #40569
 * [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books): Anime Girls Holding Programming Books
 * [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2): [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -1276,7 +1276,7 @@ creating your own Awesome List by GitHub stars!
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 * [higress-group/higress](https://github.com/higress-group/higress): 🤖 AI Gateway | AI Native API Gateway
-* [simonmichael/hledger](https://github.com/simonmichael/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+* [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 * [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
@@ -1722,7 +1722,7 @@ creating your own Awesome List by GitHub stars!
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 * [fzwoch/obs-gnome-screencast](https://github.com/fzwoch/obs-gnome-screencast): GNOME Screen Cast OBS Studio plugin
-* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+* [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 * [concourse/oci-build-task](https://github.com/concourse/oci-build-task): a Concourse task for building OCI images
 * [ocibuilder/ocibuilder](https://github.com/ocibuilder/ocibuilder): A tool to build OCI compliant images
 * [cernekee/ocproxy](https://github.com/cernekee/ocproxy): OpenConnect proxy
