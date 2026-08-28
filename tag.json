@@ -4052,6 +4052,9 @@
     "koalaman/shellcheck": [
         "Other"
     ],
+    "koharu-rs/koharu": [
+        "Other"
+    ],
     "komora-io/concurrent-map": [
         "Other"
     ],
@@ -4440,9 +4443,6 @@
     ],
     "mavnn/mintty-colors-solarized": [
         "Windows/Terminal/Mintty"
-    ],
-    "mayocream/koharu": [
-        "Other"
     ],
     "mayswind/AriaNg": [
         "Other"

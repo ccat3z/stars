@@ -762,7 +762,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/cloudberry](https://github.com/apache/cloudberry): One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare): Caddy module: dns.providers.cloudflare
 * [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns): 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
-* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+* [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 * [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli): CLI for internet speed test via cloudflare
 * [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 * [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve): 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -1404,7 +1404,7 @@ creating your own Awesome List by GitHub stars!
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 * [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
-* [mayocream/koharu](https://github.com/mayocream/koharu): ML-powered manga translator, written in Rust.
+* [koharu-rs/koharu](https://github.com/koharu-rs/koharu): AI-powered manga translator, written in Rust.
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
@@ -1717,7 +1717,7 @@ creating your own Awesome List by GitHub stars!
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
-* [nvm-windows/nvm](https://github.com/nvm-windows/nvm): A node.js version management utility for Windows. Ironically written in Go.
+* [nvm-windows/nvm](https://github.com/nvm-windows/nvm): The Node.js version manager for Windows.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval): An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
