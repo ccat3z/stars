@@ -5060,6 +5060,9 @@
     "openstack/stevedore": [
         "Other"
     ],
+    "openucx/ucx": [
+        "Other"
+    ],
     "openwrt/mt76": [
         "Other"
     ],

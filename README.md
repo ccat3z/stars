@@ -545,7 +545,7 @@ creating your own Awesome List by GitHub stars!
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [ariga/atlas](https://github.com/ariga/atlas): Declarative schema migrations with schema-as-code workflows
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [apache/auron](https://github.com/apache/auron): The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+* [apache/auron](https://github.com/apache/auron): Apache Auron(Incubating) is an accelerator for big data engines, leveraging native vectorized execution to accelerate query processing.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [aarondl/authboss](https://github.com/aarondl/authboss): The boss of http auth.
@@ -2307,6 +2307,7 @@ creating your own Awesome List by GitHub stars!
 * [sboli/twmn](https://github.com/sboli/twmn): A notification system for tiling window managers
 * [crate-ci/typos](https://github.com/crate-ci/typos): Source code spell checker
 * [typst/typst](https://github.com/typst/typst): A markup-based typesetting system that is powerful and easy to learn.
+* [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 * [coldfix/udiskie](https://github.com/coldfix/udiskie): Automounter for removable media
 * [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw): A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * [wangyu-/udp2raw-multiplatform](https://github.com/wangyu-/udp2raw-multiplatform): multi-platform(cross-platform) version of udp2raw-tunnel, which supports Windows/Mac/BSD natively. Client-Only at the moment.
