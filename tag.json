@@ -5504,6 +5504,9 @@
     "rancher/local-path-provisioner": [
         "Other"
     ],
+    "rapidsai/rmm": [
+        "Other"
+    ],
     "ray-project/ray": [
         "Other"
     ],

@@ -930,7 +930,7 @@ creating your own Awesome List by GitHub stars!
 * [v2fly/docker](https://github.com/v2fly/docker): docker build repo for v2fly
 * [Docker-Hub-frolvlad/docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc): Carefully crafted Alpine Docker image with glibc (~12MB)
 * [trashpanda001/docker-alpine-sshd](https://github.com/trashpanda001/docker-alpine-sshd): A lightweight OpenSSH Docker Image built atop Alpine Linux.
-* [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
+* [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported, video recording and mcp server
 * [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp): 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 * [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup): Tool for backing up docker volume / data containers
 * [ufoscout/docker-compose-wait](https://github.com/ufoscout/docker-compose-wait): A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)
@@ -2006,6 +2006,7 @@ creating your own Awesome List by GitHub stars!
 * [RikkaApps/Riru](https://github.com/RikkaApps/Riru): Inject into zygote process
 * [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave): Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A non-monolithic Wayland compositor
+* [rapidsai/rmm](https://github.com/rapidsai/rmm): NVIDIA RMM is a library for allocating and managing GPU memory in C++ and Python.
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
 * [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
