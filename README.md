@@ -1757,7 +1757,7 @@ creating your own Awesome List by GitHub stars!
 * [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs
 * [himself65/OpenArkCompiler](https://github.com/himself65/OpenArkCompiler): the source code of OpenArkCompiler（Mirror Repo）
 * [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC): Library for conversion between Traditional and Simplified Chinese
-* [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [openclaw/openclaw](https://github.com/openclaw/openclaw): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 * [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [afloren/openconnect-socks-proxy](https://github.com/afloren/openconnect-socks-proxy): A service to provide access to a Cisvo AnyConnect VPN via a SOCKS proxy
 * [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide): Repo for the OpenCore Install Guide
