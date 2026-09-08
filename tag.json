@@ -3425,9 +3425,6 @@
     "gwsw/less": [
         "Other"
     ],
-    "hackergrrl/art-of-readme": [
-        "Other"
-    ],
     "halfkiss/ZjDroid": [
         "Android/Xposed"
     ],
@@ -4869,6 +4866,9 @@
         "Other"
     ],
     "nix-community/nix-on-droid": [
+        "Other"
+    ],
+    "nix-community/nixos-apple-silicon": [
         "Other"
     ],
     "nix-community/poetry2nix": [

@@ -530,7 +530,6 @@ creating your own Awesome List by GitHub stars!
 * [mayswind/AriaNg](https://github.com/mayswind/AriaNg): AriaNg, a modern web frontend making aria2 easier to use.
 * [apache/arrow](https://github.com/apache/arrow): Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 * [arrow-py/arrow](https://github.com/arrow-py/arrow): 🏹 Better dates & times for Python
-* [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme): :love_letter: Things I've learned about writing good READMEs.
 * [AsahiLinux/AsahiLinux.github.io](https://github.com/AsahiLinux/AsahiLinux.github.io): AsahiLinux.org website
 * [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site): Django website for generating ASCII-arts out of images or text 🎨 (closed)
 * [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder, streamer and player 📹
@@ -1686,6 +1685,7 @@ creating your own Awesome List by GitHub stars!
 * [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid): Nix-enabled environment for your Android device. [maintainers=@t184256] 
 * [utdemir/nix-tree](https://github.com/utdemir/nix-tree): Interactively browse dependency graphs of Nix derivations.
 * [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+* [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon): Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 * [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware): A collection of NixOS modules covering hardware quirks.
 * [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): Nix Packages collection & NixOS
 * [NLog/NLog](https://github.com/NLog/NLog): NLog - Flexible and Structured Logging for various .NET Platforms
