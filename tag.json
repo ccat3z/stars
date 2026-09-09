@@ -1075,6 +1075,9 @@
     "Shougo/vimshell.vim": [
         "Vim"
     ],
+    "SigNoz/signoz": [
+        "Other"
+    ],
     "SimpleMobileTools/Simple-Gallery": [
         "Other"
     ],
@@ -1244,6 +1247,9 @@
         "Other"
     ],
     "ViRb3/magisk-frida": [
+        "Other"
+    ],
+    "VictoriaMetrics/VictoriaLogs": [
         "Other"
     ],
     "VictoriaMetrics/VictoriaMetrics": [
@@ -5193,6 +5199,9 @@
         "Other"
     ],
     "perlancar/perl-Org-Parser": [
+        "Other"
+    ],
+    "perses/perses": [
         "Other"
     ],
     "peterq/pan-light": [

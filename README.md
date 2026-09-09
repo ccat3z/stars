@@ -661,7 +661,7 @@ creating your own Awesome List by GitHub stars!
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The Package Manager for Everywhere
 * [brick-design/brick-design](https://github.com/brick-design/brick-design): 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
-* [browser-use/browser-use](https://github.com/browser-use/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): Agents that use the browser.
 * [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3): This is a fork of browser_cookie
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
@@ -1826,6 +1826,7 @@ creating your own Awesome List by GitHub stars!
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [jvm-profiling-tools/perf-map-agent](https://github.com/jvm-profiling-tools/perf-map-agent): A java agent to generate method mappings to use with the linux `perf` tool
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
+* [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
@@ -2098,6 +2099,7 @@ creating your own Awesome List by GitHub stars!
 * [AlynxZhou/showmethekey](https://github.com/AlynxZhou/showmethekey): Show keys you typed on screen.
 * [shelljs/shx](https://github.com/shelljs/shx): Portable Shell Commands for Node
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner): Static provisioner of local volumes
+* [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.
 * [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery): A premium app for managing and editing your photos, videos, GIFs without ads
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons): SVG icons for popular brands
@@ -2362,6 +2364,7 @@ creating your own Awesome List by GitHub stars!
 * [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry
 * [Alexandre-io/verdaccio-ldap](https://github.com/Alexandre-io/verdaccio-ldap): LDAP auth plugin for verdaccio
 * [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Codex or any coding agent
+* [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs): Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 * [vim/vim](https://github.com/vim/vim): The official Vim repository
 * [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap): :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
