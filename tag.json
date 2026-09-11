@@ -3524,6 +3524,9 @@
     "hkupty/nvimux": [
         "Other"
     ],
+    "hledgerorg/hledger": [
+        "Other"
+    ],
     "hmrc/service-manager": [
         "Linux/Utility"
     ],
@@ -5259,9 +5262,6 @@
         "Other"
     ],
     "pixel-saver/pixel-saver": [
-        "Other"
-    ],
-    "plaintextaccounting/hledger": [
         "Other"
     ],
     "plaintextaccounting/plaintextaccounting": [

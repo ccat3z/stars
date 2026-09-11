@@ -1276,7 +1276,7 @@ creating your own Awesome List by GitHub stars!
 * [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh): Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 * [higress-group/higress](https://github.com/higress-group/higress): 🤖 AI Gateway | AI Native API Gateway
-* [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+* [hledgerorg/hledger](https://github.com/hledgerorg/hledger): Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 * [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL): A Minecraft Launcher which is multi-functional, cross-platform and popular
 * [hnrss/hnrss](https://github.com/hnrss/hnrss): Custom, realtime RSS feeds for Hacker News
 * [nix-community/home-manager](https://github.com/nix-community/home-manager): Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
