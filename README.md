@@ -514,7 +514,6 @@ creating your own Awesome List by GitHub stars!
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
-* [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): A library to detect suspicious apps like Magisk
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [dginev/ar5iv](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
@@ -806,7 +805,7 @@ creating your own Awesome List by GitHub stars!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
 * [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
-* [idealvin/coost](https://github.com/idealvin/coost): A tiny boost library in C++11.
+* [idealvin/coost](https://github.com/idealvin/coost): A minimalist Swiss Army knife for C++.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
@@ -1717,7 +1716,7 @@ creating your own Awesome List by GitHub stars!
 * [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 * [Witko/nvidia-xrun](https://github.com/Witko/nvidia-xrun): Utility to run separate X with discrete nvidia graphics with full performance
 * [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
-* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 * [nvm-windows/nvm](https://github.com/nvm-windows/nvm): The Node.js version manager for Windows.
 * [Syllo/nvtop](https://github.com/Syllo/nvtop): GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
