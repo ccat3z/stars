@@ -2385,6 +2385,7 @@ creating your own Awesome List by GitHub stars!
 * [spf13/viper](https://github.com/spf13/viper): Go configuration with fangs
 * [virgili0/Virgilio](https://github.com/virgili0/Virgilio): Your new Mentor for Data Science E-Learning.
 * [dianariyanto/virtual-display-linux](https://github.com/dianariyanto/virtual-display-linux): Create virtual display / monitor on linux OS for extended display via teamviewer or vnc server without any real Monitor is Plugged In.
+* [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy): Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 * [visjs/vis](https://github.com/visjs/vis): ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 * [pytorch/vision](https://github.com/pytorch/vision): Datasets, Transforms and Models specific to Computer Vision
 * [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
@@ -2454,6 +2455,7 @@ creating your own Awesome List by GitHub stars!
 * [cytle/wechat_web_devtools](https://github.com/cytle/wechat_web_devtools): 微信开发者工具(微信小程序)linux完美支持
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy): WeChat SDK for Python
 * [wechaty/wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
+* [easychen/wecomchan](https://github.com/easychen/wecomchan): 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 
 * [ascoders/weekly](https://github.com/ascoders/weekly): 前端精读周刊。帮你理解最前沿、实用的技术。
 * [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK): 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 10.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 * [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan): 文言文編程語言 A programming language for the ancient Chinese.
