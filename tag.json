@@ -1978,6 +1978,9 @@
     "bpftrace/bpftrace": [
         "Other"
     ],
+    "br0xen/boltbrowser": [
+        "Other"
+    ],
     "bradymholt/cRonstrue": [
         "Other"
     ],
@@ -2973,6 +2976,9 @@
         "Other"
     ],
     "feiskyer/kubernetes-handbook": [
+        "Other"
+    ],
+    "felixdoerre/primus_vk": [
         "Other"
     ],
     "felixonmars/fcitx5-pinyin-zhwiki": [

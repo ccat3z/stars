@@ -654,6 +654,7 @@ creating your own Awesome List by GitHub stars!
 * [bchavez/Bogus](https://github.com/bchavez/Bogus): :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 * [boltdb/bolt](https://github.com/boltdb/bolt): An embedded key/value database for Go.
 * [bytedance/bolt](https://github.com/bytedance/bolt): None
+* [br0xen/boltbrowser](https://github.com/br0xen/boltbrowser): A CLI Browser for BoltDB Files
 * [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn): Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
 * [danobi/bpf-dwarf-walk](https://github.com/danobi/bpf-dwarf-walk): DWARF-based stack walks with eBPF
 * [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace): High-level tracing language for Linux
@@ -805,7 +806,7 @@ creating your own Awesome List by GitHub stars!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
 * [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
-* [idealvin/coost](https://github.com/idealvin/coost): A minimalist Swiss Army knife for C++.
+* [idealvin/coost](https://github.com/idealvin/coost): A tasteful, minimal C++ base library.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
@@ -1882,6 +1883,7 @@ creating your own Awesome List by GitHub stars!
 * [prettier/prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
 * [prettytable/prettytable](https://github.com/prettytable/prettytable): Display tabular data in a visually appealing ASCII table format
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
+* [felixdoerre/primus_vk](https://github.com/felixdoerre/primus_vk): Vulkan GPU-offloading layer
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 * [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper): Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
 * [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist): :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
