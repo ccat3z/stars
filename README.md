@@ -1734,7 +1734,7 @@ creating your own Awesome List by GitHub stars!
 * [livechat/octopus](https://github.com/livechat/octopus): 🐙  Octopus - Internal wiki with diagrams for software and product teams
 * [mcuadros/ofelia](https://github.com/mcuadros/ofelia): A docker job scheduler (aka. crontab for docker)
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish): The Fish Shell Framework
-* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi): ⌥ Coding agent with the IDE wired in
+* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi): ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 * [asdcorp/ohook](https://github.com/asdcorp/ohook): An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 * [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki): :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
