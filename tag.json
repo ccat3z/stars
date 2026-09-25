@@ -679,6 +679,9 @@
     "LeetCode-OpenSource/vscode-leetcode": [
         "Other"
     ],
+    "LibreChat-AI/LibreChat": [
+        "Other"
+    ],
     "Light-City/CPlusPlusThings": [
         "Other"
     ],
@@ -2440,9 +2443,6 @@
     "danmactough/node-feedparser": [
         "Other"
     ],
-    "danny-avila/LibreChat": [
-        "Other"
-    ],
     "danobi/bpf-dwarf-walk": [
         "Other"
     ],
@@ -3009,6 +3009,9 @@
         "Other"
     ],
     "fia0/heic-to-dynamic-gnome-wallpaper": [
+        "Other"
+    ],
+    "filips123/PWAsForFirefox": [
         "Other"
     ],
     "finos/git-proxy": [
