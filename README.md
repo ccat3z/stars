@@ -543,7 +543,7 @@ creating your own Awesome List by GitHub stars!
 * [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 * [ariga/atlas](https://github.com/ariga/atlas): Declarative schema migrations with schema-as-code workflows
 * [emedvedev/attention-ocr](https://github.com/emedvedev/attention-ocr): A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.
-* [apache/auron](https://github.com/apache/auron): Apache Auron(Incubating) is an accelerator for big data engines, leveraging native vectorized execution to accelerate query processing.
+* [apache/auron](https://github.com/apache/auron): Apache Auron is an accelerator for big data engines, leveraging native vectorized execution to accelerate query processing.
 * [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish): PKGBUILD management framework for the Arch User Repository
 * [qor/auth](https://github.com/qor/auth): Golang Authentication solution
 * [aarondl/authboss](https://github.com/aarondl/authboss): The boss of http auth.
@@ -1440,7 +1440,7 @@ creating your own Awesome List by GitHub stars!
 * [soulmachine/leetcode](https://github.com/soulmachine/leetcode): LeetCode题解，151道题完整版。
 * [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli): A cli tool to enjoy leetcode!
 * [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop): 汇总各大互联网公司容易考察的高频leetcode题🔥
-* [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA): Open-source book with Modern CUDA Learn Notes for Beginners, includes FP16/BF16, FP8, HGEMM, FlashAttention, CuTe, etc.
+* [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA): An Open-source book with Modern CUDA learning Notes for Beginners - BF16/FP8/FP4, HGEMM, CuTe, Flash-Attention, etc.
 * [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes
 * [lerna/lerna](https://github.com/lerna/lerna): Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 * [gwsw/less](https://github.com/gwsw/less): Less - text pager
