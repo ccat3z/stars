@@ -763,6 +763,9 @@
     "Mikubill/sd-webui-controlnet": [
         "Other"
     ],
+    "Mikubill/transfer": [
+        "Other"
+    ],
     "MinaMichita/MiuiEULocalizationToolsBox": [
         "Other"
     ],
@@ -4284,6 +4287,9 @@
     "livechat/octopus": [
         "Other"
     ],
+    "lively-community/lively": [
+        "Other"
+    ],
     "ljharb/qs": [
         "Other"
     ],
@@ -5655,9 +5661,6 @@
         "Other"
     ],
     "roc-streaming/roc-toolkit": [
-        "Other"
-    ],
-    "rocksdanister/lively": [
         "Other"
     ],
     "rohanrhu/gdb-frontend": [
