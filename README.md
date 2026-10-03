@@ -800,7 +800,7 @@ creating your own Awesome List by GitHub stars!
 * [hashicorp/consul](https://github.com/hashicorp/consul): Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 * [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim): Context filetype library for Vim script
-* [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity): [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
+* [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity): A community-driven Matrix homeserver
 * [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy.
 * [YunYouJun/cook](https://github.com/YunYouJun/cook): 🍲 好的，今天我们来做菜！OK, Let's Cook!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
