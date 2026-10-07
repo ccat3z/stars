@@ -5735,6 +5735,9 @@
     "rustdesk/rustdesk-server": [
         "Other"
     ],
+    "rustfs/rustfs": [
+        "Other"
+    ],
     "ruvnet/RuView": [
         "Other"
     ],
@@ -5983,6 +5986,9 @@
         "Other"
     ],
     "slimtoolkit/slim": [
+        "Other"
+    ],
+    "smanx/deepseek-harness-docker": [
         "Other"
     ],
     "smxi/inxi": [
