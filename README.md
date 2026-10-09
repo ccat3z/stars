@@ -444,7 +444,6 @@ creating your own Awesome List by GitHub stars!
 * [formulahendry/944.Life](https://github.com/formulahendry/944.Life): 996.ICU 的反向 repo: 944 工作制 - 工作 944，生活为先
 * [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
 * [996icu/996.ICU](https://github.com/996icu/996.ICU): Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-* [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ✅  Curated list of resources for developers 
 * [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh): A pure Unix shell script ACME client for SSL / TLS certificate automation
 * [openclaw/acpx](https://github.com/openclaw/acpx): Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
@@ -556,6 +555,7 @@ creating your own Awesome List by GitHub stars!
 * [AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection): None
 * [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch): Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+* [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering): 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 * [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
 * [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -1406,7 +1406,7 @@ creating your own Awesome List by GitHub stars!
 * [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 * [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya): 天涯 kkndme 神贴聊房价
 * [cbeust/klaxon](https://github.com/cbeust/klaxon): A JSON parser for Kotlin
-* [koharu-rs/koharu](https://github.com/koharu-rs/koharu): AI-powered manga translator, written in Rust.
+* [koharu-rs/koharu](https://github.com/koharu-rs/koharu): ML-powered manga translator, written in Rust.
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes
 * [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 * [fhackenberger/ktikz](https://github.com/fhackenberger/ktikz): KtikZ provides a nice user interface for making pictures using TikZ.
@@ -1483,7 +1483,6 @@ creating your own Awesome List by GitHub stars!
 * [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface): Linux Kernel for Surface Devices
 * [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki): linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 * [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center): A notification daemon/center for linux
-* [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh): a microblog for lists
 * [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [fanmingming/live](https://github.com/fanmingming/live): ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
@@ -1619,6 +1618,7 @@ creating your own Awesome List by GitHub stars!
 * [monyhar/monyhar](https://github.com/monyhar/monyhar): 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 * [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon): 🌓 Moon is a minimal, one column jekyll theme.
 * [devlooped/moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET
+* [andrius/mosh-termux](https://github.com/andrius/mosh-termux): Patch for mosh-client restoring mouse support for crossterm TUIs under Termux
 * [square/moshi](https://github.com/square/moshi): A modern JSON library for Kotlin and Java.
 * [agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager.
 * [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape): Cursor Manager for OSX
@@ -2473,7 +2473,6 @@ creating your own Awesome List by GitHub stars!
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
-* [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 * [win12-online/win12](https://github.com/win12-online/win12): Win12 Online
 * [quantum5/win2xcur](https://github.com/quantum5/win2xcur): win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 * [Fmstrat/winapps](https://github.com/Fmstrat/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.

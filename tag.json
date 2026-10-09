@@ -1585,6 +1585,9 @@
     "andrey-pohilko/registry-cli": [
         "Other"
     ],
+    "andrius/mosh-termux": [
+        "Other"
+    ],
     "android-hacker/VirtualXposed": [
         "Android/Xposed"
     ],
@@ -2590,7 +2593,7 @@
     "digint/btrbk": [
         "Other"
     ],
-    "dipakkr/A-to-Z-Resources-for-Students": [
+    "dipakkr/awesome-ai-engineering": [
         "Other"
     ],
     "directus/directus": [
@@ -4269,9 +4272,6 @@
     "littlecodersh/ItChat": [
         "Chinese APP Hack/WeChat"
     ],
-    "liu-ziting/what-to-eat": [
-        "Other"
-    ],
     "liubaoyua/CustomText": [
         "Android/Xposed"
     ],
@@ -4842,9 +4842,6 @@
         "Other"
     ],
     "neuland/micro-frontends": [
-        "Other"
-    ],
-    "neurosnap/lists.sh": [
         "Other"
     ],
     "newren/git-filter-repo": [
