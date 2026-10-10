@@ -1819,6 +1819,9 @@
     "awesome-selfhosted/awesome-selfhosted": [
         "Other"
     ],
+    "awslabs/data-on-eks": [
+        "Other"
+    ],
     "axboe/fio": [
         "Other"
     ],
@@ -4664,6 +4667,9 @@
         "Other"
     ],
     "mobile-nixos/mobile-nixos": [
+        "Other"
+    ],
+    "mobile-shell/mosh": [
         "Other"
     ],
     "mochajs/mocha": [
