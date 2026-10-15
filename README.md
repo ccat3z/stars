@@ -513,6 +513,7 @@ creating your own Awesome List by GitHub stars!
 * [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11): Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * [ApostropheEditor/Apostrophe](https://github.com/ApostropheEditor/Apostrophe): Mirror of
 * [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit): Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
+* [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector): A library to detect suspicious apps like Magisk
 * [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
 * [dginev/ar5iv](https://github.com/dginev/ar5iv): A web service offering HTML5 articles from arXiv.org as converted with latexml
 * [horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme): None
@@ -661,7 +662,7 @@ creating your own Awesome List by GitHub stars!
 * [jadbox/BreezyTile](https://github.com/jadbox/BreezyTile): A clean tiling manager for gnome with drag-n-drop and gap support
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The Package Manager for Everywhere
 * [brick-design/brick-design](https://github.com/brick-design/brick-design): 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
-* [browser-use/browser-use](https://github.com/browser-use/browser-use): Agents that use the browser.
+* [browser-use/browser-use](https://github.com/browser-use/browser-use): Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 * [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3): This is a fork of browser_cookie
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native): Browserpass native client app
@@ -1831,7 +1832,7 @@ creating your own Awesome List by GitHub stars!
 * [percona/PerconaFT](https://github.com/percona/PerconaFT): PerconaFT is a high-performance, transactional key-value store
 * [jvm-profiling-tools/perf-map-agent](https://github.com/jvm-profiling-tools/perf-map-agent): A java agent to generate method mappings to use with the linux `perf` tool
 * [perlancar/perl-Org-Parser](https://github.com/perlancar/perl-Org-Parser): None
-* [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+* [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 * [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system): Your web application for managing personal data.
 * [vuejs/petite-vue](https://github.com/vuejs/petite-vue): 6kb subset of Vue optimized for progressive enhancement
 * [petoolse/petools](https://github.com/petoolse/petools): PE Tools - Portable executable (PE) manipulation toolkit
