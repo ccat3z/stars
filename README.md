@@ -2404,7 +2404,7 @@ creating your own Awesome List by GitHub stars!
 * [vitessio/vitess](https://github.com/vitessio/vitess): Vitess is a database clustering system for horizontal scaling of MySQL.
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs): Labs on distributed transaction
-* [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform in native C++.
+* [vnotex/vnote](https://github.com/vnotex/vnote): A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 * [vortex-data/vortex](https://github.com/vortex-data/vortex): An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code
