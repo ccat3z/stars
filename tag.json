@@ -2936,18 +2936,6 @@
     "fabiandev/ts-runtime": [
         "Other"
     ],
-    "facebook/flow": [
-        "Other"
-    ],
-    "facebook/folly": [
-        "Other"
-    ],
-    "facebook/rocksdb": [
-        "Other"
-    ],
-    "facebook/zstd": [
-        "Other"
-    ],
     "facebookincubator/axiom": [
         "Other"
     ],
@@ -4553,6 +4541,18 @@
         "Other"
     ],
     "messense/homebrew-macos-cross-toolchains": [
+        "Other"
+    ],
+    "meta/flow": [
+        "Other"
+    ],
+    "meta/folly": [
+        "Other"
+    ],
+    "meta/rocksdb": [
+        "Other"
+    ],
+    "meta/zstd": [
         "Other"
     ],
     "metafizzy/isotope": [

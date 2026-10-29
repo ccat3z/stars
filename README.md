@@ -807,7 +807,7 @@ creating your own Awesome List by GitHub stars!
 * [ZXreaper/cookbook-mcp-server](https://github.com/ZXreaper/cookbook-mcp-server): 一个菜谱mcp server
 * [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
-* [idealvin/coost](https://github.com/idealvin/coost): A tasteful, minimal C++ base library.
+* [idealvin/coost](https://github.com/idealvin/coost): A lightweight C++ base library with Go-style coroutines.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [vuejs/core](https://github.com/vuejs/core): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [JohanVanslembrouck/corolib](https://github.com/JohanVanslembrouck/corolib): A C++ coroutine library for writing asynchronous distributed applications using Boost ASIO, Qt, gRPC,  ROS2, TAO, ..., as communication frameworks
@@ -1071,7 +1071,7 @@ creating your own Awesome List by GitHub stars!
 * [fastrizwaan/flatpak-wine](https://github.com/fastrizwaan/flatpak-wine): wine using flatpak (build with runtime freedesktop sdk 22.08), provides wine to Centos like distros (https://flatpak.org/setup/)
 * [pypa/flit](https://github.com/pypa/flit): Simplified packaging of Python modules
 * [florisboard/florisboard](https://github.com/florisboard/florisboard): An open-source keyboard for Android which respects your privacy. Currently in beta.
-* [facebook/flow](https://github.com/facebook/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
+* [meta/flow](https://github.com/meta/flow): Adds static typing to JavaScript to improve developer productivity and code quality.
 * [Macil/flow-copy-source](https://github.com/Macil/flow-copy-source): Script to copy javascript files and append ".flow" to the filename
 * [gajus/flow-runtime](https://github.com/gajus/flow-runtime): A runtime type system for JavaScript with full Flow compatibility.
 * [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme): Fluent design gtk theme for linux desktops
@@ -1084,7 +1084,7 @@ creating your own Awesome List by GitHub stars!
 * [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode
 * [Fody/Fody](https://github.com/Fody/Fody): Extensible tool for weaving .net assemblies
 * [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style
-* [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook.
+* [meta/folly](https://github.com/meta/folly): An open-source C++ library developed and used at Facebook.
 * [foreversd/forever](https://github.com/foreversd/forever): A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * [forge-ext/forge](https://github.com/forge-ext/forge): Forge - Tiling and Window Manager for Gnome-Shell
 * [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
@@ -2018,7 +2018,7 @@ creating your own Awesome List by GitHub stars!
 * [riverwm/river](https://github.com/riverwm/river): [mirror] A non-monolithic Wayland compositor
 * [rapidsai/rmm](https://github.com/rapidsai/rmm): NVIDIA RMM is a library for allocating and managing GPU memory in C++ and Python.
 * [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit): Real-time audio streaming over the network.
-* [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
+* [meta/rocksdb](https://github.com/meta/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage.
 * [adi1090x/rofi](https://github.com/adi1090x/rofi): A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 * [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 * [Algram/rofi-gopass](https://github.com/Algram/rofi-gopass): 🔒 Simple gopass manager for rofi
@@ -2580,7 +2580,7 @@ creating your own Awesome List by GitHub stars!
 * [RobSis/zsh-reentry-hook](https://github.com/RobSis/zsh-reentry-hook): ZSH plugin that re-enters working directory if it has been removed and re-created.
 * [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap): ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
 * [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode): 💻 A better and friendly vi(vim) mode plugin for ZSH.
-* [facebook/zstd](https://github.com/facebook/zstd): Zstandard - Fast real-time compression algorithm
+* [meta/zstd](https://github.com/meta/zstd): Zstandard - Fast real-time compression algorithm
 * [google/zx](https://github.com/google/zx): A tool for writing better scripts
 * [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper): Using Zygisk to dump il2cpp data at runtime
 
