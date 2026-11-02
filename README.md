@@ -1150,7 +1150,7 @@ creating your own Awesome List by GitHub stars!
 * [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Find secrets with Gitleaks 🔑
 * [sitaramc/gitolite](https://github.com/sitaramc/gitolite): Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 * [muesli/gitomatic](https://github.com/muesli/gitomatic): A tool to monitor git repositories and automatically pull & push changes
-* [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide): An idiomatic, lean, fast & safe pure Rust implementation of Git
+* [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide): A tasteful, lean, fast & safe pure Rust implementation of Git
 * [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars): Github Starred Repositories Manager
 * [gitui-org/gitui](https://github.com/gitui-org/gitui): Blazing 💥 fast terminal-ui for git written in rust 🦀
 * [optimisme/gjs-examples](https://github.com/optimisme/gjs-examples): GJS examples showing how to build Gtk javascript applications
