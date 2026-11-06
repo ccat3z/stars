@@ -690,7 +690,6 @@ creating your own Awesome List by GitHub stars!
 * [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend): Enjoy programming while playing a game.
 * [KyelYang/c-plus-Interview](https://github.com/KyelYang/c-plus-Interview): None
 * [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
-* [cactus-compute/cactus](https://github.com/cactus-compute/cactus): Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. 
 * [caddyserver/caddy](https://github.com/caddyserver/caddy): Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 * [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker): Docker container for Caddy
@@ -1019,6 +1018,7 @@ creating your own Awesome List by GitHub stars!
 * [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic): None
 * [emotion-js/emotion](https://github.com/emotion-js/emotion): 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck): Emulator configurator for Steam Deck
+* [cactus-compute/engine](https://github.com/cactus-compute/engine): 2bit quants, kernels and runtime for consumer devices. 
 * [cass00/enhanced-osk-gnome-ext](https://github.com/cass00/enhanced-osk-gnome-ext): Enhanced On-Screen Keyboard for Gnome Shell
 * [saarasio/enroute](https://github.com/saarasio/enroute): EnRoute Ingress API Gateway - Kubernetes-native, Ingress API Gateway Powered using Envoy
 * [huysentruitw/entity-framework-core-mock](https://github.com/huysentruitw/entity-framework-core-mock): Easy Mock wrapper for mocking EFCore5 DbContext and DbSet using Moq or NSubstitute
