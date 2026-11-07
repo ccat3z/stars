@@ -559,7 +559,6 @@ creating your own Awesome List by GitHub stars!
 * [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering): 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 * [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
-* [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci): The list of continuous integration services and tools
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe): A curated list of awesome coffee places for work in China.
 * [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): :boom: Funny comments
