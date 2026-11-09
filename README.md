@@ -2310,7 +2310,7 @@ creating your own Awesome List by GitHub stars!
 * [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt): 👷 TypeScript's largest type utility library
 * [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx): Zero-config CLI for TypeScript package development
 * [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web
-* [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet): Graphical console greeter for greetd
+* [tuigreet/tuigreet](https://github.com/tuigreet/tuigreet): Stylish graphical console greeter for greetd, built with Ratatui
 * [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack
 * [pyjabox/TunnelOverTerminal](https://github.com/pyjabox/TunnelOverTerminal): Tunnel TCP or UDP data stream over a terminal session which has been established by Expect script
 * [tuplex/tuplex](https://github.com/tuplex/tuplex): Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.
