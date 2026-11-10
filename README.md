@@ -1489,6 +1489,7 @@ creating your own Awesome List by GitHub stars!
 * [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget): 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 * [lively-community/lively](https://github.com/lively-community/lively): Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 * [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
+* [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip): 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.
 * [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C/C++
 * [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit): Hundreds of models & providers. One command to find what runs on your hardware.
@@ -2475,6 +2476,7 @@ creating your own Awesome List by GitHub stars!
 * [ochukai/wepy-com-toptip](https://github.com/ochukai/wepy-com-toptip): a toptip component for 小程序~
 * [wepyjs/wepy-weui-demo](https://github.com/wepyjs/wepy-weui-demo): WeUI 在 WePY 中的使用示例，同一份代码可以运行在小程序上和Web上
 * [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss): A UI library by WeChat official design team, includes the most useful widgets/modules.
+* [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL): WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.
 * [neilpang/wgcf-docker](https://github.com/neilpang/wgcf-docker): CloudFlare warp in docker
 * [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat): 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 * [win12-online/win12](https://github.com/win12-online/win12): Win12 Online
