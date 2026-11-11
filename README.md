@@ -2338,6 +2338,7 @@ creating your own Awesome List by GitHub stars!
 * [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell): Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 * [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games
 * [CollegesChat/university-information](https://github.com/CollegesChat/university-information): 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+* [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU): Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
 * [BishopFox/unredacter](https://github.com/BishopFox/unredacter): Never ever ever use pixelation as a redaction technique
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 * [urql-graphql/urql](https://github.com/urql-graphql/urql): The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
