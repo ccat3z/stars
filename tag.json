@@ -185,9 +185,6 @@
     "BurntSushi/xsv": [
         "Other"
     ],
-    "ByConity/ByConity": [
-        "Other"
-    ],
     "Byron/dua-cli": [
         "Other"
     ],
@@ -1215,9 +1212,6 @@
     ],
     "TonnyL/Awesome_APIs": [
         "Awesome"
-    ],
-    "Torbet/Dot-It-Up": [
-        "Other"
     ],
     "Toxblh/MTMR": [
         "Other"
@@ -6418,6 +6412,9 @@
         "Other"
     ],
     "top-bettercode/docker-qq": [
+        "Other"
+    ],
+    "torbet/Dot-It-Up": [
         "Other"
     ],
     "tpope/vim-eunuch": [

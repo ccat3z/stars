@@ -682,7 +682,6 @@ creating your own Awesome List by GitHub stars!
 * [Bumblebee-Project/Bumblebee](https://github.com/Bumblebee-Project/Bumblebee): Bumblebee daemon and client rewritten in C
 * [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational)
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
-* [ByConity/ByConity](https://github.com/ByConity/ByConity): ByConity is an open source cloud data warehouse
 * [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu): text window manager, shell multiplexer, integrated DevOps environment
 * [kdlucas/byte-unixbench](https://github.com/kdlucas/byte-unixbench): Automatically exported from code.google.com/p/byte-unixbench
 * [bytebase/bytebase](https://github.com/bytebase/bytebase): Database governance built for humans and agents — controlling changes and access across every major database.
@@ -962,7 +961,7 @@ creating your own Awesome List by GitHub stars!
 * [tobya/DocTo](https://github.com/tobya/DocTo): Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF
 * [dolthub/dolt](https://github.com/dolthub/dolt): Dolt – Git for Data
 * [dolthub/doltgresql](https://github.com/dolthub/doltgresql): DoltgreSQL - Version Controlled PostgreSQL
-* [Torbet/Dot-It-Up](https://github.com/Torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
+* [torbet/Dot-It-Up](https://github.com/torbet/Dot-It-Up): A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀
 * [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 * [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles): My personal macOS configuration
 * [waytoabv/Dotfiles](https://github.com/waytoabv/Dotfiles): None
@@ -1331,7 +1330,7 @@ creating your own Awesome List by GitHub stars!
 * [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus): Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
 * [apache/incubator-seata](https://github.com/apache/incubator-seata): :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * [b4j4/indicator-kdeconnect](https://github.com/b4j4/indicator-kdeconnect): AppIndicator for KDE Connect
-* [xorbitsai/inference](https://github.com/xorbitsai/inference): Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
+* [xorbitsai/inference](https://github.com/xorbitsai/inference): Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines across heterogeneous hardware, from a laptop to a distributed cluster. Serve models through OpenAI-compatible APIs.
 * [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM software
 * [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 * [inspircd/inspircd](https://github.com/inspircd/inspircd): A high-performance Internet Relay Chat (IRCv3) server for UNIX-like and Windows systems
